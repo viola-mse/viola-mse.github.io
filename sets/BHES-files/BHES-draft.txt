@@ -1,0 +1,2908 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Surreptitious Meeting",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/148_Surreptitious Meeting.png"
+			}
+		},
+		{
+			"name": "Talonwing Countess",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird Noble",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/70_Talonwing Countess.png"
+			}
+		},
+		{
+			"name": "Rewrite",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/66_Rewrite.png"
+			}
+		},
+		{
+			"name": "Oldport Sleuths",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/62_Oldport Sleuths.png"
+			}
+		},
+		{
+			"name": "Mirrorcube Manipulation",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/60_Mirrorcube Manipulation.png"
+			}
+		},
+		{
+			"name": "Petaldance",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/65_Petaldance.png"
+			}
+		},
+		{
+			"name": "Fireglass Enthusiast",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Azra Citizen",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/51_Fireglass Enthusiast.png"
+			}
+		},
+		{
+			"name": "Ornithopter Exosegments",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/63_Ornithopter Exosegments.png"
+			}
+		},
+		{
+			"name": "Fandancer Courtesan",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/50_Fandancer Courtesan.png"
+			}
+		},
+		{
+			"name": "Greatpond Croak",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Frog",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/53_Greatpond Croak.png"
+			}
+		},
+		{
+			"name": "Tengu Galerider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/71_Tengu Galerider.png"
+			}
+		},
+		{
+			"name": "Silvermane Wyrm",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Wyrm",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/67_Silvermane Wyrm.png"
+			}
+		},
+		{
+			"name": "Cloudgazer Shrine Maiden",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/43_Cloudgazer Shrine Maiden.png"
+			}
+		},
+		{
+			"name": "Essence Warp",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/48_Essence Warp.png"
+			}
+		},
+		{
+			"name": "Wiltsong",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/76_Wiltsong.png"
+			}
+		},
+		{
+			"name": "Waterwaltz",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/74_Waterwaltz.png"
+			}
+		},
+		{
+			"name": "Gustdraw Trainee",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/54_Gustdraw Trainee.png"
+			}
+		},
+		{
+			"name": "Long Days & Longer Nights",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/59_Long Days & Longer Nights.png"
+			}
+		},
+		{
+			"name": "Spiritwind Cyclone",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/69_Spiritwind Cyclone.png"
+			}
+		},
+		{
+			"name": "Restrain Beast",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/25_Restrain Beast.png"
+			}
+		},
+		{
+			"name": "Windwhistle Bells",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/39_Windwhistle Bells.png"
+			}
+		},
+		{
+			"name": "Sabre of the Pink Rose",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/29_Sabre of the Pink Rose.png"
+			}
+		},
+		{
+			"name": "Urgent News",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/36_Urgent News.png"
+			}
+		},
+		{
+			"name": "Cherrybranch Sprites",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/6_Cherrybranch Sprites.png"
+			}
+		},
+		{
+			"name": "Oldguard Thousandpalm",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/22_Oldguard Thousandpalm.png"
+			}
+		},
+		{
+			"name": "Roofpoint Drifters",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/26_Roofpoint Drifters.png"
+			}
+		},
+		{
+			"name": "Water's Edge Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/38_Water's Edge Adept.png"
+			}
+		},
+		{
+			"name": "Silversheet Sanctifiers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/32_Silversheet Sanctifiers.png"
+			}
+		},
+		{
+			"name": "Kill big guy",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/14_Kill big guy.png"
+			}
+		},
+		{
+			"name": "Greater Purrpaw",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/11_Greater Purrpaw.png"
+			}
+		},
+		{
+			"name": "Junkwing Cadet",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/13_Junkwing Cadet.png"
+			}
+		},
+		{
+			"name": "Tuftear Traveller",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Fox Peasant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/35_Tuftear Traveller.png"
+			}
+		},
+		{
+			"name": "Softplume Officer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Soldier Advisor",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/33_Softplume Officer.png"
+			}
+		},
+		{
+			"name": "Leaping Strike",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/16_Leaping Strike.png"
+			}
+		},
+		{
+			"name": "Bladeflower",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/3_Bladeflower.png"
+			}
+		},
+		{
+			"name": "Roundhorn Clouddancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Azra Samurai",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/27_Roundhorn Clouddancer.png"
+			}
+		},
+		{
+			"name": "Bushtail Maiden",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Raccoon Citizen",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/5_Bushtail Maiden.png"
+			}
+		},
+		{
+			"name": "Shrimeleon",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/187_Shrimeleon.png"
+			}
+		},
+		{
+			"name": "Eccentric Company",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/165_Eccentric Company.png"
+			}
+		},
+		{
+			"name": "Morningglow Branchling",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Faerie",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/180_Morningglow Branchling.png"
+			}
+		},
+		{
+			"name": "A Confrontation",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/162_A Confrontation.png"
+			}
+		},
+		{
+			"name": "Farsea Culturophile",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Noble",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/168_Farsea Culturophile.png"
+			}
+		},
+		{
+			"name": "Martial Triplets",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/176_Martial Triplets.png"
+			}
+		},
+		{
+			"name": "Tuftear Disciple",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fox Peasant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/193_Tuftear Disciple.png"
+			}
+		},
+		{
+			"name": "Goldleaf Edge",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/170_Goldleaf Edge.png"
+			}
+		},
+		{
+			"name": "An Arrow, Loosed",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/157_An Arrow, Loosed.png"
+			}
+		},
+		{
+			"name": "Fieldwork Inspections",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/169_Fieldwork Inspections.png"
+			}
+		},
+		{
+			"name": "Moment of Reprieve",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/179_Moment of Reprieve.png"
+			}
+		},
+		{
+			"name": "Toast to Old Spring",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/192_Toast to Old Spring.png"
+			}
+		},
+		{
+			"name": "Lightningblade Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/173_Lightningblade Technique.png"
+			}
+		},
+		{
+			"name": "Fallpool Maiden",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/167_Fallpool Maiden.png"
+			}
+		},
+		{
+			"name": "Meadowbloom Howl",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/177_Meadowbloom Howl.png"
+			}
+		},
+		{
+			"name": "Slitherchant Priest",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Azra Monk",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/189_Slitherchant Priest.png"
+			}
+		},
+		{
+			"name": "Eighttail Medium",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Fox Shaman",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/166_Eighttail Medium.png"
+			}
+		},
+		{
+			"name": "Magnificate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/175_Magnificate.png"
+			}
+		},
+		{
+			"name": "Petalguard",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/182_Petalguard.png"
+			}
+		},
+		{
+			"name": "Red Daisy Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox Samurai",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/141_Red Daisy Blade.png"
+			}
+		},
+		{
+			"name": "Bloomscale Serpent",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Serpent",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/120_Bloomscale Serpent.png"
+			}
+		},
+		{
+			"name": "Overprepared Freshman",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/136_Overprepared Freshman.png"
+			}
+		},
+		{
+			"name": "Whitemane Wildclaw",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Wolf Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/156_Whitemane Wildclaw.png"
+			}
+		},
+		{
+			"name": "Powderpetals",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/137_Powderpetals.png"
+			}
+		},
+		{
+			"name": "Springwhirl Dance",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/147_Springwhirl Dance.png"
+			}
+		},
+		{
+			"name": "Intimidation Tactics",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/133_Intimidation Tactics.png"
+			}
+		},
+		{
+			"name": "Veranda Vaulter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/154_Veranda Vaulter.png"
+			}
+		},
+		{
+			"name": "Rageform",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/140_Rageform.png"
+			}
+		},
+		{
+			"name": "Embercloud Brute",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Azra Berserker",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/125_Embercloud Brute.png"
+			}
+		},
+		{
+			"name": "Tuftear Governor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fox Advisor",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/151_Tuftear Governor.png"
+			}
+		},
+		{
+			"name": "Fogstreet Speedster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/127_Fogstreet Speedster.png"
+			}
+		},
+		{
+			"name": "Greyalley Lumographer",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Detective",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/131_Greyalley Lumographer.png"
+			}
+		},
+		{
+			"name": "Shorthop Celebrant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Rabbit Peasant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/143_Shorthop Celebrant.png"
+			}
+		},
+		{
+			"name": "Snapflare",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/144_Snapflare.png"
+			}
+		},
+		{
+			"name": "Let Loose",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/134_Let Loose.png"
+			}
+		},
+		{
+			"name": "Bloom of Inner Fire",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/119_Bloom of Inner Fire.png"
+			}
+		},
+		{
+			"name": "Dripblade Retainer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/88_Dripblade Retainer.png"
+			}
+		},
+		{
+			"name": "Final Bloom",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/93_Final Bloom.png"
+			}
+		},
+		{
+			"name": "Menace Thesis",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/98_Menace Thesis.png"
+			}
+		},
+		{
+			"name": "Rotting Ronin",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Samurai",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/104_Rotting Ronin.png"
+			}
+		},
+		{
+			"name": "Thoughtgraft",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/113_Thoughtgraft.png"
+			}
+		},
+		{
+			"name": "Soulstitch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/112_Soulstitch.png"
+			}
+		},
+		{
+			"name": "Whiteglove Guard",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/117_Whiteglove Guard.png"
+			}
+		},
+		{
+			"name": "Slitherchant",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/110_Slitherchant.png"
+			}
+		},
+		{
+			"name": "Moonveil Softplume",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/99_Moonveil Softplume.png"
+			}
+		},
+		{
+			"name": "Ritual of Dancing Paper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/103_Ritual of Dancing Paper.png"
+			}
+		},
+		{
+			"name": "Crimson Nectar",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/83_Crimson Nectar.png"
+			}
+		},
+		{
+			"name": "Darkshot Assassin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/86_Darkshot Assassin.png"
+			}
+		},
+		{
+			"name": "Smotherthorns",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/111_Smotherthorns.png"
+			}
+		},
+		{
+			"name": "Drown in the Sea",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/89_Drown in the Sea.png"
+			}
+		},
+		{
+			"name": "Lanternwood Priestess",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Azra Monk",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/95_Lanternwood Priestess.png"
+			}
+		},
+		{
+			"name": "Vulpishade",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Fox Shade",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/115_Vulpishade.png"
+			}
+		},
+		{
+			"name": "Scrutinous Retainer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Advisor",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/105_Scrutinous Retainer.png"
+			}
+		},
+		{
+			"name": "Darkmane Patriarch",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wolf Noble",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/85_Darkmane Patriarch.png"
+			}
+		},
+		{
+			"name": "Skeletal Resupply",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/109_Skeletal Resupply.png"
+			}
+		},
+		{
+			"name": "Bloomwhirl Retainer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/41_Bloomwhirl Retainer.png"
+			}
+		},
+		{
+			"name": "Dramatic Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier Advisor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/9_Dramatic Captain.png"
+			}
+		},
+		{
+			"name": "Gardencourt Sharptongue",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Snake Advisor",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/201_Gardencourt Sharptongue.png"
+			}
+		},
+		{
+			"name": "Serpent of Southcliff",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/217_Serpent of Southcliff.png"
+			}
+		},
+		{
+			"name": "Chaffslice Delegate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/197_Chaffslice Delegate.png"
+			}
+		},
+		{
+			"name": "Oldguard Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/213_Oldguard Patrol.png"
+			}
+		},
+		{
+			"name": "Newforce Bloomshot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/211_Newforce Bloomshot.png"
+			}
+		},
+		{
+			"name": "Heartbleed Courtier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Azra Samurai",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/207_Heartbleed Courtier.png"
+			}
+		},
+		{
+			"name": "Newforce Stormbarrel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/212_Newforce Stormbarrel.png"
+			}
+		},
+		{
+			"name": "Polypetal Savant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/215_Polypetal Savant.png"
+			}
+		},
+		{
+			"name": "Prattletooth Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Rat Advisor",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/216_Prattletooth Archivist.png"
+			}
+		},
+		{
+			"name": "Pinkrose Heartcatch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Fox Citizen",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/214_Pinkrose Heartcatch.png"
+			}
+		},
+		{
+			"name": "Glasslens Sleuth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/204_Glasslens Sleuth.png"
+			}
+		},
+		{
+			"name": "Wizened Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/224_Wizened Tinkerer.png"
+			}
+		},
+		{
+			"name": "Ghostcreek Haunt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/203_Ghostcreek Haunt.png"
+			}
+		},
+		{
+			"name": "Softplume Cloudrunner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/218_Softplume Cloudrunner.png"
+			}
+		},
+		{
+			"name": "Eastport Sellshot",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/199_Eastport Sellshot.png"
+			}
+		},
+		{
+			"name": "Gorefield Samurai",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Fox Samurai",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/205_Gorefield Samurai.png"
+			}
+		},
+		{
+			"name": "Lightningblade Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/209_Lightningblade Adept.png"
+			}
+		},
+		{
+			"name": "Lotuspond Howlghast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Wolf Spirit",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/210_Lotuspond Howlghast.png"
+			}
+		},
+		{
+			"name": "Westshrine Bladedancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Azra Monk",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/221_Westshrine Bladedancer.png"
+			}
+		},
+		{
+			"name": "Gardencourt Trainee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/202_Gardencourt Trainee.png"
+			}
+		},
+		{
+			"name": "Games of Chance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/128_Games of Chance.png"
+			}
+		},
+		{
+			"name": "Sparkbarrel Aficionado",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/146_Sparkbarrel Aficionado.png"
+			}
+		},
+		{
+			"name": "Giganpalm Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/129_Giganpalm Maiden.png"
+			}
+		},
+		{
+			"name": "Tuftear Shortblade",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Fox Rogue",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/152_Tuftear Shortblade.png"
+			}
+		},
+		{
+			"name": "Cloudbreeze Challenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/122_Cloudbreeze Challenger.png"
+			}
+		},
+		{
+			"name": "Dookgear Duchess",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/123_Dookgear Duchess.png"
+			}
+		},
+		{
+			"name": "Enlightened Greatmane",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/126_Enlightened Greatmane.png"
+			}
+		},
+		{
+			"name": "Interservice Rivalry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/132_Interservice Rivalry.png"
+			}
+		},
+		{
+			"name": "Pyroblossom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/139_Pyroblossom.png"
+			}
+		},
+		{
+			"name": "Echo Ember",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/124_Echo Ember.png"
+			}
+		},
+		{
+			"name": "Vision of Inferno",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/155_Vision of Inferno.png"
+			}
+		},
+		{
+			"name": "Veil of Spring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/194_Veil of Spring.png"
+			}
+		},
+		{
+			"name": "Skittering Stratagem",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/188_Skittering Stratagem.png"
+			}
+		},
+		{
+			"name": "Viperwhip",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/195_Viperwhip.png"
+			}
+		},
+		{
+			"name": "Sacredgrove Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast Spirit",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/185_Sacredgrove Guardian.png"
+			}
+		},
+		{
+			"name": "Cyflox Spectre",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/164_Cyflox Spectre.png"
+			}
+		},
+		{
+			"name": "Brightlake Caller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/161_Brightlake Caller.png"
+			}
+		},
+		{
+			"name": "Longpipe Aesthete",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Azra Citizen",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/174_Longpipe Aesthete.png"
+			}
+		},
+		{
+			"name": "Bloombranch Quencher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/159_Bloombranch Quencher.png"
+			}
+		},
+		{
+			"name": "Asheye Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/158_Asheye Marauder.png"
+			}
+		},
+		{
+			"name": "Thousandbud Cadet",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/190_Thousandbud Cadet.png"
+			}
+		},
+		{
+			"name": "Farsea Rascals",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/92_Farsea Rascals.png"
+			}
+		},
+		{
+			"name": "Geistpetal Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/94_Geistpetal Drifter.png"
+			}
+		},
+		{
+			"name": "Carve",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/81_Carve.png"
+			}
+		},
+		{
+			"name": "Quell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/102_Quell.png"
+			}
+		},
+		{
+			"name": "To Hell And Back",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/114_To Hell And Back.png"
+			}
+		},
+		{
+			"name": "Duskguard Cutthroat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/90_Duskguard Cutthroat.png"
+			}
+		},
+		{
+			"name": "Shrinetithe Treasurer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Fox Citizen",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/108_Shrinetithe Treasurer.png"
+			}
+		},
+		{
+			"name": "Optimal Flowercard Strategies",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/100_Optimal Flowercard Strategies.png"
+			}
+		},
+		{
+			"name": "Citizen of the Night",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Citizen",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/82_Citizen of the Night.png"
+			}
+		},
+		{
+			"name": "Longtusk Magistrate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Boar Advisor",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/97_Longtusk Magistrate.png"
+			}
+		},
+		{
+			"name": "Discredit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/87_Discredit.png"
+			}
+		},
+		{
+			"name": "Blades To Blooms",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/4_Blades To Blooms.png"
+			}
+		},
+		{
+			"name": "A Case For Compulsory Service",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/1_A Case For Compulsory Service.png"
+			}
+		},
+		{
+			"name": "Harbour Street Sentry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/12_Harbour Street Sentry.png"
+			}
+		},
+		{
+			"name": "Tuftear Remembrant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox Mercenary",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/34_Tuftear Remembrant.png"
+			}
+		},
+		{
+			"name": "Cherrypeak Farseer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/7_Cherrypeak Farseer.png"
+			}
+		},
+		{
+			"name": "Dovechant",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/8_Dovechant.png"
+			}
+		},
+		{
+			"name": "Roundhorn Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Azra Advisor",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/28_Roundhorn Scholar.png"
+			}
+		},
+		{
+			"name": "Shorthop Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Rabbit Samurai",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/31_Shorthop Veteran.png"
+			}
+		},
+		{
+			"name": "Last Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/15_Last Dance.png"
+			}
+		},
+		{
+			"name": "Mundane Breakthrough",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/20_Mundane Breakthrough.png"
+			}
+		},
+		{
+			"name": "Consequences of Mass Print",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/44_Consequences of Mass Print.png"
+			}
+		},
+		{
+			"name": "Ashwing Parliament",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/40_Ashwing Parliament.png"
+			}
+		},
+		{
+			"name": "Truebeak Revelation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/72_Truebeak Revelation.png"
+			}
+		},
+		{
+			"name": "Willshaper Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Azra Monk",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/75_Willshaper Maiden.png"
+			}
+		},
+		{
+			"name": "Spellshatter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/68_Spellshatter.png"
+			}
+		},
+		{
+			"name": "Drizzlebloom Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/47_Drizzlebloom Adept.png"
+			}
+		},
+		{
+			"name": "Immaculate Performance",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/55_Immaculate Performance.png"
+			}
+		},
+		{
+			"name": "Exhaust",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/49_Exhaust.png"
+			}
+		},
+		{
+			"name": "Darkplume Shutterbug",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Detective",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/45_Darkplume Shutterbug.png"
+			}
+		},
+		{
+			"name": "Gargantuan Groveback",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Turtle Elemental",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/52_Gargantuan Groveback.png"
+			}
+		},
+		{
+			"name": "Strength",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Token Sorcery — Strength",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/1_Strength.png"
+			}
+		},
+		{
+			"name": "Petal",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Token Instant — Petal",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/2_Petal.png"
+			}
+		},
+		{
+			"name": "A Study of Modern Bladework",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/118_A Study of Modern Bladework.png"
+			}
+		},
+		{
+			"name": "Modern Urban Planning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/178_Modern Urban Planning.png"
+			}
+		},
+		{
+			"name": "Writ of Injunction",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/77_Writ of Injunction.png"
+			}
+		},
+		{
+			"name": "Cloudfloater Dirigible",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/229_Cloudfloater Dirigible.png"
+			}
+		},
+		{
+			"name": "Plumed Effigy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/236_Plumed Effigy.png"
+			}
+		},
+		{
+			"name": "Roiling Ironsnake",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/237_Roiling Ironsnake.png"
+			}
+		},
+		{
+			"name": "Hypergyric Astrolabe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/233_Hypergyric Astrolabe.png"
+			}
+		},
+		{
+			"name": "Cherry Division Tinsuit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/228_Cherry Division Tinsuit.png"
+			}
+		},
+		{
+			"name": "Adorned Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/226_Adorned Blade.png"
+			}
+		},
+		{
+			"name": "Lumograph Contraption",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/234_Lumograph Contraption.png"
+			}
+		},
+		{
+			"name": "Autogear Puppet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Toy",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/227_Autogear Puppet.png"
+			}
+		},
+		{
+			"name": "Shimmerbloom Grotto",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/240_Shimmerbloom Grotto.png"
+			}
+		},
+		{
+			"name": "Highfall Cityscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/238_Highfall Cityscape.png"
+			}
+		},
+		{
+			"name": "One Way Ticket",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/24_One Way Ticket.png"
+			}
+		},
+		{
+			"name": "Liliana, Girlboss",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Liliana",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/96_Liliana, Girlboss.png"
+			}
+		},
+		{
+			"name": "Wayward Daughter",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/116_Wayward Daughter.png"
+			}
+		},
+		{
+			"name": "Shaping Consumption Trends",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/107_Shaping Consumption Trends.png"
+			}
+		},
+		{
+			"name": "The Shades Love Hiding",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery — Composition",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/106_The Shades Love Hiding.png"
+			}
+		},
+		{
+			"name": "Otherworldly Desire",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/101_Otherworldly Desire.png"
+			}
+		},
+		{
+			"name": "Breath Eater",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/80_Breath Eater.png"
+			}
+		},
+		{
+			"name": "Crimson Retainer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Azra Samurai Mercenary",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/84_Crimson Retainer.png"
+			}
+		},
+		{
+			"name": "Equinoxial Instability",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/91_Equinoxial Instability.png"
+			}
+		},
+		{
+			"name": "Blood Burgeoning",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/79_Blood Burgeoning.png"
+			}
+		},
+		{
+			"name": "Nissa, Bloomguard",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Nissa",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/181_Nissa, Bloomguard.png"
+			}
+		},
+		{
+			"name": "Roaring Orchidon",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}{G}",
+			"type": "Creature — Plant Dragon",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/184_Roaring Orchidon.png"
+			}
+		},
+		{
+			"name": "Introduction To Obsolete Arms",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/172_Introduction To Obsolete Arms.png"
+			}
+		},
+		{
+			"name": "Tiger In My Brush",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery — Composition",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/191_Tiger In My Brush.png"
+			}
+		},
+		{
+			"name": "Highstreet Porter",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/171_Highstreet Porter.png"
+			}
+		},
+		{
+			"name": "Curious Company",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/163_Curious Company.png"
+			}
+		},
+		{
+			"name": "Botany",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/160_Botany.png"
+			}
+		},
+		{
+			"name": "Shimmering Colossus",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/186_Shimmering Colossus.png"
+			}
+		},
+		{
+			"name": "Relentless Lancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/183_Relentless Lancer.png"
+			}
+		},
+		{
+			"name": "Gretel of Grimnacht",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Planeswalker — Gretel",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/130_Gretel of Grimnacht.png"
+			}
+		},
+		{
+			"name": "Softbrush and Goldgear",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Artificer Bard",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/145_Softbrush and Goldgear.png"
+			}
+		},
+		{
+			"name": "Principles of Art Nouveau",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/138_Principles of Art Nouveau.png"
+			}
+		},
+		{
+			"name": "My Dragon Shadow",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery — Composition",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/135_My Dragon Shadow.png"
+			}
+		},
+		{
+			"name": "Trendchaser Heiress",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/150_Trendchaser Heiress.png"
+			}
+		},
+		{
+			"name": "Reincarnated as a Lotus Flower",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/142_Reincarnated as a Lotus Flower.png"
+			}
+		},
+		{
+			"name": "Teardrop Drizzle",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/149_Teardrop Drizzle.png"
+			}
+		},
+		{
+			"name": "Venerable Vulpimane",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/153_Venerable Vulpimane.png"
+			}
+		},
+		{
+			"name": "Bright Dilettante",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Detective",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/121_Bright Dilettante.png"
+			}
+		},
+		{
+			"name": "Zenjou, Planeographer",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Planeswalker — Zenjou",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/78_Zenjou, Planeographer.png"
+			}
+		},
+		{
+			"name": "Tuftear à la Mode",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Fox Citizen",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/73_Tuftear à la Mode.png"
+			}
+		},
+		{
+			"name": "Investigating Chrono-Anomalies",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/56_Investigating Chrono-Anomalies.png"
+			}
+		},
+		{
+			"name": "Koi Leap Off The Page",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery — Composition",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/57_Koi Leap Off The Page.png"
+			}
+		},
+		{
+			"name": "Lies of Omission",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/58_Lies of Omission.png"
+			}
+		},
+		{
+			"name": "Breezebind Clique",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/42_Breezebind Clique.png"
+			}
+		},
+		{
+			"name": "Paperfin Schooling",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/64_Paperfin Schooling.png"
+			}
+		},
+		{
+			"name": "Nearcoast Itinerant",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/61_Nearcoast Itinerant.png"
+			}
+		},
+		{
+			"name": "Decluttering",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/46_Decluttering.png"
+			}
+		},
+		{
+			"name": "Wanderer In A Strangely Familiar Place",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Planeswalker",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/37_Wanderer In A Strangely Familiar Place.png"
+			}
+		},
+		{
+			"name": "Newsound Sensation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/21_Newsound Sensation.png"
+			}
+		},
+		{
+			"name": "Lessons From the Unification War",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/17_Lessons From the Unification War.png"
+			}
+		},
+		{
+			"name": "The Birds In My Dreams",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery — Composition",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/2_The Birds In My Dreams.png"
+			}
+		},
+		{
+			"name": "Marshall of the Oldguard",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier Advisor",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/19_Marshall of the Oldguard.png"
+			}
+		},
+		{
+			"name": "Savour The Season",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/30_Savour The Season.png"
+			}
+		},
+		{
+			"name": "Oldport Chaperone",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/23_Oldport Chaperone.png"
+			}
+		},
+		{
+			"name": "Goldsash Mentor",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/10_Goldsash Mentor.png"
+			}
+		},
+		{
+			"name": "Mad King's Justice",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/18_Mad King's Justice.png"
+			}
+		},
+		{
+			"name": "Golden Lotus",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/231_Golden Lotus.png"
+			}
+		},
+		{
+			"name": "Phonodisk Horn",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/235_Phonodisk Horn.png"
+			}
+		},
+		{
+			"name": "Filial Registry",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/230_Filial Registry.png"
+			}
+		},
+		{
+			"name": "Horizon Fan",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/232_Horizon Fan.png"
+			}
+		},
+		{
+			"name": "Rootstone Archive",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/239_Rootstone Archive.png"
+			}
+		},
+		{
+			"name": "A Farewell To Thorns",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/200_A Farewell To Thorns.png"
+			}
+		},
+		{
+			"name": "Branchhorn Lamplighter",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Elk Citizen",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/196_Branchhorn Lamplighter.png"
+			}
+		},
+		{
+			"name": "Hasagi, the Deathwind",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/206_Hasagi, the Deathwind.png"
+			}
+		},
+		{
+			"name": "Summerdawn Firebrand",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/219_Summerdawn Firebrand.png"
+			}
+		},
+		{
+			"name": "White Wolf Mio",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/223_White Wolf Mio.png"
+			}
+		},
+		{
+			"name": "Instilling Esprit de Corps",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment — Thesis",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/208_Instilling Esprit de Corps.png"
+			}
+		},
+		{
+			"name": "Sweetcake Governess",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Noble",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/220_Sweetcake Governess.png"
+			}
+		},
+		{
+			"name": "Writhegrove Tender",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/225_Writhegrove Tender.png"
+			}
+		},
+		{
+			"name": "Whelpdaughter Celebrant",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Creature — Dragon Human",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/222_Whelpdaughter Celebrant.png"
+			}
+		},
+		{
+			"name": "Cherrygust Seraphim",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Angel Samurai",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://viola-mse/sets/BHES-files/img/198_Cherrygust Seraphim.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Liliana, Girlboss
+	2 Wayward Daughter
+	2 Shaping Consumption Trends
+	2 The Shades Love Hiding
+	2 Otherworldly Desire
+	2 Breath Eater
+	2 Crimson Retainer
+	2 Equinoxial Instability
+	2 Blood Burgeoning
+	2 Nissa, Bloomguard
+	2 Roaring Orchidon
+	2 Introduction To Obsolete Arms
+	2 Tiger In My Brush
+	2 Highstreet Porter
+	2 Curious Company
+	2 Botany
+	2 Shimmering Colossus
+	2 Relentless Lancer
+	2 Gretel of Grimnacht
+	2 Softbrush and Goldgear
+	2 Principles of Art Nouveau
+	2 My Dragon Shadow
+	2 Trendchaser Heiress
+	2 Reincarnated as a Lotus Flower
+	2 Teardrop Drizzle
+	2 Venerable Vulpimane
+	2 Bright Dilettante
+	2 Zenjou, Planeographer
+	2 Tuftear à la Mode
+	2 Investigating Chrono-Anomalies
+	2 Koi Leap Off The Page
+	2 Lies of Omission
+	2 Breezebind Clique
+	2 Paperfin Schooling
+	2 Nearcoast Itinerant
+	2 Decluttering
+	2 Wanderer In A Strangely Familiar Place
+	2 Newsound Sensation
+	2 Lessons From the Unification War
+	2 The Birds In My Dreams
+	2 Marshall of the Oldguard
+	2 Savour The Season
+	2 Oldport Chaperone
+	2 Goldsash Mentor
+	2 Mad King's Justice
+	2 Golden Lotus
+	2 Phonodisk Horn
+	2 Filial Registry
+	2 Horizon Fan
+	2 Rootstone Archive
+	2 A Farewell To Thorns
+	2 Branchhorn Lamplighter
+	2 Hasagi, the Deathwind
+	2 Summerdawn Firebrand
+	2 White Wolf Mio
+	2 Instilling Esprit de Corps
+	2 Sweetcake Governess
+	2 Writhegrove Tender
+	2 Whelpdaughter Celebrant
+	2 Cherrygust Seraphim
+[uncommon(4)]
+	4 Bloomwhirl Retainer
+	4 Dramatic Captain
+	4 Gardencourt Sharptongue
+	4 Serpent of Southcliff
+	4 Chaffslice Delegate
+	4 Oldguard Patrol
+	4 Newforce Bloomshot
+	4 Heartbleed Courtier
+	4 Newforce Stormbarrel
+	4 Polypetal Savant
+	4 Prattletooth Archivist
+	4 Pinkrose Heartcatch
+	4 Glasslens Sleuth
+	4 Wizened Tinkerer
+	4 Ghostcreek Haunt
+	4 Softplume Cloudrunner
+	4 Eastport Sellshot
+	4 Gorefield Samurai
+	4 Lightningblade Adept
+	4 Lotuspond Howlghast
+	4 Westshrine Bladedancer
+	4 Gardencourt Trainee
+	4 Games of Chance
+	4 Sparkbarrel Aficionado
+	4 Giganpalm Maiden
+	4 Tuftear Shortblade
+	4 Cloudbreeze Challenger
+	4 Dookgear Duchess
+	4 Enlightened Greatmane
+	4 Interservice Rivalry
+	4 Pyroblossom
+	4 Echo Ember
+	4 Vision of Inferno
+	4 Veil of Spring
+	4 Skittering Stratagem
+	4 Viperwhip
+	4 Sacredgrove Guardian
+	4 Cyflox Spectre
+	4 Brightlake Caller
+	4 Longpipe Aesthete
+	4 Bloombranch Quencher
+	4 Asheye Marauder
+	4 Thousandbud Cadet
+	4 Farsea Rascals
+	4 Geistpetal Drifter
+	4 Carve
+	4 Quell
+	4 To Hell And Back
+	4 Duskguard Cutthroat
+	4 Shrinetithe Treasurer
+	4 Optimal Flowercard Strategies
+	4 Citizen of the Night
+	4 Longtusk Magistrate
+	4 Discredit
+	4 Blades To Blooms
+	4 A Case For Compulsory Service
+	4 Harbour Street Sentry
+	4 Tuftear Remembrant
+	4 Cherrypeak Farseer
+	4 Dovechant
+	4 Roundhorn Scholar
+	4 Shorthop Veteran
+	4 Last Dance
+	4 Mundane Breakthrough
+	4 Consequences of Mass Print
+	4 Ashwing Parliament
+	4 Truebeak Revelation
+	4 Willshaper Maiden
+	4 Spellshatter
+	4 Drizzlebloom Adept
+	4 Immaculate Performance
+	4 Exhaust
+	4 Darkplume Shutterbug
+	4 Gargantuan Groveback
+	4 Modern Urban Planning
+	4 Plumed Effigy
+	4 Roiling Ironsnake
+	4 Hypergyric Astrolabe
+	4 Cherry Division Tinsuit
+	4 Highfall Cityscape
+[common(7)]
+	8 Surreptitious Meeting
+	8 Talonwing Countess
+	8 Rewrite
+	8 Oldport Sleuths
+	8 Mirrorcube Manipulation
+	8 Petaldance
+	8 Fireglass Enthusiast
+	8 Ornithopter Exosegments
+	8 Fandancer Courtesan
+	8 Greatpond Croak
+	8 Tengu Galerider
+	8 Silvermane Wyrm
+	8 Cloudgazer Shrine Maiden
+	8 Essence Warp
+	8 Wiltsong
+	8 Waterwaltz
+	8 Gustdraw Trainee
+	8 Long Days & Longer Nights
+	8 Spiritwind Cyclone
+	8 Restrain Beast
+	8 Windwhistle Bells
+	8 Sabre of the Pink Rose
+	8 Urgent News
+	8 Cherrybranch Sprites
+	8 Oldguard Thousandpalm
+	8 Roofpoint Drifters
+	8 Water's Edge Adept
+	8 Silversheet Sanctifiers
+	8 Kill big guy
+	8 Greater Purrpaw
+	8 Junkwing Cadet
+	8 Tuftear Traveller
+	8 Softplume Officer
+	8 Leaping Strike
+	8 Bladeflower
+	8 Roundhorn Clouddancer
+	8 Bushtail Maiden
+	8 Shrimeleon
+	8 Eccentric Company
+	8 Morningglow Branchling
+	8 A Confrontation
+	8 Farsea Culturophile
+	8 Martial Triplets
+	8 Tuftear Disciple
+	8 Goldleaf Edge
+	8 An Arrow, Loosed
+	8 Fieldwork Inspections
+	8 Moment of Reprieve
+	8 Toast to Old Spring
+	8 Lightningblade Technique
+	8 Fallpool Maiden
+	8 Meadowbloom Howl
+	8 Slitherchant Priest
+	8 Eighttail Medium
+	8 Magnificate
+	8 Petalguard
+	8 Red Daisy Blade
+	8 Bloomscale Serpent
+	8 Overprepared Freshman
+	8 Whitemane Wildclaw
+	8 Powderpetals
+	8 Springwhirl Dance
+	8 Intimidation Tactics
+	8 Veranda Vaulter
+	8 Rageform
+	8 Embercloud Brute
+	8 Tuftear Governor
+	8 Fogstreet Speedster
+	8 Greyalley Lumographer
+	8 Shorthop Celebrant
+	8 Snapflare
+	8 Let Loose
+	8 Bloom of Inner Fire
+	8 Dripblade Retainer
+	8 Final Bloom
+	8 Menace Thesis
+	8 Rotting Ronin
+	8 Thoughtgraft
+	8 Soulstitch
+	8 Whiteglove Guard
+	8 Slitherchant
+	8 Moonveil Softplume
+	8 Ritual of Dancing Paper
+	8 Crimson Nectar
+	8 Darkshot Assassin
+	8 Smotherthorns
+	8 Drown in the Sea
+	8 Lanternwood Priestess
+	8 Vulpishade
+	8 Scrutinous Retainer
+	8 Darkmane Patriarch
+	8 Skeletal Resupply
+	8 A Study of Modern Bladework
+	8 Writ of Injunction
+	8 Cloudfloater Dirigible
+	8 Adorned Blade
+	8 Lumograph Contraption
+	8 Autogear Puppet
+	8 Shimmerbloom Grotto
+	8 One Way Ticket
+[wildcard(2)]
+	6 Surreptitious Meeting
+	6 Talonwing Countess
+	6 Rewrite
+	6 Oldport Sleuths
+	6 Mirrorcube Manipulation
+	6 Petaldance
+	6 Fireglass Enthusiast
+	6 Ornithopter Exosegments
+	6 Fandancer Courtesan
+	6 Greatpond Croak
+	6 Tengu Galerider
+	6 Silvermane Wyrm
+	6 Cloudgazer Shrine Maiden
+	6 Essence Warp
+	6 Wiltsong
+	6 Waterwaltz
+	6 Gustdraw Trainee
+	6 Long Days & Longer Nights
+	6 Spiritwind Cyclone
+	6 Restrain Beast
+	6 Windwhistle Bells
+	6 Sabre of the Pink Rose
+	6 Urgent News
+	6 Cherrybranch Sprites
+	6 Oldguard Thousandpalm
+	6 Roofpoint Drifters
+	6 Water's Edge Adept
+	6 Silversheet Sanctifiers
+	6 Kill big guy
+	6 Greater Purrpaw
+	6 Junkwing Cadet
+	6 Tuftear Traveller
+	6 Softplume Officer
+	6 Leaping Strike
+	6 Bladeflower
+	6 Roundhorn Clouddancer
+	6 Bushtail Maiden
+	6 Shrimeleon
+	6 Eccentric Company
+	6 Morningglow Branchling
+	6 A Confrontation
+	6 Farsea Culturophile
+	6 Martial Triplets
+	6 Tuftear Disciple
+	6 Goldleaf Edge
+	6 An Arrow, Loosed
+	6 Fieldwork Inspections
+	6 Moment of Reprieve
+	6 Toast to Old Spring
+	6 Lightningblade Technique
+	6 Fallpool Maiden
+	6 Meadowbloom Howl
+	6 Slitherchant Priest
+	6 Eighttail Medium
+	6 Magnificate
+	6 Petalguard
+	6 Red Daisy Blade
+	6 Bloomscale Serpent
+	6 Overprepared Freshman
+	6 Whitemane Wildclaw
+	6 Powderpetals
+	6 Springwhirl Dance
+	6 Intimidation Tactics
+	6 Veranda Vaulter
+	6 Rageform
+	6 Embercloud Brute
+	6 Tuftear Governor
+	6 Fogstreet Speedster
+	6 Greyalley Lumographer
+	6 Shorthop Celebrant
+	6 Snapflare
+	6 Let Loose
+	6 Bloom of Inner Fire
+	6 Dripblade Retainer
+	6 Final Bloom
+	6 Menace Thesis
+	6 Rotting Ronin
+	6 Thoughtgraft
+	6 Soulstitch
+	6 Whiteglove Guard
+	6 Slitherchant
+	6 Moonveil Softplume
+	6 Ritual of Dancing Paper
+	6 Crimson Nectar
+	6 Darkshot Assassin
+	6 Smotherthorns
+	6 Drown in the Sea
+	6 Lanternwood Priestess
+	6 Vulpishade
+	6 Scrutinous Retainer
+	6 Darkmane Patriarch
+	6 Skeletal Resupply
+	15 Bloomwhirl Retainer
+	15 Dramatic Captain
+	15 Gardencourt Sharptongue
+	15 Serpent of Southcliff
+	15 Chaffslice Delegate
+	15 Oldguard Patrol
+	15 Newforce Bloomshot
+	15 Heartbleed Courtier
+	15 Newforce Stormbarrel
+	15 Polypetal Savant
+	15 Prattletooth Archivist
+	15 Pinkrose Heartcatch
+	15 Glasslens Sleuth
+	15 Wizened Tinkerer
+	15 Ghostcreek Haunt
+	15 Softplume Cloudrunner
+	15 Eastport Sellshot
+	15 Gorefield Samurai
+	15 Lightningblade Adept
+	15 Lotuspond Howlghast
+	15 Westshrine Bladedancer
+	15 Gardencourt Trainee
+	15 Games of Chance
+	15 Sparkbarrel Aficionado
+	15 Giganpalm Maiden
+	15 Tuftear Shortblade
+	15 Cloudbreeze Challenger
+	15 Dookgear Duchess
+	15 Enlightened Greatmane
+	15 Interservice Rivalry
+	15 Pyroblossom
+	15 Echo Ember
+	15 Vision of Inferno
+	15 Veil of Spring
+	15 Skittering Stratagem
+	15 Viperwhip
+	15 Sacredgrove Guardian
+	15 Cyflox Spectre
+	15 Brightlake Caller
+	15 Longpipe Aesthete
+	15 Bloombranch Quencher
+	15 Asheye Marauder
+	15 Thousandbud Cadet
+	15 Farsea Rascals
+	15 Geistpetal Drifter
+	15 Carve
+	15 Quell
+	15 To Hell And Back
+	15 Duskguard Cutthroat
+	15 Shrinetithe Treasurer
+	15 Optimal Flowercard Strategies
+	15 Citizen of the Night
+	15 Longtusk Magistrate
+	15 Discredit
+	15 Blades To Blooms
+	15 A Case For Compulsory Service
+	15 Harbour Street Sentry
+	15 Tuftear Remembrant
+	15 Cherrypeak Farseer
+	15 Dovechant
+	15 Roundhorn Scholar
+	15 Shorthop Veteran
+	15 Last Dance
+	15 Mundane Breakthrough
+	15 Consequences of Mass Print
+	15 Ashwing Parliament
+	15 Truebeak Revelation
+	15 Willshaper Maiden
+	15 Spellshatter
+	15 Drizzlebloom Adept
+	15 Immaculate Performance
+	15 Exhaust
+	15 Darkplume Shutterbug
+	15 Gargantuan Groveback
+	6 A Study of Modern Bladework
+	15 Modern Urban Planning
+	6 Writ of Injunction
+	6 Cloudfloater Dirigible
+	15 Plumed Effigy
+	15 Roiling Ironsnake
+	15 Hypergyric Astrolabe
+	15 Cherry Division Tinsuit
+	6 Adorned Blade
+	6 Lumograph Contraption
+	6 Autogear Puppet
+	6 Shimmerbloom Grotto
+	15 Highfall Cityscape
+	6 One Way Ticket
+	7 Liliana, Girlboss
+	7 Wayward Daughter
+	7 Shaping Consumption Trends
+	7 The Shades Love Hiding
+	7 Otherworldly Desire
+	7 Breath Eater
+	7 Crimson Retainer
+	7 Equinoxial Instability
+	7 Blood Burgeoning
+	7 Nissa, Bloomguard
+	7 Roaring Orchidon
+	7 Introduction To Obsolete Arms
+	7 Tiger In My Brush
+	7 Highstreet Porter
+	7 Curious Company
+	7 Botany
+	7 Shimmering Colossus
+	7 Relentless Lancer
+	7 Gretel of Grimnacht
+	7 Softbrush and Goldgear
+	7 Principles of Art Nouveau
+	7 My Dragon Shadow
+	7 Trendchaser Heiress
+	7 Reincarnated as a Lotus Flower
+	7 Teardrop Drizzle
+	7 Venerable Vulpimane
+	7 Bright Dilettante
+	7 Zenjou, Planeographer
+	7 Tuftear à la Mode
+	7 Investigating Chrono-Anomalies
+	7 Koi Leap Off The Page
+	7 Lies of Omission
+	7 Breezebind Clique
+	7 Paperfin Schooling
+	7 Nearcoast Itinerant
+	7 Decluttering
+	7 Wanderer In A Strangely Familiar Place
+	7 Newsound Sensation
+	7 Lessons From the Unification War
+	7 The Birds In My Dreams
+	7 Marshall of the Oldguard
+	7 Savour The Season
+	7 Oldport Chaperone
+	7 Goldsash Mentor
+	7 Mad King's Justice
+	7 Golden Lotus
+	7 Phonodisk Horn
+	7 Filial Registry
+	7 Horizon Fan
+	7 Rootstone Archive
+	7 A Farewell To Thorns
+	7 Branchhorn Lamplighter
+	7 Hasagi, the Deathwind
+	7 Summerdawn Firebrand
+	7 White Wolf Mio
+	7 Instilling Esprit de Corps
+	7 Sweetcake Governess
+	7 Writhegrove Tender
+	7 Whelpdaughter Celebrant
+	7 Cherrygust Seraphim

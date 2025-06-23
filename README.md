@@ -14,7 +14,7 @@ This one *is* strictly necessary, as the script that builds the entire site is w
 
 ## Step 1: Fork me
 
-If you're reading this, you're probably already here, but in case you aren't, navigate to https://github.com/magictheegg/mse-hub/. At the top, click the "Fork" button to start creating your own fork of the code.
+Navigate to https://github.com/magictheegg/mse-hub/. At the top, click the "Fork" button to start creating your own fork of the code.
 
 ![Fork](https://github.com/magictheegg/mse-hub-readme/blob/main/fork.png?raw=true)
 

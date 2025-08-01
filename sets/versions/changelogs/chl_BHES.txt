@@ -1,4 +1,514 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Marshal of the Oldguard added.
+Ironsnake Rider's Guide to Bauhinia added.
+
+Marshall of the Oldguard removed.
+
+Surreptitious Meeting
+
+Talonwing Countess
+
+Rewrite
+
+Oldport Sleuths
+
+Mirrorcube Manipulation
+rules_text: Draw two cards.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Draw two cards.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Petaldance
+rules_text: Return target creature to its owner's hand.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Return target creature to its owner's hand.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Ornithopter Exosegments
+
+Greatpond Croak
+rules_text: When this creature enters, conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Tengu Galerider
+
+Silvermane Wyrm
+
+Essence Warp
+rules_text: Counter target creature spell.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Counter target creature spell.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Wiltsong
+
+Waterwaltz
+
+Long Days & Longer Nights
+
+Spiritwind Cyclone
+
+Shrimeleon
+
+Eccentric Company
+
+Morningglow Branchling
+rules_text: When this creature enters, conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+A Confrontation
+
+Farsea Culturophile
+rules_text: When this creature enters, look at the top five cards of your library. You may reveal a nonland permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => When this creature enters, look at the top five cards of your library. You may reveal a permanent card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+
+Martial Triplets
+
+Tuftear Disciple
+
+Goldleaf Edge
+
+An Arrow, Loosed
+rules_text: Destroy target creature with flying.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Destroy target creature with flying.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Fieldwork Inspections
+
+Moment of Reprieve
+
+Toast to Old Spring
+rules_text: Activate all your blossom abilities.
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Activate all your blossom abilities. [i](Without paying the cost.)[/i]
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+
+Lightningblade Technique
+
+Fallpool Maiden
+
+Meadowbloom Howl
+
+Slitherchant Priest
+
+Eighttail Medium
+
+Magnificate
+
+Petalguard
+rules_text: Target creature gains hexproof until end of turn. Prevent all damage that would be dealt to that creature this turn.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Target creature gains hexproof until end of turn. Prevent all damage that would be dealt to that creature this turn.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Red Daisy Blade
+
+Bloomscale Serpent
+
+Overprepared Freshman
+
+Whitemane Wildclaw
+
+Powderpetals
+rules_text: Powderpetals deals 3 damage to any target.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Powderpetals deals 3 damage to any target.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Springwhirl Dance
+rules_text: As an additional cost to cast Springwhirl Dance, discard a card.
+Draw two cards.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => As an additional cost to cast Springwhirl Dance, discard a card.
+Draw two cards.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Intimidation Tactics
+
+Veranda Vaulter
+
+Rageform
+
+Embercloud Brute
+
+Tuftear Governor
+
+Fogstreet Speedster
+
+Greyalley Lumographer
+
+Shorthop Celebrant
+
+Snapflare
+
+Let Loose
+
+Bloom of Inner Fire
+rules_text: Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i]
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i] => Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+
+Dripblade Retainer
+
+Final Bloom
+
+Menace Thesis
+
+Rotting Ronin
+
+Thoughtgraft
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Soulstitch
+
+Whiteglove Guard
+
+Slitherchant
+
+Moonveil Softplume
+
+Ritual of Dancing Paper
+
+Crimson Nectar
+
+Darkshot Assassin
+
+Smotherthorns
+rules_text: Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i]
+Target creature gets -X/-X until end of turn, where X is the number of cards put into your hand this turn. [i](Drawing and conjuring cards into your hand count.)[/i] => Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Target creature gets -X/-X until end of turn, where X is the number of cards put into your hand this turn. [i](Drawing and conjuring cards into your hand count.)[/i]
+
+Drown in the Sea
+
+Lanternwood Priestess
+
+Vulpishade
+
+Scrutinous Retainer
+
+Darkmane Patriarch
+rules_text: Whenever you attack, if you put two or more cards into your hand this turn, up to two target creatures each get +2/+1 until end of turn. => Whenever you attack, if you put two or more cards into your hand this turn, up to two target creatures each get +2/+1 until end of turn. [i](Drawing and conjuring cards into your hand count.)[/i]
+
+Skeletal Resupply
+
+Gardencourt Sharptongue
+
+Serpent of Southcliff
+
+Chaffslice Delegate
+
+Oldguard Patrol
+
+Newforce Bloomshot
+
+Heartbleed Courtier
+
+Newforce Stormbarrel
+
+Polypetal Savant
+rules_text: When this creature enters, conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i]
+Blossom — {5}: Conjure a Petal token into your hand. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Blossom — {5}: Conjure a Petal token into your hand. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i]
+
+Prattletooth Archivist
+
+Pinkrose Heartcatch
+
+Glasslens Sleuth
+
+Wizened Tinkerer
+
+Ghostcreek Haunt
+
+Softplume Cloudrunner
+rules_text: Flying
+Softplume Cloudrunner gets +2/+0 as long as you've put two or more cards into your hand this turn. [i](Drawing and conjuring cards into your hand count.)[/i] => Flying
+This creature gets +2/+0 as long as you've put two or more cards into your hand this turn. [i](Drawing and conjuring cards into your hand count.)[/i]
+
+Eastport Sellshot
+
+Gorefield Samurai
+
+Lightningblade Adept
+
+Lotuspond Howlghast
+
+Westshrine Bladedancer
+
+Gardencourt Trainee
+
+Games of Chance
+special_text: [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Discard your hand.
+Draw two cards.
+Whenever you cast a nontoken spell this turn, conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Discard your hand.
+Draw two cards.
+Whenever you cast a nontoken spell this turn, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Sparkbarrel Aficionado
+
+Giganpalm Maiden
+
+Tuftear Shortblade
+
+Cloudbreeze Challenger
+
+Dookgear Duchess
+
+Enlightened Greatmane
+
+Interservice Rivalry
+
+Pyroblossom
+
+Echo Ember
+
+Vision of Inferno
+
+Veil of Spring
+
+Skittering Stratagem
+
+Viperwhip
+
+Sacredgrove Guardian
+rules_text: When this creature enters, you gain 3 life and conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i]
+Blossom — {5}: This creature gets +2/+2 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, you gain 3 life and conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Blossom — {5}: This creature gets +2/+2 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i]
+
+Cyflox Spectre
+
+Brightlake Caller
+rules_text: When Brightlake Caller enters, reveal cards from the top of your library until you reveal a card with mana value 5 or greater. Put that card into your hand and the rest on the bottom of your library in a random order. => When this creature enters, reveal cards from the top of your library until you reveal a card with mana value 5 or greater. Put that card into your hand and shuffle the rest onto the bottom of your library.
+
+Longpipe Aesthete
+
+Bloombranch Quencher
+
+Asheye Marauder
+
+Thousandbud Cadet
+
+Farsea Rascals
+
+Geistpetal Drifter
+rules_text: Menace
+When this creature enters, conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i]
+Whenever this creature attacks, you may discard a card. If you do, this creature gets +2/+1 until end of turn. => Menace
+When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Whenever this creature attacks, you may discard a card. If you do, this creature gets +2/+1 until end of turn.
+
+Carve
+
+Quell
+
+To Hell And Back
+
+Duskguard Cutthroat
+
+Shrinetithe Treasurer
+
+Optimal Flowercard Strategies
+
+Citizen of the Night
+
+Longtusk Magistrate
+
+Discredit
+
+Blades To Blooms
+rules_text: Exile target creature. Its controller conjures a Petal token into their hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Exile target creature. Its controller conjures a Petal token into their hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Mundane Breakthrough
+rules_text: Reveal cards from the top of your library until you reveal an artifact or enchantment card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Whenever an artifact or enchantment enters under your control, you may put this card from your graveyard on the bottom of your library. If you do, revise. [i](Put a lore counter on a permanent you control or discard a card to draw a card.)[/i] => Reveal cards from the top of your library until you reveal an artifact or enchantment card. Put that card into your hand and shuffle the rest to the bottom of your library.
+Whenever an artifact or enchantment enters under your control, you may put this card from your graveyard on the bottom of your library. If you do, revise. [i](Put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+
+Truebeak Revelation
+
+Willshaper Maiden
+
+Spellshatter
+
+Gargantuan Groveback
+rules_text: At the beginning of your upkeep, conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => At the beginning of your upkeep, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+A Study of Modern Bladework
+
+Modern Urban Planning
+special_text: [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Reveal cards from the top of your library until you reveal a land card. Put that card on top and the rest on the bottom of your library in a random order.
+Draw a card.
+You may play an additional land this turn. => [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+I — Reveal cards from the top of your library until you reveal a land card. Put that card on top and shuffle the rest onto the bottom of your library.
+II — Draw a card.
+C — You may play an additional land this turn.
+
+Writ of Injunction
+
+Cloudfloater Dirigible
+
+Plumed Effigy
+rules_text: Defender
+{T}: Add one mana of any colour.
+{2}, {T}: Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Defender
+{T}: Add one mana of any colour.
+{2}, {T}: Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Roiling Ironsnake
+
+Hypergyric Astrolabe
+
+Cherry Division Tinsuit
+
+Adorned Blade
+
+Lumograph Contraption
+rules_text: Flash
+When this artifact enters, it deals 3 damage to up to one target creature.
+{T}, Sacrifice this artifact: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery. => Flash
+When this artifact enters, it deals 3 damage to up to one target creature.
+{T}, Sacrifice this artifact: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+
+Autogear Puppet
+
+Shimmerbloom Grotto
+rules_text: {T}: Add {C}.
+{2}, {T}: Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => {T}: Add {C}.
+{2}, {T}: Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Highfall Cityscape
+
+Liliana, Girlboss
+
+Wayward Daughter
+
+Shaping Consumption Trends
+
+The Shades Love Hiding
+
+Otherworldly Desire
+
+Breath Eater
+
+Crimson Retainer
+
+Equinoxial Instability
+
+Blood Burgeoning
+rules_text: Destroy up to one target creature or planeswalker.
+Draw a card and conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Destroy up to one target creature or planeswalker.
+Draw a card and conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Nissa, Bloomguard
+special_text: [+1]: Conjure a Petal token into your hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i]
+[-3]: Return target permanent card from your graveyard to your hand.
+[-8]: Untap up to six target lands. They become 3/3 Elemental creatures with haste and indestructible. They're still lands. => [+1]: Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+[-3]: Return target permanent card from your graveyard to your hand.
+[-8]: Untap up to six target lands. They become 3/3 Elemental creatures with haste and indestructible. They're still lands.
+
+Roaring Orchidon
+
+Introduction To Obsolete Arms
+
+Tiger In My Brush
+
+Highstreet Porter
+
+Curious Company
+rules_text: Reveal the top six cards of your library. Put up to two cards with an activated ability from among them into your hand and the rest on the bottom of your library in a random order. Then, you may put a permanent card with mana value 3 or less from your hand onto the battlefield tapped. => Reveal the top six cards of your library. Put up to two cards with an activated ability from among them into your hand and shuffle the rest onto the bottom of your library. Then you may put a permanent card with mana value 3 or less from your hand onto the battlefield tapped. [i](Lands are eligible for both effects.)[/i]
+
+Botany
+
+Shimmering Colossus
+
+Relentless Lancer
+
+Gretel of Grimnacht
+
+Softbrush and Goldgear
+
+Principles of Art Nouveau
+special_text: [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Create a token that's a copy of up to one target nonland permanent you control, except it's an artifact and it loses all other card types.
+You may sacrifice an artifact you control. When you do, draw a card.
+Add {R}{R}{R}{R}{R}. This mana can't be spent to cast spells from your hand. => [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Create a token that's a copy of up to one target nonland permanent you control, except it's an artifact and it loses all other card types.
+You may sacrifice an artifact. If you do, draw a card.
+Add {R}{R}{R}{R}{R}. This mana can't be spent to cast spells from your hand.
+
+My Dragon Shadow
+
+Trendchaser Heiress
+
+Reincarnated as a Lotus Flower
+
+Teardrop Drizzle
+
+Venerable Vulpimane
+
+Bright Dilettante
+
+Zenjou, Planeographer
+
+Tuftear à la Mode
+
+Investigating Chrono-Anomalies
+special_text: [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Take an extra turn after this one.
+​ => [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+I, II, III — Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+C — Take an extra turn after this one.
+​
+
+Koi Leap Off The Page
+
+Lies of Omission
+
+Breezebind Clique
+rules_text: Flash
+Flying
+When this creature enters, tap all lands target opponent controls. That player conjures a petal token into their hand. [i](It's an instant that costs {0} with “Add one mana of any colour.”)[/i] => Flash
+Flying
+When this creature enters, tap all lands target opponent controls. That player conjures a petal token into their hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Paperfin Schooling
+
+Nearcoast Itinerant
+rules_text: When this creature enters, create a blue Thesis enchantment token named [i]An Ironsnake Rider's Guide to Bauhinia[/i] with three chapters and “{V} — Draw a card.”
+{T}, Return a land you control to its owner's hand: Put a lore counter on any number of target permanents you control. => When this creature enters, create a blue Thesis enchantment token named [i]Ironsnake Rider's Guide to Bauhinia[/i] with three chapters and “{V} — Draw a card.”
+{T}, Return a land you control to its owner's hand: Put a lore counter on any number of target permanents you control.
+
+Decluttering
+
+Golden Lotus
+
+Phonodisk Horn
+
+Filial Registry
+
+Horizon Fan
+
+Rootstone Archive
+
+A Farewell To Thorns
+
+Branchhorn Lamplighter
+
+Hasagi, the Deathwind
+
+Summerdawn Firebrand
+
+White Wolf Mio
+
+Instilling Esprit de Corps
+
+Sweetcake Governess
+
+Writhegrove Tender
+
+Whelpdaughter Celebrant
+
+Cherrygust Seraphim
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

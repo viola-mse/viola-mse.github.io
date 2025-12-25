@@ -1,4 +1,830 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Sweetport Sleuths added.
+Softplume Galerider added.
+Dollify added.
+Flurrygust added.
+Incarcerate added.
+Glow of the White Lily added.
+Timely Communication added.
+Strike in the Dark added.
+Wingblade Technique added.
+Sparkedge Skimisher added.
+Morning Glow Branchling added.
+Gardencourt Floraphile added.
+Tuftear Lanterntender added.
+Silkclaw Trueblade added.
+Lightningblade Techniques added.
+Eye for Detail added.
+Overeager Freshman added.
+Whitemane Skirmisher added.
+Embercloud Marauder added.
+Petalcharm added.
+Intimidation and Compliance added.
+Drown in Despair added.
+Fleshscour added.
+Dramatic Commander added.
+Prattletooth Administrator added.
+Ashwing Cloudrunner added.
+Eastriver Sellshot added.
+Bloodleaf Endurant added.
+Shadowflame Maven added.
+Sparkbarrel Enthusiast added.
+Pyrobloom added.
+Discerning Duo added.
+Optimal Flowercard Strategy added.
+Cherrypeak Seer added.
+Softplume Shutterbug added.
+Modern Bladework Technique added.
+Drifting Clothwhale added.
+Quickdraw Barrel added.
+Liliana, The Schemer added.
+Changing Consumption Trends added.
+Equinoaxial Instability added.
+Equinoaxial Ripple added.
+Artillery added.
+Chemistry added.
+Ironsnake Itinerant added.
+Sweetport Chaperone added.
+Amiable Automaton added.
+Paradise Brush added.
+Iya Washi added.
+Scrutinous Mentor added.
+Tuftear Magistrate added.
+Villainy added.
+Oratory added.
+
+Oldport Sleuths removed.
+Tengu Galerider removed.
+Wiltsong removed.
+Spiritwind Cyclone removed.
+Restrain Beast removed.
+Sabre of the Pink Rose removed.
+Urgent News removed.
+Kill big guy removed.
+Leaping Strike removed.
+Roundhorn Clouddancer removed.
+Morningglow Branchling removed.
+Farsea Culturophile removed.
+Tuftear Disciple removed.
+Goldleaf Edge removed.
+Lightningblade Technique removed.
+Magnificate removed.
+Overprepared Freshman removed.
+Whitemane Wildclaw removed.
+Embercloud Brute removed.
+Tuftear Governor removed.
+Bloom of Inner Fire removed.
+Menace Thesis removed.
+Drown in the Sea removed.
+Scrutinous Retainer removed.
+Skeletal Resupply removed.
+Dramatic Captain removed.
+Prattletooth Archivist removed.
+Softplume Cloudrunner removed.
+Eastport Sellshot removed.
+Gorefield Samurai removed.
+Lotuspond Howlghast removed.
+Sparkbarrel Aficionado removed.
+Pyroblossom removed.
+Farsea Rascals removed.
+Optimal Flowercard Strategies removed.
+Cherrypeak Farseer removed.
+Darkplume Shutterbug removed.
+A Study of Modern Bladework removed.
+Cloudfloater Dirigible removed.
+Liliana, Girlboss removed.
+Shaping Consumption Trends removed.
+The Shades Love Hiding removed.
+Equinoxial Instability removed.
+Tiger In My Brush removed.
+My Dragon Shadow removed.
+Koi Leap Off The Page removed.
+Nearcoast Itinerant removed.
+The Birds In My Dreams removed.
+Oldport Chaperone removed.
+Phonodisk Horn removed.
+Filial Registry removed.
+Horizon Fan removed.
+Instilling Esprit de Corps removed.
+
+Surreptitious Meeting
+rules_text: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Mill a card. You may play that card from your graveyard until your next end step. => Gain control of up to one target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Mill a card. You may play that card from your graveyard until your next end step.
+
+Talonwing Countess
+rules_text: Flying
+Blossom — {5}: This creature gets +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Flying
+Blossom — {5}: This creature gets +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Rewrite
+rules_text: Counter target noncreature spell.
+Revise. [i](Put a lore counter on a permanent you control or discard a card to draw a card.)[/i] => Choose one or both —
+• Counter target noncreature spell.
+• Revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+
+Mirrorcube Manipulation
+
+Petaldance
+rules_text: Return target creature to its owner's hand.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i] => Return up to one target creature to its owner's hand.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Fireglass Enthusiast
+rules_text: When this creature enters, revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+Once each turn, whenever the final chapter ability of a permanent you control resolves, draw a card. => When this creature enters, revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+Once each turn, whenever the final chapter ability of a permanent you control resolves, draw a card.
+
+Ornithopter Exosegments
+
+Fandancer Courtesan
+rules_text: Blossom — {5}: Tap up to one target creature. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: Tap up to one target creature. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Greatpond Croak
+
+Silvermane Wyrm
+type: Creature — Wyrm => Creature — Dragon
+rules_text: Defender, flying
+This creature can attack as though it didn't have defender as long as two or more cards entered your hand this turn or as long as you've cast two or more spells this turn. [i](Drawing and conjuring cards into your hand count.)[/i] => Defender, flying
+This creature can attack as though it didn't have defender as long as you've cast
+two or more spells this turn or as long as two or more cards were put into your hand this turn. [i](This includes drawing cards and conjuring cards into your hand.)[/i]
+
+Cloudgazer Shrine Maiden
+type: Creature — Human Monk => Creature — Human Shaman
+
+Essence Warp
+rules_text: Counter target creature spell.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i] => Choose one or both —
+• Counter target creature spell.
+• Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Waterwaltz
+rules_text: Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Tap target creature. If two or more cards entered your hand this turn, that creature doesn't untap during its controller's next untap step. [i](Drawing and conjuring cards into your hand count.)[/i] => Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Tap up to one target creature. If two or more cards were put into your hand this turn, it doesn't untap during its controller's next untap step. [i](This includes drawing cards and conjuring cards into your hand.)[/i]
+
+Gustdraw Trainee
+
+Long Days & Longer Nights
+rules_text: Revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+If the final chapter ability of a permanent you control resolved this turn, you may put a lore counter on target permanent you control. => Revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+If the final chapter ability of a permanent you control resolved this turn, you may put a lore counter on target permanent you control.
+
+Cherrybranch Sprites
+rules_text: Flying
+Blossom — {5}: Up to one other target creature gets +1/+1 and gains flying until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Flying
+Blossom — {5}: Up to one other target creature gets +1/+1 and gains flying until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Oldguard Thousandpalm
+rules_text: When this creature enters, activate all your blossom abilities.
+Blossom — {5}: Until your next turn, this creature can block an additional creature each combat. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, activate all your blossom abilities. [i](Without paying their costs.)[/i]
+Blossom — {5}: Until your next turn, this creature can block an additional creature each combat. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Roofpoint Drifters
+type: Creature — Human Samurai => Creature — Human Mercenary Samurai
+rules_text: Vigilance
+Roofpoint Drifters has flying as long as a creature you control with power greater than its base power is attacking. => Vigilance
+This creature has flying as long as a creature you control with power greater than its base power is attacking.
+
+Water's Edge Adept
+rules_text: When Water's Edge Adept enters, conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Whenever a creature you control with power greater than its base power attacks, tap up to one target creature. => When this creature enters, conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Whenever a creature you control with power greater than its base power attacks, tap up to one target creature.
+
+Silversheet Sanctifiers
+type: Creature — Human Monk => Creature — Human Shaman
+rules_text: When Silversheet Sanctifiers enters the battlefield, destroy up to one target artifact or enchantment. => When this creature enters, destroy up to one target artifact or enchantment.
+
+Greater Purrpaw
+pt: 3/3 => 3/5
+
+Junkwing Cadet
+rules_text: Flying
+Junkwing Cadet gets +1/+1 as long as you control an artifact or an enchantment. => Flying
+This creature gets +1/+1 as long as you control an artifact or an enchantment.
+
+Tuftear Traveller
+rules_text: When this creature enters, revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+This creature gets +1/+1 as long as the final chapter ability of a permanent you control resolved this turn. => When this creature enters, revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+This creature gets +1/+1 as long as the final chapter ability of a permanent you control resolved this turn.
+
+Softplume Officer
+
+Bladeflower
+rules_text: Bladeflower deals 3 damage to target attacking or blocking creature.
+Activate all your blossom abilities. => Activate all your blossom abilities. [i](Without paying their costs.)[/i]
+This spell deals 3 damage to up to one target attacking or blocking creature.
+
+Bushtail Maiden
+rules_text: Lifelink
+When Bushtail Maiden enters, put up to one target card from your graveyard on the bottom of your library. => Lifelink
+When this creature enters, put up to one target card from your graveyard on the bottom of your library.
+
+Shrimeleon
+
+Eccentric Company
+
+A Confrontation
+
+Martial Triplets
+rules_text: Blossom — {5}: This creature gets +3/+3 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: This creature gets +3/+3 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+An Arrow, Loosed
+rules_text: Destroy target creature with flying.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i] => Destroy up to one target creature with flying.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Fieldwork Inspections
+rules_text: Revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+You may play an additional land this turn. => Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+
+Moment of Reprieve
+rules_text: Destroy target artifact or enchantment.
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i] => Destroy up to one target artifact or enchantment.
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+
+Toast to Old Spring
+rules_text: Activate all your blossom abilities. [i](Without paying the cost.)[/i]
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library. => Activate all your blossom abilities. [i](Without paying their costs.)[/i]
+Reveal the top five cards of your library. You may put a permanent card from among them into your hand. Shuffle the rest onto the bottom of your library.
+
+Fallpool Maiden
+pt: 1/1 => 1/3
+
+Meadowbloom Howl
+type: Creature — Wolf => Creature — Wolf Spirit
+
+Slitherchant Priest
+type: Creature — Azra Monk => Creature — Azra Shaman
+rules_text: When this creature enters, return up to one other target permanent card from your graveyard to your hand.
+Blossom — {5}: This creature gains deathtouch until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, return up to one other target permanent card from your graveyard to your hand.
+Blossom — {5}: This creature gains deathtouch until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Eighttail Medium
+
+Petalguard
+rules_text: Target creature gains hexproof until end of turn. Prevent all damage that would be dealt to that creature this turn.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i] => Up to one target creature gains hexproof and indestructible until end of turn.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Red Daisy Blade
+rules_text: Blossom — {5}: This creature gets +1/+1 and gains first strike until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: This creature gets +1/+1 and gains first strike until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Bloomscale Serpent
+type: Creature — Serpent => Creature — Dragon
+rules_text: Trample
+Blossom — {5}: This creature gets +2/+0 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Trample
+Blossom — {5}: This creature gets +2/+0 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Powderpetals
+rules_text: Powderpetals deals 3 damage to any target.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i] => This spell deals 3 damage to up to any one target.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Springwhirl Dance
+rules_text: As an additional cost to cast Springwhirl Dance, discard a card.
+Draw two cards.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i] => As an additional cost to cast this spell, discard a card.
+Draw two cards.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Intimidation Tactics
+rules_text: Choose one or both —
+• Creatures you control gain menace until end of turn.
+• Destroy target artifact. => Destroy up to one target artifact.
+Creatures you control gain menace until end of turn.
+
+Veranda Vaulter
+
+Rageform
+
+Fogstreet Speedster
+
+Greyalley Lumographer
+rules_text: When this creature enters, you may return an instant, sorcery or artifact card from your graveyard to your hand. => When this creature enters, return up to one target instant, sorcery or artifact card from your graveyard to your hand.
+
+Shorthop Celebrant
+
+Snapflare
+rules_text: Snapflare deals 5 damage to target creature.
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i] => This spell deals 5 damage to up to one nonplayer target.
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+
+Let Loose
+rules_text: Creatures you control get +2/+0 until end of turn.
+Activate all your blossom abilities. => Activate all your blossom abilities. [i](Without paying their costs.)[/i]
+Creatures you control get +2/+0 until end of turn.
+
+Dripblade Retainer
+rules_text: Blossom — {5}: Each opponent loses 1 life and you gain 1 life. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: Each opponent loses 1 life and you gain 1 life. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Final Bloom
+rules_text: Activate all your blossom abilities.
+You may sacrifice a creature. If you do, draw two cards. => Activate all your blossom abilities. [i](Without paying their costs.)[/i]
+You may sacrifice a creature to draw two cards.
+
+Rotting Ronin
+rules_text: This creature enters the battlefield tapped.
+Blossom — {5}: This creature gets +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => This creature enters the battlefield tapped.
+Blossom — {5}: This creature gets +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Thoughtgraft
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i] => Up to one target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+
+Soulstitch
+rules_text: Choose one —
+• Target creature gains indestructible until end of turn.
+• Return target creature card from your graveyard to your hand. => Choose one or both —
+• Target creature gains indestructible until end of turn.
+• Return target creature card from your graveyard to your hand.
+
+Whiteglove Guard
+rules_text: When this creature enters, you lose 1 life and draw a card.
+Blossom — {5}: This creature and up to one other target creature each get +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, you may pay 1 life to draw a card.
+Blossom — {5}: This creature and up to one other target creature each get +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Slitherchant
+
+Moonveil Softplume
+type: Creature — Bird Wizard => Creature — Bird Shaman
+
+Ritual of Dancing Paper
+rules_text: Up to two target creatures each get +2/+2 until end of turn. You gain 2 life. => Up to two target creatures each get +2/+2 until end of turn.
+You gain 2 life.
+
+Crimson Nectar
+rules_text: Target player loses 2 life and you gain 2 life.
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i] => Up to one target player loses 2 life and you gain 2 life.
+Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+
+Darkshot Assassin
+
+Smotherthorns
+rules_text: Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Target creature gets -X/-X until end of turn, where X is the number of cards put into your hand this turn. [i](Drawing and conjuring cards into your hand count.)[/i] => Conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Up to one target creature gets -X/-X until end of turn, where X is the number of cards that were put into your hand this turn. [i](This includes drawing cards and conjuring cards into your hand.)[/i]
+
+Lanternwood Priestess
+type: Creature — Azra Monk => Creature — Azra Shaman
+
+Vulpishade
+
+Darkmane Patriarch
+rules_text: Whenever you attack, if you put two or more cards into your hand this turn, up to two target creatures each get +2/+1 until end of turn. [i](Drawing and conjuring cards into your hand count.)[/i] => Whenever you attack, if two or more cards were put into your hand this turn, up to two target creatures each get +2/+1 until end of turn. [i](This includes drawing cards and conjuring cards into your hand.)[/i]
+
+Bloomwhirl Retainer
+
+Gardencourt Sharptongue
+rules_text: Blossom — {5}: Add {G}{U} if this is the first time this ability has resolved this turn. Otherwise, draw a card. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: Add {G}{U} if this is the first time this ability has resolved this turn. Otherwise, draw a card. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Serpent of Southcliff
+rules_text: Flying
+When Serpent of Southcliff enters, draw two cards. => Flying
+When this creature enters, you may draw two cards.
+
+Chaffslice Delegate
+rules_text: When this creature enters, activate all your blossom abilities.
+Blossom — {5}: Each opponent loses 1 life and you gain 2 life. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, activate all your blossom abilities. [i](Without paying their costs.)[/i]
+Blossom — {5}: Each opponent loses 1 life and you gain 2 life. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Oldguard Patrol
+
+Newforce Bloomshot
+rules_text: Whenever a Samurai or Soldier you control attacks, it gains first strike until end of turn.
+Blossom — {5}: Up to two target creatures each get +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Attacking Samurai and Soldiers you control have first strike.
+Blossom — {5}: Up to two target creatures each get +1/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Heartbleed Courtier
+rules_text: Menace
+Whenever Heartbleed Courtier attacks, it gets +X/+0, where X is the amount of life you gained this turn. => Menace
+Whenever this creature attacks, it gets +X/+0 until end of turn, where X is the amount of life you gained this turn.
+
+Newforce Stormbarrel
+
+Polypetal Savant
+type: Creature — Human Monk => Creature — Human Shaman
+rules_text: When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Blossom — {5}: Conjure a Petal token into your hand. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Blossom — {5}: Conjure a Petal token into your hand. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Pinkrose Heartcatch
+type: Creature — Fox Citizen => Creature — Fox Detective
+rules_text: When this creature enters, mill a card. You may play that card from your graveyard until your next end step.
+Blossom — {5}: Put up to one target card from your graveyard on the bottom of your library. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, mill a card. You may play that card from your graveyard until your next end step.
+Blossom — {5}: Put up to one target card from your graveyard on the bottom of your library. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Glasslens Sleuth
+
+Wizened Tinkerer
+rules_text: Artifact and enchantment spells you cast cost {1} less to cast.
+Blossom — {5}: Revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card. Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Artifact and enchantment spells you cast cost {1} less to cast.
+Blossom — {5}: Revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card. Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Ghostcreek Haunt
+type: Creature — Spirit => Creature — Skeleton
+rules_text: Sacrifice this creature: Draw a card.
+Blossom — {5}: Return this card from your graveyard to your hand. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Sacrifice this creature: Draw a card.
+Blossom — {5}: Return this card from your graveyard to your hand. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Lightningblade Adept
+rules_text: Trample
+Blossom — {5}: Other creatures you control gain trample until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Trample
+Blossom — {5}: Other creatures you control gain trample until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Westshrine Bladedancer
+type: Creature — Azra Monk => Creature — Azra Shaman
+
+Gardencourt Trainee
+rules_text: Blossom — {5}: This creature and up to one other target creature each get +2/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: This creature and up to one other target creature each get +2/+1 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Giganpalm Maiden
+rules_text: When this creature enters, revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+This creature gets +2/+2 & has trample as long as the final chapter ability of a permanent you control resolved this turn. => When this creature enters, revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+This creature gets +2/+2 and has trample as long as the final chapter ability of a permanent you control resolved this turn.
+
+Tuftear Shortblade
+rules_text: Haste
+Tuftear Shortblade gets +1/+1 as long as you've cast two or more spells this turn. => Haste
+This creature gets +1/+1 as long as you've cast two or more spells this turn.
+
+Cloudbreeze Challenger
+rules_text: Blossom — {5}: You may untap target creature you don't control. If you do, that creature blocks this creature this turn if able. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: Untap up to one target creature you don't control. That creature blocks this creature this turn if able. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Dookgear Duchess
+rules_text: When this creature enters, revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+{T}, Exile a creature card from your graveyard: Create a tapped 1/1 red Ferret artifact creature token. => When this creature enters, revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+{T}, Exile a creature card from your graveyard: Create a tapped 1/1 red Ferret artifact creature token.
+
+Enlightened Greatmane
+rules_text: Blossom — {5}: When you next cast a nontoken instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: When you next cast a nontoken instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Interservice Rivalry
+rules_text: At the beginning of your upkeep and whenever a creature enters under your control, conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Whenever you cast a noncreature spell, target creature you control gains trample until end of turn. => At the beginning of your upkeep and whenever a creature enters under your control, conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Whenever you cast a noncreature spell, up to one target creature you control gains trample until end of turn.
+
+Echo Ember
+rules_text: This spell deals 3 damage to any target.
+{1}{R}: This card deals 1 damage to any target. Put this card from your graveyard on the bottom of your library. Activate only if you've cast two or more spells this turn and only as a sorcery. => This spell deals 3 damage to any target.
+{1}{R}: Put this card from your graveyard on the bottom of your library. This card deals 1 damage to up to one target opponent. Activate only if you've cast two or more spells this turn.
+
+Vision of Inferno
+rules_text: Destroy target artifact or land.
+Mill a card. You may play that card from your graveyard until your next end step. => Destroy up to one target artifact or land.
+Mill a card. You may play that card from your graveyard until your next end step.
+
+Veil of Spring
+
+Skittering Stratagem
+rules_text: Activate all your blossom abilities.
+Creatures you control get +0/+3 and gain reach until end of turn. => Activate all your blossom abilities. [i](Without paying their costs.)[/i]
+Creatures you control get +0/+3 and gain reach until end of turn.
+
+Viperwhip
+type: Sorcery => Instant
+
+Sacredgrove Guardian
+rules_text: When this creature enters, you gain 3 life and conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Blossom — {5}: This creature gets +2/+2 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, you gain 3 life and conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Blossom — {5}: This creature gets +2/+2 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Cyflox Spectre
+
+Brightlake Caller
+type: Creature — Human Monk => Creature — Human Shaman
+
+Longpipe Aesthete
+type: Creature — Azra Citizen => Creature — Elk Citizen
+
+Bloombranch Quencher
+
+Asheye Marauder
+type: Creature — Human Mercenary => Creature — Human Rogue
+rules_text: Reach, deathtouch
+At the beginning of your end step, if you control a creature with power greater than its base power, you may conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i] => Reach, deathtouch
+At the beginning of your end step, if you control a creature with power greater than its base power, conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+
+Thousandbud Cadet
+type: Creature — Human Soldier => Creature — Human Soldier Advisor
+rules_text: When this creature enters, choose one or both —
+• You gain 2 life.
+• Destroy target artifact or enchantment. => When this creature enters, choose one or both —
+• Destroy target artifact or enchantment.
+• You gain 2 life.
+
+Geistpetal Drifter
+rules_text: Menace
+When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Whenever this creature attacks, you may discard a card. If you do, this creature gets +2/+1 until end of turn. => Menace
+When this creature enters, conjure a Petal token into your hand. [i](It's a {0} instant with “Add one mana of any colour.”)[/i]
+Whenever this creature attacks, you may discard a card to have this creature get +2/+1 until end of turn.
+
+Carve
+rules_text: Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Destroy target creature or planeswalker if its mana value is less than or equal to the number of cards in your hand. => Conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+Destroy up to one target creature or planeswalker if its mana value is less than or equal to the number of cards in your hand.
+
+Quell
+rules_text: Creatures your opponents control get -1/-1 until end of turn.
+Soldiers and Samurai you control get +1/+1 until end of turn. => Creatures your opponents control get -1/-1 until end of turn.
+Creatures you control get +1/+1 until end of turn.
+
+To Hell And Back
+rules_text: Return target creature card from your graveyard to the battlefield. It gains haste until end of turn.
+When you attack with exactly two creatures this turn, you gain 3 life and creatures you control gain indestructible until end of turn. => Return up to one target creature card from your graveyard to the battlefield. It gains haste until end of turn.
+When you next attack with exactly two creatures this turn, you gain 3 life and creatures you control gain indestructible until end of turn.
+
+Duskguard Cutthroat
+rules_text: Flash
+When this creature enters, you may pay {2} to activate all your blossom abilities.
+Blossom — {5}: This creature gains deathtouch until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Flash
+When this creature enters, you may pay {2} to activate all your blossom abilities. [i](Without paying their usual costs.)[/i]
+Blossom — {5}: This creature gains deathtouch until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Shrinetithe Treasurer
+type: Creature — Fox Citizen => Creature — Fox Shaman
+
+Citizen of the Night
+rules_text: Flying
+At the beginning of your end step, if you put two or more cards into your hand this turn, each opponent loses 2 life and you gain 2 life. => Flying
+At the beginning of your end step, if two or more cards were put into your hand this turn, each opponent loses 2 life and you gain 2 life. [i](This includes drawing cards and conjuring cards into your hand.)[/i]
+
+Longtusk Magistrate
+rules_text: When this creature enters, you may discard a card. If you do, return target creature card from your graveyard to your hand.
+Whenever you discard a card, up to one target creature gets +1/+1 until end of turn. => When this creature enters, you may discard a card to return target creature card from your graveyard to your hand.
+Whenever you discard a card, up to one target creature gets +1/+1 until end of turn.
+
+Discredit
+rules_text: Choose one or both —
+• Destroy target enchantment. If it was a Thesis, you gain 2 life.
+• Revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i] => Choose one or both —
+• Destroy target enchantment. If it was a Thesis, you gain 2 life.
+• Revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+
+Blades To Blooms
+cost: {2}{W} => {1}{W}
+
+A Case For Compulsory Service
+
+Harbour Street Sentry
+
+Tuftear Remembrant
+type: Creature — Fox Mercenary => Creature — Fox Mercenary Samurai
+
+Dovechant
+
+Roundhorn Scholar
+
+Shorthop Veteran
+rules_text: Blossom — {5}: You choose if and how target creature blocks this turn. This creature gets +2/+2 until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Blossom — {5}: This creature gets +2/+2 until end of turn. Choose up to one target creature. You decide if and how it blocks this turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Last Dance
+
+Mundane Breakthrough
+rules_text: Reveal cards from the top of your library until you reveal an artifact or enchantment card. Put that card into your hand and shuffle the rest to the bottom of your library.
+Whenever an artifact or enchantment enters under your control, you may put this card from your graveyard on the bottom of your library. If you do, revise. [i](Put a lore counter on a permanent you control or discard a card to draw a card.)[/i] => Reveal cards from the top of your library until you reveal an artifact or enchantment card. Put that card into your hand and shuffle the rest to the bottom of your library.
+Whenever an artifact or enchantment enters under your control, you may put this card from your graveyard on the bottom of your library to gain 2 life.
+
+Consequences of Mass Print
+
+Ashwing Parliament
+rules_text: Flying
+When this creature enters, revise twice. [i](To revise, you may put a lore counter on a permanent you control or discard a card to draw a card.)[/i] => Flying
+When this creature enters, revise twice. [i](To revise, you may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+
+Truebeak Revelation
+
+Willshaper Maiden
+type: Creature — Azra Monk => Creature — Azra Shaman
+
+Spellshatter
+
+Drizzlebloom Adept
+type: Creature — Human Wizard => Creature — Human Wizard Samurai
+rules_text: When this creature enters, return up to one target creature to its owner's hand.
+Blossom — {5}: You may return this creature to your hand. If you do, draw a card. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => When this creature enters, return up to one target creature to its owner's hand.
+Blossom — {5}: You may return this creature to its owner's hand. If you do, draw a card. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Immaculate Performance
+
+Exhaust
+rules_text: Revise. [i](Put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+Tap all creatures target player controls. Those creatures don't untap during that player's next untap step. => Tap all creatures up to one target player controls. Those creatures don't untap during that player's next untap step.
+Revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+
+Gargantuan Groveback
+
+Petal
+
+Modern Urban Planning
+special_text: [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+I — Reveal cards from the top of your library until you reveal a land card. Put that card on top and shuffle the rest onto the bottom of your library.
+II — Draw a card.
+C — You may play an additional land this turn. => [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Search your library for a land card, reveal it, then shuffle and put that card on top.
+Draw a card.
+You may play an additional land this turn.
+
+Writ of Injunction
+rules_text: Target creature you control gets +1/+1 and gains hexproof until end of turn.
+Revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i] => Up to one target creature gets +1/+1 and gains hexproof until end of turn.
+Revise. [i](You may put a lore counter on a permanent you control, or discard a card to draw a card.)[/i]
+
+Roiling Ironsnake
+
+Hypergyric Astrolabe
+rules_text: When this artifact enters, draw a card.
+{1}, {T}, Sacrifice this artifact: Shuffle your graveyard and put it on the bottom of your library. => When this artifact enters, draw a card.
+{1}, {T}, Sacrifice this artifact: Shuffle your graveyard onto the bottom of your library.
+
+Adorned Blade
+cost: {1} => {3}
+rules_text: Equipped creature gets +2/+2.
+Equip Soldier or Samurai {1}
+Equip {3} => When this Equipment enters, you may attach it to target creature you control.
+Equipped creature gets +2/+2.
+Equip {1}
+
+Autogear Puppet
+rules_text: Defender
+Blossom — {5}: This creature can attack this turn as though it didn't have defender. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Defender
+Blossom — {5}: This creature can attack this turn as though it didn't have defender. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Shimmerbloom Grotto
+
+Highfall Cityscape
+
+One Way Ticket
+
+Wayward Daughter
+rules_text: Flying
+Blossom — {5}: Destroy up to one target creature. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Flying
+Blossom — {5}: Destroy up to one target creature. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Otherworldly Desire
+rules_text: Choose Angel of Serenity, Inkwell Leviathan, Balefire Dragon, or Terastodon. Conjure a card with the chosen name into your hand as a token. You can spend mana of any type to cast that spell. [i](Token permanent spells enter as tokens.)[/i] => Choose a card name from among those printed in the Bauhinia: Eternal Spring cube. Conjure a duplicate of a card with the chosen name into your hand as a token. You can spend mana of any type to cast that spell. [i](Token permanent spells enter as tokens.)[/i]
+
+Breath Eater
+
+Crimson Retainer
+type: Creature — Azra Samurai Mercenary => Creature — Azra Mercenary Samurai
+
+Blood Burgeoning
+
+Nissa, Bloomguard
+
+Roaring Orchidon
+
+Introduction To Obsolete Arms
+
+Highstreet Porter
+
+Curious Company
+rules_text: Reveal the top six cards of your library. Put up to two cards with an activated ability from among them into your hand and shuffle the rest onto the bottom of your library. Then you may put a permanent card with mana value 3 or less from your hand onto the battlefield tapped. [i](Lands are eligible for both effects.)[/i] => Reveal the top six cards of your library. Put up to two cards with an activated ability from among them into your hand and shuffle the rest onto the bottom of your library. Then you may put a permanent card with mana value 3 or less from your hand onto the battlefield tapped. [i](Land cards are eligible for both effects.)[/i]
+
+Botany
+rules_text: Once each turn, whenever you play a land, it becomes a 3/3 Elemental creature with haste and indestructible until your next turn. It's still a land.
+Once each turn, whenever you cast a green spell with mana value 5 or greater, untap all lands you control. => Whenever a land you control enters, it becomes a 3/3 Elemental creature with haste and indestructible until your next turn. It's still a land.
+Once each turn, whenever you cast a green spell with mana value 5 or greater, untap all lands you control.
+
+Shimmering Colossus
+rules_text: Trample
+{X}: This creature gets +1/+1 until end of turn for each color of mana spent to activate this ability. Activate only once each turn. => Trample
+{X}: This creature gets +1/+1 until end of turn for each colour of mana spent to activate this ability. Activate only once each turn. X can't be 0.
+
+Relentless Lancer
+
+Softbrush and Goldgear
+rules_text: Whenever this creature enters or attacks, revise. [i](You may put a lore counter on a permanent you control or discard a card to draw a card.)[/i]
+Blossom — {5}: Up to one target artifact becomes an artifact creature with base power and toughness 4/4 until end of turn. => Whenever this creature enters or attacks, revise.
+Blossom — {5}: Up to one target artifact becomes an artifact creature with base power and toughness 4/4 until end of turn.
+
+Principles of Art Nouveau
+
+Trendchaser Heiress
+
+Reincarnated as a Lotus Flower
+rules_text: Activate all your blossom abilities.
+Discard all the cards in your hand, then draw that many cards. => Activate all your blossom abilities. [i](Without paying their costs.)[/i]
+Discard all the cards in your hand, then draw that many cards.
+
+Teardrop Drizzle
+
+Venerable Vulpimane
+
+Bright Dilettante
+type: Creature — Human Detective => Creature — Human Noble
+
+Zenjou, Planeographer
+
+Tuftear à la Mode
+rules_text: Ward {2}
+When this creature enters, create a colorless artifact token named Pocketwatch with “{T}, Sacrifice this artifact: Surveil 1.”
+Blossom — {5}: You may return an artifact or enchantment you control to its owner's hand. If you do, you may put an artifact or enchantment card from your hand onto the battlefield. => When this creature enters, create a colorless artifact token named Pocketwatch with “{T}, Sacrifice this artifact: Surveil 1.”
+Blossom — {5}: You may return an artifact or enchantment you control to its owner's hand to put an artifact or enchantment card from your hand onto the battlefield.
+pt: 2/3 => 4/4
+
+Investigating Chrono-Anomalies
+special_text: [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+I, II, III — Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+C — Take an extra turn after this one.
+​ => [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Surveil 1.
+Take an extra turn after this one.
+​
+
+Lies of Omission
+rules_text: Choose an opponent. They look at the top four cards of your library and separate them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+{3}{U}, Put this card from your graveyard on the bottom of your library: Revise. => Choose an opponent. They look at the top four cards of your library and separate them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+{3}{U}: Put this card from your graveyard on the bottom of your library. Revise.
+
+Breezebind Clique
+
+Paperfin Schooling
+
+Decluttering
+
+Newsound Sensation
+type: Creature — Human Advisor => Creature — Human Performer
+rules_text: Flash
+When this creature enters, you may activate all your blossom abilities.
+Blossom — {5}: Creatures you control get +1/+1 and gain vigilance until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossoms without paying their costs.)[/i] => Flash
+When this creature enters, activate all your blossom abilities. [i](Without paying their costs.)[/i]
+Blossom — {5}: Creatures you control get +1/+1 and gain vigilance until end of turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Marshal of the Oldguard
+rules_text: You and permanents you control have hexproof from the first spell an opponent casts each turn. => You and other permanents you control have hexproof from the first and second spells an opponent casts each turn.
+
+Savour The Season
+
+Goldsash Mentor
+
+Mad King's Justice
+rules_text: You and each opponent who controls more creatures than you conjures a Strength token into their hand. Then destroy all creatures. [i](Strength is a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.)[/i] => You and each opponent who controls more creatures than you conjures a Strength token into their hand. Then destroy all creatures. [i](Strength is a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+
+Golden Lotus
+rules_text: {T}: Add one mana of any colour.
+Blossom — {5}: Add {W}{U}{B}{R}{G} if this is the first time this ability has resolved this turn. => {T}: Add one mana of any colour.
+Blossom — {5}: Add {W}{U}{B}{R}{G} if this is the first time this ability has resolved this turn. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Rootstone Archive
+rules_text: {T}: Add {C}.
+Blossom — {5}: Draw a card. => {T}: Add {C}.
+Blossom — {5}: Draw a card. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+A Farewell To Thorns
+rules_text: Exile target permanent without an activated ability. => Exile target permanent without an activated ability. [i](Lands have activated abilities and blossom abilities are activated.)[/i]
+
+Branchhorn Lamplighter
+rules_text: Flash
+When this creature enters, return up to one spell to its owner's hand. => Flash
+When this creature enters, return up to one target spell to its owner's hand.
+
+Hasagi, the Deathwind
+
+Summerdawn Firebrand
+rules_text: Whenever this creature enters or attacks, conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+If this creature would get power or toughness, it gets double that amount of power or toughness instead. => Whenever this creature enters or attacks, conjure a Strength token into your hand. [i](It's a {2} sorcery with “Target creature gets +2/+2 until end of turn.”)[/i]
+If this creature would gain power or toughness, it gets double that amount of power or toughness instead.
+
+White Wolf Mio
+
+Sweetcake Governess
+
+Writhegrove Tender
+rules_text: You may play an additional land on each of your turns.
+Blossom — {5}: Untap up to one target land you control. It becomes a 4/4 Tentacle creature until end of turn. It's still a land. => You may play an additional land on each of your turns.
+Blossom — {5}: Untap up to one target land you control. It becomes a 4/4 Tentacle creature until end of turn. It's still a land. [i](Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)[/i]
+
+Whelpdaughter Celebrant
+
+Cherrygust Seraphim
+
+Ironsnake Rider's Guide to Bauhinia
+special_text: [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+Draw a card.
+Draw a card. => [i](As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)[/i]
+I, II — [i]“Bauhinia is a vast land of forests, mountains, and cliffs. The best way to see all of it is from the window of an ironsnake.”
+—Ironsnake Rider's Guide to Bauhinia, page 1[/i]
+C — Draw a card.
+Draw a card.
+
+Cherry Division Tinsuit
+type: Artifact — Equipment => Artifact — Vehicle
+rules_text: Equipped creature gets +2/+2 and has ward {2}.
+Equip {3} => Menace
+Whenever you cast your second spell each turn, this Vehicle becomes an artifact creature until end of turn.
+Whenever this Vehicle attacks, you may discard a card to draw a card.
+Crew 2
+pt:  => 4/3
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Marshal of the Oldguard added.

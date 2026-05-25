@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/TOTL-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>TOTL visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/TOTL-files/logo.png" />
+	<img class="preload-hidden" src="/sets/BHES-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TOTL-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="BHES"><img src="/sets/BHES-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="TOTL"><img src="/sets/TOTL-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/TOTL-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\TOTL-files\img\10_Decorated Constable.png" id="10_Decorated Constable" data-flag="@X" onclick="openSidebar('10_Decorated Constable',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\71_She Hides Between Moments.png" id="71_She Hides Between Moments" data-flag="@X" onclick="openSidebar('71_She Hides Between Moments',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\97_Friend of the Departed.png" id="97_Friend of the Departed" data-flag="@X" onclick="openSidebar('97_Friend of the Departed',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\151_Reader and Weeper.png" id="151_Reader and Weeper" data-flag="@X" onclick="openSidebar('151_Reader and Weeper',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\174_Nissa, Out of Place.png" id="174_Nissa, Out of Place" data-flag="@X" onclick="openSidebar('174_Nissa, Out of Place',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\31_Qiangliang.png" id="31_Qiangliang" data-flag="@X" onclick="openSidebar('31_Qiangliang',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\73_Sidestreet Sucker.png" id="73_Sidestreet Sucker" data-flag="@X" onclick="openSidebar('73_Sidestreet Sucker',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\108_Return of the Ninth Dragon.png" id="108_Return of the Ninth Dragon" data-flag="@X" onclick="openSidebar('108_Return of the Ninth Dragon',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\159_Zenith of Exuberance.png" id="159_Zenith of Exuberance" data-flag="@X" onclick="openSidebar('159_Zenith of Exuberance',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\188_Streetlight Psychosis.png" id="188_Streetlight Psychosis" data-flag="@X" onclick="openSidebar('188_Streetlight Psychosis',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\6_Casting Call.png" id="6_Casting Call" data-flag="@X" onclick="openSidebar('6_Casting Call',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\49_The Fisher Who Caught A Kraken.png" id="49_The Fisher Who Caught A Kraken" data-flag="@X" onclick="openSidebar('49_The Fisher Who Caught A Kraken',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\82_Apex Terror.png" id="82_Apex Terror" data-flag="@X" onclick="openSidebar('82_Apex Terror',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\122_Aria of Blood.png" id="122_Aria of Blood" data-flag="@X" onclick="openSidebar('122_Aria of Blood',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\166_Its Coil Tightens Inexorably.png" id="166_Its Coil Tightens Inexorably" data-flag="@X" onclick="openSidebar('166_Its Coil Tightens Inexorably',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\8_Clearsky Aspirant.png" id="8_Clearsky Aspirant" data-flag="@X" onclick="openSidebar('8_Clearsky Aspirant',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\50_Follow the Crowd.png" id="50_Follow the Crowd" data-flag="@X" onclick="openSidebar('50_Follow the Crowd',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\84_Audience with the Ambassador.png" id="84_Audience with the Ambassador" data-flag="@X" onclick="openSidebar('84_Audience with the Ambassador',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\128_Eighty Thousand Point Gamble.png" id="128_Eighty Thousand Point Gamble" data-flag="@X" onclick="openSidebar('128_Eighty Thousand Point Gamble',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\171_Luk Gaai Ancestseer.png" id="171_Luk Gaai Ancestseer" data-flag="@X" onclick="openSidebar('171_Luk Gaai Ancestseer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\17_The Girl Who Ate an Angel.png" id="17_The Girl Who Ate an Angel" data-flag="@X" onclick="openSidebar('17_The Girl Who Ate an Angel',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\57_Melanchozoa.png" id="57_Melanchozoa" data-flag="@X" onclick="openSidebar('57_Melanchozoa',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\90_Creeping Darkness.png" id="90_Creeping Darkness" data-flag="@X" onclick="openSidebar('90_Creeping Darkness',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\137_Hei Foon Nei.png" id="137_Hei Foon Nei" data-flag="@X" onclick="openSidebar('137_Hei Foon Nei',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\172_Mirrored Past.png" id="172_Mirrored Past" data-flag="@X" onclick="openSidebar('172_Mirrored Past',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\19_Hallowed Be Thy Touch.png" id="19_Hallowed Be Thy Touch" data-flag="@X" onclick="openSidebar('19_Hallowed Be Thy Touch',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\63_Omnicephalys.png" id="63_Omnicephalys" data-flag="@X" onclick="openSidebar('63_Omnicephalys',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\106_Omnicidal Teen.png" id="106_Omnicidal Teen" data-flag="@X" onclick="openSidebar('106_Omnicidal Teen',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\142_Kanpai!.png" id="142_Kanpai!" data-flag="@X" onclick="openSidebar('142_Kanpai!',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\181_Rubbertorch Motorist.png" id="181_Rubbertorch Motorist" data-flag="@X" onclick="openSidebar('181_Rubbertorch Motorist',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\32_Regret of a Long-Gone Girl.png" id="32_Regret of a Long-Gone Girl" data-flag="@X" onclick="openSidebar('32_Regret of a Long-Gone Girl',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\74_Spin Cycle.png" id="74_Spin Cycle" data-flag="@X" onclick="openSidebar('74_Spin Cycle',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\111_Shatter Soul.png" id="111_Shatter Soul" data-flag="@X" onclick="openSidebar('111_Shatter Soul',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\143_Lavabat Hooligan.png" id="143_Lavabat Hooligan" data-flag="@X" onclick="openSidebar('143_Lavabat Hooligan',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\194_Traditionalist Ancestseer.png" id="194_Traditionalist Ancestseer" data-flag="@X" onclick="openSidebar('194_Traditionalist Ancestseer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\39_Under the Spotlight.png" id="39_Under the Spotlight" data-flag="@X" onclick="openSidebar('39_Under the Spotlight',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\78_Tsoi Jam Mei Loi.png" id="78_Tsoi Jam Mei Loi" data-flag="@X" onclick="openSidebar('78_Tsoi Jam Mei Loi',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\119_Villainous Endgame.png" id="119_Villainous Endgame" data-flag="@X" onclick="openSidebar('119_Villainous Endgame',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\149_Oukijo's Design.png" id="149_Oukijos Design" data-flag="@X" onclick="openSidebar('149_Oukijos Design',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\195_Ursa Major.png" id="195_Ursa Major" data-flag="@X" onclick="openSidebar('195_Ursa Major',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\41_Waan Tin Soothsayer.png" id="41_Waan Tin Soothsayer" data-flag="@X" onclick="openSidebar('41_Waan Tin Soothsayer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\80_Your Ancient Grasp Holds All.png" id="80_Your Ancient Grasp Holds All" data-flag="@X" onclick="openSidebar('80_Your Ancient Grasp Holds All',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\120_Walking Singularity.png" id="120_Walking Singularity" data-flag="@X" onclick="openSidebar('120_Walking Singularity',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\155_Tetrad Kingpin.png" id="155_Tetrad Kingpin" data-flag="@X" onclick="openSidebar('155_Tetrad Kingpin',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\198_Zodiac Throng.png" id="198_Zodiac Throng" data-flag="@X" onclick="openSidebar('198_Zodiac Throng',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\4_After Crew.png" id="4_After Crew" data-flag="@X" onclick="openSidebar('4_After Crew',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\48_Feathers Above.png" id="48_Feathers Above" data-flag="@X" onclick="openSidebar('48_Feathers Above',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\83_Ascended Giganform.png" id="83_Ascended Giganform" data-flag="@X" onclick="openSidebar('83_Ascended Giganform',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\121_Act on Rumour.png" id="121_Act on Rumour" data-flag="@X" onclick="openSidebar('121_Act on Rumour',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\160_Boomcase Trooper.png" id="160_Boomcase Trooper" data-flag="@X" onclick="openSidebar('160_Boomcase Trooper',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\5_Ancestral Blessing.png" id="5_Ancestral Blessing" data-flag="@X" onclick="openSidebar('5_Ancestral Blessing',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\51_Highrise Hustler.png" id="51_Highrise Hustler" data-flag="@X" onclick="openSidebar('51_Highrise Hustler',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\85_Blightrazer.png" id="85_Blightrazer" data-flag="@X" onclick="openSidebar('85_Blightrazer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\123_Bloodnote Belcher.png" id="123_Bloodnote Belcher" data-flag="@X" onclick="openSidebar('123_Bloodnote Belcher',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\161_Collected Casting.png" id="161_Collected Casting" data-flag="@X" onclick="openSidebar('161_Collected Casting',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\11_Derelicts Denizen.png" id="11_Derelicts Denizen" data-flag="@X" onclick="openSidebar('11_Derelicts Denizen',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\52_Interurban Gridlock.png" id="52_Interurban Gridlock" data-flag="@X" onclick="openSidebar('52_Interurban Gridlock',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\87_Brown Line Cyclops.png" id="87_Brown Line Cyclops" data-flag="@X" onclick="openSidebar('87_Brown Line Cyclops',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\126_Collapse.png" id="126_Collapse" data-flag="@X" onclick="openSidebar('126_Collapse',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\162_Curiosity Cabineteer.png" id="162_Curiosity Cabineteer" data-flag="@X" onclick="openSidebar('162_Curiosity Cabineteer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\14_Floating Voidjaw.png" id="14_Floating Voidjaw" data-flag="@X" onclick="openSidebar('14_Floating Voidjaw',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\53_Laam Lung Channeler.png" id="53_Laam Lung Channeler" data-flag="@X" onclick="openSidebar('53_Laam Lung Channeler',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\88_Buck-Toothed Bloodfiend.png" id="88_Buck-Toothed Bloodfiend" data-flag="@X" onclick="openSidebar('88_Buck-Toothed Bloodfiend',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\127_The Director's Cut.png" id="127_The Directors Cut" data-flag="@X" onclick="openSidebar('127_The Directors Cut',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\163_Fwun Sah Eccentric.png" id="163_Fwun Sah Eccentric" data-flag="@X" onclick="openSidebar('163_Fwun Sah Eccentric',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\16_Fwun Sha Drycleaner.png" id="16_Fwun Sha Drycleaner" data-flag="@X" onclick="openSidebar('16_Fwun Sha Drycleaner',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\56_Maan Tsau Beholder.png" id="56_Maan Tsau Beholder" data-flag="@X" onclick="openSidebar('56_Maan Tsau Beholder',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\93_Disvertebrate.png" id="93_Disvertebrate" data-flag="@X" onclick="openSidebar('93_Disvertebrate',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\129_Filmsnap Addict.png" id="129_Filmsnap Addict" data-flag="@X" onclick="openSidebar('129_Filmsnap Addict',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\175_Obscene Mass.png" id="175_Obscene Mass" data-flag="@X" onclick="openSidebar('175_Obscene Mass',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\18_Golden Revolver.png" id="18_Golden Revolver" data-flag="@X" onclick="openSidebar('18_Golden Revolver',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\58_Ming Yue's Lucky Tile.png" id="58_Ming Yues Lucky Tile" data-flag="@X" onclick="openSidebar('58_Ming Yues Lucky Tile',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\94_Drowsy Jiangshi.png" id="94_Drowsy Jiangshi" data-flag="@X" onclick="openSidebar('94_Drowsy Jiangshi',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\130_Fire in the Hole.png" id="130_Fire in the Hole" data-flag="@X" onclick="openSidebar('130_Fire in the Hole',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\176_Precinct Eight Muscle.png" id="176_Precinct Eight Muscle" data-flag="@X" onclick="openSidebar('176_Precinct Eight Muscle',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\22_Its Fangs Are Sharp as Knives.png" id="22_Its Fangs Are Sharp as Knives" data-flag="@X" onclick="openSidebar('22_Its Fangs Are Sharp as Knives',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\62_Next Century Anxiety.png" id="62_Next Century Anxiety" data-flag="@X" onclick="openSidebar('62_Next Century Anxiety',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\95_Duress.png" id="95_Duress" data-flag="@X" onclick="openSidebar('95_Duress',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\133_Garrotte.png" id="133_Garrotte" data-flag="@X" onclick="openSidebar('133_Garrotte',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\180_Roots Among People.png" id="180_Roots Among People" data-flag="@X" onclick="openSidebar('180_Roots Among People',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\24_Lau Waan Exorsister.png" id="24_Lau Waan Exorsister" data-flag="@X" onclick="openSidebar('24_Lau Waan Exorsister',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\64_Peephole Peekers.png" id="64_Peephole Peekers" data-flag="@X" onclick="openSidebar('64_Peephole Peekers',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\98_Fu Luk Hoarder.png" id="98_Fu Luk Hoarder" data-flag="@X" onclick="openSidebar('98_Fu Luk Hoarder',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\138_Hung Gaai Rumourmonger.png" id="138_Hung Gaai Rumourmonger" data-flag="@X" onclick="openSidebar('138_Hung Gaai Rumourmonger',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\182_Rumour Eater.png" id="182_Rumour Eater" data-flag="@X" onclick="openSidebar('182_Rumour Eater',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\25_Light Before Dawn.png" id="25_Light Before Dawn" data-flag="@X" onclick="openSidebar('25_Light Before Dawn',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\67_Red Pocket Delivery.png" id="67_Red Pocket Delivery" data-flag="@X" onclick="openSidebar('67_Red Pocket Delivery',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\100_Grace Me With Your Presence.png" id="100_Grace Me With Your Presence" data-flag="@X" onclick="openSidebar('100_Grace Me With Your Presence',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\144_Lost Hatchling.png" id="144_Lost Hatchling" data-flag="@X" onclick="openSidebar('144_Lost Hatchling',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\183_The Sailor Who Tamed A Shark.png" id="183_The Sailor Who Tamed A Shark" data-flag="@X" onclick="openSidebar('183_The Sailor Who Tamed A Shark',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\30_Obviate.png" id="30_Obviate" data-flag="@X" onclick="openSidebar('30_Obviate',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\69_Revel in Its Cold Embrace.png" id="69_Revel in Its Cold Embrace" data-flag="@X" onclick="openSidebar('69_Revel in Its Cold Embrace',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\102_Haak Gaai Headhunter.png" id="102_Haak Gaai Headhunter" data-flag="@X" onclick="openSidebar('102_Haak Gaai Headhunter',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\145_Maw of the Pious.png" id="145_Maw of the Pious" data-flag="@X" onclick="openSidebar('145_Maw of the Pious',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\185_A Small Gesture.png" id="185_A Small Gesture" data-flag="@X" onclick="openSidebar('185_A Small Gesture',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\33_Relaxed Rookies.png" id="33_Relaxed Rookies" data-flag="@X" onclick="openSidebar('33_Relaxed Rookies',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\70_Scrapbeak.png" id="70_Scrapbeak" data-flag="@X" onclick="openSidebar('70_Scrapbeak',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\104_Hero's Downfall.png" id="104_Heros Downfall" data-flag="@X" onclick="openSidebar('104_Heros Downfall',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\148_Not My Monkeys.png" id="148_Not My Monkeys" data-flag="@X" onclick="openSidebar('148_Not My Monkeys',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\187_Street Food Break.png" id="187_Street Food Break" data-flag="@X" onclick="openSidebar('187_Street Food Break',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\36_Shrineguard Lion.png" id="36_Shrineguard Lion" data-flag="@X" onclick="openSidebar('36_Shrineguard Lion',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\72_Sick Moves.png" id="72_Sick Moves" data-flag="@X" onclick="openSidebar('72_Sick Moves',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\105_Id Drain.png" id="105_Id Drain" data-flag="@X" onclick="openSidebar('105_Id Drain',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\150_Paper Pusher Pyromaniac.png" id="150_Paper Pusher Pyromaniac" data-flag="@X" onclick="openSidebar('150_Paper Pusher Pyromaniac',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\190_Tetrad's Fist.png" id="190_Tetrads Fist" data-flag="@X" onclick="openSidebar('190_Tetrads Fist',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\38_Sophomore Exorsister.png" id="38_Sophomore Exorsister" data-flag="@X" onclick="openSidebar('38_Sophomore Exorsister',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\76_The Student Who Touched A Cloud.png" id="76_The Student Who Touched A Cloud" data-flag="@X" onclick="openSidebar('76_The Student Who Touched A Cloud',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\112_Smoke From Rubble.png" id="112_Smoke From Rubble" data-flag="@X" onclick="openSidebar('112_Smoke From Rubble',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\153_Shopping Spree.png" id="153_Shopping Spree" data-flag="@X" onclick="openSidebar('153_Shopping Spree',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\192_Tetragram Tracer.png" id="192_Tetragram Tracer" data-flag="@X" onclick="openSidebar('192_Tetragram Tracer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\40_Vigilant Veterans.png" id="40_Vigilant Veterans" data-flag="@X" onclick="openSidebar('40_Vigilant Veterans',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\77_Trawl the Resonet.png" id="77_Trawl the Resonet" data-flag="@X" onclick="openSidebar('77_Trawl the Resonet',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\113_Solitary Exorsister.png" id="113_Solitary Exorsister" data-flag="@X" onclick="openSidebar('113_Solitary Exorsister',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\157_Two-headed Crawler.png" id="157_Two-headed Crawler" data-flag="@X" onclick="openSidebar('157_Two-headed Crawler',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\193_Tower Block Goliath.png" id="193_Tower Block Goliath" data-flag="@X" onclick="openSidebar('193_Tower Block Goliath',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\42_The Warrior Maids of Haute Manor.png" id="42_The Warrior Maids of Haute Manor" data-flag="@X" onclick="openSidebar('42_The Warrior Maids of Haute Manor',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\79_Yih Wu Fiddler.png" id="79_Yih Wu Fiddler" data-flag="@X" onclick="openSidebar('79_Yih Wu Fiddler',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\114_The Soul Who Cheated Death.png" id="114_The Soul Who Cheated Death" data-flag="@X" onclick="openSidebar('114_The Soul Who Cheated Death',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\158_Wind-up Jiangshi.png" id="158_Wind-up Jiangshi" data-flag="@X" onclick="openSidebar('158_Wind-up Jiangshi',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\197_Your Hunger Growls Echo.png" id="197_Your Hunger Growls Echo" data-flag="@X" onclick="openSidebar('197_Your Hunger Growls Echo',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\7_Clanging Steel.png" id="7_Clanging Steel" data-flag="@X" onclick="openSidebar('7_Clanging Steel',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\43_Constrain.png" id="43_Constrain" data-flag="@X" onclick="openSidebar('43_Constrain',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\86_Botched Job.png" id="86_Botched Job" data-flag="@X" onclick="openSidebar('86_Botched Job',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\124_Bloodwhip.png" id="124_Bloodwhip" data-flag="@X" onclick="openSidebar('124_Bloodwhip',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\164_Gutsy Student.png" id="164_Gutsy Student" data-flag="@X" onclick="openSidebar('164_Gutsy Student',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\9_Cong Baak Skymaw.png" id="9_Cong Baak Skymaw" data-flag="@X" onclick="openSidebar('9_Cong Baak Skymaw',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\44_Constructed Cetacean.png" id="44_Constructed Cetacean" data-flag="@X" onclick="openSidebar('44_Constructed Cetacean',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\89_Crawling Shadow.png" id="89_Crawling Shadow" data-flag="@X" onclick="openSidebar('89_Crawling Shadow',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\125_Brighthorn Itinerant.png" id="125_Brighthorn Itinerant" data-flag="@X" onclick="openSidebar('125_Brighthorn Itinerant',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\165_Hirsute Haymaker.png" id="165_Hirsute Haymaker" data-flag="@X" onclick="openSidebar('165_Hirsute Haymaker',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\12_Determined Vigilante.png" id="12_Determined Vigilante" data-flag="@X" onclick="openSidebar('12_Determined Vigilante',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\45_Daring Acrobatics.png" id="45_Daring Acrobatics" data-flag="@X" onclick="openSidebar('45_Daring Acrobatics',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\91_Dark Alley Occultist.png" id="91_Dark Alley Occultist" data-flag="@X" onclick="openSidebar('91_Dark Alley Occultist',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\131_Flametend.png" id="131_Flametend" data-flag="@X" onclick="openSidebar('131_Flametend',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\167_Kaigun Quarter Guide.png" id="167_Kaigun Quarter Guide" data-flag="@X" onclick="openSidebar('167_Kaigun Quarter Guide',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\13_Eightwind Nineshield.png" id="13_Eightwind Nineshield" data-flag="@X" onclick="openSidebar('13_Eightwind Nineshield',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\46_Elevator Octopus Girl.png" id="46_Elevator Octopus Girl" data-flag="@X" onclick="openSidebar('46_Elevator Octopus Girl',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\92_Disparage.png" id="92_Disparage" data-flag="@X" onclick="openSidebar('92_Disparage',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\132_Foxhair Denizen.png" id="132_Foxhair Denizen" data-flag="@X" onclick="openSidebar('132_Foxhair Denizen',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\168_Lost Technique Punch.png" id="168_Lost Technique Punch" data-flag="@X" onclick="openSidebar('168_Lost Technique Punch',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\15_Frostwhip Siu Tse.png" id="15_Frostwhip Siu Tse" data-flag="@X" onclick="openSidebar('15_Frostwhip Siu Tse',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\47_Fangclaw Caller.png" id="47_Fangclaw Caller" data-flag="@X" onclick="openSidebar('47_Fangclaw Caller',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\96_Energy Drainer.png" id="96_Energy Drainer" data-flag="@X" onclick="openSidebar('96_Energy Drainer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\134_Ghost Chit Ignition.png" id="134_Ghost Chit Ignition" data-flag="@X" onclick="openSidebar('134_Ghost Chit Ignition',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\169_Lou Waan Curio Dealer.png" id="169_Lou Waan Curio Dealer" data-flag="@X" onclick="openSidebar('169_Lou Waan Curio Dealer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\20_Heung Street Tagger.png" id="20_Heung Street Tagger" data-flag="@X" onclick="openSidebar('20_Heung Street Tagger',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\54_Lok Seoi Gumshoes.png" id="54_Lok Seoi Gumshoes" data-flag="@X" onclick="openSidebar('54_Lok Seoi Gumshoes',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\99_Glory Be To Your Radiant Scales.png" id="99_Glory Be To Your Radiant Scales" data-flag="@X" onclick="openSidebar('99_Glory Be To Your Radiant Scales',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\135_The Girl Who Literally Blew Up.png" id="135_The Girl Who Literally Blew Up" data-flag="@X" onclick="openSidebar('135_The Girl Who Literally Blew Up',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\170_Lou Waan Vigilante.png" id="170_Lou Waan Vigilante" data-flag="@X" onclick="openSidebar('170_Lou Waan Vigilante',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\21_Impromptu Exorcism.png" id="21_Impromptu Exorcism" data-flag="@X" onclick="openSidebar('21_Impromptu Exorcism',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\55_Lost in the Crowd.png" id="55_Lost in the Crowd" data-flag="@X" onclick="openSidebar('55_Lost in the Crowd',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\101_Haak Gaai Dealer.png" id="101_Haak Gaai Dealer" data-flag="@X" onclick="openSidebar('101_Haak Gaai Dealer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\136_Hauntroom Consultant.png" id="136_Hauntroom Consultant" data-flag="@X" onclick="openSidebar('136_Hauntroom Consultant',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\173_Neon Gaze.png" id="173_Neon Gaze" data-flag="@X" onclick="openSidebar('173_Neon Gaze',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\23_Jiangshi Throng.png" id="23_Jiangshi Throng" data-flag="@X" onclick="openSidebar('23_Jiangshi Throng',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\59_Mobile Monitor.png" id="59_Mobile Monitor" data-flag="@X" onclick="openSidebar('59_Mobile Monitor',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\103_Her Gaze Pierces All Veils.png" id="103_Her Gaze Pierces All Veils" data-flag="@X" onclick="openSidebar('103_Her Gaze Pierces All Veils',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\139_Its Thirst is Unquenchable.png" id="139_Its Thirst is Unquenchable" data-flag="@X" onclick="openSidebar('139_Its Thirst is Unquenchable',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\177_Raining Frogs and Toads.png" id="177_Raining Frogs and Toads" data-flag="@X" onclick="openSidebar('177_Raining Frogs and Toads',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\26_Lowrise Line Cook.png" id="26_Lowrise Line Cook" data-flag="@X" onclick="openSidebar('26_Lowrise Line Cook',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\60_Moongorger.png" id="60_Moongorger" data-flag="@X" onclick="openSidebar('60_Moongorger',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\107_Ragged Beat Cop.png" id="107_Ragged Beat Cop" data-flag="@X" onclick="openSidebar('107_Ragged Beat Cop',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\140_Kaigun Infantry Veteran.png" id="140_Kaigun Infantry Veteran" data-flag="@X" onclick="openSidebar('140_Kaigun Infantry Veteran',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\178_Rainy Alley Devil.png" id="178_Rainy Alley Devil" data-flag="@X" onclick="openSidebar('178_Rainy Alley Devil',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\27_Midtower Lookout.png" id="27_Midtower Lookout" data-flag="@X" onclick="openSidebar('27_Midtower Lookout',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\61_Motorized Private Eye.png" id="61_Motorized Private Eye" data-flag="@X" onclick="openSidebar('61_Motorized Private Eye',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\109_Rumour Milling.png" id="109_Rumour Milling" data-flag="@X" onclick="openSidebar('109_Rumour Milling',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\141_Kaigun Quarter Hotshot.png" id="141_Kaigun Quarter Hotshot" data-flag="@X" onclick="openSidebar('141_Kaigun Quarter Hotshot',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\179_Rockmaw.png" id="179_Rockmaw" data-flag="@X" onclick="openSidebar('179_Rockmaw',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\28_Naau Gok Arcanist.png" id="28_Naau Gok Arcanist" data-flag="@X" onclick="openSidebar('28_Naau Gok Arcanist',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\65_Pocketshine.png" id="65_Pocketshine" data-flag="@X" onclick="openSidebar('65_Pocketshine',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\110_Shadow of Woe.png" id="110_Shadow of Woe" data-flag="@X" onclick="openSidebar('110_Shadow of Woe',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\146_Melting Grimace.png" id="146_Melting Grimace" data-flag="@X" onclick="openSidebar('146_Melting Grimace',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\184_Skyscrape.png" id="184_Skyscrape" data-flag="@X" onclick="openSidebar('184_Skyscrape',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\29_Nowhere Trip.png" id="29_Nowhere Trip" data-flag="@X" onclick="openSidebar('29_Nowhere Trip',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\66_Purple Line Whispermonger.png" id="66_Purple Line Whispermonger" data-flag="@X" onclick="openSidebar('66_Purple Line Whispermonger',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\115_Spiritual Dispute.png" id="115_Spiritual Dispute" data-flag="@X" onclick="openSidebar('115_Spiritual Dispute',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\147_Naau Gok Carver.png" id="147_Naau Gok Carver" data-flag="@X" onclick="openSidebar('147_Naau Gok Carver',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\186_Steelheight Horror.png" id="186_Steelheight Horror" data-flag="@X" onclick="openSidebar('186_Steelheight Horror',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\34_Salaried Seraph.png" id="34_Salaried Seraph" data-flag="@X" onclick="openSidebar('34_Salaried Seraph',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\68_Reflection.png" id="68_Reflection" data-flag="@X" onclick="openSidebar('68_Reflection',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\116_Tetrad Newblood.png" id="116_Tetrad Newblood" data-flag="@X" onclick="openSidebar('116_Tetrad Newblood',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\152_Redgate Ringer.png" id="152_Redgate Ringer" data-flag="@X" onclick="openSidebar('152_Redgate Ringer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\189_Tetrad Hooligan.png" id="189_Tetrad Hooligan" data-flag="@X" onclick="openSidebar('189_Tetrad Hooligan',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\35_Seraphic Bloodwing.png" id="35_Seraphic Bloodwing" data-flag="@X" onclick="openSidebar('35_Seraphic Bloodwing',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\75_Stop.png" id="75_Stop" data-flag="@X" onclick="openSidebar('75_Stop',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\117_Tetrad Shotcaller.png" id="117_Tetrad Shotcaller" data-flag="@X" onclick="openSidebar('117_Tetrad Shotcaller',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\154_Tetrad Capo.png" id="154_Tetrad Capo" data-flag="@X" onclick="openSidebar('154_Tetrad Capo',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\191_Tetrad's Hammer.png" id="191_Tetrads Hammer" data-flag="@X" onclick="openSidebar('191_Tetrads Hammer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\37_Slacking Sergeant.png" id="37_Slacking Sergeant" data-flag="@X" onclick="openSidebar('37_Slacking Sergeant',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\81_Your Thousand Eyes See All.png" id="81_Your Thousand Eyes See All" data-flag="@X" onclick="openSidebar('81_Your Thousand Eyes See All',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\118_Tsim Sha Gourmands.png" id="118_Tsim Sha Gourmands" data-flag="@X" onclick="openSidebar('118_Tsim Sha Gourmands',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\156_Tetrad Tactics.png" id="156_Tetrad Tactics" data-flag="@X" onclick="openSidebar('156_Tetrad Tactics',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\196_Work Horse.png" id="196_Work Horse" data-flag="@X" onclick="openSidebar('196_Work Horse',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\237_Special Agent Ming Yue.png" id="237_Special Agent Ming Yue" data-flag="@X" onclick="openSidebar('237_Special Agent Ming Yue',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\215_Fatal Finale.png" id="215_Fatal Finale" data-flag="@X" onclick="openSidebar('215_Fatal Finale',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\199_Akane & Kurone.png" id="199_Akane & Kurone" data-flag="@X" onclick="openSidebar('199_Akane & Kurone',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\224_Lily An, Exorcist Extraordinare.png" id="224_Lily An, Exorcist Extraordinare" data-flag="@X" onclick="openSidebar('224_Lily An, Exorcist Extraordinare',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\200_Amateur Threadseeker.png" id="200_Amateur Threadseeker" data-flag="@X" onclick="openSidebar('200_Amateur Threadseeker',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\213_Exorcist's Judgement.png" id="213_Exorcists Judgement" data-flag="@X" onclick="openSidebar('213_Exorcists Judgement',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\223_Laai Ban Jyu & Mystery Girl.png" id="223_Laai Ban Jyu & Mystery Girl" data-flag="@X" onclick="openSidebar('223_Laai Ban Jyu & Mystery Girl',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\238_Their Eons Ought Be Forgotten.png" id="238_Their Eons Ought Be Forgotten" data-flag="@X" onclick="openSidebar('238_Their Eons Ought Be Forgotten',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\214_Fangcurl Denizen.png" id="214_Fangcurl Denizen" data-flag="@X" onclick="openSidebar('214_Fangcurl Denizen',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\228_Qiao Xian & Qiao Hou.png" id="228_Qiao Xian & Qiao Hou" data-flag="@X" onclick="openSidebar('228_Qiao Xian & Qiao Hou',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\235_Smith & Nguyen.png" id="235_Smith & Nguyen" data-flag="@X" onclick="openSidebar('235_Smith & Nguyen',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\220_Invisible Skulker.png" id="220_Invisible Skulker" data-flag="@X" onclick="openSidebar('220_Invisible Skulker',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\211_Dragoncloak Scoundrel.png" id="211_Dragoncloak Scoundrel" data-flag="@X" onclick="openSidebar('211_Dragoncloak Scoundrel',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\232_Siu Coeng & Daai Paau.png" id="232_Siu Coeng & Daai Paau" data-flag="@X" onclick="openSidebar('232_Siu Coeng & Daai Paau',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\205_Citysight Guide.png" id="205_Citysight Guide" data-flag="@X" onclick="openSidebar('205_Citysight Guide',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\208_Curious Pair.png" id="208_Curious Pair" data-flag="@X" onclick="openSidebar('208_Curious Pair',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\229_Rubberneck Lookout.png" id="229_Rubberneck Lookout" data-flag="@X" onclick="openSidebar('229_Rubberneck Lookout',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\221_Joss Twig Tender.png" id="221_Joss Twig Tender" data-flag="@X" onclick="openSidebar('221_Joss Twig Tender',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\206_Copper Street Ride or Die.png" id="206_Copper Street Ride or Die" data-flag="@X" onclick="openSidebar('206_Copper Street Ride or Die',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\222_Kaigun Quarter Everyman.png" id="222_Kaigun Quarter Everyman" data-flag="@X" onclick="openSidebar('222_Kaigun Quarter Everyman',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\226_Precinct Eight Deskjockey.png" id="226_Precinct Eight Deskjockey" data-flag="@X" onclick="openSidebar('226_Precinct Eight Deskjockey',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\207_Copper Street Ruffian.png" id="207_Copper Street Ruffian" data-flag="@X" onclick="openSidebar('207_Copper Street Ruffian',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\217_Hal Sa-yi the Brightedge.png" id="217_Hal Sa-yi the Brightedge" data-flag="@X" onclick="openSidebar('217_Hal Sa-yi the Brightedge',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\219_Hung Sin & Laam Jyut.png" id="219_Hung Sin & Laam Jyut" data-flag="@X" onclick="openSidebar('219_Hung Sin & Laam Jyut',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\230_Shadow of the Ninth Dragon.png" id="230_Shadow of the Ninth Dragon" data-flag="@X" onclick="openSidebar('230_Shadow of the Ninth Dragon',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\209_Dai Tse & Siu Mui.png" id="209_Dai Tse & Siu Mui" data-flag="@X" onclick="openSidebar('209_Dai Tse & Siu Mui',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\225_Mildred & Teresa.png" id="225_Mildred & Teresa" data-flag="@X" onclick="openSidebar('225_Mildred & Teresa',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\216_Haak Faa & Baak Syut.png" id="216_Haak Faa & Baak Syut" data-flag="@X" onclick="openSidebar('216_Haak Faa & Baak Syut',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\227_Purple Line Arcanist.png" id="227_Purple Line Arcanist" data-flag="@X" onclick="openSidebar('227_Purple Line Arcanist',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\231_Siu Bau & Friendly Jiangshi.png" id="231_Siu Bau & Friendly Jiangshi" data-flag="@X" onclick="openSidebar('231_Siu Bau & Friendly Jiangshi',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\204_Cha Siu Street Butcher.png" id="204_Cha Siu Street Butcher" data-flag="@X" onclick="openSidebar('204_Cha Siu Street Butcher',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\202_Ambitious Ancestseer.png" id="202_Ambitious Ancestseer" data-flag="@X" onclick="openSidebar('202_Ambitious Ancestseer',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\203_Ambitious Phlebotomist.png" id="203_Ambitious Phlebotomist" data-flag="@X" onclick="openSidebar('203_Ambitious Phlebotomist',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\233_Skyline Exorcist.png" id="233_Skyline Exorcist" data-flag="@X" onclick="openSidebar('233_Skyline Exorcist',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\210_Derelicts Hexapod.png" id="210_Derelicts Hexapod" data-flag="@X" onclick="openSidebar('210_Derelicts Hexapod',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\236_Softear Restauranteur.png" id="236_Softear Restauranteur" data-flag="@X" onclick="openSidebar('236_Softear Restauranteur',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\212_Dreambreacher.png" id="212_Dreambreacher" data-flag="@X" onclick="openSidebar('212_Dreambreacher',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\239_Tiger Mother.png" id="239_Tiger Mother" data-flag="@X" onclick="openSidebar('239_Tiger Mother',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\234_Sluice Slinker.png" id="234_Sluice Slinker" data-flag="@X" onclick="openSidebar('234_Sluice Slinker',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\201_Ambassador Oukijo.png" id="201_Ambassador Oukijo" data-flag="@X" onclick="openSidebar('201_Ambassador Oukijo',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\218_The Hour of Heroes.png" id="218_The Hour of Heroes" data-flag="@X" onclick="openSidebar('218_The Hour of Heroes',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\251_Urban Labyrinth.png" id="251_Urban Labyrinth" data-flag="@X" onclick="openSidebar('251_Urban Labyrinth',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\252_Wire Bodhisattva.png" id="252_Wire Bodhisattva" data-flag="@X" onclick="openSidebar('252_Wire Bodhisattva',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\3_Ancestral Altar.png" id="3_Ancestral Altar" data-flag="@X" onclick="openSidebar('3_Ancestral Altar',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\240_Ambulating Apartment.png" id="240_Ambulating Apartment" data-flag="@X" onclick="openSidebar('240_Ambulating Apartment',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\241_Arcade Crane Game.png" id="241_Arcade Crane Game" data-flag="@X" onclick="openSidebar('241_Arcade Crane Game',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\242_Backalley Juicesuit.png" id="242_Backalley Juicesuit" data-flag="@X" onclick="openSidebar('242_Backalley Juicesuit',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\243_Coinball.png" id="243_Coinball" data-flag="@X" onclick="openSidebar('243_Coinball',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\248_Neighbourhood Loop Bus.png" id="248_Neighbourhood Loop Bus" data-flag="@X" onclick="openSidebar('248_Neighbourhood Loop Bus',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\249_Paper Dragon.png" id="249_Paper Dragon" data-flag="@X" onclick="openSidebar('249_Paper Dragon',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\250_Rubbersludge Cab.png" id="250_Rubbersludge Cab" data-flag="@X" onclick="openSidebar('250_Rubbersludge Cab',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\1_!Draft.png" id="1_!Draft" data-flag="@X" onclick="openSidebar('1_!Draft',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\2_!Place Names.png" id="2_!Place Names" data-flag="@X" onclick="openSidebar('2_!Place Names',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\244_Decoy Doll.png" id="244_Decoy Doll" data-flag="@X" onclick="openSidebar('244_Decoy Doll',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\245_Futuristic Hoverbike.png" id="245_Futuristic Hoverbike" data-flag="@X" onclick="openSidebar('245_Futuristic Hoverbike',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\246_Mark of Good Fortune.png" id="246_Mark of Good Fortune" data-flag="@X" onclick="openSidebar('246_Mark of Good Fortune',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\247_Mimic.png" id="247_Mimic" data-flag="@X" onclick="openSidebar('247_Mimic',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\255_Deepstar Generator.png" id="255_Deepstar Generator" data-flag="@X" onclick="openSidebar('255_Deepstar Generator',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\258_Sunset Classroom.png" id="258_Sunset Classroom" data-flag="@X" onclick="openSidebar('258_Sunset Classroom',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\256_Midnight Nook.png" id="256_Midnight Nook" data-flag="@X" onclick="openSidebar('256_Midnight Nook',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\254_Daybreak Platform.png" id="254_Daybreak Platform" data-flag="@X" onclick="openSidebar('254_Daybreak Platform',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\259_Twilight Canteen.png" id="259_Twilight Canteen" data-flag="@X" onclick="openSidebar('259_Twilight Canteen',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\253_Cramped Archive.png" id="253_Cramped Archive" data-flag="@X" onclick="openSidebar('253_Cramped Archive',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\257_Skyward Vista.png" id="257_Skyward Vista" data-flag="@X" onclick="openSidebar('257_Skyward Vista',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\260_Warped Cityscape.png" id="260_Warped Cityscape" data-flag="@X" onclick="openSidebar('260_Warped Cityscape',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\1t_City's Blessing.png" id="1t_Citys Blessing" data-flag="@X" onclick="openSidebar('1t_Citys Blessing',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\2t_Horror.png" id="2t_Horror" data-flag="@X" onclick="openSidebar('2t_Horror',false)"></div>
+			<div class="container"><img alt="/sets\TOTL-files\img\3t_Talisman.png" id="3t_Talisman" data-flag="@X" onclick="openSidebar('3t_Talisman',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

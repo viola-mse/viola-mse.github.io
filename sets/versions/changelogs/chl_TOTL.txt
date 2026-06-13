@@ -1,4 +1,768 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Your Ancestral Mind Recalls All added.
+Hellpocket Highroller added.
+Rogue added.
+Citizen added.
+Snake added.
+Blood Homunculus added.
+Spirit added.
+Food added.
+Toy added.
+Monkey added.
+Dragon Illusion added.
+
+Your Ancient Grasp Holds All removed.
+Reader and Weeper removed.
+!Draft removed.
+!Place Names removed.
+
+Naau Gok Arcanist
+
+Cong Baak Skymaw
+
+Sophomore Exorsister
+
+Bloodwhip
+
+Glory Be To Your Radiant Scales
+rules_text: Up to one target creature gains deathtouch until end of turn.
+Beseech {4}{B} [i]({4}{B}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Up to one target creature gains deathtouch until end of turn.
+Beseech {4}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Fangclaw Caller
+
+Tsim Sha Gourmands
+
+Lok Seoi Gumshoes
+
+Haak Faa & Baak Syut
+
+Hauntroom Consultant
+
+Disparage
+
+Decoy Doll
+
+Kaigun Quarter Guide
+
+Wire Bodhisattva
+rules_text: Casting spells and permanents entering don't cause abilities to trigger. => Casting spells and nonland permanents entering don't cause abilities to trigger.
+{2}: This creature's controller draws a card, then sacrifices this creature. Any player may activate this ability as a sorcery.
+
+Naau Gok Carver
+
+Slacking Sergeant
+
+Your Thousand Eyes See All
+cost: {U} => {1}{U}
+rules_text: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Beseech {3}{U}{U} [i]({3}{U}{U}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Beseech {3}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Relaxed Rookies
+
+Impromptu Exorcism
+
+Frostwhip Siu Tse
+
+Dark Alley Occultist
+
+She Hides Between Moments
+rules_text: Copy up to one target spell or nonland permanent. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]
+Beseech {4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Copy up to one target spell or nonland permanent. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]
+Beseech {4}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Heung Street Tagger
+
+Her Gaze Pierces All Veils
+rules_text: Each opponent discards a card.
+Beseech {4}{B} [i]({4}{B}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Each opponent discards a card.
+Beseech {4}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Constrain
+
+Lowrise Line Cook
+rules_text: When this creature enters, you gain 1 life.
+{W}, Exile this card from your graveyard: Create a 1/1 green Citizen creature token. => When this creature enters, you gain 1 life.
+{W}, Exile this card from your graveyard: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.”
+
+Midtower Lookout
+
+Salaried Seraph
+
+Determined Vigilante
+
+Seraphic Bloodwing
+
+Clanging Steel
+
+Nowhere Trip
+
+Eightwind Nineshield
+
+Purple Line Whispermonger
+
+Elevator Octopus Girl
+
+Peephole Peekers
+
+Mobile Monitor
+
+Constructed Cetacean
+
+Moongorger
+
+Pocketshine
+
+Reflection
+
+Lost in the Crowd
+
+Foxhair Denizen
+
+Brighthorn Itinerant
+
+Kaigun Quarter Hotshot
+
+Redgate Ringer
+
+Tetrad Capo
+
+Kaigun Infantry Veteran
+
+Melting Grimace
+
+Collapse
+
+Its Fangs Are Sharp as Knives
+rules_text: Put a +1/+1 counter on up to one target creature. It gains first strike until end of turn.
+Beseech {4}{W}{W} [i]({4}{W}{W}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Put a +1/+1 counter on up to one target creature or the Horror you besought. That creature gains first strike until end of turn.
+Beseech {4}{W}{W} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Haak Gaai Dealer
+
+Energy Drainer
+
+Ragged Beat Cop
+
+Shadow of Woe
+
+Tetrad Shotcaller
+
+Crawling Shadow
+
+Gutsy Student
+
+Lou Waan Curio Dealer
+
+Rockmaw
+
+Work Horse
+
+Lou Waan Vigilante
+
+Tetrad's Hammer
+
+Steelheight Horror
+
+Lost Technique Punch
+
+Skyscrape
+
+Neon Gaze
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Search your library for a basic land card and put it onto the battlefield tapped. If you have the city's blessing, untap that land. It gets “{T}: Add one mana of any color.” until end of turn. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Search your library for a basic land card and put it onto the battlefield tapped. If you have the city's blessing, untap that land. It gains “{T}: Add one mana of any color.” until end of turn.
+
+Mimic
+
+Futuristic Hoverbike
+
+Mark of Good Fortune
+
+Derelicts Denizen
+
+Light Before Dawn
+
+Lau Waan Exorsister
+
+Vigilant Veterans
+
+After Crew
+
+Shrineguard Lion
+
+Jiangshi Throng
+
+Obviate
+
+Scrapbeak
+
+Yih Wu Fiddler
+
+Next Century Anxiety
+
+Laam Lung Channeler
+
+Haak Gaai Headhunter
+
+Revel in Its Cold Embrace
+rules_text: Search your library for a Horror or Octopus card, reveal it, put it into your hand, then shuffle.
+Beseech {5}{U}{U}{U} [i]({5}{U}{U}{U}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Search your library for a Horror or Octopus card, reveal it, put it into your hand, then shuffle.
+Beseech {5}{U}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Interurban Gridlock
+
+Grace Me With Your Presence
+rules_text: You lose 2 life and draw two cards.
+Beseech {4}{B}{B}{B} [i]({4}{B}{B}{B}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => You lose 2 life and draw two cards.
+Beseech {4}{B}{B}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Red Pocket Delivery
+
+Ming Yue's Lucky Tile
+
+Sick Moves
+
+Brown Line Cyclops
+
+Buck-Toothed Bloodfiend
+
+Ascended Giganform
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+When this creature enters, if you cast it, sacrifice it unless you have the city's blessing.
+When this creature dies, each opponent loses 1 life. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+This creature gets -4/-4 unless you have the city's blessing or it has a finality counter on it.
+This creature enters with a finality counter on it if it entered from your graveyard or if you cast it from your graveyard.
+pt: 5/4 => 5/5
+
+Drowsy Jiangshi
+
+Solitary Exorsister
+
+Neighbourhood Loop Bus
+
+Tower Block Goliath
+
+Obscene Mass
+
+Duress
+
+Smoke From Rubble
+
+Hero's Downfall
+
+Id Drain
+
+Disvertebrate
+
+Paper Pusher Pyromaniac
+
+Bloodnote Belcher
+
+Maw of the Pious
+rules_text: First strike, haste
+Whenever a player a spell from anywhere other than their hand, this creature deals 3 damage to that player. => First strike, haste
+Whenever a player casts a spell from anywhere other than their hand, this creature deals 3 damage to that player.
+
+Hung Gaai Rumourmonger
+rules_text: Haste
+This creature gets +2/+0 as long as you activated one of its nomana abilities this turn.
+{3}{R}: Mill a card. You may play it until you mill another card with this creature. => Haste
+This creature gets +2/+0 as long as you activated one of its nonmana abilities this turn.
+{3}{R}: Mill a card. You may play it until you mill another card with this creature.
+
+Wind-up Jiangshi
+
+Filmsnap Addict
+
+Not My Monkeys
+
+Fire in the Hole
+
+Oukijo's Design
+
+Act on Rumour
+
+Two-headed Crawler
+
+Precinct Eight Muscle
+
+Fwun Sah Eccentric
+cost: {1}{G} => {2}{G}
+
+Curiosity Cabineteer
+
+Lost Hatchling
+
+Boomcase Trooper
+
+Roots Among People
+
+Collected Casting
+
+Street Food Break
+
+A Small Gesture
+
+Curious Pair
+
+Rubberneck Lookout
+
+Copper Street Ruffian
+
+Kaigun Quarter Everyman
+
+Tiger Mother
+
+Skyline Exorcist
+
+Sluice Slinker
+
+Softear Restauranteur
+
+Ambitious Ancestseer
+
+Precinct Eight Deskjockey
+
+Invisible Skulker
+
+Dragoncloak Scoundrel
+
+Citysight Guide
+
+Ambitious Phlebotomist
+
+Purple Line Arcanist
+
+Derelicts Hexapod
+
+Cha Siu Street Butcher
+
+Dreambreacher
+
+Warped Cityscape
+
+Skyward Vista
+
+Arcade Crane Game
+
+Ambulating Apartment
+
+Rubbersludge Cab
+
+Paper Dragon
+
+Backalley Juicesuit
+
+Ancestral Altar
+
+Coinball
+
+Sunset Classroom
+
+Midnight Nook
+
+Deepstar Generator
+
+Twilight Canteen
+
+Daybreak Platform
+
+Casting Call
+
+Regret of a Long-Gone Girl
+
+Under the Spotlight
+
+Hallowed Be Thy Touch
+rules_text: Up to one target creature gets +4/+4 and gains flying and vigilance until end of turn. If you cast this spell from anywhere other than your hand, instead put four +1/+1 counters, a flying counter and a vigilance counter on that creature.
+Beseech {5}{W}{W} [i]({5}{W}{W}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Target creature or the Horror you besought gets +4/+4 and gains flying and vigilance until end of turn. If you cast this spell from anywhere other than your hand, instead put four +1/+1 counters, a flying counter and a vigilance counter on that creature.
+Beseech {5}{W}{W} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Waan Tin Soothsayer
+
+Clearsky Aspirant
+rules_text: Exhaust — {W}: Put a +1/+1 counter and a vigilance counter on this creature. [i](Activate each exhaust ability only once.)[/i]
+Exhaust — {2}{W}: Put two +1/+1 counters and a lifelink counter on this creature.
+Exhaust — {4}{W}: Put three +1/+1 counters and a flying counter on this creature. => Activate each of the following abilities only as a sorcery and only once.
+{2}{W}: Put a +1/+1 counter on this creature.
+{4}{W}: Put two +1/+1 counters and a vigilance counter on this creature.
+{6}{W}: Put four +1/+1 counters and a flying counter on this creature.
+
+Melanchozoa
+rules_text: Flying, hexproof
+When this creature enters, draw a card.
+When this creature leaves the battlefield, shuffle it into its owner's library. => Flying
+When this creature enters, draw a card.
+When this creature leaves the battlefield, shuffle it into its owner's library.
+
+Tsoi Jam Mei Loi
+rules_text: Flash
+When Tsoi Jam Mei Loi enters, exile up to one target instant or sorcery card from your graveyard. You may cast it for as long as it remains exiled.
+Whenever you cast a noncreature spell from anywhere other than your hand, put a +1/+1 counter on Tsoi Jam Mei Loi. => Flash
+When Tsoi Jam Mei Loi enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of it this turn.
+Whenever you cast a noncreature spell from anywhere other than your hand, put a +1/+1 counter on Tsoi Jam Mei Loi.
+
+Spin Cycle
+rules_text: Choose one —
+• Target player draws a card.
+• Target player mills four cards.
+• Target player shuffles their graveyard into their library. => Choose one —
+• Target player draws a card.
+• Target player mills four cards.
+• Target player shuffles a card from their graveyard into their library.
+
+Follow the Crowd
+
+Villainous Endgame
+
+Walking Singularity
+
+Creeping Darkness
+cost: {2}{B}{B} => {3}{B}{B}
+rules_text: At the beginning of each opponent's upkeep, they sacrifice a creature. If they can't, they sacrifice a nonland permanent. If they can't, they discard a card. If they can't, they lose 4 life. => At the beginning of each opponent's end step, they sacrifice a creature. If they can't, they sacrifice a nonland permanent. If they can't, they discard a card. If they can't, you draw a card and gain 2 life.
+
+Omnicidal Teen
+rules_text: Haste, deathtouch
+Creatures you don't control have “This creature must block Omnicidal Teen if able.” => Haste
+Creatures you don't control have “This creature must block Omnicidal Teen if able.”
+
+Shatter Soul
+
+Apex Terror
+rules_text: Trample
+You can't cast spells from your hand.
+Whenever this creature attacks, discard a card. If you do, put +1/+1 counter on this creature. If you can't, tap this creature. => Trample
+You can't cast spells from your hand.
+Whenever this creature attacks, discard a card. If you do, put +1/+1 counter on this creature. If you can't, remove it from combat.
+
+Hei Foon Nei
+
+Tetrad Kingpin
+
+Lavabat Hooligan
+rules_text: [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature gets +1/+0 for each creature you control that's not attacking until end of turn.
+Discard a card: Draw a card. Activate only once each turn. => [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature gets +1/+0 for each creature you control that's not attacking until end of turn.
+{R}, Discard a card: Draw a card. Activate only once each turn.
+pt: 2/3 => 2/2
+
+Aria of Blood
+
+Kanpai!
+
+Luk Gaai Ancestseer
+
+Its Coil Tightens Inexorably
+rules_text: Put X +1/+1 counters on up to one target creature.
+Beseech {X}{G}{G}{G} [i]({X}{G}{G}{G}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Put X +1/+1 counters on up to one target creature or on the Horror you besought.
+Beseech {X}{G}{G}{G} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Zodiac Throng
+
+Ursa Major
+rules_text: Trample
+Whenever this creature attacks, destroy up to one target noncreature permanent.
+When this creature dies, create three 2/2 green Bear creature tokens. => Trample
+Whenever this creature attacks, destroy up to one target noncreature, nonland permanent.
+When this creature dies, create three 2/2 green Bear creature tokens.
+
+Traditionalist Ancestseer
+
+Mirrored Past
+
+Rubbertorch Motorist
+rules_text: Haste
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.
+Sacrifice a land: Search your library for a basic land card and put it onto the battlefield tapped. Activate only once each turn. => Trample
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.
+{G}, Sacrifice a land: Search your library for a basic land card and put it onto the battlefield tapped, then shuffle. Activate only once each turn.
+
+Smith & Nguyen
+
+Laai Ban Jyu & Mystery Girl
+
+Siu Coeng & Daai Paau
+
+Hung Sin & Laam Jyut
+rules_text: You may activate Hung Sin & Laam Jyut's loyalty abilities an additional time each turn.
+[+1]: Tap up to one target creature and put a stun counter on it.
+[-X]: Gain control of target creature with mana value X until end of turn. Untap it. It gains haste until end of turn. => When Hung Sin & Laam Jyut enter, gain control of up to one other target creature until end of turn. Untap that creature.
+[+1]: Up to one other target creature gains haste until end of turn.
+[-1]: Tap up to one target creature and put a stun counter on it.
+pt: 3/5 => 3/3
+
+Siu Bau & Friendly Jiangshi
+
+Dai Tse & Siu Mui
+
+Mildred & Teresa
+
+Omnicephalys
+
+Fatal Finale
+rules_text: You may activate one of target permanent's nonmana abilities without paying its cost. Sacrifice that permanent at the beginning of the next end step. => Destroy target creature with an activated ability.
+
+Fangcurl Denizen
+
+Amateur Threadseeker
+
+Urban Labyrinth
+rules_text: Creatures with power greater than the number of nonland permanents its controller controls can't attack.
+At the beginning of each player's upkeep, that player exiles a nonland permanent until this artifact leaves the battlefield. => No more than two creatures can attack each combat.
+No more than two creatures can block each combat.
+
+Return of the Ninth Dragon
+
+Friend of the Departed
+
+Streetlight Psychosis
+cost: {4}{G} => {3}{G}
+rules_text: Whenever you lose unspent mana, add that much {C} at the beginning of the next step.
+{99}: This enchantment becomes a 99/99 Avatar creature with trample, hexproof and indestructible in addition to its other types. => If you would lose unspent mana, it becomes colorless mana that can't be spent on casting spells from your hand instead.
+{99}: This enchantment becomes a 99/99 Avatar creature with trample, hexproof and indestructible in addition to its other types.
+
+Nissa, Out of Place
+
+Decorated Constable
+
+Sidestreet Sucker
+cost: {1}{U} => {2}{U}
+rules_text: Whenever you draw a card, if this creature has power 7 or less, put a +1/+1 counter on this creature.
+{7}{U}: Draw a card. Activate only once each turn. This ability costs {1} less for each +1/+1 counter on this creature. => Whenever you draw a card, if this creature has power 7 or less, put a +1/+1 counter on this creature.
+{7}{U}: Draw a card. Activate only during your turn and only once each turn. This ability costs {1} less to activate for each +1/+1 counter on this creature.
+
+Zenith of Exuberance
+
+Qiangliang
+
+Shadow of the Ninth Dragon
+rules_text: Flying, lifelink, menace
+When Shadow of the Ninth Dragon enters, mill three cards. You may put a permanent card from among the cards milled this way into your hand.
+{1}{B}{G}: Put this card from your hand or graveyard onto the battlefield, then sacrifice it. Activate only as a sorcery. => Flying, lifelink, menace
+When Shadow of the Ninth Dragon enters, mill three cards. You may put a permanent card from among the cards milled this way into your hand.
+{1}{B}{G}: Put this card from your hand or graveyard onto the battlefield, then shuffle it into your library.
+
+Hal Sa-yi the Brightedge
+rules_text: First strike
+Prevent all damage that would be dealt to Hal Sa-yi by sources without first or double strike.
+Whenever Hal Sa-yi attacks, reveal the top two cards of your library. Put one into your graveyard. You gain life equal to its mana value. Put the other into your hand. You lose life equal to its mana value. => First strike
+Whenever Hal Sa-yi enters or attacks, reveal the top two cards of your library. Put one into your graveyard. You gain life equal to its mana value. Put the other into your hand. You lose life equal to its mana value.
+
+Lily An, Exorcist Extraordinare
+
+Special Agent Ming Yue
+
+Botched Job
+
+Its Thirst is Unquenchable
+rules_text: Up to one target creature gets +1/+0 and gains haste and trample until end of turn.
+Beseech {4}{R}{R} [i]({4}{R}{R}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Target creature or the Horror you besought gets +1/+0 and gains haste and trample until end of turn.
+Beseech {4}{R}{R} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Stop
+
+Their Eons Ought Be Forgotten
+rules_text: Each opponent sacrifices a land and discards two cards.
+Beseech {5}{B}{B}{R}{R} [i]({5}{B}{B}{R}{R}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => Each opponent sacrifices a land and discards two cards.
+Beseech {5}{B}{B}{R}{R} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Ambassador Oukijo
+
+Spiritual Dispute
+
+Feathers Above
+
+Rumour Milling
+
+Ghost Chit Ignition
+
+Rainy Alley Devil
+
+Raining Frogs and Toads
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, II, D — Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+Put a +1/+1 counter on up to one target creature.
+​ => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+Put a +1/+1 counter on up to one target creature.
+​
+
+Flametend
+
+Eighty Thousand Point Gamble
+rules_text: When this enchantment enters, if you cast it, discard your hand. If you do, draw eight cards at the beginning of your next upkeep.
+Skip your draw step.
+This enchantment can't be sacrificed. => Skip your draw step.
+{7}{R}: Draw eight cards. Activate only once each turn.
+
+Daring Acrobatics
+
+Motorized Private Eye
+
+Your Hunger Growls Echo
+rules_text: You gain 5 life.
+Beseech {6}{G} [i]({6}{G}, Exile this card from your graveyard: Create a 4/3 colorless Horror creature token. Then cast a copy of this card without paying its mana cost. Activate only as a sorcery.)[/i] => You gain 5 life.
+Beseech {6}{G} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Tetrad's Fist
+
+The Girl Who Literally Blew Up
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, II, D — Create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.”
+You may sacrifice a creature. If you do, this Saga deals damage equal to the sacrificed creature's power to any target.
+​ => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.”
+You may sacrifice a creature. If you do, this Saga deals damage equal to the sacrificed creature's power to any target.
+​
+
+The Director's Cut
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, II, D — Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types and has haste. Sacrifice it at the beginning of the next end step.
+You may discard a card. If you do, draw a card.
+​ => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types and has haste. Sacrifice it at the beginning of the next end step.
+You may discard a card. If you do, draw a card.
+​
+
+Tetrad Tactics
+
+Talisman
+
+Audience with the Ambassador
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, D — Up to one target player discards a card.
+II — Up to one target player sacrifices a nontoken creature. If they can't, they sacrifice a creature.
+III — Up to one target player loses 3 life. => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Up to one target player discards a card.
+Up to one target player sacrifices a nontoken creature. If they can't, they sacrifice a creature.
+Up to one target player loses 3 life.
+
+Tetrad Newblood
+
+Hirsute Haymaker
+
+Tetrad Hooligan
+
+The Girl Who Ate an Angel
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, D — Create a 1/1 green Citizen creature token.
+II — Choose a creature you control. Exile up to one target creature until the chosen creature leaves the battlefield.
+III — Put three +1/+1 counters on up to one target creature. It gains flying and vigilance. => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Create a 1/1 green Citizen creature token.
+Choose a creature you control. Exile up to one target creature until the chosen creature leaves the battlefield.
+Put three +1/+1 counters on up to one target creature.
+
+The Soul Who Cheated Death
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, II, D — Return up to one target creature card from your graveyard to the battlefield.
+Put a +1/+1 counter on up to one target creature. That creature gains lifelink until end of turn.
+III — You lose life equal to the greatest mana value among creatures you control. => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Return up to one target creature card from your graveyard to the battlefield.
+Put a +1/+1 counter on up to one target creature. That creature gains lifelink until end of turn.
+You lose life equal to the greatest mana value among creatures you control.
+
+Ancestral Blessing
+rules_text: Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+{G}, Reveal this card from your hand: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” Activate only as a sorcery and only once. => Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+{G}, Exile this card from your hand: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” You may cast this card from exile on a later turn.
+
+Fwun Sha Drycleaner
+
+Garrotte
+
+Akane & Kurone
+
+Qiao Xian & Qiao Hou
+rules_text: Whenever Qiao Xian & Qiao Hou attack, draw a card if you gained life this turn. Then you gain 2 life.
+[+1]: Put a +1/+1 counter on this creature.
+[-1]: Put a +1/+1 counter on two target creatures you control. => Whenever Qiao Xian & Qiao Hou attack, draw a card if you gained life this turn.
+[+1]: Put a +1/+1 counter on up to one other target creature.
+[-1]: You gain 2 life.
+pt: 1/2 => 2/2
+
+Exorcist's Judgement
+
+Shopping Spree
+
+The Student Who Touched A Cloud
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, II, III, D — Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+IV — Up to one target creature gains flying and gets +1/+0 for each card type among cards in your graveyard end of turn.
+​ => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+Up to one target creature gains flying and gets +1/+0 for each card type among cards in your graveyard end of turn.
+​
+
+Cramped Archive
+rules_text: {T}: Add {C}.
+{3}, Sacrifice this land or discard this card: Draw a card and create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => {T}: Add {C}.
+{3}, Discard this card or sacrifice this land: Draw a card and create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+
+Tetragram Tracer
+
+Rumour Eater
+
+Joss Twig Tender
+
+The Sailor Who Tamed A Shark
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, D — Put a +1/+1 counter on up to one target creature.
+II — This Saga becomes a 3/3 Shark creature with trample in addition to its other types.
+III — Up to one target creature you control fights another target creature. => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Put a +1/+1 counter on up to one target creature.
+This Saga becomes a 3/3 Shark creature with trample in addition to its other types.
+Up to one target creature you control fights another target creature.
+
+The Warrior Maids of Haute Manor
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — You gain 3 life.
+I, II — This Saga becomes a 3/3 Employee creature with first strike in addition to its other types.
+III — Reveal cards from the top of your library until you reveal a legendary white card. Put it into your hand and shuffle the rest onto the bottom of your library. => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — You gain 3 life.
+This Saga becomes a 3/3 Employee creature with first strike in addition to its other types.
+Reveal cards from the top of your library until you reveal a legendary white card. Put it into your hand and shuffle the rest onto the bottom of your library.
+
+Trawl the Resonet
+
+Maan Tsau Beholder
+
+Blightrazer
+
+Fu Luk Hoarder
+
+Floating Voidjaw
+
+Highrise Hustler
+
+Golden Revolver
+
+Copper Street Ride or Die
+
+The Fisher Who Caught A Kraken
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, II, III, D — Return up to one target creature that's not a Kraken, Leviathan, Octopus or Serpent to its owner's hand.
+Create a 1/1 blue Fish creature token. If you cast this Saga as an urban legend, create a 4/4 blue Octopus creature token instead.
+​ => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Return up to one target creature that's not a Kraken, Leviathan, Octopus or Serpent to its owner's hand.
+Create a 1/1 blue Fish creature token. If you cast this Saga as an urban legend, create a 4/4 blue Octopus creature token instead.
+​
+
+The Hour of Heroes
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+I, D — Search your library for a legendary card, reveal it, put it into your hand, then shuffle.
+II — Put a legendary card from your hand onto the battlefield.
+III — Legendary creatures you control gain vigilance, flying, deathtouch, menace and trample until end of turn. => Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Search your library for a legendary card, reveal it, put it into your hand, then shuffle.
+Put a legendary card from your hand onto the battlefield.
+Legendary creatures you control gain vigilance, flying, deathtouch, menace and trample until end of turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

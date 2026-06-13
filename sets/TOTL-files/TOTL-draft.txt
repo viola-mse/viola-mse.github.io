@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/28_Naau Gok Arcanist.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/26_Naau Gok Arcanist.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Horror",
-			"collector_number": "9",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/9_Cong Baak Skymaw.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/7_Cong Baak Skymaw.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "38",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/38_Sophomore Exorsister.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/36_Sophomore Exorsister.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/124_Bloodwhip.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/122_Bloodwhip.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "99",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/99_Glory Be To Your Radiant Scales.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/97_Glory Be To Your Radiant Scales.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "47",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/47_Fangclaw Caller.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/45_Fangclaw Caller.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "118",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/118_Tsim Sha Gourmands.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/116_Tsim Sha Gourmands.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "54",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/54_Lok Seoi Gumshoes.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/52_Lok Seoi Gumshoes.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "216",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/216_Haak Faa & Baak Syut.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/214_Haak Faa & Baak Syut.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "136",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/136_Hauntroom Consultant.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/134_Hauntroom Consultant.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "92",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/92_Disparage.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/90_Disparage.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Doll",
-			"collector_number": "244",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/244_Decoy Doll.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/242_Decoy Doll.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "167",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/167_Kaigun Quarter Guide.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/165_Kaigun Quarter Guide.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "252",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/252_Wire Bodhisattva.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/250_Wire Bodhisattva.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/147_Naau Gok Carver.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/146_Naau Gok Carver.png"
 			}
 		},
 		{
@@ -155,19 +155,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Detective Advisor",
-			"collector_number": "37",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/37_Slacking Sergeant.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/35_Slacking Sergeant.png"
 			}
 		},
 		{
 			"name": "Your Thousand Eyes See All",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/81_Your Thousand Eyes See All.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/79_Your Thousand Eyes See All.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Detective",
-			"collector_number": "33",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/33_Relaxed Rookies.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/31_Relaxed Rookies.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/21_Impromptu Exorcism.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/19_Impromptu Exorcism.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "15",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/15_Frostwhip Siu Tse.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/13_Frostwhip Siu Tse.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "91",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/91_Dark Alley Occultist.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/89_Dark Alley Occultist.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/71_She Hides Between Moments.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/69_She Hides Between Moments.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "20",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/20_Heung Street Tagger.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/18_Heung Street Tagger.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/103_Her Gaze Pierces All Veils.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/101_Her Gaze Pierces All Veils.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "43",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/43_Constrain.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/41_Constrain.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Employee",
-			"collector_number": "26",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/26_Lowrise Line Cook.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/24_Lowrise Line Cook.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "27",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/27_Midtower Lookout.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/25_Midtower Lookout.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Angel Employee",
-			"collector_number": "34",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/34_Salaried Seraph.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/32_Salaried Seraph.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "12",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/12_Determined Vigilante.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/10_Determined Vigilante.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Angel Horror",
-			"collector_number": "35",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/35_Seraphic Bloodwing.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/33_Seraphic Bloodwing.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "7",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/7_Clanging Steel.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/5_Clanging Steel.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "29",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/29_Nowhere Trip.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/27_Nowhere Trip.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/13_Eightwind Nineshield.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/11_Eightwind Nineshield.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "66",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/66_Purple Line Whispermonger.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/64_Purple Line Whispermonger.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Octopus Horror",
-			"collector_number": "46",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/46_Elevator Octopus Girl.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/44_Elevator Octopus Girl.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "64",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/64_Peephole Peekers.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/62_Peephole Peekers.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "59",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/59_Mobile Monitor.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/57_Mobile Monitor.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Whale",
-			"collector_number": "44",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/44_Constructed Cetacean.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/42_Constructed Cetacean.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "60",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/60_Moongorger.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/58_Moongorger.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/65_Pocketshine.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/63_Pocketshine.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/68_Reflection.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/66_Reflection.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/55_Lost in the Crowd.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/53_Lost in the Crowd.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Fox Citizen",
-			"collector_number": "132",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/132_Foxhair Denizen.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/130_Foxhair Denizen.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Azra Citizen",
-			"collector_number": "125",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/125_Brighthorn Itinerant.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/123_Brighthorn Itinerant.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Detective",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/141_Kaigun Quarter Hotshot.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/140_Kaigun Quarter Hotshot.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "152",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/152_Redgate Ringer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/150_Redgate Ringer.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Rogue Advisor",
-			"collector_number": "154",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/154_Tetrad Capo.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/152_Tetrad Capo.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/140_Kaigun Infantry Veteran.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/139_Kaigun Infantry Veteran.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/146_Melting Grimace.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/145_Melting Grimace.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/126_Collapse.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/124_Collapse.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/22_Its Fangs Are Sharp as Knives.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/20_Its Fangs Are Sharp as Knives.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "101",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/101_Haak Gaai Dealer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/99_Haak Gaai Dealer.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "96",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/96_Energy Drainer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/94_Energy Drainer.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Detective",
-			"collector_number": "107",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/107_Ragged Beat Cop.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/105_Ragged Beat Cop.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "110",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/110_Shadow of Woe.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/108_Shadow of Woe.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Human Rogue Advisor",
-			"collector_number": "117",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/117_Tetrad Shotcaller.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/115_Tetrad Shotcaller.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "89",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/89_Crawling Shadow.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/87_Crawling Shadow.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "164",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/164_Gutsy Student.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/162_Gutsy Student.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "169",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/169_Lou Waan Curio Dealer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/167_Lou Waan Curio Dealer.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Wurm Horror",
-			"collector_number": "179",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/179_Rockmaw.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/177_Rockmaw.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Horse Employee",
-			"collector_number": "196",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/196_Work Horse.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/194_Work Horse.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Detective",
-			"collector_number": "170",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/170_Lou Waan Vigilante.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/168_Lou Waan Vigilante.png"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Warrior Rogue",
-			"collector_number": "191",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/191_Tetrad's Hammer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/189_Tetrad's Hammer.png"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "186",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/186_Steelheight Horror.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/184_Steelheight Horror.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "168",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/168_Lost Technique Punch.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/166_Lost Technique Punch.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "184",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/184_Skyscrape.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/182_Skyscrape.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/173_Neon Gaze.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/171_Neon Gaze.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Treasure",
-			"collector_number": "247",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/247_Mimic.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/245_Mimic.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "245",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/245_Futuristic Hoverbike.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/243_Futuristic Hoverbike.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Talisman",
-			"collector_number": "246",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/246_Mark of Good Fortune.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/244_Mark of Good Fortune.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "11",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/11_Derelicts Denizen.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/9_Derelicts Denizen.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
-			"collector_number": "25",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/25_Light Before Dawn.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/23_Light Before Dawn.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "24",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/24_Lau Waan Exorsister.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/22_Lau Waan Exorsister.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Detective",
-			"collector_number": "40",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/40_Vigilant Veterans.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/38_Vigilant Veterans.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Human Employee",
-			"collector_number": "4",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/4_After Crew.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/2_After Crew.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Cat",
-			"collector_number": "36",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/36_Shrineguard Lion.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/34_Shrineguard Lion.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Zombie",
-			"collector_number": "23",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/23_Jiangshi Throng.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/21_Jiangshi Throng.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/30_Obviate.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/28_Obviate.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Bird",
-			"collector_number": "70",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/70_Scrapbeak.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/68_Scrapbeak.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Performer",
-			"collector_number": "79",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/79_Yih Wu Fiddler.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/77_Yih Wu Fiddler.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Eye Horror",
-			"collector_number": "62",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/62_Next Century Anxiety.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/60_Next Century Anxiety.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "53",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/53_Laam Lung Channeler.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/51_Laam Lung Channeler.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "102",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/102_Haak Gaai Headhunter.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/100_Haak Gaai Headhunter.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/69_Revel in Its Cold Embrace.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/67_Revel in Its Cold Embrace.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}",
 			"type": "Enchantment",
-			"collector_number": "52",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/52_Interurban Gridlock.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/50_Interurban Gridlock.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/100_Grace Me With Your Presence.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/98_Grace Me With Your Presence.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/67_Red Pocket Delivery.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/65_Red Pocket Delivery.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "58",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/58_Ming Yue's Lucky Tile.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/56_Ming Yue's Lucky Tile.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "72",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/72_Sick Moves.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/70_Sick Moves.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Eye Horror",
-			"collector_number": "87",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/87_Brown Line Cyclops.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/85_Brown Line Cyclops.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "88",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/88_Buck-Toothed Bloodfiend.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/86_Buck-Toothed Bloodfiend.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Horror",
-			"collector_number": "83",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/83_Ascended Giganform.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/81_Ascended Giganform.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "94",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/94_Drowsy Jiangshi.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/92_Drowsy Jiangshi.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "113",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/113_Solitary Exorsister.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/111_Solitary Exorsister.png"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "248",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/248_Neighbourhood Loop Bus.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/246_Neighbourhood Loop Bus.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/193_Tower Block Goliath.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/191_Tower Block Goliath.png"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "175",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/175_Obscene Mass.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/173_Obscene Mass.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/95_Duress.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/93_Duress.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "112",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/112_Smoke From Rubble.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/110_Smoke From Rubble.png"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/104_Hero's Downfall.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/102_Hero's Downfall.png"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/105_Id Drain.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/103_Id Drain.png"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/93_Disvertebrate.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/91_Disvertebrate.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Employee",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/150_Paper Pusher Pyromaniac.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/149_Paper Pusher Pyromaniac.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "123",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/123_Bloodnote Belcher.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/121_Bloodnote Belcher.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Spirit",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/145_Maw of the Pious.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/144_Maw of the Pious.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/138_Hung Gaai Rumourmonger.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/137_Hung Gaai Rumourmonger.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Zombie",
-			"collector_number": "158",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/158_Wind-up Jiangshi.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/156_Wind-up Jiangshi.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Detective",
-			"collector_number": "129",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/129_Filmsnap Addict.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/127_Filmsnap Addict.png"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/148_Not My Monkeys.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/147_Not My Monkeys.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "130",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/130_Fire in the Hole.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/128_Fire in the Hole.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/149_Oukijo's Design.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/148_Oukijo's Design.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/121_Act on Rumour.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/119_Act on Rumour.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "157",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/157_Two-headed Crawler.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/155_Two-headed Crawler.png"
 			}
 		},
 		{
@@ -1135,19 +1135,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Detective Warrior",
-			"collector_number": "176",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/176_Precinct Eight Muscle.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/174_Precinct Eight Muscle.png"
 			}
 		},
 		{
 			"name": "Fwun Sah Eccentric",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "163",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/163_Fwun Sah Eccentric.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/161_Fwun Sah Eccentric.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "162",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/162_Curiosity Cabineteer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/160_Curiosity Cabineteer.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/144_Lost Hatchling.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/143_Lost Hatchling.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "160",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/160_Boomcase Trooper.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/158_Boomcase Trooper.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "180",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/180_Roots Among People.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/178_Roots Among People.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/161_Collected Casting.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/159_Collected Casting.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "187",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/187_Street Food Break.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/185_Street Food Break.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "185",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/185_A Small Gesture.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/183_A Small Gesture.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Horse Scientist",
-			"collector_number": "208",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/208_Curious Pair.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/206_Curious Pair.png"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "229",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/229_Rubberneck Lookout.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/227_Rubberneck Lookout.png"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "207",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/207_Copper Street Ruffian.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/205_Copper Street Ruffian.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Employee",
-			"collector_number": "222",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/222_Kaigun Quarter Everyman.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/220_Kaigun Quarter Everyman.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "239",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/239_Tiger Mother.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/237_Tiger Mother.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "233",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/233_Skyline Exorcist.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/231_Skyline Exorcist.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Eye Horror",
-			"collector_number": "234",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/234_Sluice Slinker.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/232_Sluice Slinker.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Cat Citizen",
-			"collector_number": "236",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/236_Softear Restauranteur.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/234_Softear Restauranteur.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "202",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/202_Ambitious Ancestseer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/200_Ambitious Ancestseer.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Detective Advisor",
-			"collector_number": "226",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/226_Precinct Eight Deskjockey.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/224_Precinct Eight Deskjockey.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "220",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/220_Invisible Skulker.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/218_Invisible Skulker.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Human Warrior Rogue",
-			"collector_number": "211",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/211_Dragoncloak Scoundrel.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/209_Dragoncloak Scoundrel.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Elf Employee",
-			"collector_number": "205",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/205_Citysight Guide.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/203_Citysight Guide.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "203",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/203_Ambitious Phlebotomist.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/201_Ambitious Phlebotomist.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "227",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/227_Purple Line Arcanist.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/225_Purple Line Arcanist.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "210",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/210_Derelicts Hexapod.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/208_Derelicts Hexapod.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Azra Employee",
-			"collector_number": "204",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/204_Cha Siu Street Butcher.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/202_Cha Siu Street Butcher.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{U}",
 			"type": "Creature — Whale",
-			"collector_number": "212",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/212_Dreambreacher.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/210_Dreambreacher.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/260_Warped Cityscape.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/258_Warped Cityscape.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/257_Skyward Vista.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/255_Skyward Vista.png"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "241",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/241_Arcade Crane Game.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/239_Arcade Crane Game.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "240",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/240_Ambulating Apartment.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/238_Ambulating Apartment.png"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "250",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/250_Rubbersludge Cab.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/248_Rubbersludge Cab.png"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Dragon",
-			"collector_number": "249",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/249_Paper Dragon.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/247_Paper Dragon.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "242",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/242_Backalley Juicesuit.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/240_Backalley Juicesuit.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Enchantment — Shrine",
-			"collector_number": "3",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/3_Ancestral Altar.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/1_Ancestral Altar.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Treasure",
-			"collector_number": "243",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/243_Coinball.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/241_Coinball.png"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/258_Sunset Classroom.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/256_Sunset Classroom.png"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/256_Midnight Nook.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/254_Midnight Nook.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/255_Deepstar Generator.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/253_Deepstar Generator.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/259_Twilight Canteen.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/257_Twilight Canteen.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/254_Daybreak Platform.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/252_Daybreak Platform.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/6_Casting Call.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/4_Casting Call.png"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit Horror",
-			"collector_number": "32",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/32_Regret of a Long-Gone Girl.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/30_Regret of a Long-Gone Girl.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
-			"collector_number": "39",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/39_Under the Spotlight.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/37_Under the Spotlight.png"
 			}
 		},
 		{
@@ -1575,9 +1575,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/19_Hallowed Be Thy Touch.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/17_Hallowed Be Thy Touch.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "41",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/41_Waan Tin Soothsayer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/39_Waan Tin Soothsayer.png"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "8",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/8_Clearsky Aspirant.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/6_Clearsky Aspirant.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Jellyfish",
-			"collector_number": "57",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/57_Melanchozoa.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/55_Melanchozoa.png"
 			}
 		},
 		{
@@ -1615,19 +1615,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "78",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/78_Tsoi Jam Mei Loi.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/76_Tsoi Jam Mei Loi.png"
 			}
 		},
 		{
-			"name": "Your Ancient Grasp Holds All",
+			"name": "Your Ancestral Mind Recalls All",
 			"rarity": "rare",
-			"mana_cost": "{5}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "80",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/80_Your Ancient Grasp Holds All.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/78_Your Ancestral Mind Recalls All.png"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/74_Spin Cycle.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/72_Spin Cycle.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/50_Follow the Crowd.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/48_Follow the Crowd.png"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/119_Villainous Endgame.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/117_Villainous Endgame.png"
 			}
 		},
 		{
@@ -1665,19 +1665,19 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Horror",
-			"collector_number": "120",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/120_Walking Singularity.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/118_Walking Singularity.png"
 			}
 		},
 		{
 			"name": "Creeping Darkness",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "90",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/90_Creeping Darkness.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/88_Creeping Darkness.png"
 			}
 		},
 		{
@@ -1685,9 +1685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Berserker",
-			"collector_number": "106",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/106_Omnicidal Teen.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/104_Omnicidal Teen.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/111_Shatter Soul.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/109_Shatter Soul.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "82",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/82_Apex Terror.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/80_Apex Terror.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "137",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/137_Hei Foon Nei.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/135_Hei Foon Nei.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rogue Advisor",
-			"collector_number": "155",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/155_Tetrad Kingpin.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/153_Tetrad Kingpin.png"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/143_Lavabat Hooligan.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/142_Lavabat Hooligan.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "122",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/122_Aria of Blood.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/120_Aria of Blood.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/142_Kanpai!.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/141_Kanpai!.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "171",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/171_Luk Gaai Ancestseer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/169_Luk Gaai Ancestseer.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
 			"type": "Sorcery",
-			"collector_number": "166",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/166_Its Coil Tightens Inexorably.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/164_Its Coil Tightens Inexorably.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment Creature",
-			"collector_number": "198",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/198_Zodiac Throng.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/196_Zodiac Throng.png"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Creature — Bear Horror",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/195_Ursa Major.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/193_Ursa Major.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/194_Traditionalist Ancestseer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/192_Traditionalist Ancestseer.png"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "172",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/172_Mirrored Past.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/170_Mirrored Past.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "181",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/181_Rubbertorch Motorist.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/179_Rubbertorch Motorist.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "235",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/235_Smith & Nguyen.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/233_Smith & Nguyen.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "223",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/223_Laai Ban Jyu & Mystery Girl.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/221_Laai Ban Jyu & Mystery Girl.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "232",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/232_Siu Coeng & Daai Paau.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/230_Siu Coeng & Daai Paau.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Human Shaman",
-			"collector_number": "219",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/219_Hung Sin & Laam Jyut.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/217_Hung Sin & Laam Jyut.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Human Zombie Citizen",
-			"collector_number": "231",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/231_Siu Bau & Friendly Jiangshi.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/229_Siu Bau & Friendly Jiangshi.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "209",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/209_Dai Tse & Siu Mui.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/207_Dai Tse & Siu Mui.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Artifact Creature — Human Golem",
-			"collector_number": "225",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/225_Mildred & Teresa.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/223_Mildred & Teresa.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Shapeshifter Horror",
-			"collector_number": "63",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/63_Omnicephalys.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/61_Omnicephalys.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "215",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/215_Fatal Finale.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/213_Fatal Finale.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Gorgon Citzen",
-			"collector_number": "214",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/214_Fangcurl Denizen.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/212_Fangcurl Denizen.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Detective",
-			"collector_number": "200",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/200_Amateur Threadseeker.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/198_Amateur Threadseeker.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/251_Urban Labyrinth.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/249_Urban Labyrinth.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/108_Return of the Ninth Dragon.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/106_Return of the Ninth Dragon.png"
 			}
 		},
 		{
@@ -1965,19 +1965,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "97",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/97_Friend of the Departed.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/95_Friend of the Departed.png"
 			}
 		},
 		{
 			"name": "Streetlight Psychosis",
 			"rarity": "mythic",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
-			"collector_number": "188",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/188_Streetlight Psychosis.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/186_Streetlight Psychosis.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Planeswalker — Nissa",
-			"collector_number": "174",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/174_Nissa, Out of Place.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/172_Nissa, Out of Place.png"
 			}
 		},
 		{
@@ -1995,29 +1995,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Detective Soldier",
-			"collector_number": "10",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/10_Decorated Constable.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/8_Decorated Constable.png"
 			}
 		},
 		{
-			"name": "Reader and Weeper",
+			"name": "Hellpocket Highroller",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Gamer",
-			"collector_number": "151",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/151_Reader and Weeper.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/136_Hellpocket Highroller.png"
 			}
 		},
 		{
 			"name": "Sidestreet Sucker",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Octopus",
-			"collector_number": "73",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/73_Sidestreet Sucker.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/71_Sidestreet Sucker.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/159_Zenith of Exuberance.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/157_Zenith of Exuberance.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Spirit Cat",
-			"collector_number": "31",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/31_Qiangliang.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/29_Qiangliang.png"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Creature — Dragon God",
-			"collector_number": "230",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/230_Shadow of the Ninth Dragon.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/228_Shadow of the Ninth Dragon.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}{B}{B}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "217",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/217_Hal Sa-yi the Brightedge.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/215_Hal Sa-yi the Brightedge.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Human Shaman",
-			"collector_number": "224",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/224_Lily An, Exorcist Extraordinare.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/222_Lily An, Exorcist Extraordinare.png"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "237",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/237_Special Agent Ming Yue.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/235_Special Agent Ming Yue.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "86",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/86_Botched Job.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/84_Botched Job.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/139_Its Thirst is Unquenchable.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/138_Its Thirst is Unquenchable.png"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/75_Stop.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/73_Stop.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/238_Their Eons Ought Be Forgotten.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/236_Their Eons Ought Be Forgotten.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Planeswalker — Oukijo",
-			"collector_number": "201",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/201_Ambassador Oukijo.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/199_Ambassador Oukijo.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/115_Spiritual Dispute.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/113_Spiritual Dispute.png"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "48",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/48_Feathers Above.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/46_Feathers Above.png"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/109_Rumour Milling.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/107_Rumour Milling.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "134",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/134_Ghost Chit Ignition.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/132_Ghost Chit Ignition.png"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "178",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/178_Rainy Alley Devil.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/176_Rainy Alley Devil.png"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "177",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/177_Raining Frogs and Toads.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/175_Raining Frogs and Toads.png"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/131_Flametend.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/129_Flametend.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "128",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/128_Eighty Thousand Point Gamble.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/126_Eighty Thousand Point Gamble.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "45",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/45_Daring Acrobatics.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/43_Daring Acrobatics.png"
 			}
 		},
 		{
@@ -2225,9 +2225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "61",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/61_Motorized Private Eye.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/59_Motorized Private Eye.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "197",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/197_Your Hunger Growls Echo.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/195_Your Hunger Growls Echo.png"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Warrior Rogue",
-			"collector_number": "190",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/190_Tetrad's Fist.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/188_Tetrad's Fist.png"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "135",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/135_The Girl Who Literally Blew Up.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/133_The Girl Who Literally Blew Up.png"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "127",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/127_The Director's Cut.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/125_The Director's Cut.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/156_Tetrad Tactics.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/154_Tetrad Tactics.png"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Talisman",
-			"collector_number": "3",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/3_Talisman.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/11_Talisman.png"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "84",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/84_Audience with the Ambassador.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/82_Audience with the Ambassador.png"
 			}
 		},
 		{
@@ -2315,9 +2315,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warrior Rogue",
-			"collector_number": "116",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/116_Tetrad Newblood.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/114_Tetrad Newblood.png"
 			}
 		},
 		{
@@ -2325,9 +2325,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "165",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/165_Hirsute Haymaker.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/163_Hirsute Haymaker.png"
 			}
 		},
 		{
@@ -2335,9 +2335,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Rogue Warrior",
-			"collector_number": "189",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/189_Tetrad Hooligan.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/187_Tetrad Hooligan.png"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/17_The Girl Who Ate an Angel.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/15_The Girl Who Ate an Angel.png"
 			}
 		},
 		{
@@ -2355,9 +2355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "114",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/114_The Soul Who Cheated Death.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/112_The Soul Who Cheated Death.png"
 			}
 		},
 		{
@@ -2365,9 +2365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "5",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/5_Ancestral Blessing.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/3_Ancestral Blessing.png"
 			}
 		},
 		{
@@ -2375,9 +2375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Employee",
-			"collector_number": "16",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/16_Fwun Sha Drycleaner.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/14_Fwun Sha Drycleaner.png"
 			}
 		},
 		{
@@ -2385,9 +2385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/133_Garrotte.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/131_Garrotte.png"
 			}
 		},
 		{
@@ -2395,9 +2395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Wolf Rogue",
-			"collector_number": "199",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/199_Akane & Kurone.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/197_Akane & Kurone.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "228",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/228_Qiao Xian & Qiao Hou.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/226_Qiao Xian & Qiao Hou.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
-			"collector_number": "213",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/213_Exorcist's Judgement.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/211_Exorcist's Judgement.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/153_Shopping Spree.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/151_Shopping Spree.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "76",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/76_The Student Who Touched A Cloud.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/74_The Student Who Touched A Cloud.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/253_Cramped Archive.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/251_Cramped Archive.png"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Wolf Shaman",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/192_Tetragram Tracer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/190_Tetragram Tracer.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Ooze Horror",
-			"collector_number": "182",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/182_Rumour Eater.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/180_Rumour Eater.png"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "221",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/221_Joss Twig Tender.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/219_Joss Twig Tender.png"
 			}
 		},
 		{
@@ -2485,9 +2485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "183",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/183_The Sailor Who Tamed A Shark.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/181_The Sailor Who Tamed A Shark.png"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "42",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/42_The Warrior Maids of Haute Manor.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/40_The Warrior Maids of Haute Manor.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/77_Trawl the Resonet.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/75_Trawl the Resonet.png"
 			}
 		},
 		{
@@ -2515,9 +2515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}{U}",
 			"type": "Creature — Octopus Horror",
-			"collector_number": "56",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/56_Maan Tsau Beholder.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/54_Maan Tsau Beholder.png"
 			}
 		},
 		{
@@ -2525,9 +2525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "85",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/85_Blightrazer.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/83_Blightrazer.png"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "98",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/98_Fu Luk Hoarder.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/96_Fu Luk Hoarder.png"
 			}
 		},
 		{
@@ -2545,9 +2545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Horror",
-			"collector_number": "14",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/14_Floating Voidjaw.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/12_Floating Voidjaw.png"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Dragon Citizen",
-			"collector_number": "51",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/51_Highrise Hustler.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/49_Highrise Hustler.png"
 			}
 		},
 		{
@@ -2575,9 +2575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "18",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/18_Golden Revolver.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/16_Golden Revolver.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Wolf Citizen",
-			"collector_number": "206",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/206_Copper Street Ride or Die.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/204_Copper Street Ride or Die.png"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "49",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/49_The Fisher Who Caught A Kraken.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/47_The Fisher Who Caught A Kraken.png"
 			}
 		},
 		{
@@ -2605,29 +2605,99 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "218",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/218_The Hour of Heroes.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/216_The Hour of Heroes.png"
 			}
 		},
 		{
-			"name": "!Draft",
+			"name": "Rogue",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
+			"type": "Token Creature — Rogue",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/1_!Draft.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/5_Rogue.png"
 			}
 		},
 		{
-			"name": "!Place Names",
+			"name": "Citizen",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "",
-			"collector_number": "2",
+			"type": "Token Creature — Citizen",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://viola-mse/sets/TOTL-files/img/2_!Place Names.png"
+				"en": "https://viola-mse/sets/TOTL-files/img/8_Citizen.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snake",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://viola-mse/sets/TOTL-files/img/9_Snake.png"
+			}
+		},
+		{
+			"name": "Blood Homunculus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Blood Homunculus",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://viola-mse/sets/TOTL-files/img/6_Blood Homunculus.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://viola-mse/sets/TOTL-files/img/3_Spirit.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://viola-mse/sets/TOTL-files/img/10_Food.png"
+			}
+		},
+		{
+			"name": "Toy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Toy",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://viola-mse/sets/TOTL-files/img/12_Toy.png"
+			}
+		},
+		{
+			"name": "Monkey",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Monkey",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://viola-mse/sets/TOTL-files/img/7_Monkey.png"
+			}
+		},
+		{
+			"name": "Dragon Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon Illusion",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://viola-mse/sets/TOTL-files/img/4_Dragon Illusion.png"
 			}
 		}
 	]
@@ -2645,7 +2715,7 @@
 	2 Clearsky Aspirant
 	2 Melanchozoa
 	2 Tsoi Jam Mei Loi
-	2 Your Ancient Grasp Holds All
+	2 Your Ancestral Mind Recalls All
 	2 Spin Cycle
 	2 Follow the Crowd
 	2 Villainous Endgame
@@ -2683,7 +2753,7 @@
 	1 Streetlight Psychosis
 	1 Nissa, Out of Place
 	1 Decorated Constable
-	1 Reader and Weeper
+	1 Hellpocket Highroller
 	1 Sidestreet Sucker
 	1 Zenith of Exuberance
 	1 Qiangliang
@@ -2893,8 +2963,6 @@
 	8 Tetrad Newblood
 	8 Hirsute Haymaker
 	8 Tetrad Hooligan
-	8 !Draft
-	8 !Place Names
 [wildcard(2)]
 	6 Naau Gok Arcanist
 	6 Cong Baak Skymaw
@@ -3058,7 +3126,7 @@
 	7 Clearsky Aspirant
 	7 Melanchozoa
 	7 Tsoi Jam Mei Loi
-	7 Your Ancient Grasp Holds All
+	7 Your Ancestral Mind Recalls All
 	7 Spin Cycle
 	7 Follow the Crowd
 	7 Villainous Endgame
@@ -3096,7 +3164,7 @@
 	4 Streetlight Psychosis
 	4 Nissa, Out of Place
 	4 Decorated Constable
-	4 Reader and Weeper
+	4 Hellpocket Highroller
 	4 Sidestreet Sucker
 	4 Zenith of Exuberance
 	4 Qiangliang
@@ -3154,5 +3222,3 @@
 	15 Copper Street Ride or Die
 	7 The Fisher Who Caught A Kraken
 	7 The Hour of Heroes
-	6 !Draft
-	6 !Place Names

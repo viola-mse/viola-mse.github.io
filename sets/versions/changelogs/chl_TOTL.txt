@@ -1,4 +1,960 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Fwun Sah Invoker added.
+Baak Gai Lookout added.
+Yat Street Colleague added.
+Pale Voidjaw added.
+Rooftop Bloodwing added.
+Trip to Nowhere added.
+Forbidden Exorsister Technique added.
+Lou Waan Invoker added.
+Laam Gaai Loiterer added.
+Featherflutter Leng Zai added.
+Grizzled Gumshoes added.
+Cephalid Sophomore added.
+Ghostfish added.
+Rise Above added.
+Lucky Tile added.
+Altimancy added.
+Come Typhoons and Heavy Rains added.
+Tsin Shui Invoker added.
+Corporate Bloodsucker added.
+Haak Gaai Gourmands added.
+Backalley Darklimb added.
+Skyblot Maw added.
+Kaigun Mansion Guides added.
+Gambler's Last Roll added.
+Rumourmonging added.
+Ancestseer's Immolation added.
+Sei Street Carver added.
+Naau Gok Invoker added.
+Hung Gaai Hotshot added.
+Tuftear Denizen added.
+Garrison Veteran added.
+Gutterclaw added.
+The Craziest Night Ever added.
+Flaresnap added.
+Zaai Sing Invoker added.
+Gutsy Ghostchaser added.
+Luk Gaai Pair added.
+Octogram Tracer added.
+Your Strength Conquers All added.
+Run the Neon Labyrinth added.
+Incense Automaton added.
+Ripchain Helm added.
+Neighbourhood Loop Line added.
+Loong Uk Bottomfeeder added.
+Leuk Street Tagger added.
+Cloudcrawler added.
+Late-night Spread added.
+Tetrad Council Summit added.
+Our Grip Clenches Tightly added.
+Decoy Jiangshi added.
+Yi Street Hatchling added.
+Tsat Street Commuter added.
+Thirst for Action added.
+Shell of a Ghost added.
+Curated Display added.
+The Girl Who Hugged A Cloud added.
+Their Endless Forms Contort added.
+Innocuous Jiangshi added.
+Tepid Middle Manager added.
+Serial Offender added.
+Tetrad Recruiter added.
+Gutter Line Cyclops added.
+Cadavermancy added.
+Drown in Smoke added.
+Haunted Elevator Shaft added.
+Jiangshi Reveler added.
+Mou Sze Dancer added.
+Kau Street Luckmonger added.
+Hi-score Junkie added.
+Lanternlight Rendezvous added.
+Your Will Eviscerates All added.
+Curious Jiangshi added.
+Zaai Sing Curio Hawker added.
+Goldmane Dancer added.
+Ng Street Local added.
+Zaai Sing Eccentric added.
+Jade Child of Zhongdu added.
+Flameblade Elder added.
+Fwun Sah Taan Everyman added.
+Precinct Eight Captain added.
+Tetrad Dragoncloak added.
+Gau Yi Ride or Die added.
+Commuting Arcanist added.
+Cha Siu Butcher added.
+Frightsteel Amalgam added.
+Junker's Crossbow added.
+Whitesmoke Jar added.
+Twisting Cityscape added.
+Feel Her Angelic Caress added.
+Otherworld Aegis added.
+Tiger Point Soothsayer added.
+placeholder 1 added.
+placeholder 2 added.
+placeholder 3 added.
+Meeting with the Ambassador added.
+Den of Thieves added.
+placeholder 4 added.
+placeholder 5 added.
+Trumpt of the Void added.
+Terre-haute Financier added.
+Rubbersludge Grinder added.
+Exorbrother's Judgement added.
+Villain's Downfall added.
+Wong Tsin-man added.
+Hei Foon-nei added.
+placeholder 6 added.
+placeholder 8 added.
+placeholder 7 added.
+Lau Dak-wah added.
+placeholder 9 added.
+placeholder 19 added.
+placeholder 42 added.
+tapland 1 added.
+tapland 2 added.
+tapland 3 added.
+tapland 4 added.
+tapland 5 added.
+Deepstar Passage added.
+Twilight Confluence added.
+Sunset Outlook added.
+placeholder 81 added.
+Proudscale Descendant added.
+Aspects of the Ancestors added.
+Your Harshest Critic added.
+Manifest Shadow added.
+placeholder 83 added.
+placeholder 69 added.
+Soulscour added.
+Backstreet Girls added.
+Yesteryear Abyss added.
+
+Naau Gok Arcanist removed.
+Cong Baak Skymaw removed.
+Tsim Sha Gourmands removed.
+Lok Seoi Gumshoes removed.
+Decoy Doll removed.
+Kaigun Quarter Guide removed.
+Wire Bodhisattva removed.
+Naau Gok Carver removed.
+Impromptu Exorcism removed.
+Heung Street Tagger removed.
+Midtower Lookout removed.
+Seraphic Bloodwing removed.
+Clanging Steel removed.
+Nowhere Trip removed.
+Purple Line Whispermonger removed.
+Elevator Octopus Girl removed.
+Peephole Peekers removed.
+Constructed Cetacean removed.
+Pocketshine removed.
+Reflection removed.
+Lost in the Crowd removed.
+Foxhair Denizen removed.
+Kaigun Quarter Hotshot removed.
+Redgate Ringer removed.
+Tetrad Capo removed.
+Kaigun Infantry Veteran removed.
+Haak Gaai Dealer removed.
+Energy Drainer removed.
+Shadow of Woe removed.
+Tetrad Shotcaller removed.
+Crawling Shadow removed.
+Gutsy Student removed.
+Lou Waan Curio Dealer removed.
+Lou Waan Vigilante removed.
+Lost Technique Punch removed.
+Neon Gaze removed.
+Mimic removed.
+Futuristic Hoverbike removed.
+Derelicts Denizen removed.
+Lau Waan Exorsister removed.
+After Crew removed.
+Scrapbeak removed.
+Laam Lung Channeler removed.
+Haak Gaai Headhunter removed.
+Interurban Gridlock removed.
+Grace Me With Your Presence removed.
+Red Pocket Delivery removed.
+Ming Yue's Lucky Tile removed.
+Brown Line Cyclops removed.
+Buck-Toothed Bloodfiend removed.
+Drowsy Jiangshi removed.
+Solitary Exorsister removed.
+Neighbourhood Loop Bus removed.
+Duress removed.
+Hero's Downfall removed.
+Id Drain removed.
+Bloodnote Belcher removed.
+Maw of the Pious removed.
+Hung Gaai Rumourmonger removed.
+Not My Monkeys removed.
+Fwun Sah Eccentric removed.
+Curiosity Cabineteer removed.
+Lost Hatchling removed.
+Collected Casting removed.
+Street Food Break removed.
+Copper Street Ruffian removed.
+Kaigun Quarter Everyman removed.
+Precinct Eight Deskjockey removed.
+Dragoncloak Scoundrel removed.
+Purple Line Arcanist removed.
+Cha Siu Street Butcher removed.
+Warped Cityscape removed.
+Arcade Crane Game removed.
+Ancestral Altar removed.
+Coinball removed.
+Sunset Classroom removed.
+Deepstar Generator removed.
+Twilight Canteen removed.
+Under the Spotlight removed.
+Hallowed Be Thy Touch removed.
+Waan Tin Soothsayer removed.
+Spin Cycle removed.
+Follow the Crowd removed.
+Creeping Darkness removed.
+Omnicidal Teen removed.
+Shatter Soul removed.
+Apex Terror removed.
+Hei Foon Nei removed.
+Tetrad Kingpin removed.
+Aria of Blood removed.
+Kanpai! removed.
+Luk Gaai Ancestseer removed.
+Zodiac Throng removed.
+Rubbertorch Motorist removed.
+Omnicephalys removed.
+Fatal Finale removed.
+Fangcurl Denizen removed.
+Friend of the Departed removed.
+Nissa, Out of Place removed.
+Decorated Constable removed.
+Sidestreet Sucker removed.
+Zenith of Exuberance removed.
+Their Eons Ought Be Forgotten removed.
+Rumour Milling removed.
+Flametend removed.
+Eighty Thousand Point Gamble removed.
+Daring Acrobatics removed.
+Audience with the Ambassador removed.
+Tetrad Newblood removed.
+Tetrad Hooligan removed.
+The Girl Who Ate an Angel removed.
+The Soul Who Cheated Death removed.
+Garrotte removed.
+Exorcist's Judgement removed.
+The Student Who Touched A Cloud removed.
+Tetragram Tracer removed.
+The Sailor Who Tamed A Shark removed.
+The Warrior Maids of Haute Manor removed.
+Trawl the Resonet removed.
+Fu Luk Hoarder removed.
+Floating Voidjaw removed.
+City's Blessing removed.
+Highrise Hustler removed.
+Copper Street Ride or Die removed.
+Snake removed.
+Spirit removed.
+Toy removed.
+Monkey removed.
+Dragon Illusion removed.
+
+Shrineguard Lion
+
+Lowrise Line Cook
+cost: {W} => {1}{W}
+rules_text: When this creature enters, you gain 1 life.
+{W}, Exile this card from your graveyard: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” => Lifelink
+Whenever one or more cards leave your graveyard, you gain 2 life and another target creature you control gets +1/+1 until end of turn.
+pt: 1/1 => 2/2
+
+Frostwhip Siu Tse
+cost: {2}{W} => {1}{W}
+pt: 2/2 => 1/3
+
+Salaried Seraph
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Flying
+As long as you have the city's blessing, this creature gets +2/+0. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Flying
+Whenever this creature attacks, if you have the city's blessing, put a +1/+1 counter on this creature.
+
+Slacking Sergeant
+rules_text: [i][i]Dynamic[/i][/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, up to two target creatures each get +1/+1 until end of turn. => When this creature enters, create a 1/1 white Employee creature token with “{T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.”
+[i][i]Dynamic[/i][/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, you gain 1 life.
+pt: 3/2 => 2/2
+
+Determined Vigilante
+cost: {2}{W} => {4}{W}
+rules_text: Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+{3}{W}: Return this card from your graveyard to the battlefield with a finality counter on it. It can't block this turn. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => Whenever one or more cards leave your graveyard during your turn, this creature gets +1/+1 until end of turn.
+Whenever one or more cards leave your graveyard during your turn, if this card is in your graveyard, you may return it to your hand.
+pt: 2/2 => 4/4
+
+Golden Revolver
+rules_text: Flash
+When this artifact enters, it deals 3 damage to up to one target attacking or blocking creature.
+Equipped creature gets +1/+1.
+Equip {2}. => Flash
+When this artifact enters, it deals 3 damage to up to one target attacking or blocking creature.
+Equipped creature gets +1/+1.
+Equip {2}
+
+Its Fangs Are Sharp as Knives
+rules_text: Put a +1/+1 counter on up to one target creature or the Horror you besought. That creature gains first strike until end of turn.
+Beseech {4}{W}{W} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Put a +1/+1 counter and a first strike counter on target creature or on the Horror you besought.
+Beseech {4}{W}{W} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Motorized Private Eye
+cost: {1}{U} => {3}{U}
+rules_text: Vigilance
+This creature gets +2/+0 if you've surveiled this turn. => Whenever you surveil, put a +1/+1 counter on this creature. It gains vigilance until end of turn.
+pt: 1/2 => 3/3
+
+Next Century Anxiety
+type: Artifact Creature — Eye Horror => Creature — Eye Horror
+rules_text: Flying
+Whenever this creature enters or attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This creature gets +1/+1 for each card you looked at while surveiling this turn. => Flying
+As this creature enters, you may activate one of its activated abilities without paying the cost.
+{2}{U}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 3/3 => 3/4
+
+Moongorger
+type: Creature — Horror => Creature — Ox Horror
+cost: {6}{U} => {4}{U}{U}
+rules_text: Vigilance
+When this creature enters, if you cast it, draw a card.
+{4}{U}: Return this card from your graveyard to the battlefield with a finality counter on it. It can't block this turn. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => This spell costs {1} less to cast if you control an artifact and costs {1} less to cast if you control an enchantment.
+When this creature enters, draw a card.
+This creature gets +1/+1 for each card you looked at while surveiling this turn.
+pt: 4/5 => 4/4
+
+Your Thousand Eyes See All
+type: Sorcery => Instant
+rules_text: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Beseech {3}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Beseech {4}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Constrain
+cost: {2}{U} => {U}
+rules_text: Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+{3}{U}: Shuffle enchanted creature into its owner's library. Activate only as a sorcery. => Enchant creature
+Enchanted creature loses all abilities and is a 1/1 blue Student creature with vigilance.
+{1}{U}: Enchanted creature's owner puts it on the top or bottom of their library.
+
+Dark Alley Occultist
+rules_text: When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{2}{B}: Each opponent loses 1 life and you gain 1 life. => When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{2}{B}: Target opponent loses 1 life and you gain 1 life.
+pt: 1/1 => 1/2
+
+Ragged Beat Cop
+rules_text: When this creature enters, you may pay 2 life. If you do, or if you control a Horror, draw a card. => [i][i]Dynamic[/i][/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, you gain 3 life.
+Whenever you spend four or more mana to cast a spell or activate a nonmana ability, put a +1/+1 counter on this creature.
+
+Blightrazer
+type: Creature — Horror => Creature — Elk Horror
+cost: {4}{B}{B} => {5}{B}{B}
+rules_text: When this creature enters, each other creature gets -2/-2 until end of turn. => Affinity for Horrors [i](This spell costs {1} less to cast for each Horror you control.)[/i]
+Menace
+When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+pt: 2/3 => 5/5
+
+Disparage
+
+Glory Be To Your Radiant Scales
+rules_text: Up to one target creature gains deathtouch until end of turn.
+Beseech {4}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Put a deathtouch counter on target creature or on the Horror you besought.
+Beseech {3}{B}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Botched Job
+rules_text: Destroy target creature.
+[i]Dynamic[/i] — If you attacked with exactly two creatures or activated two or more nonmana abilities this turn, that creature's controller loses 2 life. => This spell costs {1} less to cast for each card you looked at while surveiling this turn.
+Destroy target creature.
+
+Hauntroom Consultant
+cost: {3}{R} => {2}{R}
+rules_text: When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card. => When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{2}{R}, Discard a card or sacrifice an artifact: Draw a card.
+
+Brighthorn Itinerant
+cost: {1}{R} => {2}{R}
+rules_text: [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, up to two target creatures each get +1/+0 until end of turn. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+As long as you have the city's blessing, this creature gets +2/+2 and has trample.
+pt: 2/2 => 3/2
+
+Melting Grimace
+type: Creature — Horror => Creature — Ooze Horror
+cost: {5}{R} => {4}{R}{R}
+rules_text: This spell costs {2} less to cast if one or more cards left your graveyard this turn.
+Menace => This spell costs {2} less to cast if one or more cards left your graveyard this turn.
+Menace
+Whenever this creature attacks, you may exile a card from your graveyard. If you do, it gets +2/+0 until end of turn.
+
+Ghost Chit Ignition
+cost: {2}{R} => {R}
+rules_text: This spell deals 3 damage to any target.
+Create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => As an additional cost to cast this spell, you may exile a card from your graveyard.
+This spell deals 2 damage to target creature. If you paid the additional cost, it deals 3 damage instead.
+
+Its Thirst is Unquenchable
+
+Tetrad Tactics
+rules_text: Choose one —
+• Destroy target artifact.
+• Create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.” => Choose one —
+• Destroy target artifact.
+• Create a 1/1 black Rogue creature token with “When this creature dies, target opponent loses 1 life.”
+
+Bloodwhip
+cost: {4}{R} => {3}{R}
+rules_text: This spell deals 6 damage to any nonplayer target.
+{3}{R}, Exile this card from your graveyard: It deals 2 damage to target player. Activate only as a sorcery. => This spell deals 6 damage to any nonplayer target.
+{3}{R}, Exile this card from your graveyard: It deals 3 damage to target player.
+
+Rainy Alley Devil
+type: Creature — Horror => Creature — Monkey Horror
+cost: {2}{G} => {1}{G}
+rules_text: This creature gets +1/+1 as long as you control another Horror.
+{4}{G}: Target Horror you control gets +2/+2 and gains trample until end of turn. Activate only as a sorcery. => Deathtouch
+As this creature enters, you may activate one of its nonmana abilities without paying the cost.
+{4}{G}: Another target creature you control gains deathtouch until end of turn. Activate only as a sorcery.
+pt: 3/2 => 2/2
+
+Work Horse
+rules_text: {4}{G}, Sacrifice this creature: Put four +1/+1 counters on target creature. Activate only as a sorcery.
+{3}{G}, Exile this card from your graveyard: Draw a card. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Vigilance
+When this creature enters and at the beginning of your upkeep, if you have the city's blessing, put a +1/+1 counter on this creature.
+
+Rockmaw
+cost: {1}{G} => {3}{G}
+rules_text: Trample
+{T}: Add {G}. If you control another Horror, add {G}{G} instead. => Trample
+Whenever another Horror you control enters, put a +1/+1 counter on that creature.
+pt: 2/2 => 4/3
+
+Tetrad's Hammer
+type: Creature — Human Warrior Rogue => Creature — Human Rogue Warrior
+rules_text: Trample
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, other creatures you control gain trample until end of turn. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature and up to one other target creature each get +1/+1 and gain trample until end of turn.
+
+Precinct Eight Muscle
+cost: {2}{G}{G} => {5}{G}
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature gets +1/+1 and gains trample until end of turn. => When this creature enters, create a 1/1 white Employee creature token with “{T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.”
+{G}: Put this card from your hand onto the battlefield, then shuffle it into your library.
+pt: 4/4 => 5/5
+
+Steelheight Horror
+type: Creature — Horror => Creature — Spider Horror
+rules_text: This spell costs {1} less to cast for each token you control.
+Reach
+This creature can't be blocked by creatures with power 2 or less. => Affinity for creatures [i](This spell costs {1} less to cast for each creature you control.)[/i]
+Reach
+This creature can't be blocked by creatures with power 2 or less.
+
+Hirsute Haymaker
+cost: {G} => {1}{G}
+rules_text: [i]Dynamic[/i] — If you attacked with exactly two creatures or activated two or more nonmana abilities this turn, target creature you control gets +2/+2 until end of turn. Then it deals damage equal to its power to up to one other target creature. => Choose one —
+• Up to two target creatures you control each deal damage equal to their power to another target creature.
+• Put a +1/+1 counter on each of up to two target creatures.
+
+Skyscrape
+
+Raining Frogs and Toads
+type: Enchantment — Saga => Enchantment — Case
+cost: {2}{G} => {1}{G}
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+Put a +1/+1 counter on up to one target creature.
+​ => 
+When this Case enters, look at the top five cards of your library. You may reveal a land or creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+To solve — You control four or more creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, put a +1/+1 counter on target creature you control.
+
+
+Wind-up Jiangshi
+cost: {2}{R} => {3}
+rules_text: Haste
+At the beginning of your upkeep, tap this creature unless you pay {C}.
+When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+At the beginning of your upkeep, tap this creature unless you pay {C}.
+pt: 2/2 => 3/2
+
+Mobile Monitor
+cost: {4}{U} => {4}
+rules_text: Defender
+When this creature enters, surveil 2.
+{3}{U}: This creature can attack as though it didn't have defender this turn. => When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{4}: Put target card from a graveyard on the bottom of its owner's library. Activate only as a sorcery.
+pt: 4/4 => 3/4
+
+Mark of Good Fortune
+rules_text: {T}: Add {C}.
+{T}: Add one mana of any color. This mana can't be spent to cast spells from your hand.
+{8}, {T}, Sacrifice this artifact: Draw two cards. You gain 8 life. => {T}: Add {C}.
+{T}: Add one mana of any color. This mana can't be spent to cast spells from your hand.
+{8}, Sacrifice this artifact: Draw two cards. You gain 8 life.
+
+Jiangshi Throng
+cost: {4}{W} => {2}{W}
+rules_text: When this creature enters, if you cast it, you may activate one of its nonmana abilities without paying the cost.
+{2}{W}: Search your library for a card named Jiangshi Throng, put it onto the battlefield, then shuffle. That creature can't block this turn. => When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+At the beginning of your upkeep, tap this creature unless you pay {C}.
+When this creature dies, search your library for a card named Jiangshi Throng, reveal it, put it into your hand, then shuffle.
+pt: 2/2 => 3/2
+
+Ancestral Blessing
+cost: {3}{W} => {1}{W}
+rules_text: Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+{G}, Exile this card from your hand: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” You may cast this card from exile on a later turn. => Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+{1}{U}, Discard this card: Create a 1/1 blue Student creature token with vigilance.
+You may cast this spell from your graveyard. If you do, it enters with a finality counter on it.
+
+Relaxed Rookies
+rules_text: [i][i]Dynamic[/i] [/i]— Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on up to one target creature. => [i][i]Dynamic[/i] [/i]— Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on target creature you control.
+
+Sophomore Exorsister
+type: Creature — Human Shaman => Creature — Human Student Shaman
+rules_text: Flash
+When this creature attacks or blocks for the first time, it gains indestructible until end of turn. => Flash
+When this creature attacks for the first time, it gains indestructible until end of turn.
+This creature has hexproof if it hasn't dealt damage yet.
+
+Fwun Sha Drycleaner
+cost: {2}{W} => {3}{W}
+rules_text: Whenever this creature enters or attacks, you may exile up to one target card from a graveyard. If it's a card you own, you may shuffle it into your library.
+Whenever a card leaves your graveyard during your turn, you gain 1 life. => Whenever this creature enters or attacks, you may exile up to one target card from a graveyard. If it's a card you own, you may put it on the bottom of your library.
+Whenever a card leaves your graveyard during your turn, you gain 1 life.
+pt: 3/2 => 3/4
+
+Obviate
+cost: {W} => {1}{W}
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Exile target creature if it has mana value 1 or less or if you have the city's blessing. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Exile target creature if it has mana value 2 or less or if you have the city's blessing.
+
+Fangclaw Caller
+cost: {3}{U} => {2}{U}
+rules_text: When this creature enters, if you control an artifact and an enchantment, you may activate one of this creature's nonmana abilities without paying its cost.
+{2}{U}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{3}{B}, Pay 1 life: Draw a card.
+pt: 3/3 => 2/3
+
+Yih Wu Fiddler
+type: Creature — Human Performer => Creature — Human Bard
+rules_text: [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, choose one —
+• You may tap an untapped creature you control. If you do, draw a card.
+• Tap up to one target creature and put a stun counter on it. => [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, choose one —
+• Untap target creature you control.
+• Tap target creature and put a stun counter on it.
+
+Maan Tsau Beholder
+rules_text: This spell costs {1} less to cast for each card you looked at while surveiling this turn.
+{7}{U}: Create a 4/3 colorless Horror creature token. It can't block this turn. This ability costs {1} less to activate for each card you looked at while surveiling this turn. => This spell costs {1} less to cast for each card you looked at while surveiling this turn.
+When this creature dies, create a 4/3 colorless Horror creature token.
+
+Sick Moves
+rules_text: Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof until end of turn.
+[i]Dynamic[/i] — Enchanted creature can't be blocked as long as you attacked with exactly two creatures or activated two or more nonmana abilities this turn. => Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof until end of turn.
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, enchanted creature can't be blocked this turn.
+
+Stop
+rules_text: Choose one —
+• Counter target spell.
+• Counter target spell that wasn't cast from its owner's hand. Draw a card.
+• Counter target activated or triggered ability. Draw a card. => Counter target spell, activated ability or triggered ability. Draw a card unless a spell that was cast from its owner's hand was countered this way.
+
+Obscene Mass
+type: Creature — Horror => Creature — Beast Horror
+cost: {3}{G} => {4}{B}{B}
+rules_text: Trample
+{1}{B}, Sacrifice a nonland permanent: Put a +1/+1 counter on this creature. If the sacrificed permanent was a Horror, put X +1/+1 counters on this creature instead, where X is the sacrificed Horror's power. Activate only as a sorcery. => As an additional cost to cast this spell, you may sacrifice a nonland permanent. If you do, it costs {X} less to cast, where X is that permanent's mana value.
+Menace, trample
+When this creature enters, if its additional cost was paid, you lose 2 life and draw a card.
+pt: 4/3 => 6/7
+
+Disvertebrate
+cost: {1}{B} => {B}
+rules_text: Target creature gets -5/-5 until end of turn.
+At the beginning of the next end step, you lose 2 life unless you pay {1}. => Target creature gets -5/-5 until end of turn.
+When that creature dies this turn, you lose 4 life unless you pay {2}.
+
+Spiritual Dispute
+
+Her Gaze Pierces All Veils
+rules_text: Each opponent discards a card.
+Beseech {4}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Target opponent discards a card.
+Beseech {3}{B}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Paper Pusher Pyromaniac
+rules_text: When this creature enters, it deals 3 damage to up to one target creature.
+{3}{R}{R}: This creature deals 1 damage to each opponent. => When this creature enters, it deals 3 damage to any target.
+{4}{B}: This creature deals 2 damage to target opponent.
+
+Two-headed Crawler
+type: Creature — Horror => Creature — Beast Horror
+rules_text: Double strike
+{2}{R}, Discard this card: Target creature gains double strike until end of turn. => Double strike
+{1}{R}, Discard this card: Target creature gains double strike until end of turn.
+
+Act on Rumour
+rules_text: Mill three cards. You may play those cards until your next end step. At the beginning of your next end step, for each card you didn't play this way, shuffle it into your library. That card deals 1 damage to each opponent. => Mill three cards. You may play them this turn.
+
+Collapse
+
+Shopping Spree
+cost: {4}{R} => {1}{R}{R}{R}
+rules_text: Mill three cards. Until the end of your next turn, you may play those cards.
+Create three tapped Talisman tokens. [i](They're artifacts with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => Create three Talisman tokens. [i](They're artifacts with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+Talismans you control gain “{T}: Add {C}.” until end of turn.
+
+The Girl Who Literally Blew Up
+type: Enchantment — Saga => Enchantment — Case
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.”
+You may sacrifice a creature. If you do, this Saga deals damage equal to the sacrificed creature's power to any target.
+​ => 
+When this Case enters, create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.”
+To solve — You sacrificed a creature this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, this Case deals 1 damage to target opponent.
+
+
+Fire in the Hole
+cost: {2}{R} => {1}{R}
+rules_text: When this enchantment enters, it deals 3 damage to up to one target.
+{1}{R}: Two target creatures you control each get +1/+0 until end of turn. Activate only as a sorcery. => When this enchantment enters, it deals 3 damage to any target.
+{1}{R}: Two target creatures you control each get +1/+0 until end of turn. Activate only as a sorcery.
+
+Boomcase Trooper
+cost: {1}{G} => {G}
+rules_text: Vigilance, reach
+When this creature enters, put a +1/+1 on target creature.
+{2}{G}: Put a +1/+1 counter on target creature without a counter on it. Activate only as a sorcery. => Vigilance, reach
+{2}{R}: If this creature doesn't have decayed, it gets +5/+0 and gains trample, haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Rumour Eater
+cost: {2}{G} => {3}{G}
+rules_text: When this creature enters, destroy up to three target artifacts and/or enchantments with total mana value 3 or less.
+{1}, Sacrifice an artifact or enchantment: Put a +1/+1 counter on this creature. This ability costs {1} more to activate for each +1/+1 counter on this creature. => When this creature enters, destroy up to four target artifacts and/or enchantments with total mana value 4 or less.
+Sacrifice an artifact or enchantment: Put a +1/+1 counter on this creature. This ability costs {1} more to activate for each +1/+1 counter on this creature.
+
+Tower Block Goliath
+type: Creature — Horror => Creature — Giant Horror
+
+Tetrad's Fist
+type: Creature — Human Warrior Rogue => Creature — Human Rogue Warrior
+rules_text: When this creature enters, it fights up to one other target creature.
+{1}{G}, Discard this card or sacrifice this creature: Destroy target enchantment or artifact. Activate only as a sorcery. => When this creature enters, it fights up to one target creature.
+Whenever you attack with exactly two creatures, if this creature isn't attacking and didn't enter this turn, you may have it become tapped and attacking.
+pt: 3/3 => 4/4
+
+Eightwind Nineshield
+cost: {1}{W} => {1}{G}
+rules_text: Target creature gets +2/+2 until end of turn.
+Create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => Target creature gets +2/+2 and gains hexproof until end of turn.
+Create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+
+A Small Gesture
+rules_text: Choose one —
+• Return target permanent card from your graveyard to your hand.
+• Target creature gets +2/+2 and gains reach until end of turn. => Choose one —
+• Return target permanent card from your graveyard to your hand.
+• Target creature gets +3/+4 and gains reach until end of turn.
+
+Your Hunger Growls Echo
+cost: {2}{G} => {1}{G}
+rules_text: You gain 5 life.
+Beseech {6}{G} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => You gain 5 life.
+Beseech {3}{G}{G} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Joss Twig Tender
+rules_text: When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{2}{B}{R}: Target creature that's not attacking gains menace and lifelink until end of turn. => When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{2}{B}{R}: Target creature gains menace and lifelink until end of turn. Activate only as a sorcery.
+
+Softear Restauranteur
+rules_text: Whenever this creature enters or attacks, shuffle up to one target card from your graveyard into your library.
+During your turn, this creature gets +1/+0 for each card that left your graveyard this turn. => Whenever this creature enters or attacks, put up to one target card from your graveyard onto the bottom of your library.
+During your turn, this creature gets +1/+0 for each card that left your graveyard this turn.
+
+Invisible Skulker
+rules_text: Whenever you surveil, this creature can't be blocked until end of turn.
+Whenever this creature deals combat damage to a noncreature permanent or player, draw a card. => Whenever you surveil, this creature can't be blocked until end of turn.
+Whenever this creature deals damage to a noncreature permanent or player, draw a card.
+
+Citysight Guide
+rules_text: Whenever this creature attacks, you may tap any number of untapped tokens you control. This creature gets +1/+1 until end of turn for each token tapped this way.
+{3}{G}{W}: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” => Whenever this creature attacks, you may tap X untapped creatures you control. If you do, this creature gets +X/+X until end of turn.
+{3}{G}{W}: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.”
+
+Ambitious Phlebotomist
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+As long as you have the city's blessing, this creature has flying and lifelink.
+Whenever this creature deals combat damage to a noncreature permanent or player, you may pay 2 life. If you do, draw a card. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+As long as you have the city's blessing, this creature has flying and lifelink.
+Whenever this creature deals damage to a noncreature permanent or player, you may pay 2 life. If you do, draw a card.
+
+Derelicts Hexapod
+rules_text: This spell costs {1} less to cast for each Horror you control.
+Trample
+Other Horrors you control have trample. => Affinity for Horrors [i](This spell costs {1} less to cast for each Horror you control.)[/i]
+Trample
+Other Horrors you control have trample.
+
+Dreambreacher
+rules_text: Flying, trample
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Draw a card.
+{G}{U}: Put this card from your hand onto the battlefield, then exile it. You may cast it from exile on a later turn. => Flying, trample
+When this creature enters, draw a card. You may play an additional land this turn.
+{1}{G}{U}: Put this card from your hand onto the battlefield, then shuffle it into your library.
+
+Ambulating Apartment
+cost: {6} => {5}
+
+Backalley Juicesuit
+rules_text: Whenever equipped creature attacks, put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Equipped creature gets +3/+3 and has menace.
+Equip {2}. This ability costs {2} less to activate if this Equipment entered this turn. => Whenever equipped creature attacks, put a stun counter on it.
+Equipped creature gets +3/+3 and has menace.
+Equip {2}. This ability costs {2} less to activate if this Equipment entered this turn.
+
+Rubbersludge Cab
+cost: {3} => {2}
+rules_text: Haste
+Whenever this Vehicle attacks, mill a card. You may play it until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flash
+Haste
+During your turn, this Vehicle has first strike.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 3/2 => 3/3
+
+Skyward Vista
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+{T}: Add {C}.
+{T}: Add {C}{C}. Activate only if you have the city's blessing. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. This ability costs {1} less to activate if you have the city's blessing.
+
+Cramped Archive
+rules_text: {T}: Add {C}.
+{3}, Discard this card or sacrifice this land: Draw a card and create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => {T}: Add {C}.
+{1}, Discard this card: Search your library for a basic land card, reveal it and put it into your hand, then shuffle.
+{2}, {T}, Sacrifice this land: Draw a card.
+
+Regret of a Long-Gone Girl
+rules_text: Flash
+If a creature not named Regret of a Long-Gone Girl you control would die, exile it instead.
+When this creature dies, return each creature card exiled with it to the battlefield. => Flash
+If a creature not named Regret of a Long-Gone Girl you control would die, exile it instead.
+When this creature dies, return each creature card exiled with it to the battlefield under its owner's control.
+
+Casting Call
+
+Your Ancestral Mind Recalls All
+cost: {4}{U}{U} => {3}{U}{U}
+rules_text: Draw three cards.
+You have no maximum hand size for the rest of the game.
+Beseech {7}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Draw three cards.
+Beseech {7}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+The Fisher Who Caught A Kraken
+type: Enchantment — Saga => Enchantment — Case
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Return up to one target creature that's not a Kraken, Leviathan, Octopus or Serpent to its owner's hand.
+Create a 1/1 blue Fish creature token. If you cast this Saga as an urban legend, create a 4/4 blue Octopus creature token instead.
+​ => When this Case enters, 
+​
+​
+
+Revel in Its Cold Embrace
+cost: {2}{U} => {2}{B}
+rules_text: Search your library for a Horror or Octopus card, reveal it, put it into your hand, then shuffle.
+Beseech {5}{U}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Search your library for a Kraken, Leviathan, Octopus, Serpent or Horror card, reveal it, put it into your hand, then shuffle.
+Beseech {5}{B}{B}{B} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Walking Singularity
+type: Creature — Horror => Creature — Eye Horror
+rules_text: This creature gets +1/+1 for each spell named Walking Singularity you cast this game. [i](Including this one.)[/i]
+{1}{B}, Sacrifice this creature: Exile target creature or enchantment with mana value equal or less than this creature's power. => This creature enters with a +1/+1 counter on it for each spell named Walking Singularity you cast this game. [i](Including this one.)[/i]
+{1}{B}, Sacrifice this creature: Exile target creature or enchantment with mana value equal or less than this creature's power.
+
+Villainous Endgame
+cost: {3}{B}{B} => {2}{B}{B}
+
+The Director's Cut
+type: Enchantment — Saga => Enchantment — Case
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types and has haste. Sacrifice it at the beginning of the next end step.
+You may discard a card. If you do, draw a card.
+​ => 
+When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control.
+
+
+Lavabat Hooligan
+rules_text: [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature gets +1/+0 for each creature you control that's not attacking until end of turn.
+{R}, Discard a card: Draw a card. Activate only once each turn. => Haste
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.
+{1}{R}, Discard a card: Draw a card. Activate only once each turn.
+
+The Hour of Heroes
+type: Enchantment — Saga => Enchantment — Case
+cost: {W}{U}{B}{R}{G} => {G}
+special_text: Urban legend [i](You may cast this card from your graveyard. If you do, reverse the chapter order and exile after I.)[/i]
+D — Search your library for a legendary card, reveal it, put it into your hand, then shuffle.
+Put a legendary card from your hand onto the battlefield.
+Legendary creatures you control gain vigilance, flying, deathtouch, menace and trample until end of turn. => 
+As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.
+
+
+Mirrored Past
+rules_text: Whenever you play a land from your graveyard, copy it.
+Whenever you cast a spell from your graveyard, copy it. You may choose new targets for the copy.
+Whenever you activate a nonmana ability of a card in your graveyard, copy that ability. You may choose new targets for the copy. => Whenever you play a land from your graveyard, create a token that's a copy of it.
+Whenever you cast a spell from your graveyard, copy it. You may choose new targets for the copy.
+Whenever you activate a nonmana ability of a card in your graveyard, copy that ability. You may choose new targets for the copy.
+
+Smith & Nguyen
+rules_text: When Smith & Nguyen enter, choose another nonland card name. Spells with the chosen name can't be cast.
+[+1]: Smith & Nguyen gain vigilance until end of turn.
+[-2]: Draw a card. => As Smith & Nguyen enter, choose another nonland card name. Your opponents can't cast spells with the chosen name.
+[+1]: Smith & Nguyen gain vigilance until end of turn.
+[-2]: Draw a card.
+
+Laai Ban Jyu & Mystery Girl
+rules_text: Vigilance, menace
+[+1]: Exile up to one target card from your graveyard. If a permanent card was exiled this way, put a +1/+1 counter on Laai Ban Jyu & Mystery Girl.
+[-2]: You may cast an instant or sorcery card from among cards exiled with Laai Ban Jyu & Mystery Girl until end of turn. => As long as you cast two or more instant and/or sorcery spells this turn, Laai Ban Jyu & Mystery Girl can't be blocked.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return target instant or sorcery card from your graveyard to your hand.
+
+Akane & Kurone
+rules_text: [+1]: You may pay 3 life. If you do, put a loyalty counter on Akane & Kurone. Repeat this process with discarding a card and sacrificing a nonland permanent.
+[-2]: Each opponent loses 3 life, discards a card and sacrifices a nonland permanent. => Menace
+[+1], Pay 3 life, discard a card or sacrifice a nonland permanent: Target opponent loses 3 life, discards a card and sacrifices a nonland permanent.
+[-2]: You gain 3 life, draw a card and create a tapped Treasure token.
+
+Siu Coeng & Daai Paau
+rules_text: [+1]: Up to one target creature gains trample and haste until end of turn.
+[-2]: Siu Coeng & Daai Paau deals 2 damage to any target. => Haste
+[+1]: Target creature gains vigilance and trample until end of turn.
+[-2]: Siu Coeng & Daai Paau deal 2 damage to any target.
+pt: 4/3 => 3/3
+
+Qiao Xian & Qiao Hou
+
+Haak Faa & Baak Syut
+rules_text: When Haak Faa & Baak Syut enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+[0]: Put a loyalty counter on Haak Faa & Baak Syut for each Equipment attached to them.
+[-3]: Whenever Haak Faa & Baak Syut attacks this turn, for each Equipment attached to them, create a 1/1 white Spirit creature token that's tapped and attacking and a token that's a copy of that equipment attached to that Spirit. => When Haak Faa & Baak Syut enter, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+[+1]: Attach up to one target Equipment you control to Haak Faa & Baak Syut.
+[-3]: For each Equipment attached to Haak Faa & Baak Syut, create a token that's a copy of that Equipment.
+
+Siu Bau & Friendly Jiangshi
+rules_text: Whenever you sacrifice a Food, put a loyalty counter on Siu Bau & Friendly Jiangshi. They get +1/+1 until end of turn.
+[+1]: Create a Food token.
+[-2]: Each opponent loses 3 life. => Whenever you sacrifice a Food, Siu Bau & Friendly Jiangshi get +2/+2 until end of turn.
+[+1]: Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+[-2], Sacrifice a Food: You gain 3 life and draw a card.
+
+Mildred & Teresa
+rules_text: Whenever you put a lore counter on another permanent you control, put two loyalty counters on Mildred & Teresa.
+[-X]: You may cast target Saga card with mana value X or less from your graveyard without paying its mana cost. If you do, it enters with a finality counter on it. => When Mildred & Teresa enter, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+[+1]: Target enchantment you control becomes a 3/3 creature in addition to its other types and gains “When this creature dies, return it to its owner's hand.” until end of turn.
+[-2]: Create a token that's a copy of target enchantment you control.
+
+Hung Sin & Laam Jyut
+rules_text: When Hung Sin & Laam Jyut enter, gain control of up to one other target creature until end of turn. Untap that creature.
+[+1]: Up to one other target creature gains haste until end of turn.
+[-1]: Tap up to one target creature and put a stun counter on it. => When Hung Sin & Laam Jyut enter, gain control of up to one other target creature until end of turn.
+[+1]: Untap target creature. It gains haste until end of turn.
+[-1]: Tap target creature and put a stun counter on it.
+
+Dai Tse & Siu Mui
+type: Legendary Creature — Human Advisor => Legendary Creature — Human Rogue Advisor
+rules_text: Lifelink
+[+1]: Up to one target creature gets +X/+0 until end of turn, where X is the number of creatures you control.
+[-1]: Create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.” => Other Rogues and Employees you control get +1/+1.
+[+1]: Target creature gains haste and lifelink until end of turn.
+[-1]: Create a 1/1 black Rogue creature token with “When this creature dies, target opponent loses 1 life.”
+
+Tsoi Jam Mei Loi
+cost: {2}{U} => {1}{U}{R}
+rules_text: Flash
+When Tsoi Jam Mei Loi enters, exile up to one target instant or sorcery card in your graveyard. You may cast a copy of it this turn.
+Whenever you cast a noncreature spell from anywhere other than your hand, put a +1/+1 counter on Tsoi Jam Mei Loi. => Flash
+Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+When Tsoi Jam Mei Loi enters, exile up to one target instant or sorcery card from your graveyard. You may cast a copy of it. If you have the city's blessing, you may cast it without paying its mana cost.
+
+Urban Labyrinth
+cost: {4} => {2}
+
+Midnight Nook
+rules_text: This land enters tapped.
+{T}: Add {B} or {G}.
+{T}: Add one mana of any color. You can't spend this mana to cast spells from your hand. => {T}: Add {C}.
+{T}: This land becomes a Swamp and a Forest in addition to its other types. Activate only if this land isn't a Swamp or a Forest.
+
+Daybreak Platform
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{T}: Add one mana of any color. You can't spend this mana to cast spells from your hand. => {T}: Add {C}.
+{T}: This land becomes a Mountain and a Plains in addition to its other types. Activate only if this land isn't a Mountain or a Plains.
+
+Qiangliang
+
+She Hides Between Moments
+cost: {4}{U} => {2}{U}{U}
+rules_text: Copy up to one target spell or nonland permanent. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]
+Beseech {4}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Choose one—
+• Copy target instant or sorcery spell. You may choose new targets for the copy.
+• Create a token that's a copy of target nonland permanent. 
+Beseech {6}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Streetlight Psychosis
+
+Special Agent Ming Yue
+rules_text: Flash
+When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. For as long as that card remains exiled, its owner may play it. A spell cast by an opponent this way costs {2} more to cast. => Flash
+When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+
+Shadow of the Ninth Dragon
+
+Ambassador Oukijo
+special_text: Ascend; As long as you have the city's blessing, you may activate Oukijo's loyalty abilities an additional time each turn.
+[+1]: Create a 1/1 red Blood Homunculus artifact creature token with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”
+[-3]: Oukijo deals 3 damage to any target. If that target wasn't a creature, you gain 3 life.
+[-X]: Return target creature card with mana value X or less from your graveyard to the battlefield. => Ascend; As long as you have the city's blessing, you may activate Oukijo's loyalty abilities an additional time each turn.
+[+1]: Create a 1/1 red Blood Homunculus artifact creature token with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”
+[-3]: Oukijo deals 3 damage to any target. You gain 3 life.
+[-X]: Return target creature card with mana value X or less from your graveyard to the battlefield.
+
+Rogue
+rules_text: When this creature dies, each opponent loses 1 life. => When this creature dies, target opponent loses 1 life.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.

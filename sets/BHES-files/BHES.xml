@@ -1,0 +1,4270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>BHES</name>
+			<longname>Bauhinia: Eternal Spring</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-25</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Surreptitious Meeting</name>
+			<text>Gain control of up to one target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Mill a card. You may play that card from your graveyard until your next end step.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/150_Surreptitious Meeting.png" num="150">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Talonwing Countess</name>
+			<text>Flying
+Blossom — {5}: This creature gets +1/+1 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/74_Talonwing Countess.png" num="74">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rewrite</name>
+			<text>Choose one or both —
+• Counter target noncreature spell.
+• Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/68_Rewrite.png" num="68">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sweetport Sleuths</name>
+			<text>Vigilance
+When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/73_Sweetport Sleuths.png" num="73">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirrorcube Manipulation</name>
+			<text>Draw two cards.
+Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/64_Mirrorcube Manipulation.png" num="64">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Petaldance</name>
+			<text>Return up to one target creature to its owner&apos;s hand.
+Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/67_Petaldance.png" num="67">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Fireglass Enthusiast</name>
+			<text>When this creature enters, revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)
+Once each turn, whenever the final chapter ability of a permanent you control resolves, draw a card.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/53_Fireglass Enthusiast.png" num="53">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ornithopter Exosegments</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/65_Ornithopter Exosegments.png" num="65">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fandancer Courtesan</name>
+			<text>Blossom — {5}: Tap up to one target creature. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/52_Fandancer Courtesan.png" num="52">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greatpond Croak</name>
+			<text>When this creature enters, conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/56_Greatpond Croak.png" num="56">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Softplume Galerider</name>
+			<text>Flying
+This creature gets +2/+1 as long as two or more cards were put into your hand this turn. (This includes drawing cards and conjuring cards into your hand.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/70_Softplume Galerider.png" num="70">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silvermane Wyrm</name>
+			<text>Defender, flying
+This creature can attack as though it didn&apos;t have defender as long as you&apos;ve cast
+two or more spells this turn or as long as two or more cards were put into your hand this turn. (This includes drawing cards and conjuring cards into your hand.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/69_Silvermane Wyrm.png" num="69">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloudgazer Shrine Maiden</name>
+			<text>{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/45_Cloudgazer Shrine Maiden.png" num="45">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Essence Warp</name>
+			<text>Choose one or both —
+• Counter target creature spell.
+• Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/50_Essence Warp.png" num="50">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Dollify</name>
+			<text>Enchant creature
+Enchanted creature loses all abilities and is a Toy artifact creature with base power and toughness 1/1 in addition to its other types.
+Whenever enchanted creature becomes the target of a spell or ability an opponent controls, counter that spell or ability.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/48_Dollify.png" num="48">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Waterwaltz</name>
+			<text>Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+Tap up to one target creature. If two or more cards were put into your hand this turn, it doesn&apos;t untap during its controller&apos;s next untap step. (This includes drawing cards and conjuring cards into your hand.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/77_Waterwaltz.png" num="77">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gustdraw Trainee</name>
+			<text>Flash
+Return this creature to your hand: Conjure a Strength token into your hand. Activate only as a sorcery. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/57_Gustdraw Trainee.png" num="57">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Long Days &amp; Longer Nights</name>
+			<text>Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)
+If the final chapter ability of a permanent you control resolved this turn, you may put a lore counter on target permanent you control.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/63_Long Days &amp; Longer Nights.png" num="63">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flurrygust</name>
+			<text>This spell costs {2} less to cast if you cast another spell this turn.
+Return up to one target nonland permanent to its owner&apos;s hand.
+Draw a card.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/54_Flurrygust.png" num="54">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Incarcerate</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block, its triggered abilities can&apos;t be triggered and its activated abilities can&apos;t be activated. (Including its blossom ability.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/14_Incarcerate.png" num="14">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Windwhistle Bells</name>
+			<text></text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/39_Windwhistle Bells.png" num="39">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glow of the White Lily</name>
+			<text>Blossom — {5}: This creature gets +1/+1 and gains vigilance until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/10_Glow of the White Lily.png" num="10">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timely Communication</name>
+			<text>Untap all creatures you control.
+Creatures you control get +1/+1 until end of turn. Soldiers and Samurai you control get an additional +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/34_Timely Communication.png" num="34">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cherrybranch Sprites</name>
+			<text>Flying
+Blossom — {5}: Up to one other target creature gets +1/+1 and gains flying until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/6_Cherrybranch Sprites.png" num="6">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oldguard Thousandpalm</name>
+			<text>When this creature enters, activate all your blossom abilities. (Without paying their costs.)
+Blossom — {5}: Until your next turn, this creature can block an additional creature each combat. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/22_Oldguard Thousandpalm.png" num="22">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roofpoint Drifters</name>
+			<text>Vigilance
+This creature has flying as long as a creature you control with power greater than its base power is attacking.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/25_Roofpoint Drifters.png" num="25">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Water&apos;s Edge Adept</name>
+			<text>When this creature enters, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+Whenever a creature you control with power greater than its base power attacks, tap up to one target creature.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/38_Water&apos;s Edge Adept.png" num="38">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Silversheet Sanctifiers</name>
+			<text>When this creature enters, destroy up to one target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/29_Silversheet Sanctifiers.png" num="29">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strike in the Dark</name>
+			<text>Destroy target creature with toughness 4 or greater.
+Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/32_Strike in the Dark.png" num="32">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greater Purrpaw</name>
+			<text>Whenever you attack with exactly two creatures, you gain 2 life.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/12_Greater Purrpaw.png" num="12">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junkwing Cadet</name>
+			<text>Flying
+This creature gets +1/+1 as long as you control an artifact or an enchantment.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/15_Junkwing Cadet.png" num="15">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tuftear Traveller</name>
+			<text>When this creature enters, revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)
+This creature gets +1/+1 as long as the final chapter ability of a permanent you control resolved this turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/36_Tuftear Traveller.png" num="36">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Softplume Officer</name>
+			<text>Flying
+As long as you control exactly two attacking creatures, they each get +1/+0.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/30_Softplume Officer.png" num="30">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wingblade Technique</name>
+			<text>Target creature gets +1/+1 and gains flying until end of turn.
+Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/40_Wingblade Technique.png" num="40">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bladeflower</name>
+			<text>Activate all your blossom abilities. (Without paying their costs.)
+This spell deals 3 damage to up to one target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/3_Bladeflower.png" num="3">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sparkedge Skimisher</name>
+			<text>When this creature enters, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/31_Sparkedge Skimisher.png" num="31">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bushtail Maiden</name>
+			<text>Lifelink
+When this creature enters, put up to one target card from your graveyard on the bottom of your library.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/5_Bushtail Maiden.png" num="5">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Raccoon Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrimeleon</name>
+			<text>Flash
+Reach</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/189_Shrimeleon.png" num="189">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eccentric Company</name>
+			<text>Create a 2/2 green Raccoon creature token.
+You gain 3 life.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/167_Eccentric Company.png" num="167">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morning Glow Branchling</name>
+			<text>When this creature enters, conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/182_Morning Glow Branchling.png" num="182">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>A Confrontation</name>
+			<text>Choose target creature you don&apos;t control. Untap it.
+Target creature gets +2/+2 until end of turn and must be blocked by chosen creature this turn if able.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/164_A Confrontation.png" num="164">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gardencourt Floraphile</name>
+			<text>When this creature enters, reveal the top five cards of your library. You may put a permanent card from among them into your hand. Shuffle the rest onto the bottom of your library.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/173_Gardencourt Floraphile.png" num="173">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Martial Triplets</name>
+			<text>Blossom — {5}: This creature gets +3/+3 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/178_Martial Triplets.png" num="178">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tuftear Lanterntender</name>
+			<text>When this creature enters, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/195_Tuftear Lanterntender.png" num="195">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Silkclaw Trueblade</name>
+			<text>Reach
+Blossom — {5}: This creature gets +1/+1 until end of turn. Other creatures you control gain reach until your next turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/190_Silkclaw Trueblade.png" num="190">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>An Arrow, Loosed</name>
+			<text>Destroy up to one target creature with flying.
+Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/159_An Arrow, Loosed.png" num="159">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Fieldwork Inspections</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/172_Fieldwork Inspections.png" num="172">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moment of Reprieve</name>
+			<text>Destroy up to one target artifact or enchantment.
+Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/181_Moment of Reprieve.png" num="181">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Toast to Old Spring</name>
+			<text>Activate all your blossom abilities. (Without paying their costs.)
+Reveal the top five cards of your library. You may put a permanent card from among them into your hand. Shuffle the rest onto the bottom of your library.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/194_Toast to Old Spring.png" num="194">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lightningblade Techniques</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/176_Lightningblade Techniques.png" num="176">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fallpool Maiden</name>
+			<text>Whenever you cast a spell with mana value 5 or greater, you gain 2 life.
+{T}: Add one mana of any colour.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/171_Fallpool Maiden.png" num="171">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meadowbloom Howl</name>
+			<text>Trample
+When this creature enters, you gain 2 life.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/179_Meadowbloom Howl.png" num="179">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slitherchant Priest</name>
+			<text>When this creature enters, return up to one other target permanent card from your graveyard to your hand.
+Blossom — {5}: This creature gains deathtouch until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/192_Slitherchant Priest.png" num="192">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eighttail Medium</name>
+			<text>When this creature enters, conjure two Strength tokens into your hand. (They&apos;re {2} sorceries with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+Whenever a creature you control with power greater than its base power attacks, it gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/168_Eighttail Medium.png" num="168">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eye for Detail</name>
+			<text>Return up to one target permanent card from your graveyard to your hand.
+Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/170_Eye for Detail.png" num="170">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Petalguard</name>
+			<text>Up to one target creature gains hexproof and indestructible until end of turn.
+Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/184_Petalguard.png" num="184">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Red Daisy Blade</name>
+			<text>Blossom — {5}: This creature gets +1/+1 and gains first strike until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/143_Red Daisy Blade.png" num="143">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloomscale Serpent</name>
+			<text>Trample
+Blossom — {5}: This creature gets +2/+0 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/121_Bloomscale Serpent.png" num="121">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overeager Freshman</name>
+			<text>Haste
+When this creature enters, revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/137_Overeager Freshman.png" num="137">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whitemane Skirmisher</name>
+			<text>Menace, reach
+Blossom — {5}: This creature gets +2/+2 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/158_Whitemane Skirmisher.png" num="158">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Powderpetals</name>
+			<text>This spell deals 3 damage to up to any one target.
+Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/139_Powderpetals.png" num="139">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Springwhirl Dance</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards.
+Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/149_Springwhirl Dance.png" num="149">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intimidation Tactics</name>
+			<text>Destroy up to one target artifact.
+Creatures you control gain menace until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/134_Intimidation Tactics.png" num="134">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veranda Vaulter</name>
+			<text>This creature gets +2/+0 as long as you&apos;ve cast two or more spells this turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/156_Veranda Vaulter.png" num="156">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rageform</name>
+			<text>Target creature gets +3/+1 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/142_Rageform.png" num="142">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Embercloud Marauder</name>
+			<text>When this creature enters, you may discard a card to draw a card.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/126_Embercloud Marauder.png" num="126">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Mercenary Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fogstreet Speedster</name>
+			<text>Haste
+This creature has first strike as long as one or more cards left your graveyard this turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/128_Fogstreet Speedster.png" num="128">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greyalley Lumographer</name>
+			<text>When this creature enters, return up to one target instant, sorcery or artifact card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/132_Greyalley Lumographer.png" num="132">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shorthop Celebrant</name>
+			<text>This creature gets +1/+1 as long as you&apos;ve discarded a card this turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/145_Shorthop Celebrant.png" num="145">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snapflare</name>
+			<text>This spell deals 5 damage to up to one nonplayer target.
+Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/146_Snapflare.png" num="146">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Let Loose</name>
+			<text>Activate all your blossom abilities. (Without paying their costs.)
+Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/135_Let Loose.png" num="135">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Petalcharm</name>
+			<text>Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)
+Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/138_Petalcharm.png" num="138">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dripblade Retainer</name>
+			<text>Blossom — {5}: Each opponent loses 1 life and you gain 1 life. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/92_Dripblade Retainer.png" num="92">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Bloom</name>
+			<text>Activate all your blossom abilities. (Without paying their costs.)
+You may sacrifice a creature to draw two cards.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/96_Final Bloom.png" num="96">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intimidation and Compliance</name>
+			<text></text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/99_Intimidation and Compliance.png" num="99">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rotting Ronin</name>
+			<text>This creature enters the battlefield tapped.
+Blossom — {5}: This creature gets +1/+1 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/108_Rotting Ronin.png" num="108">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thoughtgraft</name>
+			<text>Up to one target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/114_Thoughtgraft.png" num="114">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Soulstitch</name>
+			<text>Choose one or both —
+• Target creature gains indestructible until end of turn.
+• Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/113_Soulstitch.png" num="113">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whiteglove Guard</name>
+			<text>When this creature enters, you may pay 1 life to draw a card.
+Blossom — {5}: This creature and up to one other target creature each get +1/+1 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/119_Whiteglove Guard.png" num="119">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slitherchant</name>
+			<text>Each opponent loses 2 life.
+Create a 1/1 green Snake creature token with deathtouch.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/111_Slitherchant.png" num="111">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moonveil Softplume</name>
+			<text>Flying
+When this creature enters the battlefield, choose one —
+• Target opponent discards a card.
+• Target opponent sacrifices an enchantment.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/103_Moonveil Softplume.png" num="103">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual of Dancing Paper</name>
+			<text>Up to two target creatures each get +2/+2 until end of turn.
+You gain 2 life.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/107_Ritual of Dancing Paper.png" num="107">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crimson Nectar</name>
+			<text>Up to one target player loses 2 life and you gain 2 life.
+Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/86_Crimson Nectar.png" num="86">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Darkshot Assassin</name>
+			<text>Flash
+When this creature enters, it gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/89_Darkshot Assassin.png" num="89">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smotherthorns</name>
+			<text>Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)
+Up to one target creature gets -X/-X until end of turn, where X is the number of cards that were put into your hand this turn. (This includes drawing cards and conjuring cards into your hand.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/112_Smotherthorns.png" num="112">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Drown in Despair</name>
+			<text>Destroy up to one target creature with toughness 3 or less.
+Up to one target player can&apos;t activate nonmana abilities until your next end step.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/93_Drown in Despair.png" num="93">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lanternwood Priestess</name>
+			<text>When this creature enters, each player discards a card. Each opponent who doesn&apos;t discard a nontoken card loses 2 life.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/100_Lanternwood Priestess.png" num="100">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vulpishade</name>
+			<text>Menace
+Once each turn, whenever you gain life, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/117_Vulpishade.png" num="117">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Strength </reverse-related>
+		</card>
+		<card>
+			<name>Darkmane Patriarch</name>
+			<text>Whenever you attack, if two or more cards were put into your hand this turn, up to two target creatures each get +2/+1 until end of turn. (This includes drawing cards and conjuring cards into your hand.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/88_Darkmane Patriarch.png" num="88">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fleshscour</name>
+			<text>Destroy up to one target creature.
+Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/97_Fleshscour.png" num="97">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloomwhirl Retainer</name>
+			<text>This spell has flash as long as you&apos;ve cast another spell this turn.
+This creature gets +1/+1 and has flying as long as you&apos;ve cast two or more spells this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/42_Bloomwhirl Retainer.png" num="42">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dramatic Commander</name>
+			<text>First strike
+Whenever you attack with exactly two creatures, this creature gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/9_Dramatic Commander.png" num="9">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gardencourt Sharptongue</name>
+			<text>Blossom — {5}: Add {G}{U} if this is the first time this ability has resolved this turn. Otherwise, draw a card. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/205_Gardencourt Sharptongue.png" num="205">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serpent of Southcliff</name>
+			<text>Flying
+When this creature enters, you may draw two cards.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/219_Serpent of Southcliff.png" num="219">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chaffslice Delegate</name>
+			<text>When this creature enters, activate all your blossom abilities. (Without paying their costs.)
+Blossom — {5}: Each opponent loses 1 life and you gain 2 life. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/201_Chaffslice Delegate.png" num="201">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oldguard Patrol</name>
+			<text>Whenever you attack with exactly two creatures, those creatures each get +1/+1 until end of turn.
+Other Samurai &amp; Soldiers you control have ward {1}.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/215_Oldguard Patrol.png" num="215">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Newforce Bloomshot</name>
+			<text>Attacking Samurai and Soldiers you control have first strike.
+Blossom — {5}: Up to two target creatures each get +1/+1 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/213_Newforce Bloomshot.png" num="213">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heartbleed Courtier</name>
+			<text>Menace
+Whenever this creature attacks, it gets +X/+0 until end of turn, where X is the amount of life you gained this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/210_Heartbleed Courtier.png" num="210">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Newforce Stormbarrel</name>
+			<text>When this creature enters, if you cast two or more spells this turn, tap up to one target creature. It doesn&apos;t untap during its controller&apos;s next untap step.
+Whenever this creature attacks, if you cast two or more spells this turn, it deals 2 damage to defending player.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/214_Newforce Stormbarrel.png" num="214">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Polypetal Savant</name>
+			<text>When this creature enters, conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)
+Blossom — {5}: Conjure a Petal token into your hand. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/217_Polypetal Savant.png" num="217">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prattletooth Administrator</name>
+			<text>When this creature enters, mill a card. You may play that card from your graveyard until your next end step.
+Whenever one or more cards leave your graveyard, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/218_Prattletooth Administrator.png" num="218">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Pinkrose Heartcatch</name>
+			<text>When this creature enters, mill a card. You may play that card from your graveyard until your next end step.
+Blossom — {5}: Put up to one target card from your graveyard on the bottom of your library. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/216_Pinkrose Heartcatch.png" num="216">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glasslens Sleuth</name>
+			<text>This creature gets +1/+1 as long as you control an artifact or an enchantment.
+This creature can&apos;t be blocked as long as the final chapter ability of a permanent you control resolved this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/208_Glasslens Sleuth.png" num="208">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wizened Tinkerer</name>
+			<text>Artifact and enchantment spells you cast cost {1} less to cast.
+Blossom — {5}: Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card. Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/226_Wizened Tinkerer.png" num="226">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghostcreek Haunt</name>
+			<text>Sacrifice this creature: Draw a card.
+Blossom — {5}: Return this card from your graveyard to your hand. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/207_Ghostcreek Haunt.png" num="207">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashwing Cloudrunner</name>
+			<text>Flying
+This creature gets +2/+0 as long as two or more cards were put into your hand this turn. (This includes drawing cards and conjuring cards into your hand.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/198_Ashwing Cloudrunner.png" num="198">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eastriver Sellshot</name>
+			<text>Blossom — {5}: You may discard a card to have this creature deal 2 damage to any target. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/203_Eastriver Sellshot.png" num="203">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodleaf Endurant</name>
+			<text>When this creature enters, it fights up to one target creature.
+As long as this creature is attacking or fighting, it gets +2/+0 for each card you&apos;ve discarded this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/199_Bloodleaf Endurant.png" num="199">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightningblade Adept</name>
+			<text>Trample
+Blossom — {5}: Other creatures you control gain trample until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/212_Lightningblade Adept.png" num="212">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowflame Maven</name>
+			<text>Trample
+Whenever one or more creatures you control with trample deals combat damage to an opponent, you may exile a creature card from your graveyard to create a 2/1 green Wolf Spirit creature token.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/220_Shadowflame Maven.png" num="220">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Westshrine Bladedancer</name>
+			<text>Creatures you control with power greater than their base power have vigilance.
+Whenever one or more creatures you control with power greater than their base power deals combat damage to a player, draw a card.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/223_Westshrine Bladedancer.png" num="223">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gardencourt Trainee</name>
+			<text>Blossom — {5}: This creature and up to one other target creature each get +2/+1 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/206_Gardencourt Trainee.png" num="206">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Games of Chance</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/129_Games of Chance.png" num="129">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Sparkbarrel Enthusiast</name>
+			<text>When this creature enters, you may discard a card to have this creature deal 4 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/148_Sparkbarrel Enthusiast.png" num="148">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Giganpalm Maiden</name>
+			<text>When this creature enters, revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)
+This creature gets +2/+2 and has trample as long as the final chapter ability of a permanent you control resolved this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/130_Giganpalm Maiden.png" num="130">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tuftear Shortblade</name>
+			<text>Haste
+This creature gets +1/+1 as long as you&apos;ve cast two or more spells this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/154_Tuftear Shortblade.png" num="154">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloudbreeze Challenger</name>
+			<text>Blossom — {5}: Untap up to one target creature you don&apos;t control. That creature blocks this creature this turn if able. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/123_Cloudbreeze Challenger.png" num="123">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dookgear Duchess</name>
+			<text>When this creature enters, revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)
+{T}, Exile a creature card from your graveyard: Create a tapped 1/1 red Ferret artifact creature token.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/124_Dookgear Duchess.png" num="124">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enlightened Greatmane</name>
+			<text>Blossom — {5}: When you next cast a nontoken instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/127_Enlightened Greatmane.png" num="127">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>6R</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Interservice Rivalry</name>
+			<text>At the beginning of your upkeep and whenever a creature enters under your control, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+Whenever you cast a noncreature spell, up to one target creature you control gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/133_Interservice Rivalry.png" num="133">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Pyrobloom</name>
+			<text>Activate all your blossom abilities. (Without paying their costs.)
+Choose up to one target creature you control. It gets +2/+1 until end of turn. This spell deals 2 damage to each creature not chosen this way.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/141_Pyrobloom.png" num="141">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Echo Ember</name>
+			<text>This spell deals 3 damage to any target.
+{1}{R}: Put this card from your graveyard on the bottom of your library. This card deals 1 damage to up to one target opponent. Activate only if you&apos;ve cast two or more spells this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/125_Echo Ember.png" num="125">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vision of Inferno</name>
+			<text>Destroy up to one target artifact or land.
+Mill a card. You may play that card from your graveyard until your next end step.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/157_Vision of Inferno.png" num="157">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veil of Spring</name>
+			<text>Creature spells you control and abilities of creatures you control can&apos;t be countered this turn.
+Creatures you control gain hexproof until end of turn.
+If it&apos;s your turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/196_Veil of Spring.png" num="196">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skittering Stratagem</name>
+			<text>Activate all your blossom abilities. (Without paying their costs.)
+Creatures you control get +0/+3 and gain reach until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/191_Skittering Stratagem.png" num="191">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Viperwhip</name>
+			<text>Choose target creature you control. It deals damage equal to its power to another target creature you don&apos;t control.
+If the chosen creature has power greater than its base power, draw a card.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/197_Viperwhip.png" num="197">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sacredgrove Guardian</name>
+			<text>When this creature enters, you gain 3 life and conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)
+Blossom — {5}: This creature gets +2/+2 until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/187_Sacredgrove Guardian.png" num="187">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Cyflox Spectre</name>
+			<text>Trample
+Other creatures you control with trample get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/166_Cyflox Spectre.png" num="166">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brightlake Caller</name>
+			<text>When this creature enters, reveal cards from the top of your library until you reveal a card with mana value 5 or greater. Put that card into your hand and shuffle the rest onto the bottom of your library.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/163_Brightlake Caller.png" num="163">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longpipe Aesthete</name>
+			<text>Vigilance
+When this creature enters, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+Whenever a creature you control with power greater than its base power attacks, you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/177_Longpipe Aesthete.png" num="177">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloombranch Quencher</name>
+			<text>Hexproof
+When this creature enters, if you gained 3 or more life this turn, return up to one target permanent card in your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/161_Bloombranch Quencher.png" num="161">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asheye Marauder</name>
+			<text>Reach, deathtouch
+At the beginning of your end step, if you control a creature with power greater than its base power, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/160_Asheye Marauder.png" num="160">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Thousandbud Cadet</name>
+			<text>When this creature enters, choose one or both —
+• Destroy target artifact or enchantment.
+• You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/193_Thousandbud Cadet.png" num="193">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Discerning Duo</name>
+			<text>When this creature enters, target opponent reveals their hand. You choose a nonland card from that player&apos;s graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and may spend mana as though it were mana of any type to cast it.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/90_Discerning Duo.png" num="90">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geistpetal Drifter</name>
+			<text>Menace
+When this creature enters, conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)
+Whenever this creature attacks, you may discard a card to have this creature get +2/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/98_Geistpetal Drifter.png" num="98">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Carve</name>
+			<text>Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+Destroy up to one target creature or planeswalker if its mana value is less than or equal to the number of cards in your hand.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/83_Carve.png" num="83">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Quell</name>
+			<text>Creatures your opponents control get -1/-1 until end of turn.
+Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/106_Quell.png" num="106">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>To Hell And Back</name>
+			<text>Return up to one target creature card from your graveyard to the battlefield. It gains haste until end of turn.
+When you next attack with exactly two creatures this turn, you gain 3 life and creatures you control gain indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/115_To Hell And Back.png" num="115">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duskguard Cutthroat</name>
+			<text>Flash
+When this creature enters, you may pay {2} to activate all your blossom abilities. (Without paying their usual costs.)
+Blossom — {5}: This creature gains deathtouch until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/94_Duskguard Cutthroat.png" num="94">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrinetithe Treasurer</name>
+			<text>Lifelink
+At the beginning of your end step, if you gained life this turn, each opponent loses 1 life. If you gained 3 or more life this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/110_Shrinetithe Treasurer.png" num="110">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Optimal Flowercard Strategy</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/104_Optimal Flowercard Strategy.png" num="104">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Citizen of the Night</name>
+			<text>Flying
+At the beginning of your end step, if two or more cards were put into your hand this turn, each opponent loses 2 life and you gain 2 life. (This includes drawing cards and conjuring cards into your hand.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/85_Citizen of the Night.png" num="85">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longtusk Magistrate</name>
+			<text>When this creature enters, you may discard a card to return target creature card from your graveyard to your hand.
+Whenever you discard a card, up to one target creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/102_Longtusk Magistrate.png" num="102">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Discredit</name>
+			<text>Choose one or both —
+• Destroy target enchantment. If it was a Thesis, you gain 2 life.
+• Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/91_Discredit.png" num="91">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blades To Blooms</name>
+			<text>Exile target creature. Its controller conjures a Petal token into their hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/4_Blades To Blooms.png" num="4">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>A Case For Compulsory Service</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/2_A Case For Compulsory Service.png" num="2">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harbour Street Sentry</name>
+			<text>Flash
+Vigilance
+When this creature enters, up to one other target creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/13_Harbour Street Sentry.png" num="13">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tuftear Remembrant</name>
+			<text>When this creature enters, exile up to one target card from your graveyard.
+Whenever one or more cards leave your graveyard, choose one —
+• This creature gets +1/+1 until end of turn.
+• Conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/35_Tuftear Remembrant.png" num="35">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Mercenary Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Strength</reverse-related>
+		</card>
+		<card>
+			<name>Cherrypeak Seer</name>
+			<text>Flying
+Whenever this creature enters or attacks, put up to one target card from your graveyard on the bottom of your library.
+Whenever one or more cards leave your graveyard, up to one target creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/7_Cherrypeak Seer.png" num="7">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dovechant</name>
+			<text>Create a 1/1 white Bird creature token with flying.
+{2}{W}: Put this card from your graveyard on the bottom of your library. You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/8_Dovechant.png" num="8">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Roundhorn Scholar</name>
+			<text>Artifact and enchantment spells you cast cost {1} less to cast.
+Whenever the final chapter ability of an enchantment you control triggers, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/26_Roundhorn Scholar.png" num="26">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shorthop Veteran</name>
+			<text>Blossom — {5}: This creature gets +2/+2 until end of turn. Choose up to one target creature. You decide if and how it blocks this turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/28_Shorthop Veteran.png" num="28">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Last Dance</name>
+			<text>Return up to two target permanent cards from your graveyard to the battlefield if they each have mana value 2 or less or if you attacked with exactly two creatures this turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/16_Last Dance.png" num="16">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mundane Breakthrough</name>
+			<text>Reveal cards from the top of your library until you reveal an artifact or enchantment card. Put that card into your hand and shuffle the rest to the bottom of your library.
+Whenever an artifact or enchantment enters under your control, you may put this card from your graveyard on the bottom of your library to gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/20_Mundane Breakthrough.png" num="20">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Consequences of Mass Print</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/46_Consequences of Mass Print.png" num="46">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ashwing Parliament</name>
+			<text>Flying
+When this creature enters, revise twice. (To revise, you may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/41_Ashwing Parliament.png" num="41">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Truebeak Revelation</name>
+			<text>Choose one —
+• Until end of turn, target creature becomes a blue Bird with base power and toughness 4/4 and gains flying. (It loses all other creature types.)
+• Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/75_Truebeak Revelation.png" num="75">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Willshaper Maiden</name>
+			<text>Whenever you cast your second spell each turn, tap or untap up to one target nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/78_Willshaper Maiden.png" num="78">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spellshatter</name>
+			<text>This spell costs {1} less to cast if you cast another spell this turn.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/72_Spellshatter.png" num="72">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drizzlebloom Adept</name>
+			<text>When this creature enters, return up to one target creature to its owner&apos;s hand.
+Blossom — {5}: You may return this creature to its owner&apos;s hand. If you do, draw a card. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/49_Drizzlebloom Adept.png" num="49">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Immaculate Performance</name>
+			<text>Create a token that&apos;s a copy of target creature you control.
+Create a token that&apos;s a copy of target creature you control.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/58_Immaculate Performance.png" num="58">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exhaust</name>
+			<text>Tap all creatures up to one target player controls. Those creatures don&apos;t untap during that player&apos;s next untap step.
+Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/51_Exhaust.png" num="51">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Softplume Shutterbug</name>
+			<text>Flying
+Whenever this creature attacks, revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/71_Softplume Shutterbug.png" num="71">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gargantuan Groveback</name>
+			<text>At the beginning of your upkeep, conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/55_Gargantuan Groveback.png" num="55">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related persistent="">Petal</reverse-related>
+		</card>
+		<card>
+			<name>Strength BHES</name>
+			<text>Target creature gets +2/+2
+until end of turn.
+(A sorcery token that&apos;s not in your hand or on the stack ceases to exist.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/1t_Strength.png" num="1">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Sorcery — Strength</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Petal BHES</name>
+			<text>Add one mana of any colour.
+(An instant token that&apos;s not in your hand or on the stack ceases to exist.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/2t_Petal.png" num="2">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Instant — Petal</type>
+				<maintype>Instant</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Modern Bladework Technique</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/136_Modern Bladework Technique.png" num="136">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Modern Urban Planning</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/180_Modern Urban Planning.png" num="180">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Writ of Injunction</name>
+			<text>Up to one target creature gets +1/+1 and gains hexproof until end of turn.
+Revise. (You may put a lore counter on a permanent you control, or discard a card to draw a card.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/79_Writ of Injunction.png" num="79">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drifting Clothwhale</name>
+			<text>Flying
+Whenever this Vehicle enters or attacks, surveil 1.
+Crew 1</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/232_Drifting Clothwhale.png" num="232">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plumed Effigy</name>
+			<text>Defender
+{T}: Add one mana of any colour.
+{2}, {T}: Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/237_Plumed Effigy.png" num="237">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roiling Ironsnake</name>
+			<text>Trample
+When this artifact enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/239_Roiling Ironsnake.png" num="239">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hypergyric Astrolabe</name>
+			<text>When this artifact enters, draw a card.
+{1}, {T}, Sacrifice this artifact: Shuffle your graveyard onto the bottom of your library.</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/234_Hypergyric Astrolabe.png" num="234">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Quickdraw Barrel</name>
+			<text>Flash
+When this Equipment enters, you may attach it to target creature you control.
+Equipped creature gets +1/+0 and has first trike and reach.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/238_Quickdraw Barrel.png" num="238">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adorned Blade</name>
+			<text>When this Equipment enters, you may attach it to target creature you control.
+Equipped creature gets +2/+2.
+Equip {1}</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/228_Adorned Blade.png" num="228">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lumograph Contraption</name>
+			<text>Flash
+When this artifact enters, it deals 3 damage to up to one target creature.
+{T}, Sacrifice this artifact: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/235_Lumograph Contraption.png" num="235">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Autogear Puppet</name>
+			<text>Defender
+Blossom — {5}: This creature can attack this turn as though it didn&apos;t have defender. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/230_Autogear Puppet.png" num="230">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Toy</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shimmerbloom Grotto</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="uncommon" picurl="https://viola-mse/sets/BHES-files/img/242_Shimmerbloom Grotto.png" num="242">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Highfall Cityscape</name>
+			<text>When this land enters, you may discard a card to search your library for a basic land card, reveal it and put it into your hand, then shuffle.
+{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/240_Highfall Cityscape.png" num="240">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>One Way Ticket</name>
+			<text>Exile target creature or enchantment.
+Put up to one target card from your graveyard on the bottom of your library.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/23_One Way Ticket.png" num="23">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Liliana, The Schemer</name>
+			<text></text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/101_Liliana, The Schemer.png" num="101">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Liliana</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wayward Daughter</name>
+			<text>Flying
+Blossom — {5}: Destroy up to one target creature. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/118_Wayward Daughter.png" num="118">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Changing Consumption Trends</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/84_Changing Consumption Trends.png" num="84">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Otherworldly Desire</name>
+			<text>Choose a card name from among those printed in the Bauhinia: Eternal Spring cube. Conjure a duplicate of a card with the chosen name into your hand as a token. You can spend mana of any type to cast that spell. (Token permanent spells enter as tokens.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/105_Otherworldly Desire.png" num="105">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Breath Eater</name>
+			<text>Lifelink
+Whenever you draw a card, you lose 3 life.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/82_Breath Eater.png" num="82">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crimson Retainer</name>
+			<text>Lifelink
+At the beginning of your end step, if you gained 3 or more life this turn, you lose 3 life and draw a card. Otherwise, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/87_Crimson Retainer.png" num="87">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Mercenary Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Equinoaxial Instability</name>
+			<text>You gain 2 life and draw a card.
+Up to one target opponent sacrifices a creature or planeswalker. If they don&apos;t, they lose 2 life. Then repeat this process for sacrificing an enchantment and discarding a card. If a token card was discarded this way, that player loses 2 life.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/95_Equinoaxial Instability.png" num="95">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blood Burgeoning</name>
+			<text>Destroy up to one target creature or planeswalker.
+Draw a card and conjure a Petal token into your hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/81_Blood Burgeoning.png" num="81">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nissa, Bloomguard</name>
+			<text></text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/183_Nissa, Bloomguard.png" num="183">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nissa</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Roaring Orchidon</name>
+			<text>This spell costs {7} less to cast if you activated all your blossom abilities this turn.
+Trample
+When this creature enters, you gain 7 life.
+Blossom — {5}: This creature fights up to one other target creature.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/186_Roaring Orchidon.png" num="186">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>7GGG</manacost>
+				<cmc>10</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Introduction To Obsolete Arms</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/175_Introduction To Obsolete Arms.png" num="175">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Equinoaxial Ripple</name>
+			<text>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+Choose any number of players. Each of those players shuffles their graveyard into their library.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/169_Equinoaxial Ripple.png" num="169">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Highstreet Porter</name>
+			<text>Flash
+When this creature enters, up to one other target creature gets +2/+2 until end of turn.
+{2}{G}: Exile this creature. Return it to the battlefield under its owner&apos;s control at the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/174_Highstreet Porter.png" num="174">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curious Company</name>
+			<text>Reveal the top six cards of your library. Put up to two cards with an activated ability from among them into your hand and shuffle the rest onto the bottom of your library. Then you may put a permanent card with mana value 3 or less from your hand onto the battlefield tapped. (Land cards are eligible for both effects.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/165_Curious Company.png" num="165">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Botany</name>
+			<text>Whenever a land you control enters, it becomes a 3/3 Elemental creature with haste and indestructible until your next turn. It&apos;s still a land.
+Once each turn, whenever you cast a green spell with mana value 5 or greater, untap all lands you control.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/162_Botany.png" num="162">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shimmering Colossus</name>
+			<text>Trample
+{X}: This creature gets +1/+1 until end of turn for each colour of mana spent to activate this ability. Activate only once each turn. X can&apos;t be 0.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/188_Shimmering Colossus.png" num="188">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relentless Lancer</name>
+			<text>Whenever a land you control enters, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+Once each turn, whenever you cast a Strength spell, draw a card.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/185_Relentless Lancer.png" num="185">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gretel of Grimnacht</name>
+			<text></text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/131_Gretel of Grimnacht.png" num="131">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gretel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Softbrush and Goldgear</name>
+			<text>Whenever this creature enters or attacks, revise.
+Blossom — {5}: Up to one target artifact becomes an artifact creature with base power and toughness 4/4 until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/147_Softbrush and Goldgear.png" num="147">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Principles of Art Nouveau</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/140_Principles of Art Nouveau.png" num="140">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Artillery</name>
+			<text>Whenever an artifact you control enters, if it was cast, this enchantment deals 3 damage to each opponent.
+Whenever you cast a red spell, reveal the top X cards of your library, where X is that spell&apos;s mana value. You may put an artifact card from among them into your hand. Shuffle the rest onto the bottom of your library.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/120_Artillery.png" num="120">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trendchaser Heiress</name>
+			<text>Haste
+When this creature enters, conjure a Petal token into your hand.
+Whenever this creature deals combat damage to a player, you may return it to its owner&apos;s hand. If you do, mill a card. You may play that card from your graveyard until your next end step.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/152_Trendchaser Heiress.png" num="152">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reincarnated as a Lotus Flower</name>
+			<text>Activate all your blossom abilities. (Without paying their costs.)
+Discard all the cards in your hand, then draw that many cards.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/144_Reincarnated as a Lotus Flower.png" num="144">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Teardrop Drizzle</name>
+			<text>Copy the next instant or sorcery spell you cast this turn for each spell you cast before that spell this turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/151_Teardrop Drizzle.png" num="151">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Venerable Vulpimane</name>
+			<text>This spell costs {1} less to cast for each card you&apos;ve discarded this turn and each other spell you&apos;ve cast this turn.
+Haste
+When this creature enters, return up to one target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/155_Venerable Vulpimane.png" num="155">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bright Dilettante</name>
+			<text>Whenever this creature enters or attacks, you may mill a card.
+Once during each of your turns, you may play a card that entered your graveyard this turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/122_Bright Dilettante.png" num="122">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zenjou, Planeographer</name>
+			<text></text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/80_Zenjou, Planeographer.png" num="80">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Zenjou</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tuftear à la Mode</name>
+			<text>When this creature enters, create a colorless artifact token named Pocketwatch with &quot;{T}, Sacrifice this artifact: Surveil 1.&quot;
+Blossom — {5}: You may return an artifact or enchantment you control to its owner&apos;s hand to put an artifact or enchantment card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/76_Tuftear à la Mode.png" num="76">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Investigating Chrono-Anomalies</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/59_Investigating Chrono-Anomalies.png" num="59">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chemistry</name>
+			<text>Whenever you draw or conjure one or more cards, each player mills two cards.
+Whenever you cast a blue spell, surveil 1. Then exile any number of cards from your hand and/or graveyard. If you exiled cards with three or more different card types this way, draw a card. Shuffle each card exiled this way onto the bottom of your library.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/44_Chemistry.png" num="44">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lies of Omission</name>
+			<text>Choose an opponent. They look at the top four cards of your library and separate them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+{3}{U}: Put this card from your graveyard on the bottom of your library. Revise.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/62_Lies of Omission.png" num="62">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Breezebind Clique</name>
+			<text>Flash
+Flying
+When this creature enters, tap all lands target opponent controls. That player conjures a petal token into their hand. (It&apos;s a {0} instant with &quot;Add one mana of any colour.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/43_Breezebind Clique.png" num="43">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paperfin Schooling</name>
+			<text>Counter up to one target spell.
+Create three 1/1 blue Fish creature tokens.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/66_Paperfin Schooling.png" num="66">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ironsnake Itinerant</name>
+			<text>When this creature enters, create a blue Thesis enchantment token named Ironsnake Rider&apos;s Guide to Bauhinia with three chapters and &quot;{V} — Draw a card.&quot;
+{T}, Discard a card: Put a lore counter on each Thesis you control.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/60_Ironsnake Itinerant.png" num="60">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Decluttering</name>
+			<text>Return each nonland permanent to its owner&apos;s hand.
+You have no maximum hand size until your next turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/47_Decluttering.png" num="47">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wanderer In A Strangely Familiar Place</name>
+			<text></text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/37_Wanderer In A Strangely Familiar Place.png" num="37">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Newsound Sensation</name>
+			<text>Flash
+When this creature enters, activate all your blossom abilities. (Without paying their costs.)
+Blossom — {5}: Creatures you control get +1/+1 and gain vigilance until end of turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/21_Newsound Sensation.png" num="21">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lessons From the Unification War</name>
+			<text>Create three 1/1 green Peasant creature tokens and three Weapon tokens.
+Equipment you control have equip unequipped creature {0} until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/17_Lessons From the Unification War.png" num="17">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Marshal of the Oldguard</name>
+			<text>You and other permanents you control have hexproof from the first and second spells an opponent casts each turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/19_Marshal of the Oldguard.png" num="19">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savour The Season</name>
+			<text>You gain 10 life.
+{5}{W}: Shuffle your graveyard onto the bottom of your library. Activate only if this card is in your graveyard and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/27_Savour The Season.png" num="27">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sweetport Chaperone</name>
+			<text>When this creature enters, create a 1/1 white Noble creature token.
+Sacrifice this creature: Creatures you control gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/33_Sweetport Chaperone.png" num="33">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goldsash Mentor</name>
+			<text>As long as this creature is attacking, it has first strike.
+When this creature enters, you may search your library for a Toy card, reveal it, put it into your hand, then shuffle.
+Whenever you attack with exactly two creatures, those creatures each get +2/+2 until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/11_Goldsash Mentor.png" num="11">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mad King&apos;s Justice</name>
+			<text>You and each opponent who controls more creatures than you conjures a Strength token into their hand. Then destroy all creatures. (Strength is a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/18_Mad King&apos;s Justice.png" num="18">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Golden Lotus</name>
+			<text>{T}: Add one mana of any colour.
+Blossom — {5}: Add {W}{U}{B}{R}{G} if this is the first time this ability has resolved this turn. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/233_Golden Lotus.png" num="233">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amiable Automaton</name>
+			<text>Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+When this creature enters, draw a card.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/229_Amiable Automaton.png" num="229">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paradise Brush</name>
+			<text>Equipped creature has &quot;{T}: Add one mana of any colour.&quot;
+{X}: Untap equipped creature. It gets +1/+1 until end of turn for each colour of mana spent to activate this ability. Activate only once each turn. X can&apos;t be 0.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/236_Paradise Brush.png" num="236">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rootstone Archive</name>
+			<text>{T}: Add {C}.
+Blossom — {5}: Draw a card. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/241_Rootstone Archive.png" num="241">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>A Farewell To Thorns</name>
+			<text>Exile target permanent without an activated ability. (Lands have activated abilities and blossom abilities are activated.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/204_A Farewell To Thorns.png" num="204">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Branchhorn Lamplighter</name>
+			<text>Flash
+When this creature enters, return up to one target spell to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/200_Branchhorn Lamplighter.png" num="200">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hasagi, the Deathwind</name>
+			<text>Flash
+Menace, haste
+If Hasagi would deal combat damage to a creature, she deals damage equal to her power to that creature instead.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/209_Hasagi, the Deathwind.png" num="209">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Summerdawn Firebrand</name>
+			<text>Whenever this creature enters or attacks, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)
+If this creature would gain power or toughness, it gets double that amount of power or toughness instead.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/221_Summerdawn Firebrand.png" num="221">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White Wolf Mio</name>
+			<text>Vigilance
+When White Wolf Mio dies, return her to the battlefield under her owner&apos;s control. She loses all abilities.
+Blossom — {5}: White Wolf Mio gets +3/+3, becomes a Wolf and gains trample until end of turn.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/225_White Wolf Mio.png" num="225">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sweetcake Governess</name>
+			<text>When this creature enters and the beginning of your upkeep, you may sacrifice a land. If you do, each opponent loses 2 life. You gain 2 life and draw a card.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/222_Sweetcake Governess.png" num="222">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Writhegrove Tender</name>
+			<text>You may play an additional land on each of your turns.
+Blossom — {5}: Untap up to one target land you control. It becomes a 4/4 Tentacle creature until end of turn. It&apos;s still a land. (Activate only as a sorcery. As you do, also activate all your other blossom abilities without paying their costs.)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/227_Writhegrove Tender.png" num="227">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whelpdaughter Celebrant</name>
+			<text>When this creature enters, create a 5/5 blue and red Dragon creature token with flying and conjure a Petal token into your hand.
+Whenever you attack with one or more Dragons, mill X cards, where X is their total power. You may cast a noncreature spell from among the milled cards without paying its mana cost. Shuffle the rest onto the bottom of your library.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/224_Whelpdaughter Celebrant.png" num="224">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Human</type>
+				<maintype>Creature</maintype>
+				<manacost>5UR</manacost>
+				<cmc>7</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cherrygust Seraphim</name>
+			<text>Flying, haste
+When this creature enters, conjure seven Strength tokens into your hand. (They&apos;re {2} sorceries with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/202_Cherrygust Seraphim.png" num="202">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ironsnake Rider&apos;s Guide to Bauhinia BHES</name>
+			<text></text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/61t_Ironsnake Rider&apos;s Guide to Bauhinia.png" num="61">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Thesis</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cherry Division Tinsuit</name>
+			<text>Menace
+Whenever you cast your second spell each turn, this Vehicle becomes an artifact creature until end of turn.
+Whenever this Vehicle attacks, you may discard a card to draw a card.
+Crew 2</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/231_Cherry Division Tinsuit.png" num="231">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iya Washi</name>
+			<text>Menace, lifelink
+Whenever Iya Washi enters or attacks, conjure a Strength token into your hand.
+Blossom — {5}: The next time you cast a Strength spell this turn, you may pay 1 life to draw a card.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/211_Iya Washi.png" num="211">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrutinous Mentor</name>
+			<text>Menace
+Whenever you attack with exactly two creatures, defending player loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/109_Scrutinous Mentor.png" num="109">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tuftear Magistrate</name>
+			<text>When this creature enters, mill a card. You may play that card from your graveyard until your next end step.</text>
+			<set rarity="common" picurl="https://viola-mse/sets/BHES-files/img/153_Tuftear Magistrate.png" num="153">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Villainy</name>
+			<text>Once each turn, whenever one or more creatures die, you may pay 1 life to draw a card.
+Whenever you cast a black noncreature spell, this enchantment deals 2 damage to any target and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/116_Villainy.png" num="116">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oratory</name>
+			<text>Whenever you create a token or conjure a card, return up to one target creature card with mana value 3 or less from your graveyard to your hand.
+Whenever you cast a white creature spell, conjure a Strength token into your hand. (It&apos;s a {2} sorcery with &quot;Target creature gets +2/+2 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse/sets/BHES-files/img/24_Oratory.png" num="24">BHES</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

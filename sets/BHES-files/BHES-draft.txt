@@ -1647,7 +1647,7 @@
 			"type": "Token Sorcery — Strength",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/1_Strength.png"
+				"en": "https://viola-mse/sets/BHES-files/img/1t_Strength.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Token Instant — Petal",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/2_Petal.png"
+				"en": "https://viola-mse/sets/BHES-files/img/2t_Petal.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Token Enchantment — Thesis",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/61_Ironsnake Rider's Guide to Bauhinia.png"
+				"en": "https://viola-mse/sets/BHES-files/img/61t_Ironsnake Rider's Guide to Bauhinia.png"
 			}
 		},
 		{

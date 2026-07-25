@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/BHES-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/BHES-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>BHES visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -35,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -58,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -78,11 +87,12 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -98,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -114,40 +125,54 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
 			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -156,319 +181,350 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/BHES-files/logo.png" />
-	<img class="preload-hidden" src="/sets/BHES-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TOTL-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/BHES-files/bg.png" />
-
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/BHES-files/logo.png" />
+	<img class="preload-hidden" src="../sets/BHES-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOTL-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
 
-	<div class="icon-bar">
-			<div class="icon"><a href="BHES"><img src="/sets/BHES-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="TOTL"><img src="/sets/TOTL-files/icon.png"></img></a></div>
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
 
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/BHES"><img src="../sets/BHES-files/icon.png">Bauhinia: Eternal Spring</a>
+	
+		<a class="set-bar inactive" href="../previews/TOTL"><img src="../sets/TOTL-files/icon.png">Towers of Tin Lau</a>
+	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/BHES-files/logo.png">
+		<img class="logo" src="../sets/BHES-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="/sets\BHES-files\img\11_Goldsash Mentor.png" id="11_Goldsash Mentor" data-flag="@X" onclick="openSidebar('11_Goldsash Mentor',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\43_Breezebind Clique.png" id="43_Breezebind Clique" data-flag="@X" onclick="openSidebar('43_Breezebind Clique',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\81_Blood Burgeoning.png" id="81_Blood Burgeoning" data-flag="@X" onclick="openSidebar('81_Blood Burgeoning',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\120_Artillery.png" id="120_Artillery" data-flag="@X" onclick="openSidebar('120_Artillery',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\162_Botany.png" id="162_Botany" data-flag="@X" onclick="openSidebar('162_Botany',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\17_Lessons From the Unification War.png" id="17_Lessons From the Unification War" data-flag="@X" onclick="openSidebar('17_Lessons From the Unification War',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\44_Chemistry.png" id="44_Chemistry" data-flag="@X" onclick="openSidebar('44_Chemistry',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\82_Breath Eater.png" id="82_Breath Eater" data-flag="@X" onclick="openSidebar('82_Breath Eater',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\122_Bright Dilettante.png" id="122_Bright Dilettante" data-flag="@X" onclick="openSidebar('122_Bright Dilettante',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\165_Curious Company.png" id="165_Curious Company" data-flag="@X" onclick="openSidebar('165_Curious Company',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\18_Mad King's Justice.png" id="18_Mad Kings Justice" data-flag="@X" onclick="openSidebar('18_Mad Kings Justice',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\47_Decluttering.png" id="47_Decluttering" data-flag="@X" onclick="openSidebar('47_Decluttering',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\84_Changing Consumption Trends.png" id="84_Changing Consumption Trends" data-flag="@X" onclick="openSidebar('84_Changing Consumption Trends',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\131_Gretel of Grimnacht.png" id="131_Gretel of Grimnacht" data-flag="@X" onclick="openSidebar('131_Gretel of Grimnacht',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\169_Equinoaxial Ripple.png" id="169_Equinoaxial Ripple" data-flag="@X" onclick="openSidebar('169_Equinoaxial Ripple',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\19_Marshal of the Oldguard.png" id="19_Marshal of the Oldguard" data-flag="@X" onclick="openSidebar('19_Marshal of the Oldguard',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\59_Investigating Chrono-Anomalies.png" id="59_Investigating Chrono-Anomalies" data-flag="@X" onclick="openSidebar('59_Investigating Chrono-Anomalies',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\87_Crimson Retainer.png" id="87_Crimson Retainer" data-flag="@X" onclick="openSidebar('87_Crimson Retainer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\140_Principles of Art Nouveau.png" id="140_Principles of Art Nouveau" data-flag="@X" onclick="openSidebar('140_Principles of Art Nouveau',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\174_Highstreet Porter.png" id="174_Highstreet Porter" data-flag="@X" onclick="openSidebar('174_Highstreet Porter',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\21_Newsound Sensation.png" id="21_Newsound Sensation" data-flag="@X" onclick="openSidebar('21_Newsound Sensation',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\60_Ironsnake Itinerant.png" id="60_Ironsnake Itinerant" data-flag="@X" onclick="openSidebar('60_Ironsnake Itinerant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\95_Equinoaxial Instability.png" id="95_Equinoaxial Instability" data-flag="@X" onclick="openSidebar('95_Equinoaxial Instability',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\144_Reincarnated as a Lotus Flower.png" id="144_Reincarnated as a Lotus Flower" data-flag="@X" onclick="openSidebar('144_Reincarnated as a Lotus Flower',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\175_Introduction To Obsolete Arms.png" id="175_Introduction To Obsolete Arms" data-flag="@X" onclick="openSidebar('175_Introduction To Obsolete Arms',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\24_Oratory.png" id="24_Oratory" data-flag="@X" onclick="openSidebar('24_Oratory',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\62_Lies of Omission.png" id="62_Lies of Omission" data-flag="@X" onclick="openSidebar('62_Lies of Omission',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\101_Liliana, The Schemer.png" id="101_Liliana, The Schemer" data-flag="@X" onclick="openSidebar('101_Liliana, The Schemer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\147_Softbrush and Goldgear.png" id="147_Softbrush and Goldgear" data-flag="@X" onclick="openSidebar('147_Softbrush and Goldgear',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\183_Nissa, Bloomguard.png" id="183_Nissa, Bloomguard" data-flag="@X" onclick="openSidebar('183_Nissa, Bloomguard',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\27_Savour The Season.png" id="27_Savour The Season" data-flag="@X" onclick="openSidebar('27_Savour The Season',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\66_Paperfin Schooling.png" id="66_Paperfin Schooling" data-flag="@X" onclick="openSidebar('66_Paperfin Schooling',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\105_Otherworldly Desire.png" id="105_Otherworldly Desire" data-flag="@X" onclick="openSidebar('105_Otherworldly Desire',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\151_Teardrop Drizzle.png" id="151_Teardrop Drizzle" data-flag="@X" onclick="openSidebar('151_Teardrop Drizzle',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\185_Relentless Lancer.png" id="185_Relentless Lancer" data-flag="@X" onclick="openSidebar('185_Relentless Lancer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\33_Sweetport Chaperone.png" id="33_Sweetport Chaperone" data-flag="@X" onclick="openSidebar('33_Sweetport Chaperone',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\76_Tuftear à la Mode.png" id="76_Tuftear à la Mode" data-flag="@X" onclick="openSidebar('76_Tuftear à la Mode',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\116_Villainy.png" id="116_Villainy" data-flag="@X" onclick="openSidebar('116_Villainy',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\152_Trendchaser Heiress.png" id="152_Trendchaser Heiress" data-flag="@X" onclick="openSidebar('152_Trendchaser Heiress',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\186_Roaring Orchidon.png" id="186_Roaring Orchidon" data-flag="@X" onclick="openSidebar('186_Roaring Orchidon',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\37_Wanderer In A Strangely Familiar Place.png" id="37_Wanderer In A Strangely Familiar Place" data-flag="@X" onclick="openSidebar('37_Wanderer In A Strangely Familiar Place',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\80_Zenjou, Planeographer.png" id="80_Zenjou, Planeographer" data-flag="@X" onclick="openSidebar('80_Zenjou, Planeographer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\118_Wayward Daughter.png" id="118_Wayward Daughter" data-flag="@X" onclick="openSidebar('118_Wayward Daughter',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\155_Venerable Vulpimane.png" id="155_Venerable Vulpimane" data-flag="@X" onclick="openSidebar('155_Venerable Vulpimane',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\188_Shimmering Colossus.png" id="188_Shimmering Colossus" data-flag="@X" onclick="openSidebar('188_Shimmering Colossus',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\2_A Case For Compulsory Service.png" id="2_A Case For Compulsory Service" data-flag="@X" onclick="openSidebar('2_A Case For Compulsory Service',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\41_Ashwing Parliament.png" id="41_Ashwing Parliament" data-flag="@X" onclick="openSidebar('41_Ashwing Parliament',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\83_Carve.png" id="83_Carve" data-flag="@X" onclick="openSidebar('83_Carve',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\123_Cloudbreeze Challenger.png" id="123_Cloudbreeze Challenger" data-flag="@X" onclick="openSidebar('123_Cloudbreeze Challenger',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\160_Asheye Marauder.png" id="160_Asheye Marauder" data-flag="@X" onclick="openSidebar('160_Asheye Marauder',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\4_Blades To Blooms.png" id="4_Blades To Blooms" data-flag="@X" onclick="openSidebar('4_Blades To Blooms',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\42_Bloomwhirl Retainer.png" id="42_Bloomwhirl Retainer" data-flag="@X" onclick="openSidebar('42_Bloomwhirl Retainer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\85_Citizen of the Night.png" id="85_Citizen of the Night" data-flag="@X" onclick="openSidebar('85_Citizen of the Night',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\124_Dookgear Duchess.png" id="124_Dookgear Duchess" data-flag="@X" onclick="openSidebar('124_Dookgear Duchess',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\161_Bloombranch Quencher.png" id="161_Bloombranch Quencher" data-flag="@X" onclick="openSidebar('161_Bloombranch Quencher',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\7_Cherrypeak Seer.png" id="7_Cherrypeak Seer" data-flag="@X" onclick="openSidebar('7_Cherrypeak Seer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\46_Consequences of Mass Print.png" id="46_Consequences of Mass Print" data-flag="@X" onclick="openSidebar('46_Consequences of Mass Print',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\90_Discerning Duo.png" id="90_Discerning Duo" data-flag="@X" onclick="openSidebar('90_Discerning Duo',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\125_Echo Ember.png" id="125_Echo Ember" data-flag="@X" onclick="openSidebar('125_Echo Ember',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\163_Brightlake Caller.png" id="163_Brightlake Caller" data-flag="@X" onclick="openSidebar('163_Brightlake Caller',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\8_Dovechant.png" id="8_Dovechant" data-flag="@X" onclick="openSidebar('8_Dovechant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\49_Drizzlebloom Adept.png" id="49_Drizzlebloom Adept" data-flag="@X" onclick="openSidebar('49_Drizzlebloom Adept',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\91_Discredit.png" id="91_Discredit" data-flag="@X" onclick="openSidebar('91_Discredit',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\127_Enlightened Greatmane.png" id="127_Enlightened Greatmane" data-flag="@X" onclick="openSidebar('127_Enlightened Greatmane',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\166_Cyflox Spectre.png" id="166_Cyflox Spectre" data-flag="@X" onclick="openSidebar('166_Cyflox Spectre',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\9_Dramatic Commander.png" id="9_Dramatic Commander" data-flag="@X" onclick="openSidebar('9_Dramatic Commander',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\51_Exhaust.png" id="51_Exhaust" data-flag="@X" onclick="openSidebar('51_Exhaust',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\94_Duskguard Cutthroat.png" id="94_Duskguard Cutthroat" data-flag="@X" onclick="openSidebar('94_Duskguard Cutthroat',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\129_Games of Chance.png" id="129_Games of Chance" data-flag="@X" onclick="openSidebar('129_Games of Chance',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\177_Longpipe Aesthete.png" id="177_Longpipe Aesthete" data-flag="@X" onclick="openSidebar('177_Longpipe Aesthete',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\13_Harbour Street Sentry.png" id="13_Harbour Street Sentry" data-flag="@X" onclick="openSidebar('13_Harbour Street Sentry',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\55_Gargantuan Groveback.png" id="55_Gargantuan Groveback" data-flag="@X" onclick="openSidebar('55_Gargantuan Groveback',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\98_Geistpetal Drifter.png" id="98_Geistpetal Drifter" data-flag="@X" onclick="openSidebar('98_Geistpetal Drifter',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\130_Giganpalm Maiden.png" id="130_Giganpalm Maiden" data-flag="@X" onclick="openSidebar('130_Giganpalm Maiden',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\180_Modern Urban Planning.png" id="180_Modern Urban Planning" data-flag="@X" onclick="openSidebar('180_Modern Urban Planning',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\16_Last Dance.png" id="16_Last Dance" data-flag="@X" onclick="openSidebar('16_Last Dance',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\58_Immaculate Performance.png" id="58_Immaculate Performance" data-flag="@X" onclick="openSidebar('58_Immaculate Performance',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\102_Longtusk Magistrate.png" id="102_Longtusk Magistrate" data-flag="@X" onclick="openSidebar('102_Longtusk Magistrate',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\133_Interservice Rivalry.png" id="133_Interservice Rivalry" data-flag="@X" onclick="openSidebar('133_Interservice Rivalry',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\187_Sacredgrove Guardian.png" id="187_Sacredgrove Guardian" data-flag="@X" onclick="openSidebar('187_Sacredgrove Guardian',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\20_Mundane Breakthrough.png" id="20_Mundane Breakthrough" data-flag="@X" onclick="openSidebar('20_Mundane Breakthrough',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\71_Softplume Shutterbug.png" id="71_Softplume Shutterbug" data-flag="@X" onclick="openSidebar('71_Softplume Shutterbug',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\104_Optimal Flowercard Strategy.png" id="104_Optimal Flowercard Strategy" data-flag="@X" onclick="openSidebar('104_Optimal Flowercard Strategy',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\141_Pyrobloom.png" id="141_Pyrobloom" data-flag="@X" onclick="openSidebar('141_Pyrobloom',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\191_Skittering Stratagem.png" id="191_Skittering Stratagem" data-flag="@X" onclick="openSidebar('191_Skittering Stratagem',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\26_Roundhorn Scholar.png" id="26_Roundhorn Scholar" data-flag="@X" onclick="openSidebar('26_Roundhorn Scholar',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\72_Spellshatter.png" id="72_Spellshatter" data-flag="@X" onclick="openSidebar('72_Spellshatter',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\106_Quell.png" id="106_Quell" data-flag="@X" onclick="openSidebar('106_Quell',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\148_Sparkbarrel Enthusiast.png" id="148_Sparkbarrel Enthusiast" data-flag="@X" onclick="openSidebar('148_Sparkbarrel Enthusiast',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\193_Thousandbud Cadet.png" id="193_Thousandbud Cadet" data-flag="@X" onclick="openSidebar('193_Thousandbud Cadet',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\28_Shorthop Veteran.png" id="28_Shorthop Veteran" data-flag="@X" onclick="openSidebar('28_Shorthop Veteran',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\75_Truebeak Revelation.png" id="75_Truebeak Revelation" data-flag="@X" onclick="openSidebar('75_Truebeak Revelation',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\110_Shrinetithe Treasurer.png" id="110_Shrinetithe Treasurer" data-flag="@X" onclick="openSidebar('110_Shrinetithe Treasurer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\154_Tuftear Shortblade.png" id="154_Tuftear Shortblade" data-flag="@X" onclick="openSidebar('154_Tuftear Shortblade',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\196_Veil of Spring.png" id="196_Veil of Spring" data-flag="@X" onclick="openSidebar('196_Veil of Spring',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\35_Tuftear Remembrant.png" id="35_Tuftear Remembrant" data-flag="@X" onclick="openSidebar('35_Tuftear Remembrant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\78_Willshaper Maiden.png" id="78_Willshaper Maiden" data-flag="@X" onclick="openSidebar('78_Willshaper Maiden',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\115_To Hell And Back.png" id="115_To Hell And Back" data-flag="@X" onclick="openSidebar('115_To Hell And Back',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\157_Vision of Inferno.png" id="157_Vision of Inferno" data-flag="@X" onclick="openSidebar('157_Vision of Inferno',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\197_Viperwhip.png" id="197_Viperwhip" data-flag="@X" onclick="openSidebar('197_Viperwhip',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\3_Bladeflower.png" id="3_Bladeflower" data-flag="@X" onclick="openSidebar('3_Bladeflower',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\45_Cloudgazer Shrine Maiden.png" id="45_Cloudgazer Shrine Maiden" data-flag="@X" onclick="openSidebar('45_Cloudgazer Shrine Maiden',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\86_Crimson Nectar.png" id="86_Crimson Nectar" data-flag="@X" onclick="openSidebar('86_Crimson Nectar',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\121_Bloomscale Serpent.png" id="121_Bloomscale Serpent" data-flag="@X" onclick="openSidebar('121_Bloomscale Serpent',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\159_An Arrow, Loosed.png" id="159_An Arrow, Loosed" data-flag="@X" onclick="openSidebar('159_An Arrow, Loosed',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\5_Bushtail Maiden.png" id="5_Bushtail Maiden" data-flag="@X" onclick="openSidebar('5_Bushtail Maiden',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\48_Dollify.png" id="48_Dollify" data-flag="@X" onclick="openSidebar('48_Dollify',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\88_Darkmane Patriarch.png" id="88_Darkmane Patriarch" data-flag="@X" onclick="openSidebar('88_Darkmane Patriarch',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\126_Embercloud Marauder.png" id="126_Embercloud Marauder" data-flag="@X" onclick="openSidebar('126_Embercloud Marauder',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\164_A Confrontation.png" id="164_A Confrontation" data-flag="@X" onclick="openSidebar('164_A Confrontation',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\6_Cherrybranch Sprites.png" id="6_Cherrybranch Sprites" data-flag="@X" onclick="openSidebar('6_Cherrybranch Sprites',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\50_Essence Warp.png" id="50_Essence Warp" data-flag="@X" onclick="openSidebar('50_Essence Warp',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\89_Darkshot Assassin.png" id="89_Darkshot Assassin" data-flag="@X" onclick="openSidebar('89_Darkshot Assassin',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\128_Fogstreet Speedster.png" id="128_Fogstreet Speedster" data-flag="@X" onclick="openSidebar('128_Fogstreet Speedster',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\167_Eccentric Company.png" id="167_Eccentric Company" data-flag="@X" onclick="openSidebar('167_Eccentric Company',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\10_Glow of the White Lily.png" id="10_Glow of the White Lily" data-flag="@X" onclick="openSidebar('10_Glow of the White Lily',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\52_Fandancer Courtesan.png" id="52_Fandancer Courtesan" data-flag="@X" onclick="openSidebar('52_Fandancer Courtesan',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\92_Dripblade Retainer.png" id="92_Dripblade Retainer" data-flag="@X" onclick="openSidebar('92_Dripblade Retainer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\132_Greyalley Lumographer.png" id="132_Greyalley Lumographer" data-flag="@X" onclick="openSidebar('132_Greyalley Lumographer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\168_Eighttail Medium.png" id="168_Eighttail Medium" data-flag="@X" onclick="openSidebar('168_Eighttail Medium',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\12_Greater Purrpaw.png" id="12_Greater Purrpaw" data-flag="@X" onclick="openSidebar('12_Greater Purrpaw',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\53_Fireglass Enthusiast.png" id="53_Fireglass Enthusiast" data-flag="@X" onclick="openSidebar('53_Fireglass Enthusiast',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\93_Drown in Despair.png" id="93_Drown in Despair" data-flag="@X" onclick="openSidebar('93_Drown in Despair',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\134_Intimidation Tactics.png" id="134_Intimidation Tactics" data-flag="@X" onclick="openSidebar('134_Intimidation Tactics',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\170_Eye for Detail.png" id="170_Eye for Detail" data-flag="@X" onclick="openSidebar('170_Eye for Detail',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\14_Incarcerate.png" id="14_Incarcerate" data-flag="@X" onclick="openSidebar('14_Incarcerate',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\54_Flurrygust.png" id="54_Flurrygust" data-flag="@X" onclick="openSidebar('54_Flurrygust',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\96_Final Bloom.png" id="96_Final Bloom" data-flag="@X" onclick="openSidebar('96_Final Bloom',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\135_Let Loose.png" id="135_Let Loose" data-flag="@X" onclick="openSidebar('135_Let Loose',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\171_Fallpool Maiden.png" id="171_Fallpool Maiden" data-flag="@X" onclick="openSidebar('171_Fallpool Maiden',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\15_Junkwing Cadet.png" id="15_Junkwing Cadet" data-flag="@X" onclick="openSidebar('15_Junkwing Cadet',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\56_Greatpond Croak.png" id="56_Greatpond Croak" data-flag="@X" onclick="openSidebar('56_Greatpond Croak',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\97_Fleshscour.png" id="97_Fleshscour" data-flag="@X" onclick="openSidebar('97_Fleshscour',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\136_Modern Bladework Technique.png" id="136_Modern Bladework Technique" data-flag="@X" onclick="openSidebar('136_Modern Bladework Technique',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\172_Fieldwork Inspections.png" id="172_Fieldwork Inspections" data-flag="@X" onclick="openSidebar('172_Fieldwork Inspections',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\22_Oldguard Thousandpalm.png" id="22_Oldguard Thousandpalm" data-flag="@X" onclick="openSidebar('22_Oldguard Thousandpalm',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\57_Gustdraw Trainee.png" id="57_Gustdraw Trainee" data-flag="@X" onclick="openSidebar('57_Gustdraw Trainee',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\99_Intimidation and Compliance.png" id="99_Intimidation and Compliance" data-flag="@X" onclick="openSidebar('99_Intimidation and Compliance',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\137_Overeager Freshman.png" id="137_Overeager Freshman" data-flag="@X" onclick="openSidebar('137_Overeager Freshman',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\173_Gardencourt Floraphile.png" id="173_Gardencourt Floraphile" data-flag="@X" onclick="openSidebar('173_Gardencourt Floraphile',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\23_One Way Ticket.png" id="23_One Way Ticket" data-flag="@X" onclick="openSidebar('23_One Way Ticket',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\63_Long Days & Longer Nights.png" id="63_Long Days & Longer Nights" data-flag="@X" onclick="openSidebar('63_Long Days & Longer Nights',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\100_Lanternwood Priestess.png" id="100_Lanternwood Priestess" data-flag="@X" onclick="openSidebar('100_Lanternwood Priestess',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\138_Petalcharm.png" id="138_Petalcharm" data-flag="@X" onclick="openSidebar('138_Petalcharm',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\176_Lightningblade Techniques.png" id="176_Lightningblade Techniques" data-flag="@X" onclick="openSidebar('176_Lightningblade Techniques',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\25_Roofpoint Drifters.png" id="25_Roofpoint Drifters" data-flag="@X" onclick="openSidebar('25_Roofpoint Drifters',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\64_Mirrorcube Manipulation.png" id="64_Mirrorcube Manipulation" data-flag="@X" onclick="openSidebar('64_Mirrorcube Manipulation',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\103_Moonveil Softplume.png" id="103_Moonveil Softplume" data-flag="@X" onclick="openSidebar('103_Moonveil Softplume',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\139_Powderpetals.png" id="139_Powderpetals" data-flag="@X" onclick="openSidebar('139_Powderpetals',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\178_Martial Triplets.png" id="178_Martial Triplets" data-flag="@X" onclick="openSidebar('178_Martial Triplets',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\29_Silversheet Sanctifiers.png" id="29_Silversheet Sanctifiers" data-flag="@X" onclick="openSidebar('29_Silversheet Sanctifiers',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\65_Ornithopter Exosegments.png" id="65_Ornithopter Exosegments" data-flag="@X" onclick="openSidebar('65_Ornithopter Exosegments',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\107_Ritual of Dancing Paper.png" id="107_Ritual of Dancing Paper" data-flag="@X" onclick="openSidebar('107_Ritual of Dancing Paper',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\142_Rageform.png" id="142_Rageform" data-flag="@X" onclick="openSidebar('142_Rageform',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\179_Meadowbloom Howl.png" id="179_Meadowbloom Howl" data-flag="@X" onclick="openSidebar('179_Meadowbloom Howl',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\30_Softplume Officer.png" id="30_Softplume Officer" data-flag="@X" onclick="openSidebar('30_Softplume Officer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\67_Petaldance.png" id="67_Petaldance" data-flag="@X" onclick="openSidebar('67_Petaldance',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\108_Rotting Ronin.png" id="108_Rotting Ronin" data-flag="@X" onclick="openSidebar('108_Rotting Ronin',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\143_Red Daisy Blade.png" id="143_Red Daisy Blade" data-flag="@X" onclick="openSidebar('143_Red Daisy Blade',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\181_Moment of Reprieve.png" id="181_Moment of Reprieve" data-flag="@X" onclick="openSidebar('181_Moment of Reprieve',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\31_Sparkedge Skimisher.png" id="31_Sparkedge Skimisher" data-flag="@X" onclick="openSidebar('31_Sparkedge Skimisher',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\68_Rewrite.png" id="68_Rewrite" data-flag="@X" onclick="openSidebar('68_Rewrite',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\109_Scrutinous Mentor.png" id="109_Scrutinous Mentor" data-flag="@X" onclick="openSidebar('109_Scrutinous Mentor',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\145_Shorthop Celebrant.png" id="145_Shorthop Celebrant" data-flag="@X" onclick="openSidebar('145_Shorthop Celebrant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\182_Morning Glow Branchling.png" id="182_Morning Glow Branchling" data-flag="@X" onclick="openSidebar('182_Morning Glow Branchling',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\32_Strike in the Dark.png" id="32_Strike in the Dark" data-flag="@X" onclick="openSidebar('32_Strike in the Dark',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\69_Silvermane Wyrm.png" id="69_Silvermane Wyrm" data-flag="@X" onclick="openSidebar('69_Silvermane Wyrm',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\111_Slitherchant.png" id="111_Slitherchant" data-flag="@X" onclick="openSidebar('111_Slitherchant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\146_Snapflare.png" id="146_Snapflare" data-flag="@X" onclick="openSidebar('146_Snapflare',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\184_Petalguard.png" id="184_Petalguard" data-flag="@X" onclick="openSidebar('184_Petalguard',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\34_Timely Communication.png" id="34_Timely Communication" data-flag="@X" onclick="openSidebar('34_Timely Communication',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\70_Softplume Galerider.png" id="70_Softplume Galerider" data-flag="@X" onclick="openSidebar('70_Softplume Galerider',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\112_Smotherthorns.png" id="112_Smotherthorns" data-flag="@X" onclick="openSidebar('112_Smotherthorns',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\149_Springwhirl Dance.png" id="149_Springwhirl Dance" data-flag="@X" onclick="openSidebar('149_Springwhirl Dance',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\189_Shrimeleon.png" id="189_Shrimeleon" data-flag="@X" onclick="openSidebar('189_Shrimeleon',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\36_Tuftear Traveller.png" id="36_Tuftear Traveller" data-flag="@X" onclick="openSidebar('36_Tuftear Traveller',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\73_Sweetport Sleuths.png" id="73_Sweetport Sleuths" data-flag="@X" onclick="openSidebar('73_Sweetport Sleuths',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\113_Soulstitch.png" id="113_Soulstitch" data-flag="@X" onclick="openSidebar('113_Soulstitch',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\150_Surreptitious Meeting.png" id="150_Surreptitious Meeting" data-flag="@X" onclick="openSidebar('150_Surreptitious Meeting',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\190_Silkclaw Trueblade.png" id="190_Silkclaw Trueblade" data-flag="@X" onclick="openSidebar('190_Silkclaw Trueblade',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\38_Water's Edge Adept.png" id="38_Waters Edge Adept" data-flag="@X" onclick="openSidebar('38_Waters Edge Adept',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\74_Talonwing Countess.png" id="74_Talonwing Countess" data-flag="@X" onclick="openSidebar('74_Talonwing Countess',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\114_Thoughtgraft.png" id="114_Thoughtgraft" data-flag="@X" onclick="openSidebar('114_Thoughtgraft',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\153_Tuftear Magistrate.png" id="153_Tuftear Magistrate" data-flag="@X" onclick="openSidebar('153_Tuftear Magistrate',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\192_Slitherchant Priest.png" id="192_Slitherchant Priest" data-flag="@X" onclick="openSidebar('192_Slitherchant Priest',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\39_Windwhistle Bells.png" id="39_Windwhistle Bells" data-flag="@X" onclick="openSidebar('39_Windwhistle Bells',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\77_Waterwaltz.png" id="77_Waterwaltz" data-flag="@X" onclick="openSidebar('77_Waterwaltz',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\117_Vulpishade.png" id="117_Vulpishade" data-flag="@X" onclick="openSidebar('117_Vulpishade',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\156_Veranda Vaulter.png" id="156_Veranda Vaulter" data-flag="@X" onclick="openSidebar('156_Veranda Vaulter',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\194_Toast to Old Spring.png" id="194_Toast to Old Spring" data-flag="@X" onclick="openSidebar('194_Toast to Old Spring',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\40_Wingblade Technique.png" id="40_Wingblade Technique" data-flag="@X" onclick="openSidebar('40_Wingblade Technique',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\79_Writ of Injunction.png" id="79_Writ of Injunction" data-flag="@X" onclick="openSidebar('79_Writ of Injunction',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\119_Whiteglove Guard.png" id="119_Whiteglove Guard" data-flag="@X" onclick="openSidebar('119_Whiteglove Guard',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\158_Whitemane Skirmisher.png" id="158_Whitemane Skirmisher" data-flag="@X" onclick="openSidebar('158_Whitemane Skirmisher',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\195_Tuftear Lanterntender.png" id="195_Tuftear Lanterntender" data-flag="@X" onclick="openSidebar('195_Tuftear Lanterntender',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="gold" class="anchor"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\204_A Farewell To Thorns.png" id="204_A Farewell To Thorns" data-flag="@X" onclick="openSidebar('204_A Farewell To Thorns',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\200_Branchhorn Lamplighter.png" id="200_Branchhorn Lamplighter" data-flag="@X" onclick="openSidebar('200_Branchhorn Lamplighter',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\209_Hasagi, the Deathwind.png" id="209_Hasagi, the Deathwind" data-flag="@X" onclick="openSidebar('209_Hasagi, the Deathwind',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\221_Summerdawn Firebrand.png" id="221_Summerdawn Firebrand" data-flag="@X" onclick="openSidebar('221_Summerdawn Firebrand',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\225_White Wolf Mio.png" id="225_White Wolf Mio" data-flag="@X" onclick="openSidebar('225_White Wolf Mio',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\208_Glasslens Sleuth.png" id="208_Glasslens Sleuth" data-flag="@X" onclick="openSidebar('208_Glasslens Sleuth',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\198_Ashwing Cloudrunner.png" id="198_Ashwing Cloudrunner" data-flag="@X" onclick="openSidebar('198_Ashwing Cloudrunner',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\199_Bloodleaf Endurant.png" id="199_Bloodleaf Endurant" data-flag="@X" onclick="openSidebar('199_Bloodleaf Endurant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\212_Lightningblade Adept.png" id="212_Lightningblade Adept" data-flag="@X" onclick="openSidebar('212_Lightningblade Adept',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\206_Gardencourt Trainee.png" id="206_Gardencourt Trainee" data-flag="@X" onclick="openSidebar('206_Gardencourt Trainee',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\226_Wizened Tinkerer.png" id="226_Wizened Tinkerer" data-flag="@X" onclick="openSidebar('226_Wizened Tinkerer',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\207_Ghostcreek Haunt.png" id="207_Ghostcreek Haunt" data-flag="@X" onclick="openSidebar('207_Ghostcreek Haunt',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\203_Eastriver Sellshot.png" id="203_Eastriver Sellshot" data-flag="@X" onclick="openSidebar('203_Eastriver Sellshot',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\220_Shadowflame Maven.png" id="220_Shadowflame Maven" data-flag="@X" onclick="openSidebar('220_Shadowflame Maven',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\223_Westshrine Bladedancer.png" id="223_Westshrine Bladedancer" data-flag="@X" onclick="openSidebar('223_Westshrine Bladedancer',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\211_Iya Washi.png" id="211_Iya Washi" data-flag="@X" onclick="openSidebar('211_Iya Washi',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\224_Whelpdaughter Celebrant.png" id="224_Whelpdaughter Celebrant" data-flag="@X" onclick="openSidebar('224_Whelpdaughter Celebrant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\222_Sweetcake Governess.png" id="222_Sweetcake Governess" data-flag="@X" onclick="openSidebar('222_Sweetcake Governess',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\202_Cherrygust Seraphim.png" id="202_Cherrygust Seraphim" data-flag="@X" onclick="openSidebar('202_Cherrygust Seraphim',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\227_Writhegrove Tender.png" id="227_Writhegrove Tender" data-flag="@X" onclick="openSidebar('227_Writhegrove Tender',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\213_Newforce Bloomshot.png" id="213_Newforce Bloomshot" data-flag="@X" onclick="openSidebar('213_Newforce Bloomshot',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\214_Newforce Stormbarrel.png" id="214_Newforce Stormbarrel" data-flag="@X" onclick="openSidebar('214_Newforce Stormbarrel',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\201_Chaffslice Delegate.png" id="201_Chaffslice Delegate" data-flag="@X" onclick="openSidebar('201_Chaffslice Delegate',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\216_Pinkrose Heartcatch.png" id="216_Pinkrose Heartcatch" data-flag="@X" onclick="openSidebar('216_Pinkrose Heartcatch',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\205_Gardencourt Sharptongue.png" id="205_Gardencourt Sharptongue" data-flag="@X" onclick="openSidebar('205_Gardencourt Sharptongue',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\215_Oldguard Patrol.png" id="215_Oldguard Patrol" data-flag="@X" onclick="openSidebar('215_Oldguard Patrol',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\217_Polypetal Savant.png" id="217_Polypetal Savant" data-flag="@X" onclick="openSidebar('217_Polypetal Savant',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\210_Heartbleed Courtier.png" id="210_Heartbleed Courtier" data-flag="@X" onclick="openSidebar('210_Heartbleed Courtier',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\218_Prattletooth Administrator.png" id="218_Prattletooth Administrator" data-flag="@X" onclick="openSidebar('218_Prattletooth Administrator',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\219_Serpent of Southcliff.png" id="219_Serpent of Southcliff" data-flag="@X" onclick="openSidebar('219_Serpent of Southcliff',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="colorless" class="anchor"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\229_Amiable Automaton.png" id="229_Amiable Automaton" data-flag="@X" onclick="openSidebar('229_Amiable Automaton',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\231_Cherry Division Tinsuit.png" id="231_Cherry Division Tinsuit" data-flag="@X" onclick="openSidebar('231_Cherry Division Tinsuit',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\233_Golden Lotus.png" id="233_Golden Lotus" data-flag="@X" onclick="openSidebar('233_Golden Lotus',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\236_Paradise Brush.png" id="236_Paradise Brush" data-flag="@X" onclick="openSidebar('236_Paradise Brush',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\234_Hypergyric Astrolabe.png" id="234_Hypergyric Astrolabe" data-flag="@X" onclick="openSidebar('234_Hypergyric Astrolabe',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\237_Plumed Effigy.png" id="237_Plumed Effigy" data-flag="@X" onclick="openSidebar('237_Plumed Effigy',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\238_Quickdraw Barrel.png" id="238_Quickdraw Barrel" data-flag="@X" onclick="openSidebar('238_Quickdraw Barrel',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\239_Roiling Ironsnake.png" id="239_Roiling Ironsnake" data-flag="@X" onclick="openSidebar('239_Roiling Ironsnake',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\228_Adorned Blade.png" id="228_Adorned Blade" data-flag="@X" onclick="openSidebar('228_Adorned Blade',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\230_Autogear Puppet.png" id="230_Autogear Puppet" data-flag="@X" onclick="openSidebar('230_Autogear Puppet',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\232_Drifting Clothwhale.png" id="232_Drifting Clothwhale" data-flag="@X" onclick="openSidebar('232_Drifting Clothwhale',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\235_Lumograph Contraption.png" id="235_Lumograph Contraption" data-flag="@X" onclick="openSidebar('235_Lumograph Contraption',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\241_Rootstone Archive.png" id="241_Rootstone Archive" data-flag="@X" onclick="openSidebar('241_Rootstone Archive',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\242_Shimmerbloom Grotto.png" id="242_Shimmerbloom Grotto" data-flag="@X" onclick="openSidebar('242_Shimmerbloom Grotto',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\240_Highfall Cityscape.png" id="240_Highfall Cityscape" data-flag="@X" onclick="openSidebar('240_Highfall Cityscape',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="token" class="anchor"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\1t_Strength.png" id="1t_Strength" data-flag="@X" onclick="openSidebar('1t_Strength',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\2t_Petal.png" id="2t_Petal" data-flag="@X" onclick="openSidebar('2t_Petal',false)"></div>
-			<div class="container"><img alt="/sets\BHES-files\img\61t_Ironsnake Rider's Guide to Bauhinia.png" id="61t_Ironsnake Riders Guide to Bauhinia" data-flag="@X" onclick="openSidebar('61t_Ironsnake Riders Guide to Bauhinia',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\BHES-files\img\11_Goldsash Mentor.png" id="BHES_11_Goldsash Mentor" data-flag="@X" onclick="openSidebar('BHES_11_Goldsash Mentor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\43_Breezebind Clique.png" id="BHES_43_Breezebind Clique" data-flag="@X" onclick="openSidebar('BHES_43_Breezebind Clique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\81_Blood Burgeoning.png" id="BHES_81_Blood Burgeoning" data-flag="@X" onclick="openSidebar('BHES_81_Blood Burgeoning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\120_Artillery.png" id="BHES_120_Artillery" data-flag="@X" onclick="openSidebar('BHES_120_Artillery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\162_Botany.png" id="BHES_162_Botany" data-flag="@X" onclick="openSidebar('BHES_162_Botany',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\17_Lessons From the Unification War.png" id="BHES_17_Lessons From the Unification War" data-flag="@X" onclick="openSidebar('BHES_17_Lessons From the Unification War',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\44_Chemistry.png" id="BHES_44_Chemistry" data-flag="@X" onclick="openSidebar('BHES_44_Chemistry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\82_Breath Eater.png" id="BHES_82_Breath Eater" data-flag="@X" onclick="openSidebar('BHES_82_Breath Eater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\122_Bright Dilettante.png" id="BHES_122_Bright Dilettante" data-flag="@X" onclick="openSidebar('BHES_122_Bright Dilettante',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\165_Curious Company.png" id="BHES_165_Curious Company" data-flag="@X" onclick="openSidebar('BHES_165_Curious Company',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\18_Mad King's Justice.png" id="BHES_18_Mad Kings Justice" data-flag="@X" onclick="openSidebar('BHES_18_Mad Kings Justice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\47_Decluttering.png" id="BHES_47_Decluttering" data-flag="@X" onclick="openSidebar('BHES_47_Decluttering',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\84_Changing Consumption Trends.png" id="BHES_84_Changing Consumption Trends" data-flag="@X" onclick="openSidebar('BHES_84_Changing Consumption Trends',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\131_Gretel of Grimnacht.png" id="BHES_131_Gretel of Grimnacht" data-flag="@X" onclick="openSidebar('BHES_131_Gretel of Grimnacht',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\169_Equinoaxial Ripple.png" id="BHES_169_Equinoaxial Ripple" data-flag="@X" onclick="openSidebar('BHES_169_Equinoaxial Ripple',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\19_Marshal of the Oldguard.png" id="BHES_19_Marshal of the Oldguard" data-flag="@X" onclick="openSidebar('BHES_19_Marshal of the Oldguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\59_Investigating Chrono-Anomalies.png" id="BHES_59_Investigating Chrono-Anomalies" data-flag="@X" onclick="openSidebar('BHES_59_Investigating Chrono-Anomalies',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\87_Crimson Retainer.png" id="BHES_87_Crimson Retainer" data-flag="@X" onclick="openSidebar('BHES_87_Crimson Retainer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\140_Principles of Art Nouveau.png" id="BHES_140_Principles of Art Nouveau" data-flag="@X" onclick="openSidebar('BHES_140_Principles of Art Nouveau',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\174_Highstreet Porter.png" id="BHES_174_Highstreet Porter" data-flag="@X" onclick="openSidebar('BHES_174_Highstreet Porter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\21_Newsound Sensation.png" id="BHES_21_Newsound Sensation" data-flag="@X" onclick="openSidebar('BHES_21_Newsound Sensation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\60_Ironsnake Itinerant.png" id="BHES_60_Ironsnake Itinerant" data-flag="@X" onclick="openSidebar('BHES_60_Ironsnake Itinerant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\95_Equinoaxial Instability.png" id="BHES_95_Equinoaxial Instability" data-flag="@X" onclick="openSidebar('BHES_95_Equinoaxial Instability',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\144_Reincarnated as a Lotus Flower.png" id="BHES_144_Reincarnated as a Lotus Flower" data-flag="@X" onclick="openSidebar('BHES_144_Reincarnated as a Lotus Flower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\175_Introduction To Obsolete Arms.png" id="BHES_175_Introduction To Obsolete Arms" data-flag="@X" onclick="openSidebar('BHES_175_Introduction To Obsolete Arms',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\24_Oratory.png" id="BHES_24_Oratory" data-flag="@X" onclick="openSidebar('BHES_24_Oratory',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\62_Lies of Omission.png" id="BHES_62_Lies of Omission" data-flag="@X" onclick="openSidebar('BHES_62_Lies of Omission',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\101_Liliana, The Schemer.png" id="BHES_101_Liliana, The Schemer" data-flag="@X" onclick="openSidebar('BHES_101_Liliana, The Schemer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\147_Softbrush and Goldgear.png" id="BHES_147_Softbrush and Goldgear" data-flag="@X" onclick="openSidebar('BHES_147_Softbrush and Goldgear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\183_Nissa, Bloomguard.png" id="BHES_183_Nissa, Bloomguard" data-flag="@X" onclick="openSidebar('BHES_183_Nissa, Bloomguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\27_Savour The Season.png" id="BHES_27_Savour The Season" data-flag="@X" onclick="openSidebar('BHES_27_Savour The Season',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\66_Paperfin Schooling.png" id="BHES_66_Paperfin Schooling" data-flag="@X" onclick="openSidebar('BHES_66_Paperfin Schooling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\105_Otherworldly Desire.png" id="BHES_105_Otherworldly Desire" data-flag="@X" onclick="openSidebar('BHES_105_Otherworldly Desire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\151_Teardrop Drizzle.png" id="BHES_151_Teardrop Drizzle" data-flag="@X" onclick="openSidebar('BHES_151_Teardrop Drizzle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\185_Relentless Lancer.png" id="BHES_185_Relentless Lancer" data-flag="@X" onclick="openSidebar('BHES_185_Relentless Lancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\33_Sweetport Chaperone.png" id="BHES_33_Sweetport Chaperone" data-flag="@X" onclick="openSidebar('BHES_33_Sweetport Chaperone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\76_Tuftear à la Mode.png" id="BHES_76_Tuftear à la Mode" data-flag="@X" onclick="openSidebar('BHES_76_Tuftear à la Mode',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\116_Villainy.png" id="BHES_116_Villainy" data-flag="@X" onclick="openSidebar('BHES_116_Villainy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\152_Trendchaser Heiress.png" id="BHES_152_Trendchaser Heiress" data-flag="@X" onclick="openSidebar('BHES_152_Trendchaser Heiress',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\186_Roaring Orchidon.png" id="BHES_186_Roaring Orchidon" data-flag="@X" onclick="openSidebar('BHES_186_Roaring Orchidon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\37_Wanderer In A Strangely Familiar Place.png" id="BHES_37_Wanderer In A Strangely Familiar Place" data-flag="@X" onclick="openSidebar('BHES_37_Wanderer In A Strangely Familiar Place',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\80_Zenjou, Planeographer.png" id="BHES_80_Zenjou, Planeographer" data-flag="@X" onclick="openSidebar('BHES_80_Zenjou, Planeographer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\118_Wayward Daughter.png" id="BHES_118_Wayward Daughter" data-flag="@X" onclick="openSidebar('BHES_118_Wayward Daughter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\155_Venerable Vulpimane.png" id="BHES_155_Venerable Vulpimane" data-flag="@X" onclick="openSidebar('BHES_155_Venerable Vulpimane',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\188_Shimmering Colossus.png" id="BHES_188_Shimmering Colossus" data-flag="@X" onclick="openSidebar('BHES_188_Shimmering Colossus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\2_A Case For Compulsory Service.png" id="BHES_2_A Case For Compulsory Service" data-flag="@X" onclick="openSidebar('BHES_2_A Case For Compulsory Service',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\41_Ashwing Parliament.png" id="BHES_41_Ashwing Parliament" data-flag="@X" onclick="openSidebar('BHES_41_Ashwing Parliament',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\83_Carve.png" id="BHES_83_Carve" data-flag="@X" onclick="openSidebar('BHES_83_Carve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\123_Cloudbreeze Challenger.png" id="BHES_123_Cloudbreeze Challenger" data-flag="@X" onclick="openSidebar('BHES_123_Cloudbreeze Challenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\160_Asheye Marauder.png" id="BHES_160_Asheye Marauder" data-flag="@X" onclick="openSidebar('BHES_160_Asheye Marauder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\4_Blades To Blooms.png" id="BHES_4_Blades To Blooms" data-flag="@X" onclick="openSidebar('BHES_4_Blades To Blooms',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\42_Bloomwhirl Retainer.png" id="BHES_42_Bloomwhirl Retainer" data-flag="@X" onclick="openSidebar('BHES_42_Bloomwhirl Retainer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\85_Citizen of the Night.png" id="BHES_85_Citizen of the Night" data-flag="@X" onclick="openSidebar('BHES_85_Citizen of the Night',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\124_Dookgear Duchess.png" id="BHES_124_Dookgear Duchess" data-flag="@X" onclick="openSidebar('BHES_124_Dookgear Duchess',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\161_Bloombranch Quencher.png" id="BHES_161_Bloombranch Quencher" data-flag="@X" onclick="openSidebar('BHES_161_Bloombranch Quencher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\7_Cherrypeak Seer.png" id="BHES_7_Cherrypeak Seer" data-flag="@X" onclick="openSidebar('BHES_7_Cherrypeak Seer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\46_Consequences of Mass Print.png" id="BHES_46_Consequences of Mass Print" data-flag="@X" onclick="openSidebar('BHES_46_Consequences of Mass Print',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\90_Discerning Duo.png" id="BHES_90_Discerning Duo" data-flag="@X" onclick="openSidebar('BHES_90_Discerning Duo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\125_Echo Ember.png" id="BHES_125_Echo Ember" data-flag="@X" onclick="openSidebar('BHES_125_Echo Ember',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\163_Brightlake Caller.png" id="BHES_163_Brightlake Caller" data-flag="@X" onclick="openSidebar('BHES_163_Brightlake Caller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\8_Dovechant.png" id="BHES_8_Dovechant" data-flag="@X" onclick="openSidebar('BHES_8_Dovechant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\49_Drizzlebloom Adept.png" id="BHES_49_Drizzlebloom Adept" data-flag="@X" onclick="openSidebar('BHES_49_Drizzlebloom Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\91_Discredit.png" id="BHES_91_Discredit" data-flag="@X" onclick="openSidebar('BHES_91_Discredit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\127_Enlightened Greatmane.png" id="BHES_127_Enlightened Greatmane" data-flag="@X" onclick="openSidebar('BHES_127_Enlightened Greatmane',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\166_Cyflox Spectre.png" id="BHES_166_Cyflox Spectre" data-flag="@X" onclick="openSidebar('BHES_166_Cyflox Spectre',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\9_Dramatic Commander.png" id="BHES_9_Dramatic Commander" data-flag="@X" onclick="openSidebar('BHES_9_Dramatic Commander',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\51_Exhaust.png" id="BHES_51_Exhaust" data-flag="@X" onclick="openSidebar('BHES_51_Exhaust',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\94_Duskguard Cutthroat.png" id="BHES_94_Duskguard Cutthroat" data-flag="@X" onclick="openSidebar('BHES_94_Duskguard Cutthroat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\129_Games of Chance.png" id="BHES_129_Games of Chance" data-flag="@X" onclick="openSidebar('BHES_129_Games of Chance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\177_Longpipe Aesthete.png" id="BHES_177_Longpipe Aesthete" data-flag="@X" onclick="openSidebar('BHES_177_Longpipe Aesthete',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\13_Harbour Street Sentry.png" id="BHES_13_Harbour Street Sentry" data-flag="@X" onclick="openSidebar('BHES_13_Harbour Street Sentry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\55_Gargantuan Groveback.png" id="BHES_55_Gargantuan Groveback" data-flag="@X" onclick="openSidebar('BHES_55_Gargantuan Groveback',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\98_Geistpetal Drifter.png" id="BHES_98_Geistpetal Drifter" data-flag="@X" onclick="openSidebar('BHES_98_Geistpetal Drifter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\130_Giganpalm Maiden.png" id="BHES_130_Giganpalm Maiden" data-flag="@X" onclick="openSidebar('BHES_130_Giganpalm Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\180_Modern Urban Planning.png" id="BHES_180_Modern Urban Planning" data-flag="@X" onclick="openSidebar('BHES_180_Modern Urban Planning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\16_Last Dance.png" id="BHES_16_Last Dance" data-flag="@X" onclick="openSidebar('BHES_16_Last Dance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\58_Immaculate Performance.png" id="BHES_58_Immaculate Performance" data-flag="@X" onclick="openSidebar('BHES_58_Immaculate Performance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\102_Longtusk Magistrate.png" id="BHES_102_Longtusk Magistrate" data-flag="@X" onclick="openSidebar('BHES_102_Longtusk Magistrate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\133_Interservice Rivalry.png" id="BHES_133_Interservice Rivalry" data-flag="@X" onclick="openSidebar('BHES_133_Interservice Rivalry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\187_Sacredgrove Guardian.png" id="BHES_187_Sacredgrove Guardian" data-flag="@X" onclick="openSidebar('BHES_187_Sacredgrove Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\20_Mundane Breakthrough.png" id="BHES_20_Mundane Breakthrough" data-flag="@X" onclick="openSidebar('BHES_20_Mundane Breakthrough',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\71_Softplume Shutterbug.png" id="BHES_71_Softplume Shutterbug" data-flag="@X" onclick="openSidebar('BHES_71_Softplume Shutterbug',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\104_Optimal Flowercard Strategy.png" id="BHES_104_Optimal Flowercard Strategy" data-flag="@X" onclick="openSidebar('BHES_104_Optimal Flowercard Strategy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\141_Pyrobloom.png" id="BHES_141_Pyrobloom" data-flag="@X" onclick="openSidebar('BHES_141_Pyrobloom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\191_Skittering Stratagem.png" id="BHES_191_Skittering Stratagem" data-flag="@X" onclick="openSidebar('BHES_191_Skittering Stratagem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\26_Roundhorn Scholar.png" id="BHES_26_Roundhorn Scholar" data-flag="@X" onclick="openSidebar('BHES_26_Roundhorn Scholar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\72_Spellshatter.png" id="BHES_72_Spellshatter" data-flag="@X" onclick="openSidebar('BHES_72_Spellshatter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\106_Quell.png" id="BHES_106_Quell" data-flag="@X" onclick="openSidebar('BHES_106_Quell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\148_Sparkbarrel Enthusiast.png" id="BHES_148_Sparkbarrel Enthusiast" data-flag="@X" onclick="openSidebar('BHES_148_Sparkbarrel Enthusiast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\193_Thousandbud Cadet.png" id="BHES_193_Thousandbud Cadet" data-flag="@X" onclick="openSidebar('BHES_193_Thousandbud Cadet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\28_Shorthop Veteran.png" id="BHES_28_Shorthop Veteran" data-flag="@X" onclick="openSidebar('BHES_28_Shorthop Veteran',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\75_Truebeak Revelation.png" id="BHES_75_Truebeak Revelation" data-flag="@X" onclick="openSidebar('BHES_75_Truebeak Revelation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\110_Shrinetithe Treasurer.png" id="BHES_110_Shrinetithe Treasurer" data-flag="@X" onclick="openSidebar('BHES_110_Shrinetithe Treasurer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\154_Tuftear Shortblade.png" id="BHES_154_Tuftear Shortblade" data-flag="@X" onclick="openSidebar('BHES_154_Tuftear Shortblade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\196_Veil of Spring.png" id="BHES_196_Veil of Spring" data-flag="@X" onclick="openSidebar('BHES_196_Veil of Spring',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\35_Tuftear Remembrant.png" id="BHES_35_Tuftear Remembrant" data-flag="@X" onclick="openSidebar('BHES_35_Tuftear Remembrant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\78_Willshaper Maiden.png" id="BHES_78_Willshaper Maiden" data-flag="@X" onclick="openSidebar('BHES_78_Willshaper Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\115_To Hell And Back.png" id="BHES_115_To Hell And Back" data-flag="@X" onclick="openSidebar('BHES_115_To Hell And Back',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\157_Vision of Inferno.png" id="BHES_157_Vision of Inferno" data-flag="@X" onclick="openSidebar('BHES_157_Vision of Inferno',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\197_Viperwhip.png" id="BHES_197_Viperwhip" data-flag="@X" onclick="openSidebar('BHES_197_Viperwhip',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\3_Bladeflower.png" id="BHES_3_Bladeflower" data-flag="@X" onclick="openSidebar('BHES_3_Bladeflower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\45_Cloudgazer Shrine Maiden.png" id="BHES_45_Cloudgazer Shrine Maiden" data-flag="@X" onclick="openSidebar('BHES_45_Cloudgazer Shrine Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\86_Crimson Nectar.png" id="BHES_86_Crimson Nectar" data-flag="@X" onclick="openSidebar('BHES_86_Crimson Nectar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\121_Bloomscale Serpent.png" id="BHES_121_Bloomscale Serpent" data-flag="@X" onclick="openSidebar('BHES_121_Bloomscale Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\159_An Arrow, Loosed.png" id="BHES_159_An Arrow, Loosed" data-flag="@X" onclick="openSidebar('BHES_159_An Arrow, Loosed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\5_Bushtail Maiden.png" id="BHES_5_Bushtail Maiden" data-flag="@X" onclick="openSidebar('BHES_5_Bushtail Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\48_Dollify.png" id="BHES_48_Dollify" data-flag="@X" onclick="openSidebar('BHES_48_Dollify',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\88_Darkmane Patriarch.png" id="BHES_88_Darkmane Patriarch" data-flag="@X" onclick="openSidebar('BHES_88_Darkmane Patriarch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\126_Embercloud Marauder.png" id="BHES_126_Embercloud Marauder" data-flag="@X" onclick="openSidebar('BHES_126_Embercloud Marauder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\164_A Confrontation.png" id="BHES_164_A Confrontation" data-flag="@X" onclick="openSidebar('BHES_164_A Confrontation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\6_Cherrybranch Sprites.png" id="BHES_6_Cherrybranch Sprites" data-flag="@X" onclick="openSidebar('BHES_6_Cherrybranch Sprites',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\50_Essence Warp.png" id="BHES_50_Essence Warp" data-flag="@X" onclick="openSidebar('BHES_50_Essence Warp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\89_Darkshot Assassin.png" id="BHES_89_Darkshot Assassin" data-flag="@X" onclick="openSidebar('BHES_89_Darkshot Assassin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\128_Fogstreet Speedster.png" id="BHES_128_Fogstreet Speedster" data-flag="@X" onclick="openSidebar('BHES_128_Fogstreet Speedster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\167_Eccentric Company.png" id="BHES_167_Eccentric Company" data-flag="@X" onclick="openSidebar('BHES_167_Eccentric Company',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\10_Glow of the White Lily.png" id="BHES_10_Glow of the White Lily" data-flag="@X" onclick="openSidebar('BHES_10_Glow of the White Lily',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\52_Fandancer Courtesan.png" id="BHES_52_Fandancer Courtesan" data-flag="@X" onclick="openSidebar('BHES_52_Fandancer Courtesan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\92_Dripblade Retainer.png" id="BHES_92_Dripblade Retainer" data-flag="@X" onclick="openSidebar('BHES_92_Dripblade Retainer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\132_Greyalley Lumographer.png" id="BHES_132_Greyalley Lumographer" data-flag="@X" onclick="openSidebar('BHES_132_Greyalley Lumographer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\168_Eighttail Medium.png" id="BHES_168_Eighttail Medium" data-flag="@X" onclick="openSidebar('BHES_168_Eighttail Medium',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\12_Greater Purrpaw.png" id="BHES_12_Greater Purrpaw" data-flag="@X" onclick="openSidebar('BHES_12_Greater Purrpaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\53_Fireglass Enthusiast.png" id="BHES_53_Fireglass Enthusiast" data-flag="@X" onclick="openSidebar('BHES_53_Fireglass Enthusiast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\93_Drown in Despair.png" id="BHES_93_Drown in Despair" data-flag="@X" onclick="openSidebar('BHES_93_Drown in Despair',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\134_Intimidation Tactics.png" id="BHES_134_Intimidation Tactics" data-flag="@X" onclick="openSidebar('BHES_134_Intimidation Tactics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\170_Eye for Detail.png" id="BHES_170_Eye for Detail" data-flag="@X" onclick="openSidebar('BHES_170_Eye for Detail',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\14_Incarcerate.png" id="BHES_14_Incarcerate" data-flag="@X" onclick="openSidebar('BHES_14_Incarcerate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\54_Flurrygust.png" id="BHES_54_Flurrygust" data-flag="@X" onclick="openSidebar('BHES_54_Flurrygust',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\96_Final Bloom.png" id="BHES_96_Final Bloom" data-flag="@X" onclick="openSidebar('BHES_96_Final Bloom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\135_Let Loose.png" id="BHES_135_Let Loose" data-flag="@X" onclick="openSidebar('BHES_135_Let Loose',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\171_Fallpool Maiden.png" id="BHES_171_Fallpool Maiden" data-flag="@X" onclick="openSidebar('BHES_171_Fallpool Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\15_Junkwing Cadet.png" id="BHES_15_Junkwing Cadet" data-flag="@X" onclick="openSidebar('BHES_15_Junkwing Cadet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\56_Greatpond Croak.png" id="BHES_56_Greatpond Croak" data-flag="@X" onclick="openSidebar('BHES_56_Greatpond Croak',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\97_Fleshscour.png" id="BHES_97_Fleshscour" data-flag="@X" onclick="openSidebar('BHES_97_Fleshscour',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\136_Modern Bladework Technique.png" id="BHES_136_Modern Bladework Technique" data-flag="@X" onclick="openSidebar('BHES_136_Modern Bladework Technique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\172_Fieldwork Inspections.png" id="BHES_172_Fieldwork Inspections" data-flag="@X" onclick="openSidebar('BHES_172_Fieldwork Inspections',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\22_Oldguard Thousandpalm.png" id="BHES_22_Oldguard Thousandpalm" data-flag="@X" onclick="openSidebar('BHES_22_Oldguard Thousandpalm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\57_Gustdraw Trainee.png" id="BHES_57_Gustdraw Trainee" data-flag="@X" onclick="openSidebar('BHES_57_Gustdraw Trainee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\99_Intimidation and Compliance.png" id="BHES_99_Intimidation and Compliance" data-flag="@X" onclick="openSidebar('BHES_99_Intimidation and Compliance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\137_Overeager Freshman.png" id="BHES_137_Overeager Freshman" data-flag="@X" onclick="openSidebar('BHES_137_Overeager Freshman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\173_Gardencourt Floraphile.png" id="BHES_173_Gardencourt Floraphile" data-flag="@X" onclick="openSidebar('BHES_173_Gardencourt Floraphile',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\23_One Way Ticket.png" id="BHES_23_One Way Ticket" data-flag="@X" onclick="openSidebar('BHES_23_One Way Ticket',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\63_Long Days & Longer Nights.png" id="BHES_63_Long Days & Longer Nights" data-flag="@X" onclick="openSidebar('BHES_63_Long Days & Longer Nights',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\100_Lanternwood Priestess.png" id="BHES_100_Lanternwood Priestess" data-flag="@X" onclick="openSidebar('BHES_100_Lanternwood Priestess',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\138_Petalcharm.png" id="BHES_138_Petalcharm" data-flag="@X" onclick="openSidebar('BHES_138_Petalcharm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\176_Lightningblade Techniques.png" id="BHES_176_Lightningblade Techniques" data-flag="@X" onclick="openSidebar('BHES_176_Lightningblade Techniques',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\25_Roofpoint Drifters.png" id="BHES_25_Roofpoint Drifters" data-flag="@X" onclick="openSidebar('BHES_25_Roofpoint Drifters',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\64_Mirrorcube Manipulation.png" id="BHES_64_Mirrorcube Manipulation" data-flag="@X" onclick="openSidebar('BHES_64_Mirrorcube Manipulation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\103_Moonveil Softplume.png" id="BHES_103_Moonveil Softplume" data-flag="@X" onclick="openSidebar('BHES_103_Moonveil Softplume',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\139_Powderpetals.png" id="BHES_139_Powderpetals" data-flag="@X" onclick="openSidebar('BHES_139_Powderpetals',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\178_Martial Triplets.png" id="BHES_178_Martial Triplets" data-flag="@X" onclick="openSidebar('BHES_178_Martial Triplets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\29_Silversheet Sanctifiers.png" id="BHES_29_Silversheet Sanctifiers" data-flag="@X" onclick="openSidebar('BHES_29_Silversheet Sanctifiers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\65_Ornithopter Exosegments.png" id="BHES_65_Ornithopter Exosegments" data-flag="@X" onclick="openSidebar('BHES_65_Ornithopter Exosegments',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\107_Ritual of Dancing Paper.png" id="BHES_107_Ritual of Dancing Paper" data-flag="@X" onclick="openSidebar('BHES_107_Ritual of Dancing Paper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\142_Rageform.png" id="BHES_142_Rageform" data-flag="@X" onclick="openSidebar('BHES_142_Rageform',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\179_Meadowbloom Howl.png" id="BHES_179_Meadowbloom Howl" data-flag="@X" onclick="openSidebar('BHES_179_Meadowbloom Howl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\30_Softplume Officer.png" id="BHES_30_Softplume Officer" data-flag="@X" onclick="openSidebar('BHES_30_Softplume Officer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\67_Petaldance.png" id="BHES_67_Petaldance" data-flag="@X" onclick="openSidebar('BHES_67_Petaldance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\108_Rotting Ronin.png" id="BHES_108_Rotting Ronin" data-flag="@X" onclick="openSidebar('BHES_108_Rotting Ronin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\143_Red Daisy Blade.png" id="BHES_143_Red Daisy Blade" data-flag="@X" onclick="openSidebar('BHES_143_Red Daisy Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\181_Moment of Reprieve.png" id="BHES_181_Moment of Reprieve" data-flag="@X" onclick="openSidebar('BHES_181_Moment of Reprieve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\31_Sparkedge Skimisher.png" id="BHES_31_Sparkedge Skimisher" data-flag="@X" onclick="openSidebar('BHES_31_Sparkedge Skimisher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\68_Rewrite.png" id="BHES_68_Rewrite" data-flag="@X" onclick="openSidebar('BHES_68_Rewrite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\109_Scrutinous Mentor.png" id="BHES_109_Scrutinous Mentor" data-flag="@X" onclick="openSidebar('BHES_109_Scrutinous Mentor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\145_Shorthop Celebrant.png" id="BHES_145_Shorthop Celebrant" data-flag="@X" onclick="openSidebar('BHES_145_Shorthop Celebrant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\182_Morning Glow Branchling.png" id="BHES_182_Morning Glow Branchling" data-flag="@X" onclick="openSidebar('BHES_182_Morning Glow Branchling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\32_Strike in the Dark.png" id="BHES_32_Strike in the Dark" data-flag="@X" onclick="openSidebar('BHES_32_Strike in the Dark',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\69_Silvermane Wyrm.png" id="BHES_69_Silvermane Wyrm" data-flag="@X" onclick="openSidebar('BHES_69_Silvermane Wyrm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\111_Slitherchant.png" id="BHES_111_Slitherchant" data-flag="@X" onclick="openSidebar('BHES_111_Slitherchant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\146_Snapflare.png" id="BHES_146_Snapflare" data-flag="@X" onclick="openSidebar('BHES_146_Snapflare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\184_Petalguard.png" id="BHES_184_Petalguard" data-flag="@X" onclick="openSidebar('BHES_184_Petalguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\34_Timely Communication.png" id="BHES_34_Timely Communication" data-flag="@X" onclick="openSidebar('BHES_34_Timely Communication',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\70_Softplume Galerider.png" id="BHES_70_Softplume Galerider" data-flag="@X" onclick="openSidebar('BHES_70_Softplume Galerider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\112_Smotherthorns.png" id="BHES_112_Smotherthorns" data-flag="@X" onclick="openSidebar('BHES_112_Smotherthorns',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\149_Springwhirl Dance.png" id="BHES_149_Springwhirl Dance" data-flag="@X" onclick="openSidebar('BHES_149_Springwhirl Dance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\189_Shrimeleon.png" id="BHES_189_Shrimeleon" data-flag="@X" onclick="openSidebar('BHES_189_Shrimeleon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\36_Tuftear Traveller.png" id="BHES_36_Tuftear Traveller" data-flag="@X" onclick="openSidebar('BHES_36_Tuftear Traveller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\73_Sweetport Sleuths.png" id="BHES_73_Sweetport Sleuths" data-flag="@X" onclick="openSidebar('BHES_73_Sweetport Sleuths',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\113_Soulstitch.png" id="BHES_113_Soulstitch" data-flag="@X" onclick="openSidebar('BHES_113_Soulstitch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\150_Surreptitious Meeting.png" id="BHES_150_Surreptitious Meeting" data-flag="@X" onclick="openSidebar('BHES_150_Surreptitious Meeting',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\190_Silkclaw Trueblade.png" id="BHES_190_Silkclaw Trueblade" data-flag="@X" onclick="openSidebar('BHES_190_Silkclaw Trueblade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\38_Water's Edge Adept.png" id="BHES_38_Waters Edge Adept" data-flag="@X" onclick="openSidebar('BHES_38_Waters Edge Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\74_Talonwing Countess.png" id="BHES_74_Talonwing Countess" data-flag="@X" onclick="openSidebar('BHES_74_Talonwing Countess',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\114_Thoughtgraft.png" id="BHES_114_Thoughtgraft" data-flag="@X" onclick="openSidebar('BHES_114_Thoughtgraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\153_Tuftear Magistrate.png" id="BHES_153_Tuftear Magistrate" data-flag="@X" onclick="openSidebar('BHES_153_Tuftear Magistrate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\192_Slitherchant Priest.png" id="BHES_192_Slitherchant Priest" data-flag="@X" onclick="openSidebar('BHES_192_Slitherchant Priest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\39_Windwhistle Bells.png" id="BHES_39_Windwhistle Bells" data-flag="@X" onclick="openSidebar('BHES_39_Windwhistle Bells',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\77_Waterwaltz.png" id="BHES_77_Waterwaltz" data-flag="@X" onclick="openSidebar('BHES_77_Waterwaltz',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\117_Vulpishade.png" id="BHES_117_Vulpishade" data-flag="@X" onclick="openSidebar('BHES_117_Vulpishade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\156_Veranda Vaulter.png" id="BHES_156_Veranda Vaulter" data-flag="@X" onclick="openSidebar('BHES_156_Veranda Vaulter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\194_Toast to Old Spring.png" id="BHES_194_Toast to Old Spring" data-flag="@X" onclick="openSidebar('BHES_194_Toast to Old Spring',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\40_Wingblade Technique.png" id="BHES_40_Wingblade Technique" data-flag="@X" onclick="openSidebar('BHES_40_Wingblade Technique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\79_Writ of Injunction.png" id="BHES_79_Writ of Injunction" data-flag="@X" onclick="openSidebar('BHES_79_Writ of Injunction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\119_Whiteglove Guard.png" id="BHES_119_Whiteglove Guard" data-flag="@X" onclick="openSidebar('BHES_119_Whiteglove Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\158_Whitemane Skirmisher.png" id="BHES_158_Whitemane Skirmisher" data-flag="@X" onclick="openSidebar('BHES_158_Whitemane Skirmisher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\195_Tuftear Lanterntender.png" id="BHES_195_Tuftear Lanterntender" data-flag="@X" onclick="openSidebar('BHES_195_Tuftear Lanterntender',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\204_A Farewell To Thorns.png" id="BHES_204_A Farewell To Thorns" data-flag="@X" onclick="openSidebar('BHES_204_A Farewell To Thorns',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\200_Branchhorn Lamplighter.png" id="BHES_200_Branchhorn Lamplighter" data-flag="@X" onclick="openSidebar('BHES_200_Branchhorn Lamplighter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\209_Hasagi, the Deathwind.png" id="BHES_209_Hasagi, the Deathwind" data-flag="@X" onclick="openSidebar('BHES_209_Hasagi, the Deathwind',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\221_Summerdawn Firebrand.png" id="BHES_221_Summerdawn Firebrand" data-flag="@X" onclick="openSidebar('BHES_221_Summerdawn Firebrand',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\225_White Wolf Mio.png" id="BHES_225_White Wolf Mio" data-flag="@X" onclick="openSidebar('BHES_225_White Wolf Mio',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\208_Glasslens Sleuth.png" id="BHES_208_Glasslens Sleuth" data-flag="@X" onclick="openSidebar('BHES_208_Glasslens Sleuth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\198_Ashwing Cloudrunner.png" id="BHES_198_Ashwing Cloudrunner" data-flag="@X" onclick="openSidebar('BHES_198_Ashwing Cloudrunner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\199_Bloodleaf Endurant.png" id="BHES_199_Bloodleaf Endurant" data-flag="@X" onclick="openSidebar('BHES_199_Bloodleaf Endurant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\212_Lightningblade Adept.png" id="BHES_212_Lightningblade Adept" data-flag="@X" onclick="openSidebar('BHES_212_Lightningblade Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\206_Gardencourt Trainee.png" id="BHES_206_Gardencourt Trainee" data-flag="@X" onclick="openSidebar('BHES_206_Gardencourt Trainee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\226_Wizened Tinkerer.png" id="BHES_226_Wizened Tinkerer" data-flag="@X" onclick="openSidebar('BHES_226_Wizened Tinkerer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\207_Ghostcreek Haunt.png" id="BHES_207_Ghostcreek Haunt" data-flag="@X" onclick="openSidebar('BHES_207_Ghostcreek Haunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\203_Eastriver Sellshot.png" id="BHES_203_Eastriver Sellshot" data-flag="@X" onclick="openSidebar('BHES_203_Eastriver Sellshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\220_Shadowflame Maven.png" id="BHES_220_Shadowflame Maven" data-flag="@X" onclick="openSidebar('BHES_220_Shadowflame Maven',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\223_Westshrine Bladedancer.png" id="BHES_223_Westshrine Bladedancer" data-flag="@X" onclick="openSidebar('BHES_223_Westshrine Bladedancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\211_Iya Washi.png" id="BHES_211_Iya Washi" data-flag="@X" onclick="openSidebar('BHES_211_Iya Washi',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\224_Whelpdaughter Celebrant.png" id="BHES_224_Whelpdaughter Celebrant" data-flag="@X" onclick="openSidebar('BHES_224_Whelpdaughter Celebrant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\222_Sweetcake Governess.png" id="BHES_222_Sweetcake Governess" data-flag="@X" onclick="openSidebar('BHES_222_Sweetcake Governess',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\202_Cherrygust Seraphim.png" id="BHES_202_Cherrygust Seraphim" data-flag="@X" onclick="openSidebar('BHES_202_Cherrygust Seraphim',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\227_Writhegrove Tender.png" id="BHES_227_Writhegrove Tender" data-flag="@X" onclick="openSidebar('BHES_227_Writhegrove Tender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\213_Newforce Bloomshot.png" id="BHES_213_Newforce Bloomshot" data-flag="@X" onclick="openSidebar('BHES_213_Newforce Bloomshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\214_Newforce Stormbarrel.png" id="BHES_214_Newforce Stormbarrel" data-flag="@X" onclick="openSidebar('BHES_214_Newforce Stormbarrel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\201_Chaffslice Delegate.png" id="BHES_201_Chaffslice Delegate" data-flag="@X" onclick="openSidebar('BHES_201_Chaffslice Delegate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\216_Pinkrose Heartcatch.png" id="BHES_216_Pinkrose Heartcatch" data-flag="@X" onclick="openSidebar('BHES_216_Pinkrose Heartcatch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\205_Gardencourt Sharptongue.png" id="BHES_205_Gardencourt Sharptongue" data-flag="@X" onclick="openSidebar('BHES_205_Gardencourt Sharptongue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\215_Oldguard Patrol.png" id="BHES_215_Oldguard Patrol" data-flag="@X" onclick="openSidebar('BHES_215_Oldguard Patrol',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\217_Polypetal Savant.png" id="BHES_217_Polypetal Savant" data-flag="@X" onclick="openSidebar('BHES_217_Polypetal Savant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\210_Heartbleed Courtier.png" id="BHES_210_Heartbleed Courtier" data-flag="@X" onclick="openSidebar('BHES_210_Heartbleed Courtier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\218_Prattletooth Administrator.png" id="BHES_218_Prattletooth Administrator" data-flag="@X" onclick="openSidebar('BHES_218_Prattletooth Administrator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\219_Serpent of Southcliff.png" id="BHES_219_Serpent of Southcliff" data-flag="@X" onclick="openSidebar('BHES_219_Serpent of Southcliff',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\229_Amiable Automaton.png" id="BHES_229_Amiable Automaton" data-flag="@X" onclick="openSidebar('BHES_229_Amiable Automaton',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\231_Cherry Division Tinsuit.png" id="BHES_231_Cherry Division Tinsuit" data-flag="@X" onclick="openSidebar('BHES_231_Cherry Division Tinsuit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\233_Golden Lotus.png" id="BHES_233_Golden Lotus" data-flag="@X" onclick="openSidebar('BHES_233_Golden Lotus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\236_Paradise Brush.png" id="BHES_236_Paradise Brush" data-flag="@X" onclick="openSidebar('BHES_236_Paradise Brush',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\234_Hypergyric Astrolabe.png" id="BHES_234_Hypergyric Astrolabe" data-flag="@X" onclick="openSidebar('BHES_234_Hypergyric Astrolabe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\237_Plumed Effigy.png" id="BHES_237_Plumed Effigy" data-flag="@X" onclick="openSidebar('BHES_237_Plumed Effigy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\238_Quickdraw Barrel.png" id="BHES_238_Quickdraw Barrel" data-flag="@X" onclick="openSidebar('BHES_238_Quickdraw Barrel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\239_Roiling Ironsnake.png" id="BHES_239_Roiling Ironsnake" data-flag="@X" onclick="openSidebar('BHES_239_Roiling Ironsnake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\228_Adorned Blade.png" id="BHES_228_Adorned Blade" data-flag="@X" onclick="openSidebar('BHES_228_Adorned Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\230_Autogear Puppet.png" id="BHES_230_Autogear Puppet" data-flag="@X" onclick="openSidebar('BHES_230_Autogear Puppet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\232_Drifting Clothwhale.png" id="BHES_232_Drifting Clothwhale" data-flag="@X" onclick="openSidebar('BHES_232_Drifting Clothwhale',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\235_Lumograph Contraption.png" id="BHES_235_Lumograph Contraption" data-flag="@X" onclick="openSidebar('BHES_235_Lumograph Contraption',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="BHES_e" data-flag="@E" onclick="openSidebar('BHES_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="BHES_e" data-flag="@E" onclick="openSidebar('BHES_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="BHES_e" data-flag="@E" onclick="openSidebar('BHES_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\241_Rootstone Archive.png" id="BHES_241_Rootstone Archive" data-flag="@X" onclick="openSidebar('BHES_241_Rootstone Archive',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\242_Shimmerbloom Grotto.png" id="BHES_242_Shimmerbloom Grotto" data-flag="@X" onclick="openSidebar('BHES_242_Shimmerbloom Grotto',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\240_Highfall Cityscape.png" id="BHES_240_Highfall Cityscape" data-flag="@X" onclick="openSidebar('BHES_240_Highfall Cityscape',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="BHES_e" data-flag="@E" onclick="openSidebar('BHES_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="BHES_e" data-flag="@E" onclick="openSidebar('BHES_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\1t_Strength.png" id="BHES_1t_Strength" data-flag="@X" onclick="openSidebar('BHES_1t_Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\2t_Petal.png" id="BHES_2t_Petal" data-flag="@X" onclick="openSidebar('BHES_2t_Petal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\BHES-files\img\61t_Ironsnake Rider's Guide to Bauhinia.png" id="BHES_61t_Ironsnake Riders Guide to Bauhinia" data-flag="@X" onclick="openSidebar('BHES_61t_Ironsnake Riders Guide to Bauhinia',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="BHES_e" data-flag="@E" onclick="openSidebar('BHES_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="BHES_e" data-flag="@E" onclick="openSidebar('BHES_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="BHES_er" data-flag="@E" onclick="openSidebar('BHES_er',false)"></div>
 	</div>
-</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -481,19 +537,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -509,7 +657,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
+		
 		loadImages();
 	});
 
@@ -528,13 +676,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -560,27 +711,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -592,17 +767,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -634,6 +811,26 @@
 		window.scrollTo(window.scrollX, scroll_pos);
 	}
 
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
 	document.getElementById("search").addEventListener("keypress", function(event) {
 		if (event.key === "Enter") {
 			event.preventDefault();
@@ -642,16 +839,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -661,7 +858,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

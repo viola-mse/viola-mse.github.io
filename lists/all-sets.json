@@ -1,1 +1,14 @@
-﻿{"sets": [{"set_code": "BHES", "set_name": "Bauhinia: Eternal Spring", "formats": ""}, {"set_code": "TOTL", "set_name": "Tin Lau", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "BHES",
+            "set_name": "Bauhinia: Eternal Spring",
+            "formats": ""
+        },
+        {
+            "set_code": "TOTL",
+            "set_name": "Towers of Tin Lau",
+            "formats": ""
+        }
+    ]
+}

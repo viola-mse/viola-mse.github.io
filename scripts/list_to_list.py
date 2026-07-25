@@ -24,12 +24,15 @@ def convertList(setCode):
 	#CE: array of special sort groups
 	sort_groups = []
 	#F: This gets any alt-arts in a single set and adds their card number to a list of cards to skip.
+	#CE: And also appends all available groups to the set
 	for i in range(len(cards)):
 		match = re.search(r'!group ([^ \n]+)', cards[i]['notes'])
 		if match and match.group() not in sort_groups:
 			sort_groups.append(match.group())
+		if "token" in cards[i]['shape'] or "Basic" in cards[i]['type']:
+			continue
 		for j in range(i):
-			if cards[i]['card_name'] == cards[j]['card_name'] and "token" not in cards[i]['shape'] and "Basic" not in cards[i]['type']:
+			if cards[i]['card_name'] == cards[j]['card_name'] and cards[i].get('cost') == cards[j].get('cost') and "token" not in cards[j]['shape'] and "Basic" not in cards[j]['type']:
 				skipdex.append(cards[j]['number'])
 
 	final_list = []
@@ -90,7 +93,8 @@ def convertList(setCode):
 		'L': [],
 		'basic': [],
 		'token': [],
-		'mp': []
+		'mp': [],
+		'': []
 	}
 
 	for group in sort_groups:
@@ -109,18 +113,25 @@ def convertList(setCode):
 		if card['number'] in skipdex or ('previewed' in locals() and card['card_name'] not in previewed):
 			continue
 
-		#CE: fix for devoid cards
-		if 'devoid' in card['rules_text'].lower():
-			card['color'] = card['color_identity']
-
-		# sort types
+		# Capture bucketing criteria before cleanCard modifies fields
+		is_token = 'token' in card['shape']
+		is_masterpiece = 'masterpiece' in card['rarity']
+		assigned_group = None
 		if '!group' in card['notes']:
 			for group in sort_groups:
-				if group in card['notes']:
-					cards_sorted[group].append(card)
-		elif 'token' in card['shape']:
+				pattern = re.compile(re.escape(group) + r'(?:\n|$)')
+				if pattern.search(card['notes']):
+					assigned_group = group
+					break
+
+		cleanCard(card)
+
+		# sort types
+		if assigned_group:
+			cards_sorted[assigned_group].append(card)
+		elif is_token:
 			cards_sorted['token'].append(card)
-		elif 'masterpiece' in card['rarity']: # masterpiece
+		elif is_masterpiece:
 			cards_sorted['mp'].append(card)
 		elif len(card['color']) > 1:
 			assigned = False
@@ -152,30 +163,6 @@ def convertList(setCode):
 				if card['color'] == c:
 					cards_sorted[c].append(card)
 
-		# clean rarities
-		if card['rarity'] == 'common':
-			card['rarity'] = 4
-		elif card['rarity'] == 'uncommon':
-			card['rarity'] = 3
-		elif card['rarity'] == 'rare':
-			card['rarity'] = 2
-		elif card['rarity'] == 'mythic':
-			card['rarity'] = 1
-		else:
-			card['rarity'] = 5
-
-		# filter sorting tags
-		notes = card['notes']
-		if '!sort' in notes:
-			#F: notes = index of !sort + 6 to the end of the string
-			card['notes'] = notes[notes.index('!sort') + 6:]
-		else:
-			card['notes'] = 'zzz'
-
-		# clean shape
-		if 'Battle' in card['type']:
-			card['shape'] = card['shape'] + ' split'
-
 	if len(cards_sorted['gold']) >= 10: # probably has a decent number of tri-color cards
 		tmp = cards_sorted['gold']
 		cards_sorted['gold'] = []
@@ -198,9 +185,35 @@ def convertList(setCode):
 	for r in list_order:
 		row_count = 0
 		cards_arr = []
-		for index in r['cards']:
-			row_count = max(row_count, len(cards_sorted[index]))
-			cards_arr.append(cards_sorted[index])
+		code = setCode
+		if 'set' in r:
+			if r['logo']:
+				final_list.append('l->' + r['set'])
+				for x in range(5):
+					final_list.append(blank2)
+			code = r['set']
+			external = os.path.join('sets', code + '-files', code + '.json')
+			ext_cards = []
+			with open(external, encoding='utf-8-sig') as j:
+				ext_js = json.load(j)
+			for card in ext_js['cards']:
+				if r['cards'][0] in card['notes']:
+					cleanCard(card)
+					ext_cards.append(card)
+			cards_arr.append(ext_cards)
+			row_count = len(ext_cards)
+		elif 'html' in r:
+			final_list.append('h->' + r['html'])
+			for x in range(5):
+					final_list.append(blank2)
+			continue
+		else:
+			for index in r['cards']:
+				if index not in cards_sorted:
+					print(f'INFO: Group {index} not found in any card notes.')
+					index = ''
+				row_count = max(row_count, len(cards_sorted[index]))
+				cards_arr.append(cards_sorted[index])
 
 		if (row_count > 0):
 			if 'title' in r and len(final_list) > 0:
@@ -208,10 +221,10 @@ def convertList(setCode):
 				final_list.append('a->' + r['title'])
 			for x in range(len(cards_arr)):
 				if len(cards_arr[x]) > 0 and 'Basic' not in cards_arr[x][0]['type']:
-					if len(r['cards']) == 1 and r['cards'][0] in sort_groups:
-						cards_arr[x] = sorted(cards_arr[x], key=lambda x : (x['notes'], x['rarity'], x['number']))
+					if len(r['cards']) == 1 and (r['cards'][0] in sort_groups or r['cards'][0].startswith('!')):
+						cards_arr[x] = sorted(cards_arr[x], key=lambda x : (x['notes'], x['rarity'], x['number'], x['card_name']))
 					else:
-						cards_arr[x] = sorted(cards_arr[x], key=lambda x : (len(x['color']), x['rarity'], x['notes'], x['number'])) # start with len() for 3+c cards
+						cards_arr[x] = sorted(cards_arr[x], key=lambda x : (len(x['color']), x['rarity'], x['notes'], x['number'], x['card_name'])) # start with len() for 3+c cards
 					# otherwise, preserve order of basics from set file
 
 			for row in range(row_count):
@@ -220,7 +233,7 @@ def convertList(setCode):
 						final_list.append(blank1)
 					else:
 						ca = arr[row]
-						final_list.append({'card_name':ca['card_name'],'number':ca['number'],'shape':ca['shape']})
+						final_list.append({'card_name':ca['card_name'],'number':ca['number'],'shape':ca['shape'],'set':code,'rotated':(False if 'token split' in ca['shape'] else True if 'spli' in ca['shape'] else False if 'rotated' not in ca else ca['rotated']),'position':('' if 'position' not in ca else ca['position'])})
 
 			if len(r['cards']) == 1: # single-card categories
 				if not row_count % 5 == 0:
@@ -232,7 +245,40 @@ def convertList(setCode):
 
 	#F: lists/SET-list.txt finally comes into play
 	with open(outputList, 'w', encoding="utf-8-sig") as f:
-		json.dump(final_list, f)
+		json.dump(final_list, f, indent=4)
+
+def cleanCard(card):
+	#CE: fix for devoid cards
+	if 'devoid' in card['rules_text'].lower():
+		card['color'] = card['color_identity']
+
+	#CE: fix for split cards
+	if 'split' in card['shape']:
+		card['color'] = "".join(set(card['color'] + card['color2']))
+
+	# clean rarities
+	if card['rarity'] == 'common':
+		card['rarity'] = 4
+	elif card['rarity'] == 'uncommon':
+		card['rarity'] = 3
+	elif card['rarity'] == 'rare':
+		card['rarity'] = 2
+	elif card['rarity'] == 'mythic':
+		card['rarity'] = 1
+	else:
+		card['rarity'] = 5
+
+	# filter sorting tags
+	notes = card['notes']
+	if '!sort' in notes:
+		#F: notes = index of !sort + 6 to the end of the string
+		card['notes'] = notes[notes.index('!sort') + 6:]
+	else:
+		card['notes'] = 'zzz'
+
+	# clean shape
+	if 'Battle' in card['type']:
+		card['shape'] = card['shape'] + ' split'
 
 def colorEquals(color, match):
 	return sorted("".join(dict.fromkeys(color))) == sorted("".join(dict.fromkeys(match)))

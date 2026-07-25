@@ -9,30 +9,32 @@ import re
 def generateHTML(code):
 	#F: /sets/SET.html
 	output_html_file = "sets/" + code + ".html"
+	previewing = os.path.exists(os.path.join('sets', code + '-files', 'previewed.txt'))
 	
-	with open(os.path.join('lists', 'all-sets.json'), encoding='utf-8-sig') as f:
-		data = json.load(f)
-		for s in data['sets']:
-			if s['set_code'] == code:
-				set_name = s['set_name']
-				break
+	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
+		raw = json.load(f)
+		set_name = raw['name']
 
 	# Start creating the HTML file content
 	html_content = '''<html>
 <head>
   <title>''' + set_name + '''</title>
-  <link rel="icon" type="image/x-icon" href="/sets/''' + code + '''-files/icon.png">
-  <link rel="stylesheet" href="/resources/mana.css">
-  <link rel="stylesheet" href="/resources/header.css">
+  <link rel="icon" type="image/x-icon" href="../sets/''' + code + '''-files/icon.png">
+  <link rel="stylesheet" href="../resources/mana.css">
+  <link rel="stylesheet" href="../resources/header.css">
+  <link rel="stylesheet" href="../resources/card-text.css">
 </head>
+<script title="root">
+	const rootPath = "..";
+</script>
 <style>
 	@font-face {
 		font-family: 'Beleren Small Caps';
-		src: url('/resources/beleren-caps.ttf');
+		src: url('../resources/beleren-caps.ttf');
 	}
 	@font-face {
 		font-family: Beleren;
-		src: url('/resources/beleren.ttf');
+		src: url('../resources/beleren.ttf');
 	}
 	body {
 		font-family: 'Helvetica', 'Arial', sans-serif;
@@ -68,12 +70,11 @@ def generateHTML(code):
 		white-space: nowrap;
 	}
 	.set-banner img {
-		width: 50px;
-		padding-right: 8px;
+		width: 60px;
+		padding-right: 12px;
 	}
 	.set-banner a {
 		font-size: 18px;
-		padding-top: 6px;
 		color: #1338be;
 		text-decoration: none;
 	}
@@ -81,7 +82,7 @@ def generateHTML(code):
 		color: #0492c2;
 	}
 	.select-text {
-		display: flex;
+		display: ''' + ('none' if previewing else 'flex') + ''';
 		align-items: center;
 		justify-content: left;
 		gap: 8px;
@@ -137,6 +138,7 @@ def generateHTML(code):
 		max-width: 1200px;
 		margin: auto;
 		justify-items: center;
+		padding-bottom: 20px;
 	}
 	.image-grid-container {
 		display: grid;
@@ -148,6 +150,13 @@ def generateHTML(code):
 		justify-items: center;
 		padding-top: 30px;
 		padding-bottom: 30px;
+		font-size: 36px;
+		font-family: 'Beleren';
+		color: #535353;
+	}
+	.small-caps {
+		font-family: 'Beleren Small Caps';
+		font-size: 46px;
 	}
 	@media ( max-width: 750px ) {
 		.image-grid-container {
@@ -165,6 +174,7 @@ def generateHTML(code):
 	}
 	.image-grid img {
 		position: relative;
+		border-radius: 3.733% / 2.677%;
 	}
 	.card-image {
 		float: left;
@@ -185,30 +195,6 @@ def generateHTML(code):
 		min-height: 75%;
 		margin-top: 3%;
 	}
-	.card-text div {
-		white-space: normal;
-		font-size: 15px;
-		padding-bottom: 10px;
-		padding-left: 12px;
-		padding-right: 12px;
-		line-height: 155%;
-	}
-	.card-text .name-cost {
-		font-weight: bold;
-		font-size: 20px;
-		white-space: pre-wrap;
-	}
-	.card-text .type {
-		font-size: 16px;
-	}
-	.card-text .pt {
-		font-weight: bold;
-	}
-	.card-text br {
-		content: "";
-		display: block;
-		margin-bottom: 5px;
-	}
 	.img-container {
 		position: relative;
 		width: 100%;
@@ -217,9 +203,10 @@ def generateHTML(code):
 	.img-container img {
 		width: 100%;
 		height: auto;
+		border-radius: 3.733% / 2.677%;
 	}
 	.img-container .btn {
-		background: url('/img/flip.png') no-repeat;
+		background: url('../img/flip.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 15%;
@@ -233,7 +220,7 @@ def generateHTML(code):
 		opacity: 0.5;
 	}
 	.img-container .btn:hover {
-		background: url('/img/flip-hover.png') no-repeat;
+		background: url('../img/flip-hover.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 	}
@@ -274,7 +261,7 @@ def generateHTML(code):
 		font-size: 34px;
 	}
 	.close-btn {
-		background: url('/img/close.png') no-repeat;
+		background: url('../img/close.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 50px;
@@ -283,7 +270,7 @@ def generateHTML(code):
 		cursor: pointer;
 	}
 	.copy-btn {
-		background: url('/img/copy.png') no-repeat;
+		background: url('../img/copy.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 50px;
@@ -314,20 +301,31 @@ def generateHTML(code):
 		align-content: center;
 		padding-bottom: 1%;
 	}
+	.extras-container {
+		padding-left: 4px;
+		display: flex;
+		align-items: center;
+	}
 	.dot {
 		font-family: 'Helvetica', 'Arial';
 		white-space: pre;
-		padding-top: 6px;
 	}
 	a {
 		cursor: pointer;
+	}
+	p {
+		width: 100%;
+	}
+	p img {
+		display: block;
+		margin: auto;
 	}
 </style>
 <body>
 	'''
 	
 	#F: /resources/snippets/header.txt
-	with open(os.path.join('resources', 'snippets', 'header.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'header.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -335,18 +333,30 @@ def generateHTML(code):
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/''' + code + '''-files/icon.png">
-				<div class="set-title">''' + set_name + '''</div>'''
+				<img class="set-logo" src="../sets/''' + code + '''-files/icon.png">
+				<div class="banner-text">
+					<div class="set-title">''' + set_name + '''</div>
+					<div class="extras-container">'''
 
 	#F: sets/SET-files/SET-draft.txt
-	if os.path.exists(os.path.join('sets', code + '-files', code + '-draft.txt')):
-		html_content += '''<div class="dot"> • </div><a href="/sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a>
-		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
+	if os.path.exists(os.path.join('sets', code + '-files', code + '-draft.txt')) and not previewing:
+		html_content += '''<a href="../sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a><div class="dot"> • </div>
+			<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
+'''
+
+	#C: sets/SET-files/SET.xml
+	if os.path.exists(os.path.join('sets', code + '-files', code + '.xml')) and not previewing:
+		html_content += '''<a href="../sets/''' + code + '''-files/''' + code + '''.xml" download>Play</a><div class="dot"> • </div>
+'''
+
+	html_content += '''			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
+				</div>
+			</div>
 		</div>
-		'''
+'''
 
 	html_content += '''
-			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
+			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option><option value="cube">Cube</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
 		</div>
 	</div>
 
@@ -368,13 +378,16 @@ def generateHTML(code):
 		for img_name in re.findall(img_re, md_html):
 			img_name_re = r'%' + img_name + '%'
 			if img_name == 'logo' or img_name == 'icon' or img_name == 'bg':
-				img_path = '/'.join([ '/sets', code + '-files', img_name + '.png' ])
+				img_path = '/'.join([ '..', 'sets', code + '-files', img_name + '.png' ])
 			else:
 				with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 					set_json = json.load(f)
 				for card in set_json['cards']:
 					if card['card_name'] == img_name:
-						img_path = '/'.join([ '/sets', code + '-files', 'img', str(card['number']) + ('t' if 'token' in card['shape'] else '') + '_' + img_name + '.png' ])
+						if 'image_name' in set_json and set_json['image_name'] == 'position':
+							img_path = '/'.join([ '..', 'sets', code + '-files', 'img', card['position'] + '.png' ])
+						else:
+							img_path = '/'.join([ '..', 'sets', code + '-files', 'img', str(card['number']) + ('t' if 'token' in card['shape'] else '') + '_' + img_name + '.png' ])
 						break
 					img_path = 'missing'
 			md_html = re.sub(img_name_re, img_path, md_html)
@@ -411,16 +424,16 @@ def generateHTML(code):
 		document.addEventListener("DOMContentLoaded", async function () {
 			'''
 
-	with open(os.path.join('resources', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
 	html_content += '''
 
-			await fetch('/sets/''' + code + '''-files/''' + code + '''-draft.txt')
+			await fetch(rootPath + '/sets/''' + code + '''-files/''' + code + '''-draft.txt')
 				.then(response => response.text())
 				.then(text => {
-					draft_file = text;
+					draft_file = text.replace(/},\\n\\t]/g, '}\\n\\t]');
 			}).catch(error => console.error('Error:', error));
 
 			draftmancerToP1P1(draft_file);
@@ -487,49 +500,67 @@ def generateHTML(code):
 			{
 				cardGrid = document.getElementById("grid");
 			}
-
-			let set_cards = [];
-			let set_basics = [];
-			let set_tokens = [];
-			let set_mp = [];
-
-			for (const card of set_list_arrayified)
-			{
-				if (card.rarity.includes("masterpiece"))
-				{
-					set_mp.push(card);
-				}
-				else if (card.shape.includes("token"))
-				{
-					set_tokens.push(card);
-				}
-				else if (card.type.includes("Basic"))
-				{
-					set_basics.push(card);
-				}
-				else
-				{
-					set_cards.push(card);
-				}
-			}
-
-			set_cards.sort(compareFunction);
-			set_basics.sort(compareFunction);
-			set_tokens.sort(compareFunction);
-			set_mp.sort(compareFunction);
-			if (document.getElementById("sort-order").value == "descending")
-			{
-				set_cards.reverse();
-				set_basics.reverse();
-				set_tokens.reverse();
-				set_mp.reverse();
-			}
-			set_list_sorted = set_cards.concat(set_basics).concat(set_tokens).concat(set_mp);
 			cardGrid.innerHTML = "";
 
-			for (const card of set_list_sorted)
+			if (''' + str(previewing).lower() + ''')
 			{
-				cardGrid.append(gridifyCard(card));
+				let text1 = document.createElement("div");
+				let text2 = document.createElement("div");
+				
+				text1.innerText = "Currently Previewing";
+				text2.innerText = "check back soon";
+
+				text1.className = "small-caps";
+
+				cardGrid.appendChild(text1);
+				cardGrid.appendChild(text2);
+				cardGrid.style.gridTemplateColumns = "1fr";
+			}
+			else
+			{
+				let set_cards = [];
+				let set_basics = [];
+				let set_tokens = [];
+				let set_mp = [];
+
+				for (const card of set_list_arrayified)
+				{
+					if (card.rarity.includes("masterpiece"))
+					{
+						set_mp.push(card);
+					}
+					else if (card.shape.includes("token"))
+					{
+						set_tokens.push(card);
+					}
+					else if (card.type.includes("Basic"))
+					{
+						set_basics.push(card);
+					}
+					else
+					{
+						set_cards.push(card);
+					}
+				}
+
+				set_cards.sort(compareFunction);
+				set_basics.sort(compareFunction);
+				set_tokens.sort(compareFunction);
+				set_mp.sort(compareFunction);
+				if (document.getElementById("sort-order").value == "descending")
+				{
+					set_cards.reverse();
+					set_basics.reverse();
+					set_tokens.reverse();
+					set_mp.reverse();
+				}
+				set_list_sorted = set_cards.concat(set_basics).concat(set_tokens).concat(set_mp);
+				cardGrid.innerHTML = "";
+
+				for (const card of set_list_sorted)
+				{
+					cardGrid.append(gridifyCard(card));
+				}
 			}
 		}
 
@@ -678,7 +709,7 @@ def generateHTML(code):
 
 	#F: /resources/snippets/compare-function.txt
 	#F: this is where compareFunction is from
-	with open(os.path.join('resources', 'snippets', 'compare-function.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'compare-function.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -688,7 +719,7 @@ def generateHTML(code):
 
 	#F: /resources/snippets/tokenize-symbolize.txt
 	#F: this holds the isDecimal function used in compare-function.txt, as well as something for encoding/decoding symbols
-	with open(os.path.join('resources', 'snippets', 'tokenize-symbolize.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'tokenize-symbolize.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 	
@@ -705,7 +736,7 @@ def generateHTML(code):
 		'''
 
 	#F: /resources/snippets/img-container-defs.txt
-	with open(os.path.join('resources', 'snippets', 'img-container-defs.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'img-container-defs.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -719,15 +750,40 @@ def generateHTML(code):
 		});
 
 		function search() {
-			const url = new URL('search', window.location.origin);
+			const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 			url.searchParams.append('search', document.getElementById("search").value);
-			window.location.href = url;
+			window.location.href = url.pathname + url.search;
+		}
+
+		function randomSetCard() {
+			let set_card_list = [];
+			for (card of card_list_arrayified)
+			{
+				if (card.set == "''' + code + '''")
+				{
+					set_card_list.push(card);
+				}
+			}
+			let i = Math.floor(Math.random() * (set_card_list.length + 1));
+			let random_card = set_card_list[i];
+
+			const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+			const params = {
+				set: random_card.set,
+				num: random_card.number,
+				name: random_card.card_name
+			}
+			for (const key in params) {
+				url.searchParams.append(key, params[key]);
+			}
+
+			window.location.href = url.pathname + url.search;
 		}
 
 		'''
 
 	#F: resources/snippets/random-card.txt
-	with open(os.path.join('resources', 'snippets', 'random-card.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'random-card.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 

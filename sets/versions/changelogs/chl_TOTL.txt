@@ -1,4 +1,77 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Decorated Constable added.
+Peephole Peekers added.
+Streetside Bumblewing added.
+Stew added.
+Your Blood Is A Feast For Crows added.
+Haak Gaai Headhunter added.
+May You Glimpse Our Tomorrow added.
+Trumpet of the Void added.
+Their Eons Ought Be Forgotten added.
+Dogged Delinquent added.
+Fu Luk Hoarder added.
+Glowbrew Herbologist added.
+Drifting Wu Lei added.
+Skywing Kite added.
+Backalley Sparker added.
+Shadowgloom added.
+Tigress of Ng Street added.
+Collected Casting added.
+The City's Blessing added.
+
+Twisting Cityscape removed.
+Casting Call removed.
+placeholder 1 removed.
+placeholder 2 removed.
+placeholder 3 removed.
+Revel in Its Cold Embrace removed.
+placeholder 4 removed.
+placeholder 5 removed.
+Trumpt of the Void removed.
+Hei Foon-nei removed.
+placeholder 6 removed.
+placeholder 8 removed.
+placeholder 7 removed.
+Tsoi Jam Mei Loi removed.
+placeholder 9 removed.
+placeholder 19 removed.
+placeholder 42 removed.
+placeholder 81 removed.
+Manifest Shadow removed.
+placeholder 83 removed.
+placeholder 69 removed.
+
+The Fisher Who Caught A Kraken
+cost: {2}{U}{U} => {2}{U}
+special_text: When this Case enters, 
+​
+​ => 
+When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.
+
+
+Terre-haute Financier
+cost: {1}{R} => {2}{R}
+
+Dai Tse & Siu Mui
+
+Wong Tsin-man
+cost: {B}{R} => {1}{U}{R}
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Whenever Wong Tsin-man attacks, you may discard a card. If you do, draw a card.
+Whenever you discard a card, if you have the city's blessing, you may play that card this turn. => Flash
+Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+When Wong Tsin-man enters, exile up to one target instant or sorcery card from your graveyard. You may cast a copy of it. If you have the city's blessing, you may cast it without paying its mana cost.
+pt: 2/2 => 3/1
+
+Backstreet Girls
+type: Creature — Human Citizen => Creature — Human Rogue
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Fwun Sah Invoker added.

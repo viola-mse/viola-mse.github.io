@@ -7,7 +7,7 @@
 			"type": "Sorcery",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/150_Surreptitious Meeting.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/150_Surreptitious Meeting.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Bird Noble",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/74_Talonwing Countess.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/74_Talonwing Countess.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/68_Rewrite.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/68_Rewrite.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Detective",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/73_Sweetport Sleuths.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/73_Sweetport Sleuths.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/64_Mirrorcube Manipulation.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/64_Mirrorcube Manipulation.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/67_Petaldance.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/67_Petaldance.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Azra Citizen",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/53_Fireglass Enthusiast.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/53_Fireglass Enthusiast.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/65_Ornithopter Exosegments.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/65_Ornithopter Exosegments.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/52_Fandancer Courtesan.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/52_Fandancer Courtesan.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Frog",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/56_Greatpond Croak.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/56_Greatpond Croak.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Bird Shaman",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/70_Softplume Galerider.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/70_Softplume Galerider.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/69_Silvermane Wyrm.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/69_Silvermane Wyrm.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/45_Cloudgazer Shrine Maiden.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/45_Cloudgazer Shrine Maiden.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/50_Essence Warp.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/50_Essence Warp.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/48_Dollify.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/48_Dollify.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Instant",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/77_Waterwaltz.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/77_Waterwaltz.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/57_Gustdraw Trainee.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/57_Gustdraw Trainee.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Sorcery",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/63_Long Days & Longer Nights.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/63_Long Days & Longer Nights.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/54_Flurrygust.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/54_Flurrygust.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/14_Incarcerate.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/14_Incarcerate.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/39_Windwhistle Bells.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/39_Windwhistle Bells.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Elk Shaman",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/10_Glow of the White Lily.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/10_Glow of the White Lily.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/34_Timely Communication.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/34_Timely Communication.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/6_Cherrybranch Sprites.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/6_Cherrybranch Sprites.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/22_Oldguard Thousandpalm.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/22_Oldguard Thousandpalm.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Human Mercenary Samurai",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/25_Roofpoint Drifters.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/25_Roofpoint Drifters.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/38_Water's Edge Adept.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/38_Water's Edge Adept.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/29_Silversheet Sanctifiers.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/29_Silversheet Sanctifiers.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/32_Strike in the Dark.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/32_Strike in the Dark.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/12_Greater Purrpaw.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/12_Greater Purrpaw.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/15_Junkwing Cadet.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/15_Junkwing Cadet.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Fox Peasant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/36_Tuftear Traveller.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/36_Tuftear Traveller.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Bird Soldier Advisor",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/30_Softplume Officer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/30_Softplume Officer.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Instant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/40_Wingblade Technique.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/40_Wingblade Technique.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/3_Bladeflower.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/3_Bladeflower.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Human Wizard Samurai",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/31_Sparkedge Skimisher.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/31_Sparkedge Skimisher.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Raccoon Citizen",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/5_Bushtail Maiden.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/5_Bushtail Maiden.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/189_Shrimeleon.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/189_Shrimeleon.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Sorcery",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/167_Eccentric Company.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/167_Eccentric Company.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/182_Morning Glow Branchling.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/182_Morning Glow Branchling.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/164_A Confrontation.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/164_A Confrontation.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/173_Gardencourt Floraphile.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/173_Gardencourt Floraphile.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/178_Martial Triplets.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/178_Martial Triplets.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Fox Peasant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/195_Tuftear Lanterntender.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/195_Tuftear Lanterntender.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Insect Samurai",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/190_Silkclaw Trueblade.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/190_Silkclaw Trueblade.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Instant",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/159_An Arrow, Loosed.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/159_An Arrow, Loosed.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Sorcery",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/172_Fieldwork Inspections.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/172_Fieldwork Inspections.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Sorcery",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/181_Moment of Reprieve.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/181_Moment of Reprieve.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/194_Toast to Old Spring.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/194_Toast to Old Spring.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/176_Lightningblade Techniques.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/176_Lightningblade Techniques.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/171_Fallpool Maiden.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/171_Fallpool Maiden.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Wolf Spirit",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/179_Meadowbloom Howl.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/179_Meadowbloom Howl.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Creature — Azra Shaman",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/192_Slitherchant Priest.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/192_Slitherchant Priest.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Creature — Fox Shaman",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/168_Eighttail Medium.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/168_Eighttail Medium.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Instant",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/170_Eye for Detail.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/170_Eye for Detail.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/184_Petalguard.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/184_Petalguard.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Fox Samurai",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/143_Red Daisy Blade.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/143_Red Daisy Blade.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/121_Bloomscale Serpent.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/121_Bloomscale Serpent.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/137_Overeager Freshman.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/137_Overeager Freshman.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Wolf Soldier",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/158_Whitemane Skirmisher.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/158_Whitemane Skirmisher.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/139_Powderpetals.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/139_Powderpetals.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/149_Springwhirl Dance.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/149_Springwhirl Dance.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/134_Intimidation Tactics.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/134_Intimidation Tactics.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/156_Veranda Vaulter.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/156_Veranda Vaulter.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/142_Rageform.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/142_Rageform.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Azra Mercenary Samurai",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/126_Embercloud Marauder.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/126_Embercloud Marauder.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/128_Fogstreet Speedster.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/128_Fogstreet Speedster.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Human Detective",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/132_Greyalley Lumographer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/132_Greyalley Lumographer.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Rabbit Peasant",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/145_Shorthop Celebrant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/145_Shorthop Celebrant.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Instant",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/146_Snapflare.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/146_Snapflare.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/135_Let Loose.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/135_Let Loose.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Instant",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/138_Petalcharm.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/138_Petalcharm.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/92_Dripblade Retainer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/92_Dripblade Retainer.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Instant",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/96_Final Bloom.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/96_Final Bloom.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/99_Intimidation and Compliance.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/99_Intimidation and Compliance.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Zombie Samurai",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/108_Rotting Ronin.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/108_Rotting Ronin.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/114_Thoughtgraft.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/114_Thoughtgraft.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/113_Soulstitch.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/113_Soulstitch.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/119_Whiteglove Guard.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/119_Whiteglove Guard.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/111_Slitherchant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/111_Slitherchant.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Bird Shaman",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/103_Moonveil Softplume.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/103_Moonveil Softplume.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Instant",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/107_Ritual of Dancing Paper.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/107_Ritual of Dancing Paper.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Sorcery",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/86_Crimson Nectar.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/86_Crimson Nectar.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Human Assassin",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/89_Darkshot Assassin.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/89_Darkshot Assassin.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Instant",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/112_Smotherthorns.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/112_Smotherthorns.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/93_Drown in Despair.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/93_Drown in Despair.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Azra Shaman",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/100_Lanternwood Priestess.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/100_Lanternwood Priestess.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Creature — Fox Shade",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/117_Vulpishade.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/117_Vulpishade.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Creature — Wolf Noble",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/88_Darkmane Patriarch.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/88_Darkmane Patriarch.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Instant",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/97_Fleshscour.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/97_Fleshscour.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/42_Bloomwhirl Retainer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/42_Bloomwhirl Retainer.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Human Soldier Advisor",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/9_Dramatic Commander.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/9_Dramatic Commander.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature — Snake Advisor",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/205_Gardencourt Sharptongue.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/205_Gardencourt Sharptongue.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/219_Serpent of Southcliff.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/219_Serpent of Southcliff.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/201_Chaffslice Delegate.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/201_Chaffslice Delegate.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/215_Oldguard Patrol.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/215_Oldguard Patrol.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Creature — Fox Soldier",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/213_Newforce Bloomshot.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/213_Newforce Bloomshot.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Azra Samurai",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/210_Heartbleed Courtier.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/210_Heartbleed Courtier.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/214_Newforce Stormbarrel.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/214_Newforce Stormbarrel.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/217_Polypetal Savant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/217_Polypetal Savant.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Creature — Rat Advisor",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/218_Prattletooth Administrator.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/218_Prattletooth Administrator.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Creature — Fox Detective",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/216_Pinkrose Heartcatch.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/216_Pinkrose Heartcatch.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Creature — Human Detective",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/208_Glasslens Sleuth.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/208_Glasslens Sleuth.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/226_Wizened Tinkerer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/226_Wizened Tinkerer.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Creature — Skeleton",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/207_Ghostcreek Haunt.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/207_Ghostcreek Haunt.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Creature — Bird Shaman",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/198_Ashwing Cloudrunner.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/198_Ashwing Cloudrunner.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/203_Eastriver Sellshot.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/203_Eastriver Sellshot.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Creature — Fox Samurai",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/199_Bloodleaf Endurant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/199_Bloodleaf Endurant.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/212_Lightningblade Adept.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/212_Lightningblade Adept.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/220_Shadowflame Maven.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/220_Shadowflame Maven.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Azra Shaman",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/223_Westshrine Bladedancer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/223_Westshrine Bladedancer.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/206_Gardencourt Trainee.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/206_Gardencourt Trainee.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/129_Games of Chance.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/129_Games of Chance.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/148_Sparkbarrel Enthusiast.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/148_Sparkbarrel Enthusiast.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/130_Giganpalm Maiden.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/130_Giganpalm Maiden.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Creature — Fox Rogue",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/154_Tuftear Shortblade.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/154_Tuftear Shortblade.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/123_Cloudbreeze Challenger.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/123_Cloudbreeze Challenger.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/124_Dookgear Duchess.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/124_Dookgear Duchess.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/127_Enlightened Greatmane.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/127_Enlightened Greatmane.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Enchantment",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/133_Interservice Rivalry.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/133_Interservice Rivalry.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/141_Pyrobloom.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/141_Pyrobloom.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/125_Echo Ember.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/125_Echo Ember.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/157_Vision of Inferno.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/157_Vision of Inferno.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Instant",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/196_Veil of Spring.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/196_Veil of Spring.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Instant",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/191_Skittering Stratagem.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/191_Skittering Stratagem.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Instant",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/197_Viperwhip.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/197_Viperwhip.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Creature — Beast Spirit",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/187_Sacredgrove Guardian.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/187_Sacredgrove Guardian.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Creature — Fox Spirit",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/166_Cyflox Spectre.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/166_Cyflox Spectre.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/163_Brightlake Caller.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/163_Brightlake Caller.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Creature — Elk Citizen",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/177_Longpipe Aesthete.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/177_Longpipe Aesthete.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/161_Bloombranch Quencher.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/161_Bloombranch Quencher.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/160_Asheye Marauder.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/160_Asheye Marauder.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Creature — Human Soldier Advisor",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/193_Thousandbud Cadet.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/193_Thousandbud Cadet.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Creature — Human Shaman Soldier",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/90_Discerning Duo.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/90_Discerning Duo.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/98_Geistpetal Drifter.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/98_Geistpetal Drifter.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/83_Carve.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/83_Carve.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/106_Quell.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/106_Quell.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/115_To Hell And Back.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/115_To Hell And Back.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/94_Duskguard Cutthroat.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/94_Duskguard Cutthroat.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Creature — Fox Shaman",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/110_Shrinetithe Treasurer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/110_Shrinetithe Treasurer.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/104_Optimal Flowercard Strategy.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/104_Optimal Flowercard Strategy.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Creature — Vampire Citizen",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/85_Citizen of the Night.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/85_Citizen of the Night.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Creature — Boar Advisor",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/102_Longtusk Magistrate.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/102_Longtusk Magistrate.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/91_Discredit.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/91_Discredit.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Instant",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/4_Blades To Blooms.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/4_Blades To Blooms.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/2_A Case For Compulsory Service.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/2_A Case For Compulsory Service.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/13_Harbour Street Sentry.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/13_Harbour Street Sentry.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Fox Mercenary Samurai",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/35_Tuftear Remembrant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/35_Tuftear Remembrant.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Creature — Bird Shaman",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/7_Cherrypeak Seer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/7_Cherrypeak Seer.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Sorcery",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/8_Dovechant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/8_Dovechant.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Azra Advisor",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/26_Roundhorn Scholar.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/26_Roundhorn Scholar.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Creature — Rabbit Samurai",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/28_Shorthop Veteran.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/28_Shorthop Veteran.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Sorcery",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/16_Last Dance.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/16_Last Dance.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/20_Mundane Breakthrough.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/20_Mundane Breakthrough.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/46_Consequences of Mass Print.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/46_Consequences of Mass Print.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Creature — Bird Advisor",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/41_Ashwing Parliament.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/41_Ashwing Parliament.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Instant",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/75_Truebeak Revelation.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/75_Truebeak Revelation.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Creature — Azra Shaman",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/78_Willshaper Maiden.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/78_Willshaper Maiden.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/72_Spellshatter.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/72_Spellshatter.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Creature — Human Wizard Samurai",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/49_Drizzlebloom Adept.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/49_Drizzlebloom Adept.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/58_Immaculate Performance.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/58_Immaculate Performance.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/51_Exhaust.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/51_Exhaust.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Creature — Bird Detective",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/71_Softplume Shutterbug.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/71_Softplume Shutterbug.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Creature — Turtle Elemental",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/55_Gargantuan Groveback.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/55_Gargantuan Groveback.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Token Sorcery — Strength",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/1t_Strength.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/1t_Strength.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Token Instant — Petal",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/2t_Petal.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/2t_Petal.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/136_Modern Bladework Technique.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/136_Modern Bladework Technique.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/180_Modern Urban Planning.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/180_Modern Urban Planning.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Instant",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/79_Writ of Injunction.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/79_Writ of Injunction.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/232_Drifting Clothwhale.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/232_Drifting Clothwhale.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Artifact Creature — Scarecrow",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/237_Plumed Effigy.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/237_Plumed Effigy.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/239_Roiling Ironsnake.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/239_Roiling Ironsnake.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Artifact",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/234_Hypergyric Astrolabe.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/234_Hypergyric Astrolabe.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/238_Quickdraw Barrel.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/238_Quickdraw Barrel.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/228_Adorned Blade.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/228_Adorned Blade.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Artifact",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/235_Lumograph Contraption.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/235_Lumograph Contraption.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Artifact Creature — Toy",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/230_Autogear Puppet.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/230_Autogear Puppet.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Land",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/242_Shimmerbloom Grotto.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/242_Shimmerbloom Grotto.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Land",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/240_Highfall Cityscape.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/240_Highfall Cityscape.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/23_One Way Ticket.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/23_One Way Ticket.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Legendary Planeswalker — Liliana",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/101_Liliana, The Schemer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/101_Liliana, The Schemer.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/118_Wayward Daughter.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/118_Wayward Daughter.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/84_Changing Consumption Trends.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/84_Changing Consumption Trends.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Sorcery",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/105_Otherworldly Desire.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/105_Otherworldly Desire.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/82_Breath Eater.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/82_Breath Eater.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Creature — Azra Mercenary Samurai",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/87_Crimson Retainer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/87_Crimson Retainer.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Sorcery",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/95_Equinoaxial Instability.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/95_Equinoaxial Instability.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/81_Blood Burgeoning.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/81_Blood Burgeoning.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Legendary Planeswalker — Nissa",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/183_Nissa, Bloomguard.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/183_Nissa, Bloomguard.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Creature — Plant Dragon",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/186_Roaring Orchidon.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/186_Roaring Orchidon.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/175_Introduction To Obsolete Arms.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/175_Introduction To Obsolete Arms.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/169_Equinoaxial Ripple.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/169_Equinoaxial Ripple.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/174_Highstreet Porter.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/174_Highstreet Porter.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Sorcery",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/165_Curious Company.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/165_Curious Company.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Enchantment",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/162_Botany.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/162_Botany.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Creature — Snake",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/188_Shimmering Colossus.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/188_Shimmering Colossus.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/185_Relentless Lancer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/185_Relentless Lancer.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Legendary Planeswalker — Gretel",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/131_Gretel of Grimnacht.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/131_Gretel of Grimnacht.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Creature — Human Artificer Bard",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/147_Softbrush and Goldgear.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/147_Softbrush and Goldgear.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/140_Principles of Art Nouveau.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/140_Principles of Art Nouveau.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Enchantment",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/120_Artillery.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/120_Artillery.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/152_Trendchaser Heiress.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/152_Trendchaser Heiress.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/144_Reincarnated as a Lotus Flower.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/144_Reincarnated as a Lotus Flower.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Instant",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/151_Teardrop Drizzle.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/151_Teardrop Drizzle.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Creature — Fox Spirit",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/155_Venerable Vulpimane.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/155_Venerable Vulpimane.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/122_Bright Dilettante.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/122_Bright Dilettante.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Legendary Planeswalker — Zenjou",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/80_Zenjou, Planeographer.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/80_Zenjou, Planeographer.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Creature — Fox Citizen",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/76_Tuftear à la Mode.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/76_Tuftear à la Mode.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/59_Investigating Chrono-Anomalies.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/59_Investigating Chrono-Anomalies.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Enchantment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/44_Chemistry.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/44_Chemistry.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/62_Lies of Omission.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/62_Lies of Omission.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/43_Breezebind Clique.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/43_Breezebind Clique.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/66_Paperfin Schooling.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/66_Paperfin Schooling.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/60_Ironsnake Itinerant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/60_Ironsnake Itinerant.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Sorcery",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/47_Decluttering.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/47_Decluttering.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Legendary Planeswalker",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/37_Wanderer In A Strangely Familiar Place.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/37_Wanderer In A Strangely Familiar Place.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/21_Newsound Sensation.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/21_Newsound Sensation.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Enchantment — Thesis",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/17_Lessons From the Unification War.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/17_Lessons From the Unification War.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Creature — Human Soldier Advisor",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/19_Marshal of the Oldguard.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/19_Marshal of the Oldguard.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Instant",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/27_Savour The Season.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/27_Savour The Season.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/33_Sweetport Chaperone.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/33_Sweetport Chaperone.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Creature — Human Samurai",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/11_Goldsash Mentor.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/11_Goldsash Mentor.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/18_Mad King's Justice.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/18_Mad King's Justice.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Artifact",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/233_Golden Lotus.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/233_Golden Lotus.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/229_Amiable Automaton.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/229_Amiable Automaton.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/236_Paradise Brush.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/236_Paradise Brush.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Land",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/241_Rootstone Archive.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/241_Rootstone Archive.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Sorcery",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/204_A Farewell To Thorns.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/204_A Farewell To Thorns.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Creature — Elk Citizen",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/200_Branchhorn Lamplighter.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/200_Branchhorn Lamplighter.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Legendary Creature — Human Samurai",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/209_Hasagi, the Deathwind.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/209_Hasagi, the Deathwind.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/221_Summerdawn Firebrand.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/221_Summerdawn Firebrand.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Legendary Creature — Human Samurai",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/225_White Wolf Mio.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/225_White Wolf Mio.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/222_Sweetcake Governess.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/222_Sweetcake Governess.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/227_Writhegrove Tender.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/227_Writhegrove Tender.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Creature — Dragon Human",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/224_Whelpdaughter Celebrant.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/224_Whelpdaughter Celebrant.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Creature — Angel Samurai",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/202_Cherrygust Seraphim.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/202_Cherrygust Seraphim.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Token Enchantment — Thesis",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/61t_Ironsnake Rider's Guide to Bauhinia.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/61t_Ironsnake Rider's Guide to Bauhinia.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/231_Cherry Division Tinsuit.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/231_Cherry Division Tinsuit.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Legendary Creature — Human Soldier Advisor",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/211_Iya Washi.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/211_Iya Washi.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Creature — Azra Advisor",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/109_Scrutinous Mentor.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/109_Scrutinous Mentor.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Creature — Fox Advisor",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/153_Tuftear Magistrate.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/153_Tuftear Magistrate.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Enchantment",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/116_Villainy.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/116_Villainy.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Enchantment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://viola-mse/sets/BHES-files/img/24_Oratory.png"
+				"en": "https://viola-mse.github.io/sets/BHES-files/img/24_Oratory.png"
 			}
 		}
 	]

@@ -9,7 +9,7 @@
     },
     {
         "card_name": "She Hides Between Moments",
-        "number": 62,
+        "number": 60,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -40,7 +40,7 @@
         "position": ""
     },
     {
-        "card_name": "Casting Call",
+        "card_name": "Clearsky Aspirant",
         "number": 3,
         "shape": "normal",
         "set": "TOTL",
@@ -80,8 +80,8 @@
         "position": ""
     },
     {
-        "card_name": "Clearsky Aspirant",
-        "number": 4,
+        "card_name": "Decorated Constable",
+        "number": 5,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -96,9 +96,9 @@
         "position": ""
     },
     {
-        "card_name": "Meeting with the Ambassador",
-        "number": 93,
-        "shape": "saga",
+        "card_name": "Haak Gaai Headhunter",
+        "number": 89,
+        "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
@@ -128,7 +128,7 @@
         "position": ""
     },
     {
-        "card_name": "placeholder 1",
+        "card_name": "Peephole Peekers",
         "number": 58,
         "shape": "normal",
         "set": "TOTL",
@@ -136,16 +136,16 @@
         "position": ""
     },
     {
-        "card_name": "placeholder 4",
-        "number": 95,
-        "shape": "normal",
+        "card_name": "Meeting with the Ambassador",
+        "number": 94,
+        "shape": "saga",
         "set": "TOTL",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Oukijo's Design",
-        "number": 134,
+        "card_name": "May You Glimpse Our Tomorrow",
+        "number": 131,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -168,24 +168,24 @@
         "position": ""
     },
     {
-        "card_name": "placeholder 2",
-        "number": 59,
+        "card_name": "Stew",
+        "number": 63,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Revel in Its Cold Embrace",
-        "number": 98,
+        "card_name": "Villainous Endgame",
+        "number": 106,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "placeholder 5",
-        "number": 136,
+        "card_name": "Oukijo's Design",
+        "number": 135,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -208,15 +208,15 @@
         "position": ""
     },
     {
-        "card_name": "placeholder 3",
-        "number": 60,
+        "card_name": "Streetside Bumblewing",
+        "number": 65,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Villainous Endgame",
+        "card_name": "Walking Singularity",
         "number": 107,
         "shape": "normal",
         "set": "TOTL",
@@ -256,7 +256,7 @@
         "position": ""
     },
     {
-        "card_name": "Walking Singularity",
+        "card_name": "Your Blood Is A Feast For Crows",
         "number": 108,
         "shape": "normal",
         "set": "TOTL",
@@ -264,7 +264,7 @@
         "position": ""
     },
     {
-        "card_name": "Trumpt of the Void",
+        "card_name": "Trumpet of the Void",
         "number": 141,
         "shape": "normal",
         "set": "TOTL",
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Cloudcrawler",
-        "number": 5,
+        "number": 4,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -497,7 +497,7 @@
     },
     {
         "card_name": "Haunted Elevator Shaft",
-        "number": 89,
+        "number": 90,
         "shape": "saga",
         "set": "TOTL",
         "rotated": false,
@@ -529,7 +529,7 @@
     },
     {
         "card_name": "Shell of a Ghost",
-        "number": 63,
+        "number": 61,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -537,7 +537,7 @@
     },
     {
         "card_name": "Her Gaze Pierces All Veils",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -569,7 +569,7 @@
     },
     {
         "card_name": "Sick Moves",
-        "number": 64,
+        "number": 62,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -577,7 +577,7 @@
     },
     {
         "card_name": "Innocuous Jiangshi",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -609,7 +609,7 @@
     },
     {
         "card_name": "Stop",
-        "number": 65,
+        "number": 64,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -617,7 +617,7 @@
     },
     {
         "card_name": "Obscene Mass",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -657,7 +657,7 @@
     },
     {
         "card_name": "Serial Offender",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -665,7 +665,7 @@
     },
     {
         "card_name": "Mou Sze Dancer",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -697,7 +697,7 @@
     },
     {
         "card_name": "Smoke From Rubble",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -705,7 +705,7 @@
     },
     {
         "card_name": "Paper Pusher Pyromaniac",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -737,7 +737,7 @@
     },
     {
         "card_name": "Spiritual Dispute",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -777,7 +777,7 @@
     },
     {
         "card_name": "Tepid Middle Manager",
-        "number": 104,
+        "number": 103,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -817,7 +817,7 @@
     },
     {
         "card_name": "Tetrad Recruiter",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "Kaigun Mansion Guides",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1265,7 +1265,7 @@
     },
     {
         "card_name": "Melting Grimace",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1305,7 +1305,7 @@
     },
     {
         "card_name": "Naau Gok Invoker",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1337,7 +1337,7 @@
     },
     {
         "card_name": "Rumourmonging",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1369,7 +1369,7 @@
     },
     {
         "card_name": "Rise Above",
-        "number": 61,
+        "number": 59,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1377,7 +1377,7 @@
     },
     {
         "card_name": "Skyblot Maw",
-        "number": 101,
+        "number": 100,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1417,7 +1417,7 @@
     },
     {
         "card_name": "Tsin Shui Invoker",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1454,7 +1454,7 @@
     "a->gold",
     {
         "card_name": "Special Agent Ming Yue",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1462,7 +1462,7 @@
     },
     {
         "card_name": "Laai Ban Jyu & Mystery Girl",
-        "number": 205,
+        "number": 210,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1478,7 +1478,7 @@
     },
     {
         "card_name": "Lily An, Exorcist Extraordinare",
-        "number": 207,
+        "number": 212,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1494,7 +1494,7 @@
     },
     {
         "card_name": "Exorbrother's Judgement",
-        "number": 195,
+        "number": 199,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1509,87 +1509,7 @@
         "position": ""
     },
     {
-        "card_name": "Wong Tsin-man",
-        "number": 233,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Hei Foon-nei",
-        "number": 201,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Qiao Xian & Qiao Hou",
-        "number": 218,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Smith & Nguyen",
-        "number": 225,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Invisible Skulker",
-        "number": 203,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Joss Twig Tender",
-        "number": 204,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Siu Coeng & Daai Paau",
-        "number": 222,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Citysight Guide",
-        "number": 189,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Curious Pair",
-        "number": 191,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Rubberneck Lookout",
-        "number": 219,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Tetrad Dragoncloak",
+        "card_name": "Their Eons Ought Be Forgotten",
         "number": 229,
         "shape": "normal",
         "set": "TOTL",
@@ -1597,7 +1517,7 @@
         "position": ""
     },
     {
-        "card_name": "Flameblade Elder",
+        "card_name": "Dogged Delinquent",
         "number": 196,
         "shape": "normal",
         "set": "TOTL",
@@ -1605,8 +1525,88 @@
         "position": ""
     },
     {
+        "card_name": "Qiao Xian & Qiao Hou",
+        "number": 216,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Smith & Nguyen",
+        "number": 224,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Invisible Skulker",
+        "number": 208,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Joss Twig Tender",
+        "number": 209,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Siu Coeng & Daai Paau",
+        "number": 221,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Citysight Guide",
+        "number": 190,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Curious Pair",
+        "number": 193,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rubberneck Lookout",
+        "number": 217,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tetrad Dragoncloak",
+        "number": 228,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flameblade Elder",
+        "number": 200,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Fwun Sah Taan Everyman",
-        "number": 197,
+        "number": 202,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1614,7 +1614,7 @@
     },
     {
         "card_name": "Precinct Eight Captain",
-        "number": 216,
+        "number": 214,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1628,7 +1628,7 @@
     },
     {
         "card_name": "Gau Yi Ride or Die",
-        "number": 198,
+        "number": 203,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1654,70 +1654,6 @@
     },
     {
         "card_name": "Hal Sa-yi the Brightedge",
-        "number": 200,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "placeholder 81",
-        "number": 214,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Shadow of the Ninth Dragon",
-        "number": 220,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Dai Tse & Siu Mui",
-        "number": 192,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mildred & Teresa",
-        "number": 209,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Haak Faa & Baak Syut",
-        "number": 199,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Hung Sin & Laam Jyut",
-        "number": 202,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "placeholder 8",
-        "number": 212,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lau Dak-wah",
         "number": 206,
         "shape": "normal",
         "set": "TOTL",
@@ -1725,7 +1661,63 @@
         "position": ""
     },
     {
-        "card_name": "placeholder 7",
+        "card_name": "Backalley Sparker",
+        "number": 187,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shadow of the Ninth Dragon",
+        "number": 218,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dai Tse & Siu Mui",
+        "number": 194,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Drifting Wu Lei",
+        "number": 198,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fu Luk Hoarder",
+        "number": 201,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hung Sin & Laam Jyut",
+        "number": 207,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glowbrew Herbologist",
+        "number": 204,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lau Dak-wah",
         "number": 211,
         "shape": "normal",
         "set": "TOTL",
@@ -1733,16 +1725,24 @@
         "position": ""
     },
     {
-        "card_name": "placeholder 6",
-        "number": 210,
+        "card_name": "Mildred & Teresa",
+        "number": 213,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Tsoi Jam Mei Loi",
-        "number": 231,
+        "card_name": "Haak Faa & Baak Syut",
+        "number": 205,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wong Tsin-man",
+        "number": 233,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1750,7 +1750,7 @@
     },
     {
         "card_name": "Siu Bau & Friendly Jiangshi",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1758,7 +1758,7 @@
     },
     {
         "card_name": "Cha Siu Butcher",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1782,7 +1782,7 @@
     },
     {
         "card_name": "Commuting Arcanist",
-        "number": 190,
+        "number": 192,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1790,7 +1790,7 @@
     },
     {
         "card_name": "Derelicts Hexapod",
-        "number": 193,
+        "number": 195,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1798,7 +1798,7 @@
     },
     {
         "card_name": "Softear Restauranteur",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1806,7 +1806,7 @@
     },
     {
         "card_name": "Dreambreacher",
-        "number": 194,
+        "number": 197,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Skyline Exorcist",
-        "number": 223,
+        "number": 222,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Sluice Slinker",
-        "number": 224,
+        "number": 223,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1874,16 +1874,16 @@
         "position": ""
     },
     {
-        "card_name": "Manifest Shadow",
-        "number": 208,
+        "card_name": "Shadowgloom",
+        "number": 219,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "placeholder 83",
-        "number": 215,
+        "card_name": "Tigress of Ng Street",
+        "number": 231,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1891,7 +1891,7 @@
     },
     {
         "card_name": "Proudscale Descendant",
-        "number": 217,
+        "number": 215,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1921,8 +1921,8 @@
         "position": ""
     },
     {
-        "card_name": "placeholder 69",
-        "number": 213,
+        "card_name": "Collected Casting",
+        "number": 191,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1930,7 +1930,7 @@
     },
     {
         "card_name": "Soulscour",
-        "number": 227,
+        "number": 226,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1938,7 +1938,7 @@
     },
     {
         "card_name": "Backstreet Girls",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1966,23 +1966,7 @@
     },
     "a->colorless",
     {
-        "card_name": "placeholder 9",
-        "number": 245,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "placeholder 19",
-        "number": 246,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "placeholder 42",
+        "card_name": "Skywing Kite",
         "number": 247,
         "shape": "normal",
         "set": "TOTL",
@@ -1991,7 +1975,7 @@
     },
     {
         "card_name": "Urban Labyrinth",
-        "number": 250,
+        "number": 248,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2039,7 +2023,7 @@
     },
     {
         "card_name": "Rubbersludge Cab",
-        "number": 249,
+        "number": 246,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2047,7 +2031,7 @@
     },
     {
         "card_name": "Whitesmoke Jar",
-        "number": 251,
+        "number": 249,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2087,7 +2071,7 @@
     },
     {
         "card_name": "Ripchain Helm",
-        "number": 248,
+        "number": 245,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2095,20 +2079,11 @@
     },
     {
         "card_name": "Wind-up Jiangshi",
-        "number": 252,
+        "number": 250,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2127,7 +2102,7 @@
     },
     {
         "card_name": "Daybreak Platform",
-        "number": 254,
+        "number": 252,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2135,78 +2110,6 @@
     },
     {
         "card_name": "Deepstar Passage",
-        "number": 255,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Midnight Nook",
-        "number": 256,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sunset Outlook",
-        "number": 258,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "tapland 1",
-        "number": 259,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "tapland 2",
-        "number": 260,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "tapland 3",
-        "number": 261,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "tapland 4",
-        "number": 262,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "tapland 5",
-        "number": 263,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Twilight Confluence",
-        "number": 264,
-        "shape": "normal",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Cramped Archive",
         "number": 253,
         "shape": "normal",
         "set": "TOTL",
@@ -2214,7 +2117,23 @@
         "position": ""
     },
     {
-        "card_name": "Skyward Vista",
+        "card_name": "Midnight Nook",
+        "number": 254,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sunset Outlook",
+        "number": 256,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "tapland 1",
         "number": 257,
         "shape": "normal",
         "set": "TOTL",
@@ -2222,12 +2141,63 @@
         "position": ""
     },
     {
-        "card_name": "Twisting Cityscape",
-        "number": 265,
+        "card_name": "tapland 2",
+        "number": 258,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "tapland 3",
+        "number": 259,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "tapland 4",
+        "number": 260,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "tapland 5",
+        "number": 261,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Twilight Confluence",
+        "number": 262,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cramped Archive",
+        "number": 251,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skyward Vista",
+        "number": 255,
+        "shape": "normal",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2252,7 +2222,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 266,
+        "number": 263,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2260,7 +2230,7 @@
     },
     {
         "card_name": "Island",
-        "number": 267,
+        "number": 264,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2268,7 +2238,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 268,
+        "number": 265,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2276,7 +2246,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 269,
+        "number": 266,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2284,7 +2254,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 270,
+        "number": 267,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2304,7 +2274,7 @@
     },
     "a->token",
     {
-        "card_name": "Horror",
+        "card_name": "The City's Blessing",
         "number": 1,
         "shape": "token",
         "set": "TOTL",
@@ -2312,23 +2282,7 @@
         "position": ""
     },
     {
-        "card_name": "Food",
-        "number": 5,
-        "shape": "token",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Talisman",
-        "number": 6,
-        "shape": "token",
-        "set": "TOTL",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Rogue",
+        "card_name": "Horror",
         "number": 2,
         "shape": "token",
         "set": "TOTL",
@@ -2336,7 +2290,23 @@
         "position": ""
     },
     {
-        "card_name": "Blood Homunculus",
+        "card_name": "Food",
+        "number": 6,
+        "shape": "token",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Talisman",
+        "number": 7,
+        "shape": "token",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rogue",
         "number": 3,
         "shape": "token",
         "set": "TOTL",
@@ -2344,7 +2314,7 @@
         "position": ""
     },
     {
-        "card_name": "Citizen",
+        "card_name": "Blood Homunculus",
         "number": 4,
         "shape": "token",
         "set": "TOTL",
@@ -2352,7 +2322,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Citizen",
+        "number": 5,
+        "shape": "token",
+        "set": "TOTL",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"

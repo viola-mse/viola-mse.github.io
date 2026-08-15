@@ -5,7 +5,7 @@
 			<name>TOTL</name>
 			<longname>Towers of Tin Lau</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-25</releasedate>
+			<releasedate>2026-08-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Shrineguard Lion</name>
 			<text>As long as you control an artifact, this creature gets +1/+0.
 As long as you control an enchantment, this creature gets +1/+0.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/29_Shrineguard Lion.png" num="29">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/29_Shrineguard Lion.png" num="29">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ As long as you control an enchantment, this creature gets +1/+0.</text>
 			<name>Lowrise Line Cook</name>
 			<text>Lifelink
 Whenever one or more cards leave your graveyard, you gain 2 life and another target creature you control gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/19_Lowrise Line Cook.png" num="19">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/19_Lowrise Line Cook.png" num="19">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -49,7 +49,7 @@ Whenever one or more cards leave your graveyard, you gain 2 life and another tar
 			<name>Frostwhip Siu Tse</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {1}{W}, {T}: Tap target creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/9_Frostwhip Siu Tse.png" num="9">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/9_Frostwhip Siu Tse.png" num="9">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -68,7 +68,7 @@ Whenever one or more cards leave your graveyard, you gain 2 life and another tar
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Flying
 Whenever this creature attacks, if you have the city&apos;s blessing, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/28_Salaried Seraph.png" num="28">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/28_Salaried Seraph.png" num="28">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ Whenever this creature attacks, if you have the city&apos;s blessing, put a +1/+
 			<name>Fwun Sah Invoker</name>
 			<text>Vigilance
 {7}{W}: You gain 8 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/10_Fwun Sah Invoker.png" num="10">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/10_Fwun Sah Invoker.png" num="10">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@ Whenever this creature attacks, if you have the city&apos;s blessing, put a +1/+
 			<name>Slacking Sergeant</name>
 			<text>When this creature enters, create a 1/1 white Employee creature token with &quot;{T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.&quot;
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, you gain 1 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/30_Slacking Sergeant.png" num="30">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/30_Slacking Sergeant.png" num="30">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -122,7 +122,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Baak Gai Lookout</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 When this creature dies, create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot; Then if you have the city&apos;s blessing, put two +1/+1 counters on that creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/2_Baak Gai Lookout.png" num="2">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/2_Baak Gai Lookout.png" num="2">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -140,7 +140,7 @@ When this creature dies, create a 1/1 green Citizen creature token with &quot;Wh
 			<name>Yat Street Colleague</name>
 			<text>Vigilance
 Whenever an artifact or enchantment you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/36_Yat Street Colleague.png" num="36">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/36_Yat Street Colleague.png" num="36">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -159,7 +159,7 @@ Whenever an artifact or enchantment you control enters, put a +1/+1 counter on t
 			<text>Flying
 As this creature enters, you may activate one of its nonmana abilities without paying the cost.
 {4}{W}: Other creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/23_Pale Voidjaw.png" num="23">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/23_Pale Voidjaw.png" num="23">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -177,7 +177,7 @@ As this creature enters, you may activate one of its nonmana abilities without p
 			<name>Determined Vigilante</name>
 			<text>Whenever one or more cards leave your graveyard during your turn, this creature gets +1/+1 until end of turn.
 Whenever one or more cards leave your graveyard during your turn, if this card is in your graveyard, you may return it to your hand.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/6_Determined Vigilante.png" num="6">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/6_Determined Vigilante.png" num="6">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -196,7 +196,7 @@ Whenever one or more cards leave your graveyard during your turn, if this card i
 			<text>Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
 Flying
 Whenever this creature attacks, you may exile a card from your graveyard. If you do, you gain 1 life and this creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/27_Rooftop Bloodwing.png" num="27">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/27_Rooftop Bloodwing.png" num="27">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -216,7 +216,7 @@ Whenever this creature attacks, you may exile a card from your graveyard. If you
 When this artifact enters, it deals 3 damage to up to one target attacking or blocking creature.
 Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/12_Golden Revolver.png" num="12">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/12_Golden Revolver.png" num="12">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -233,7 +233,7 @@ Equip {2}</text>
 			<name>Trip to Nowhere</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
 {1}{W}, Sacrifice this enchantment: Create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot; It can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/34_Trip to Nowhere.png" num="34">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/34_Trip to Nowhere.png" num="34">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -250,7 +250,7 @@ Equip {2}</text>
 			<name>Its Fangs Are Sharp as Knives</name>
 			<text>Put a +1/+1 counter and a first strike counter on target creature or on the Horror you besought.
 Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/13_Its Fangs Are Sharp as Knives.png" num="13">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/13_Its Fangs Are Sharp as Knives.png" num="13">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -266,7 +266,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 		<card>
 			<name>Forbidden Exorsister Technique</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/8_Forbidden Exorsister Technique.png" num="8">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/8_Forbidden Exorsister Technique.png" num="8">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -283,7 +283,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 			<name>Lou Waan Invoker</name>
 			<text>Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 4/4 Dragon Illusion with flying until end of turn instead.
 {7}{U}: Draw two cards.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/51_Lou Waan Invoker.png" num="51">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/51_Lou Waan Invoker.png" num="51">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -301,7 +301,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 			<name>Laam Gaai Loiterer</name>
 			<text>Flying, vigilance
 When this creature enters, if you control an artifact and an enchantment, draw a card.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/50_Laam Gaai Loiterer.png" num="50">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/50_Laam Gaai Loiterer.png" num="50">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -319,7 +319,7 @@ When this creature enters, if you control an artifact and an enchantment, draw a
 			<name>Featherflutter Leng Zai</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {1}{U}: This creature gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/44_Featherflutter Leng Zai.png" num="44">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/44_Featherflutter Leng Zai.png" num="44">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -336,7 +336,7 @@ When this creature enters, if you control an artifact and an enchantment, draw a
 		<card>
 			<name>Grizzled Gumshoes</name>
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, you may draw a card. If you do, discard a card.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/49_Grizzled Gumshoes.png" num="49">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/49_Grizzled Gumshoes.png" num="49">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -354,7 +354,7 @@ When this creature enters, if you control an artifact and an enchantment, draw a
 			<name>Cephalid Sophomore</name>
 			<text>Nonmana abilities of creatures you control cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/38_Cephalid Sophomore.png" num="38">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/38_Cephalid Sophomore.png" num="38">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -371,7 +371,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 		<card>
 			<name>Motorized Private Eye</name>
 			<text>Whenever you surveil, put a +1/+1 counter on this creature. It gains vigilance until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/56_Motorized Private Eye.png" num="56">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/56_Motorized Private Eye.png" num="56">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -390,7 +390,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Flying
 As this creature enters, you may activate one of its activated abilities without paying the cost.
 {2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/57_Next Century Anxiety.png" num="57">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/57_Next Century Anxiety.png" num="57">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ As this creature enters, you may activate one of its activated abilities without
 			<text>This spell costs {1} less to cast if you control an artifact and costs {1} less to cast if you control an enchantment.
 When this creature enters, draw a card.
 This creature gets +1/+1 for each card you looked at while surveiling this turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/55_Moongorger.png" num="55">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/55_Moongorger.png" num="55">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -428,7 +428,7 @@ This creature gets +1/+1 for each card you looked at while surveiling this turn.
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Defender
 As long as you have the city&apos;s blessing, this creature can attack as though it didn&apos;t have defender.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/47_Ghostfish.png" num="47">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/47_Ghostfish.png" num="47">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -447,7 +447,7 @@ As long as you have the city&apos;s blessing, this creature can attack as though
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 This spell costs {1} less to cast if you have the city&apos;s blessing.
 Counter target spell.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/61_Rise Above.png" num="61">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/59_Rise Above.png" num="59">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -464,7 +464,7 @@ Counter target spell.</text>
 			<name>Your Thousand Eyes See All</name>
 			<text>Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
 Beseech {4}{U}{U} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/72_Your Thousand Eyes See All.png" num="72">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/72_Your Thousand Eyes See All.png" num="72">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -482,7 +482,7 @@ Beseech {4}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 			<text>When this artifact enters, draw two cards.
 Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/52_Lucky Tile.png" num="52">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/52_Lucky Tile.png" num="52">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -500,7 +500,7 @@ Equip {2}</text>
 			<text>Enchant creature
 Enchanted creature loses all abilities and is a 1/1 blue Student creature with vigilance.
 {1}{U}: Enchanted creature&apos;s owner puts it on the top or bottom of their library.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/40_Constrain.png" num="40">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/40_Constrain.png" num="40">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -518,7 +518,7 @@ Enchanted creature loses all abilities and is a 1/1 blue Student creature with v
 			<text>Choose one —
 • Return target creature to its owner&apos;s hand.
 • Exile target creature you control, then return that card to the battlefield under its owner&apos;s control.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/37_Altimancy.png" num="37">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/37_Altimancy.png" num="37">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -534,7 +534,7 @@ Enchanted creature loses all abilities and is a 1/1 blue Student creature with v
 		<card>
 			<name>Come Typhoons and Heavy Rains</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/39_Come Typhoons and Heavy Rains.png" num="39">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/39_Come Typhoons and Heavy Rains.png" num="39">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -551,7 +551,7 @@ Enchanted creature loses all abilities and is a 1/1 blue Student creature with v
 			<name>Tsin Shui Invoker</name>
 			<text>Menace
 {7}{B}: Create a 4/3 colorless Horror creature token.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/106_Tsin Shui Invoker.png" num="106">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/105_Tsin Shui Invoker.png" num="105">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -569,7 +569,7 @@ Enchanted creature loses all abilities and is a 1/1 blue Student creature with v
 			<name>Dark Alley Occultist</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {2}{B}: Target opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/80_Dark Alley Occultist.png" num="80">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/80_Dark Alley Occultist.png" num="80">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -588,7 +588,7 @@ Enchanted creature loses all abilities and is a 1/1 blue Student creature with v
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Lifelink
 As long as you have the city&apos;s blessing, this creature has flying.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/79_Corporate Bloodsucker.png" num="79">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/79_Corporate Bloodsucker.png" num="79">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -607,7 +607,7 @@ As long as you have the city&apos;s blessing, this creature has flying.</text>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Deathtouch
 Whenever this creature deals damage to a noncreature permanent or player, if you have the city&apos;s blessing, draw a card.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/88_Haak Gaai Gourmands.png" num="88">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/88_Haak Gaai Gourmands.png" num="88">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -625,7 +625,7 @@ Whenever this creature deals damage to a noncreature permanent or player, if you
 			<name>Backalley Darklimb</name>
 			<text>Whenever another Horror you control enters, put a +1/+1 counter on this creature.
 Whenever you spend four or more mana to cast a noncreature spell or activate a nonmana ability, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/75_Backalley Darklimb.png" num="75">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/75_Backalley Darklimb.png" num="75">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -643,7 +643,7 @@ Whenever you spend four or more mana to cast a noncreature spell or activate a n
 			<name>Ragged Beat Cop</name>
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, you gain 3 life.
 Whenever you spend four or more mana to cast a spell or activate a nonmana ability, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/96_Ragged Beat Cop.png" num="96">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/96_Ragged Beat Cop.png" num="96">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -662,7 +662,7 @@ Whenever you spend four or more mana to cast a spell or activate a nonmana abili
 			<text>Flying
 As this creature enters, you may activate one of its nonmana abilities without paying the cost.
 {2}{B}, Sacrifice another nonland permanent: You lose 1 life and draw a card.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/101_Skyblot Maw.png" num="101">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/100_Skyblot Maw.png" num="100">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -680,7 +680,7 @@ As this creature enters, you may activate one of its nonmana abilities without p
 			<name>Kaigun Mansion Guides</name>
 			<text>When this creature enters, if you cast it, create a token that&apos;s a copy of it.
 Once each turn, whenever you surveil, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/92_Kaigun Mansion Guides.png" num="92">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/93_Kaigun Mansion Guides.png" num="93">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -699,7 +699,7 @@ Once each turn, whenever you surveil, this creature gets +1/+1 until end of turn
 			<text>Affinity for Horrors (This spell costs {1} less to cast for each Horror you control.)
 Menace
 When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/76_Blightrazer.png" num="76">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/76_Blightrazer.png" num="76">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -716,7 +716,7 @@ When this creature enters, surveil 2. (Look at the top two cards of your library
 		<card>
 			<name>Disparage</name>
 			<text>Target creature gets -2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/82_Disparage.png" num="82">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/82_Disparage.png" num="82">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -733,7 +733,7 @@ When this creature enters, surveil 2. (Look at the top two cards of your library
 			<name>Glory Be To Your Radiant Scales</name>
 			<text>Put a deathtouch counter on target creature or on the Horror you besought.
 Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/86_Glory Be To Your Radiant Scales.png" num="86">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/86_Glory Be To Your Radiant Scales.png" num="86">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -749,7 +749,7 @@ Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for i
 		<card>
 			<name>Gambler&apos;s Last Roll</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/85_Gambler&apos;s Last Roll.png" num="85">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/85_Gambler&apos;s Last Roll.png" num="85">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -766,7 +766,7 @@ Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for i
 			<name>Rumourmonging</name>
 			<text>Target player reveals their hand. You choose a card from it. That player exiles that card.
 {3}{B}, Exile this card from your graveyard: Target opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/99_Rumourmonging.png" num="99">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/98_Rumourmonging.png" num="98">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -783,7 +783,7 @@ Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for i
 			<name>Botched Job</name>
 			<text>This spell costs {1} less to cast for each card you looked at while surveiling this turn.
 Destroy target creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/77_Botched Job.png" num="77">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/77_Botched Job.png" num="77">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -801,7 +801,7 @@ Destroy target creature.</text>
 			<text>Choose one —
 • Target opponent loses 3 life and sacrifices a creature with the greatest power among creatures they control.
 • Target opponent loses 3 life and sacrifices an enchantment.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/73_Ancestseer&apos;s Immolation.png" num="73">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/73_Ancestseer&apos;s Immolation.png" num="73">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -818,7 +818,7 @@ Destroy target creature.</text>
 			<name>Sei Street Carver</name>
 			<text>Haste
 {1}{R}: This creature gets +2/+0 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/137_Sei Street Carver.png" num="137">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/137_Sei Street Carver.png" num="137">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -836,7 +836,7 @@ Destroy target creature.</text>
 			<name>Naau Gok Invoker</name>
 			<text>When this creature enters, it deals 1 damage to target player.
 {7}{R}: This creature deals 4 damage to target player.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/133_Naau Gok Invoker.png" num="133">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/134_Naau Gok Invoker.png" num="134">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -853,7 +853,7 @@ Destroy target creature.</text>
 		<card>
 			<name>Hung Gaai Hotshot</name>
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature gets +1/+1 and gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/125_Hung Gaai Hotshot.png" num="125">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/125_Hung Gaai Hotshot.png" num="125">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -871,7 +871,7 @@ Destroy target creature.</text>
 			<name>Hauntroom Consultant</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {2}{R}, Discard a card or sacrifice an artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/122_Hauntroom Consultant.png" num="122">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/122_Hauntroom Consultant.png" num="122">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -889,7 +889,7 @@ Destroy target creature.</text>
 			<name>Tuftear Denizen</name>
 			<text>When this creature enters, if you activated a nonmana ability this turn, this creature gains haste until end of turn.
 Once during each of your turns, whenever a card leaves your graveyard, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/142_Tuftear Denizen.png" num="142">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/142_Tuftear Denizen.png" num="142">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -907,7 +907,7 @@ Once during each of your turns, whenever a card leaves your graveyard, put a +1/
 			<name>Brighthorn Itinerant</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 As long as you have the city&apos;s blessing, this creature gets +2/+2 and has trample.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/111_Brighthorn Itinerant.png" num="111">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/111_Brighthorn Itinerant.png" num="111">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -926,7 +926,7 @@ As long as you have the city&apos;s blessing, this creature gets +2/+2 and has t
 			<text>Trample
 Whenever this creature attacks with exactly one other creature, put a +1/+1 counter on this creature.
 {3}{R}: This creature gains menace until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/118_Garrison Veteran.png" num="118">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/118_Garrison Veteran.png" num="118">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -945,7 +945,7 @@ Whenever this creature attacks with exactly one other creature, put a +1/+1 coun
 			<text>Reach
 As this creature enters, you may activate one of its nonmana abilities without paying the cost.
 {1}{R}: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/121_Gutterclaw.png" num="121">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/121_Gutterclaw.png" num="121">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -964,7 +964,7 @@ As this creature enters, you may activate one of its nonmana abilities without p
 			<text>This spell costs {2} less to cast if one or more cards left your graveyard this turn.
 Menace
 Whenever this creature attacks, you may exile a card from your graveyard. If you do, it gets +2/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/131_Melting Grimace.png" num="131">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/132_Melting Grimace.png" num="132">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -982,7 +982,7 @@ Whenever this creature attacks, you may exile a card from your graveyard. If you
 			<name>Ghost Chit Ignition</name>
 			<text>As an additional cost to cast this spell, you may exile a card from your graveyard.
 This spell deals 2 damage to target creature. If you paid the additional cost, it deals 3 damage instead.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/119_Ghost Chit Ignition.png" num="119">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/119_Ghost Chit Ignition.png" num="119">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -999,7 +999,7 @@ This spell deals 2 damage to target creature. If you paid the additional cost, i
 			<name>Its Thirst is Unquenchable</name>
 			<text>Target creature or the Horror you besought gets +1/+0 and gains haste and trample until end of turn.
 Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/126_Its Thirst is Unquenchable.png" num="126">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/126_Its Thirst is Unquenchable.png" num="126">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1015,7 +1015,7 @@ Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 		<card>
 			<name>The Craziest Night Ever</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/113_The Craziest Night Ever.png" num="113">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/113_The Craziest Night Ever.png" num="113">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1033,7 +1033,7 @@ Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 			<text>Choose one —
 • Destroy target artifact.
 • Create a 1/1 black Rogue creature token with &quot;When this creature dies, target opponent loses 1 life.&quot;</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/140_Tetrad Tactics.png" num="140">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/140_Tetrad Tactics.png" num="140">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1050,7 +1050,7 @@ Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 			<name>Flaresnap</name>
 			<text>This spell costs {2} less to cast if you spent four or more mana to cast another noncreature spell or activate a nonmana ability this turn.
 This spell deals 4 damage to target creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/117_Flaresnap.png" num="117">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/117_Flaresnap.png" num="117">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1067,7 +1067,7 @@ This spell deals 4 damage to target creature.</text>
 			<name>Bloodwhip</name>
 			<text>This spell deals 6 damage to any nonplayer target.
 {3}{R}, Exile this card from your graveyard: It deals 3 damage to target player.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/110_Bloodwhip.png" num="110">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/110_Bloodwhip.png" num="110">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1084,7 +1084,7 @@ This spell deals 4 damage to target creature.</text>
 			<name>Zaai Sing Invoker</name>
 			<text>{T}: Add {C}.
 {7}{G}: This creature gets +7/+7 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/180_Zaai Sing Invoker.png" num="180">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/180_Zaai Sing Invoker.png" num="180">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1103,7 +1103,7 @@ This spell deals 4 damage to target creature.</text>
 			<text>Deathtouch
 As this creature enters, you may activate one of its nonmana abilities without paying the cost.
 {4}{G}: Another target creature you control gains deathtouch until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/160_Rainy Alley Devil.png" num="160">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/160_Rainy Alley Devil.png" num="160">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1121,7 +1121,7 @@ As this creature enters, you may activate one of its nonmana abilities without p
 			<name>Gutsy Ghostchaser</name>
 			<text>When this creature enters, you gain 1 life.
 As long as you control a Horror, this creature gets +1/+1 and has vigilance.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/149_Gutsy Ghostchaser.png" num="149">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/149_Gutsy Ghostchaser.png" num="149">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1139,7 +1139,7 @@ As long as you control a Horror, this creature gets +1/+1 and has vigilance.</te
 			<name>Luk Gaai Pair</name>
 			<text>When this creature enters, you gain 1 life and create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot;
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature and up to one other target creature each get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/154_Luk Gaai Pair.png" num="154">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/154_Luk Gaai Pair.png" num="154">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1157,7 +1157,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Octogram Tracer</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {3}{G}: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/157_Octogram Tracer.png" num="157">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/157_Octogram Tracer.png" num="157">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1176,7 +1176,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Vigilance
 When this creature enters and at the beginning of your upkeep, if you have the city&apos;s blessing, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/175_Work Horse.png" num="175">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/175_Work Horse.png" num="175">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1194,7 +1194,7 @@ When this creature enters and at the beginning of your upkeep, if you have the c
 			<name>Rockmaw</name>
 			<text>Trample
 Whenever another Horror you control enters, put a +1/+1 counter on that creature.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/161_Rockmaw.png" num="161">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/161_Rockmaw.png" num="161">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1212,7 +1212,7 @@ Whenever another Horror you control enters, put a +1/+1 counter on that creature
 			<name>Tetrad&apos;s Hammer</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature and up to one other target creature each get +1/+1 and gain trample until end of turn.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/171_Tetrad&apos;s Hammer.png" num="171">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/171_Tetrad&apos;s Hammer.png" num="171">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1230,7 +1230,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Precinct Eight Muscle</name>
 			<text>When this creature enters, create a 1/1 white Employee creature token with &quot;{T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.&quot;
 {G}: Put this card from your hand onto the battlefield, then shuffle it into your library.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/158_Precinct Eight Muscle.png" num="158">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/158_Precinct Eight Muscle.png" num="158">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1249,7 +1249,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
 Reach
 This creature can&apos;t be blocked by creatures with power 2 or less.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/168_Steelheight Horror.png" num="168">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/168_Steelheight Horror.png" num="168">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1267,7 +1267,7 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 			<name>Your Strength Conquers All</name>
 			<text>You may have target creature you control or the Horror you besought fight up to one other target creature.
 Beseech {4}{G}{G} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/177_Your Strength Conquers All.png" num="177">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/177_Your Strength Conquers All.png" num="177">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1285,7 +1285,7 @@ Beseech {4}{G}{G} (You may cast this card from your graveyard as a sorcery for i
 			<text>Choose one —
 • Up to two target creatures you control each deal damage equal to their power to another target creature.
 • Put a +1/+1 counter on each of up to two target creatures.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/150_Hirsute Haymaker.png" num="150">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/150_Hirsute Haymaker.png" num="150">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1302,7 +1302,7 @@ Beseech {4}{G}{G} (You may cast this card from your graveyard as a sorcery for i
 			<name>Skyscrape</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Target creature gets +2/+2 and gains reach until end of turn. If you have the city&apos;s blessing, that creature gets +4/+4 and gains reach until end of turn instead.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/166_Skyscrape.png" num="166">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/166_Skyscrape.png" num="166">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1319,7 +1319,7 @@ Target creature gets +2/+2 and gains reach until end of turn. If you have the ci
 			<name>Run the Neon Labyrinth</name>
 			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 Create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot;</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/165_Run the Neon Labyrinth.png" num="165">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/165_Run the Neon Labyrinth.png" num="165">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1335,7 +1335,7 @@ Create a 1/1 green Citizen creature token with &quot;When this creature enters, 
 		<card>
 			<name>Raining Frogs and Toads</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/159_Raining Frogs and Toads.png" num="159">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/159_Raining Frogs and Toads.png" num="159">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1352,7 +1352,7 @@ Create a 1/1 green Citizen creature token with &quot;When this creature enters, 
 			<name>Incense Automaton</name>
 			<text>{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.
 Exhaust — {4}: Put a +1/+1 counter on this creature and draw a card. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/239_Incense Automaton.png" num="239">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/239_Incense Automaton.png" num="239">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1368,7 +1368,7 @@ Exhaust — {4}: Put a +1/+1 counter on this creature and draw a card. Activate 
 			<name>Wind-up Jiangshi</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/252_Wind-up Jiangshi.png" num="252">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/250_Wind-up Jiangshi.png" num="250">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1384,7 +1384,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<name>Mobile Monitor</name>
 			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {4}: Put target card from a graveyard on the bottom of its owner&apos;s library. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/242_Mobile Monitor.png" num="242">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/242_Mobile Monitor.png" num="242">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1401,7 +1401,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<text>Equipped creature gets +2/+0.
 {6}, Sacrifice this artifact: Destroy target nonland permanent. If a token was destroyed this way, you gain 3 life. Activate only as a sorcery.
 Equip {2}</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/248_Ripchain Helm.png" num="248">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/245_Ripchain Helm.png" num="245">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1417,7 +1417,7 @@ Equip {2}</text>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. This mana can&apos;t be spent to cast spells from your hand.
 {8}, Sacrifice this artifact: Draw two cards. You gain 8 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/241_Mark of Good Fortune.png" num="241">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/241_Mark of Good Fortune.png" num="241">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1433,7 +1433,7 @@ Equip {2}</text>
 			<text>Trample
 When this Vehicle enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 Crew 2</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/243_Neighbourhood Loop Line.png" num="243">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/243_Neighbourhood Loop Line.png" num="243">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1450,7 +1450,7 @@ Crew 2</text>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 At the beginning of your upkeep, tap this creature unless you pay {C}.
 When this creature dies, search your library for a card named Jiangshi Throng, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/14_Jiangshi Throng.png" num="14">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/14_Jiangshi Throng.png" num="14">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1468,7 +1468,7 @@ When this creature dies, search your library for a card named Jiangshi Throng, r
 			<name>Loong Uk Bottomfeeder</name>
 			<text>If this card would leave your graveyard, you may put it on the bottom of your library and gain 2 life instead.
 {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/18_Loong Uk Bottomfeeder.png" num="18">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/18_Loong Uk Bottomfeeder.png" num="18">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1488,7 +1488,7 @@ When this creature dies, search your library for a card named Jiangshi Throng, r
 Enchanted creature gets +1/+1 and has flying.
 {1}{U}, Discard this card: Create a 1/1 blue Student creature token with vigilance.
 You may cast this spell from your graveyard. If you do, it enters with a finality counter on it.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/1_Ancestral Blessing.png" num="1">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/1_Ancestral Blessing.png" num="1">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1504,7 +1504,7 @@ You may cast this spell from your graveyard. If you do, it enters with a finalit
 		<card>
 			<name>Relaxed Rookies</name>
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/26_Relaxed Rookies.png" num="26">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/26_Relaxed Rookies.png" num="26">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1522,7 +1522,7 @@ You may cast this spell from your graveyard. If you do, it enters with a finalit
 			<name>Leuk Street Tagger</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 When this creature enters, put a +1/+1 on another target creature you control. If you have the city&apos;s blessing, put a +1/+1 counter on each other creature you control instead.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/16_Leuk Street Tagger.png" num="16">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/16_Leuk Street Tagger.png" num="16">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1541,7 +1541,7 @@ When this creature enters, put a +1/+1 on another target creature you control. I
 			<text>Flying
 When this creature enters, destroy up to one target artifact or enchantment.
 {2}{W}, Discard this card: Destroy target creature with power 4 or greater.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/5_Cloudcrawler.png" num="5">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/4_Cloudcrawler.png" num="4">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1559,7 +1559,7 @@ When this creature enters, destroy up to one target artifact or enchantment.
 			<name>Vigilant Veterans</name>
 			<text>Vigilance
 Other Detectives you control get +1/+1 and have vigilance.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/35_Vigilant Veterans.png" num="35">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/35_Vigilant Veterans.png" num="35">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1578,7 +1578,7 @@ Other Detectives you control get +1/+1 and have vigilance.</text>
 			<text>Flash
 When this creature attacks for the first time, it gains indestructible until end of turn.
 This creature has hexproof if it hasn&apos;t dealt damage yet.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/31_Sophomore Exorsister.png" num="31">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/31_Sophomore Exorsister.png" num="31">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1596,7 +1596,7 @@ This creature has hexproof if it hasn&apos;t dealt damage yet.</text>
 			<name>Fwun Sha Drycleaner</name>
 			<text>Whenever this creature enters or attacks, you may exile up to one target card from a graveyard. If it&apos;s a card you own, you may put it on the bottom of your library.
 Whenever a card leaves your graveyard during your turn, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/11_Fwun Sha Drycleaner.png" num="11">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/11_Fwun Sha Drycleaner.png" num="11">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1614,7 +1614,7 @@ Whenever a card leaves your graveyard during your turn, you gain 1 life.</text>
 			<name>Late-night Spread</name>
 			<text>When this artifact enters and when you sacrifice it, create a 1/1 white Employee creature token with &quot;{T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.&quot;
 {2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/15_Late-night Spread.png" num="15">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/15_Late-night Spread.png" num="15">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1631,7 +1631,7 @@ Whenever a card leaves your graveyard during your turn, you gain 1 life.</text>
 			<name>Obviate</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Exile target creature if it has mana value 2 or less or if you have the city&apos;s blessing.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/20_Obviate.png" num="20">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/20_Obviate.png" num="20">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1647,7 +1647,7 @@ Exile target creature if it has mana value 2 or less or if you have the city&apo
 		<card>
 			<name>Tetrad Council Summit</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/32_Tetrad Council Summit.png" num="32">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/32_Tetrad Council Summit.png" num="32">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1666,7 +1666,7 @@ Exile target creature if it has mana value 2 or less or if you have the city&apo
 • Return target spell to its owner&apos;s hand.
 • You gain 2 life.
 Beseech {3}{W}{W} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/22_Our Grip Clenches Tightly.png" num="22">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/22_Our Grip Clenches Tightly.png" num="22">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1683,7 +1683,7 @@ Beseech {3}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 			<name>Light Before Dawn</name>
 			<text>When this enchantment enters, you gain 3 life.
 {2}{W}: Two target creatures you control each gain vigilance until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/17_Light Before Dawn.png" num="17">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/17_Light Before Dawn.png" num="17">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1701,7 +1701,7 @@ Beseech {3}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 At the beginning of your upkeep, tap this creature unless you pay {C}.
 When this creature dies, draw a card.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/42_Decoy Jiangshi.png" num="42">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/42_Decoy Jiangshi.png" num="42">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1720,7 +1720,7 @@ When this creature dies, draw a card.</text>
 			<text>Flying
 Whenever you draw your third card each turn, put a +1/+1 counter on this creature.
 {1}{W}: This creature gains lifelink until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/69_Yi Street Hatchling.png" num="69">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/69_Yi Street Hatchling.png" num="69">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1738,7 +1738,7 @@ Whenever you draw your third card each turn, put a +1/+1 counter on this creatur
 			<name>Fangclaw Caller</name>
 			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {3}{B}, Pay 1 life: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/43_Fangclaw Caller.png" num="43">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/43_Fangclaw Caller.png" num="43">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1757,7 +1757,7 @@ Whenever you draw your third card each turn, put a +1/+1 counter on this creatur
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, choose one —
 • Untap target creature you control.
 • Tap target creature and put a stun counter on it.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/70_Yih Wu Fiddler.png" num="70">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/70_Yih Wu Fiddler.png" num="70">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1776,7 +1776,7 @@ Whenever you draw your third card each turn, put a +1/+1 counter on this creatur
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Vigilance
 This creature enters tapped with three stun counters on it unless you have the city&apos;s blessing.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/68_Tsat Street Commuter.png" num="68">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/68_Tsat Street Commuter.png" num="68">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1794,7 +1794,7 @@ This creature enters tapped with three stun counters on it unless you have the c
 			<name>Maan Tsau Beholder</name>
 			<text>This spell costs {1} less to cast for each card you looked at while surveiling this turn.
 When this creature dies, create a 4/3 colorless Horror creature token.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/53_Maan Tsau Beholder.png" num="53">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/53_Maan Tsau Beholder.png" num="53">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1811,7 +1811,7 @@ When this creature dies, create a 4/3 colorless Horror creature token.</text>
 		<card>
 			<name>Thirst for Action</name>
 			<text>Draw three cards. Then discard two cards unless you discard a card with a nonmana activated ability.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/67_Thirst for Action.png" num="67">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/67_Thirst for Action.png" num="67">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1830,7 +1830,7 @@ When this creature dies, create a 4/3 colorless Horror creature token.</text>
 Enchant creature
 When this Aura enters, enchanted creature gains hexproof until end of turn.
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, enchanted creature can&apos;t be blocked this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/64_Sick Moves.png" num="64">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/62_Sick Moves.png" num="62">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1847,7 +1847,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Shell of a Ghost</name>
 			<text>You may have this creature enter as a copy of a creature you control.
 You may have this creature enter as a copy of a creature card in your graveyard. If you do, it has &quot;At the beginning of your end step, sacrifice this creature.&quot;</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/63_Shell of a Ghost.png" num="63">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/61_Shell of a Ghost.png" num="61">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1865,7 +1865,7 @@ You may have this creature enter as a copy of a creature card in your graveyard.
 			<name>Curated Display</name>
 			<text>When this artifact enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {3}{U}, {T}, Sacrifice this artifact: Draw two cards. Activate only if you control an enchantment.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/41_Curated Display.png" num="41">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/41_Curated Display.png" num="41">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1881,7 +1881,7 @@ You may have this creature enter as a copy of a creature card in your graveyard.
 		<card>
 			<name>Stop</name>
 			<text>Counter target spell, activated ability or triggered ability. Draw a card unless a spell that was cast from its owner&apos;s hand was countered this way.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/65_Stop.png" num="65">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/64_Stop.png" num="64">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1897,7 +1897,7 @@ You may have this creature enter as a copy of a creature card in your graveyard.
 		<card>
 			<name>The Girl Who Hugged A Cloud</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/48_The Girl Who Hugged A Cloud.png" num="48">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/48_The Girl Who Hugged A Cloud.png" num="48">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1916,7 +1916,7 @@ You may have this creature enter as a copy of a creature card in your graveyard.
 • Tap target creature.
 • Put a vigilance counter on target creature or on the Horror you besought.
 Beseech {3}{U}{U} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/66_Their Endless Forms Contort.png" num="66">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/66_Their Endless Forms Contort.png" num="66">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1933,7 +1933,7 @@ Beseech {3}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 			<name>Feathers Above</name>
 			<text>When this enchantment enters, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
 {1}{U}: Two target creatures you control each gain flying until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/45_Feathers Above.png" num="45">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/45_Feathers Above.png" num="45">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1951,7 +1951,7 @@ Beseech {3}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 			<text>Deathtouch
 When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/91_Innocuous Jiangshi.png" num="91">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/92_Innocuous Jiangshi.png" num="92">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1969,7 +1969,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<name>Tepid Middle Manager</name>
 			<text>Whenever you cast a noncreature spell, each opponent loses 1 life.
 {4}{U}: Exile target instant or sorcery card with mana value 3 or less from your graveyard. You may cast a copy of it without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/104_Tepid Middle Manager.png" num="104">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/103_Tepid Middle Manager.png" num="103">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1987,7 +1987,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<name>Serial Offender</name>
 			<text>Menace
 {3}{R}: Return this creature from your graveyard to the battlefield. It can&apos;t block this turn and gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/100_Serial Offender.png" num="100">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/99_Serial Offender.png" num="99">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2005,7 +2005,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<name>Tetrad Recruiter</name>
 			<text>When this creature enters, create a 1/1 black Rogue creature token with &quot;When this creature dies, target opponent loses 1 life.&quot;
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, target opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/105_Tetrad Recruiter.png" num="105">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/104_Tetrad Recruiter.png" num="104">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2024,7 +2024,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 This creature gets -4/-4 unless you have the city&apos;s blessing or it has a finality counter on it.
 This creature enters with a finality counter on it if it entered from your graveyard or if you cast it from your graveyard.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/74_Ascended Giganform.png" num="74">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/74_Ascended Giganform.png" num="74">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2042,7 +2042,7 @@ This creature enters with a finality counter on it if it entered from your grave
 			<name>Gutter Line Cyclops</name>
 			<text>When this creature enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 When this creature dies, draw a card.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/87_Gutter Line Cyclops.png" num="87">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/87_Gutter Line Cyclops.png" num="87">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2061,7 +2061,7 @@ When this creature dies, draw a card.</text>
 			<text>As an additional cost to cast this spell, you may sacrifice a nonland permanent. If you do, it costs {X} less to cast, where X is that permanent&apos;s mana value.
 Menace, trample
 When this creature enters, if its additional cost was paid, you lose 2 life and draw a card.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/94_Obscene Mass.png" num="94">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/95_Obscene Mass.png" num="95">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2079,7 +2079,7 @@ When this creature enters, if its additional cost was paid, you lose 2 life and 
 			<name>Disvertebrate</name>
 			<text>Target creature gets -5/-5 until end of turn.
 When that creature dies this turn, you lose 4 life unless you pay {2}.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/83_Disvertebrate.png" num="83">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/83_Disvertebrate.png" num="83">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2096,7 +2096,7 @@ When that creature dies this turn, you lose 4 life unless you pay {2}.</text>
 			<name>Cadavermancy</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Return target creature card from your graveyard to the battlefield if it has mana value 3 or less or if you have the city&apos;s blessing.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/78_Cadavermancy.png" num="78">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/78_Cadavermancy.png" num="78">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2112,7 +2112,7 @@ Return target creature card from your graveyard to the battlefield if it has man
 		<card>
 			<name>Drown in Smoke</name>
 			<text>Each creature gets -2/-2 until end of turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/84_Drown in Smoke.png" num="84">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/84_Drown in Smoke.png" num="84">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2129,7 +2129,7 @@ Return target creature card from your graveyard to the battlefield if it has man
 			<name>Spiritual Dispute</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Draw two cards and create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/103_Spiritual Dispute.png" num="103">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/102_Spiritual Dispute.png" num="102">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2145,7 +2145,7 @@ Draw two cards and create a tapped Talisman token. (It&apos;s an artifact with &
 		<card>
 			<name>Haunted Elevator Shaft</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/89_Haunted Elevator Shaft.png" num="89">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/90_Haunted Elevator Shaft.png" num="90">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2162,7 +2162,7 @@ Draw two cards and create a tapped Talisman token. (It&apos;s an artifact with &
 			<name>Her Gaze Pierces All Veils</name>
 			<text>Target opponent discards a card.
 Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/90_Her Gaze Pierces All Veils.png" num="90">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/91_Her Gaze Pierces All Veils.png" num="91">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2179,7 +2179,7 @@ Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for i
 			<name>Smoke From Rubble</name>
 			<text>When this enchantment enters, each opponent discards two cards. 
 {2}{B}: Target creature you control gains deathtouch until end of turn. Another target creature you control gains menace until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/102_Smoke From Rubble.png" num="102">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/101_Smoke From Rubble.png" num="101">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2197,7 +2197,7 @@ Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for i
 			<text>Haste
 When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/127_Jiangshi Reveler.png" num="127">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/127_Jiangshi Reveler.png" num="127">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2215,7 +2215,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<name>Paper Pusher Pyromaniac</name>
 			<text>When this creature enters, it deals 3 damage to any target.
 {4}{B}: This creature deals 2 damage to target opponent.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/135_Paper Pusher Pyromaniac.png" num="135">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/136_Paper Pusher Pyromaniac.png" num="136">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2233,7 +2233,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<name>Mou Sze Dancer</name>
 			<text>Whenever you spend four or more mana to cast a noncreature spell or activate a nonmana ability, put a +1/+1 counter on this creature.
 {3}{G}: This creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/132_Mou Sze Dancer.png" num="132">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/133_Mou Sze Dancer.png" num="133">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2251,7 +2251,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 			<name>Kau Street Luckmonger</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, mill a card. You may play that card this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/128_Kau Street Luckmonger.png" num="128">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/128_Kau Street Luckmonger.png" num="128">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2269,7 +2269,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Hi-score Junkie</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, it gets +1/+1 until end of turn. If you have the city&apos;s blessing, put a +1/+1 counter on this creature instead.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/124_Hi-score Junkie.png" num="124">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/124_Hi-score Junkie.png" num="124">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2287,7 +2287,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 			<name>Two-headed Crawler</name>
 			<text>Double strike
 {1}{R}, Discard this card: Target creature gains double strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/143_Two-headed Crawler.png" num="143">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/143_Two-headed Crawler.png" num="143">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2304,7 +2304,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 		<card>
 			<name>Filmsnap Addict</name>
 			<text>When this creature enters, return up to one target instant or sorcery card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/115_Filmsnap Addict.png" num="115">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/115_Filmsnap Addict.png" num="115">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2321,7 +2321,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 		<card>
 			<name>Act on Rumour</name>
 			<text>Mill three cards. You may play them this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/109_Act on Rumour.png" num="109">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/109_Act on Rumour.png" num="109">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2339,7 +2339,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 			<text>You may discard up to two cards. For each card discarded this way, draw a card and choose one —
 • Create a 1/1 white Employee creature token with &quot;{T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.&quot;
 • Create a 1/1 red Fan creature token with haste.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/129_Lanternlight Rendezvous.png" num="129">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/129_Lanternlight Rendezvous.png" num="129">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2357,7 +2357,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 			<text>Choose one —
 • Destroy target artifact.
 • This spell deals 2 damage to each creature.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/112_Collapse.png" num="112">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/112_Collapse.png" num="112">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2374,7 +2374,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 			<name>Shopping Spree</name>
 			<text>Create three Talisman tokens. (They&apos;re artifacts with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 Talismans you control gain &quot;{T}: Add {C}.&quot; until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/138_Shopping Spree.png" num="138">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/138_Shopping Spree.png" num="138">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2390,7 +2390,7 @@ Talismans you control gain &quot;{T}: Add {C}.&quot; until end of turn.</text>
 		<card>
 			<name>The Girl Who Literally Blew Up</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/120_The Girl Who Literally Blew Up.png" num="120">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/120_The Girl Who Literally Blew Up.png" num="120">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2407,7 +2407,7 @@ Talismans you control gain &quot;{T}: Add {C}.&quot; until end of turn.</text>
 			<name>Your Will Eviscerates All</name>
 			<text>This spell deals 2 damage to any target.
 Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/144_Your Will Eviscerates All.png" num="144">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/144_Your Will Eviscerates All.png" num="144">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2424,7 +2424,7 @@ Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 			<name>Fire in the Hole</name>
 			<text>When this enchantment enters, it deals 3 damage to any target.
 {1}{R}: Two target creatures you control each get +1/+0 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/116_Fire in the Hole.png" num="116">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/116_Fire in the Hole.png" num="116">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2442,7 +2442,7 @@ Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 At the beginning of your upkeep, tap this creature unless you pay {C}.
 When this creature dies, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/146_Curious Jiangshi.png" num="146">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/146_Curious Jiangshi.png" num="146">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2460,7 +2460,7 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 			<name>Boomcase Trooper</name>
 			<text>Vigilance, reach
 {2}{R}: If this creature doesn&apos;t have decayed, it gets +5/+0 and gains trample, haste and decayed until end of turn. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/145_Boomcase Trooper.png" num="145">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/145_Boomcase Trooper.png" num="145">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2477,7 +2477,7 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 		<card>
 			<name>Zaai Sing Curio Hawker</name>
 			<text>{3}{W}: Put a +1/+1 counter on another target creature you control. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/178_Zaai Sing Curio Hawker.png" num="178">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/178_Zaai Sing Curio Hawker.png" num="178">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2494,7 +2494,7 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 		<card>
 			<name>Goldmane Dancer</name>
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn,</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/148_Goldmane Dancer.png" num="148">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/148_Goldmane Dancer.png" num="148">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2511,7 +2511,7 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 			<name>Ng Street Local</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 When this creature enters, search your library for a basic land card. If you have the city&apos;s blessing, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/156_Ng Street Local.png" num="156">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/156_Ng Street Local.png" num="156">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2529,7 +2529,7 @@ When this creature enters, search your library for a basic land card. If you hav
 			<name>Rumour Eater</name>
 			<text>When this creature enters, destroy up to four target artifacts and/or enchantments with total mana value 4 or less.
 Sacrifice an artifact or enchantment: Put a +1/+1 counter on this creature. This ability costs {1} more to activate for each +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/164_Rumour Eater.png" num="164">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/164_Rumour Eater.png" num="164">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2547,7 +2547,7 @@ Sacrifice an artifact or enchantment: Put a +1/+1 counter on this creature. This
 			<name>Tower Block Goliath</name>
 			<text>Reach, trample
 When this creature enters, destroy up to one target artifact or enchantment.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/172_Tower Block Goliath.png" num="172">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/172_Tower Block Goliath.png" num="172">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2565,7 +2565,7 @@ When this creature enters, destroy up to one target artifact or enchantment.</te
 			<name>Tetrad&apos;s Fist</name>
 			<text>When this creature enters, it fights up to one target creature.
 Whenever you attack with exactly two creatures, if this creature isn&apos;t attacking and didn&apos;t enter this turn, you may have it become tapped and attacking.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/170_Tetrad&apos;s Fist.png" num="170">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/170_Tetrad&apos;s Fist.png" num="170">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2583,7 +2583,7 @@ Whenever you attack with exactly two creatures, if this creature isn&apos;t atta
 			<name>Zaai Sing Eccentric</name>
 			<text>As this creature enters, you may activate one of its nonmana abilities without paying the cost.
 {3}{G}{G}: Mill three cards. You may put a permanent card from among the cards milled this way into your hand. If you don&apos;t, return a land card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/179_Zaai Sing Eccentric.png" num="179">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/179_Zaai Sing Eccentric.png" num="179">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2601,7 +2601,7 @@ Whenever you attack with exactly two creatures, if this creature isn&apos;t atta
 			<name>Eightwind Nineshield</name>
 			<text>Target creature gets +2/+2 and gains hexproof until end of turn.
 Create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/147_Eightwind Nineshield.png" num="147">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/147_Eightwind Nineshield.png" num="147">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2619,7 +2619,7 @@ Create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. 
 			<text>Choose one —
 • Return target permanent card from your graveyard to your hand.
 • Target creature gets +3/+4 and gains reach until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/167_A Small Gesture.png" num="167">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/167_A Small Gesture.png" num="167">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2635,7 +2635,7 @@ Create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. 
 		<card>
 			<name>Jade Child of Zhongdu</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/153_Jade Child of Zhongdu.png" num="153">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/153_Jade Child of Zhongdu.png" num="153">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2652,7 +2652,7 @@ Create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. 
 			<name>Your Hunger Growls Echo</name>
 			<text>You gain 5 life.
 Beseech {3}{G}{G} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/176_Your Hunger Growls Echo.png" num="176">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/176_Your Hunger Growls Echo.png" num="176">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2669,7 +2669,7 @@ Beseech {3}{G}{G} (You may cast this card from your graveyard as a sorcery for i
 			<name>Roots Among People</name>
 			<text>When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {2}{G}: Put a +1/+1 counter on each of two target creatures you control. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/162_Roots Among People.png" num="162">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/162_Roots Among People.png" num="162">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2686,7 +2686,7 @@ Beseech {3}{G}{G} (You may cast this card from your graveyard as a sorcery for i
 			<name>Curious Pair</name>
 			<text>Vigilance
 When this creature enters, search your library for an artifact or enchantment card, reveal it and shuffle. Put that card onto the battlefield if its mana value is 2 or less. Otherwise, put it into your hand.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/191_Curious Pair.png" num="191">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/193_Curious Pair.png" num="193">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2704,7 +2704,7 @@ When this creature enters, search your library for an artifact or enchantment ca
 			<name>Rubberneck Lookout</name>
 			<text>When this creature enters and at the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 During your turn, this creature gets +1/+0 for each card you looked at while surveiling this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/219_Rubberneck Lookout.png" num="219">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/217_Rubberneck Lookout.png" num="217">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2722,7 +2722,7 @@ During your turn, this creature gets +1/+0 for each card you looked at while sur
 			<name>Joss Twig Tender</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {2}{B}{R}: Target creature gains menace and lifelink until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/204_Joss Twig Tender.png" num="204">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/209_Joss Twig Tender.png" num="209">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2740,7 +2740,7 @@ During your turn, this creature gets +1/+0 for each card you looked at while sur
 			<name>Flameblade Elder</name>
 			<text>Creatures you control can&apos;t be blocked by more than one creature.
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature and up to one other target creature each get +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/196_Flameblade Elder.png" num="196">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/200_Flameblade Elder.png" num="200">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2758,7 +2758,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Fwun Sah Taan Everyman</name>
 			<text>When this creature enters, you gain 1 life.
 When this creature enters, create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot;</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/197_Fwun Sah Taan Everyman.png" num="197">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/202_Fwun Sah Taan Everyman.png" num="202">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2776,7 +2776,7 @@ When this creature enters, create a 1/1 green Citizen creature token with &quot;
 			<name>Tiger Mother</name>
 			<text>When this creature enters, create two 1/1 green Citizen creature tokens with &quot;When this creature enters, you gain 1 life.&quot;
 At the beginning of your combat, you may pay 1 life. If you do, put a +1/+1 counter on another target creature.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/230_Tiger Mother.png" num="230">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/230_Tiger Mother.png" num="230">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2794,7 +2794,7 @@ At the beginning of your combat, you may pay 1 life. If you do, put a +1/+1 coun
 			<name>Sluice Slinker</name>
 			<text>Menace
 {3}{B}{G}, Sacrifice this creature: Create two 4/3 colorless Horror creature tokens. They can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/224_Sluice Slinker.png" num="224">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/223_Sluice Slinker.png" num="223">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2812,7 +2812,7 @@ At the beginning of your combat, you may pay 1 life. If you do, put a +1/+1 coun
 			<name>Ambitious Ancestseer</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 Talismans you control have &quot;{1}, {T}: Add {G}{U}.&quot;</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/184_Ambitious Ancestseer.png" num="184">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/184_Ambitious Ancestseer.png" num="184">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2830,7 +2830,7 @@ Talismans you control have &quot;{1}, {T}: Add {G}{U}.&quot;</text>
 			<name>Skyline Exorcist</name>
 			<text>Nonmana abilities of other cards you own cost {1} less for you to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
 {3}{U}{R}: This creature deals 2 damage to any noncreature target.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/223_Skyline Exorcist.png" num="223">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/222_Skyline Exorcist.png" num="222">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2848,7 +2848,7 @@ Talismans you control have &quot;{1}, {T}: Add {G}{U}.&quot;</text>
 			<name>Softear Restauranteur</name>
 			<text>Whenever this creature enters or attacks, put up to one target card from your graveyard onto the bottom of your library.
 During your turn, this creature gets +1/+0 for each card that left your graveyard this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/226_Softear Restauranteur.png" num="226">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/225_Softear Restauranteur.png" num="225">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2865,7 +2865,7 @@ During your turn, this creature gets +1/+0 for each card that left your graveyar
 		<card>
 			<name>Precinct Eight Captain</name>
 			<text>Whenever this creature enters or attacks, if you control an artifact and an enchantment, create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot; and put a +1/+1 counter on that token.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/216_Precinct Eight Captain.png" num="216">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/214_Precinct Eight Captain.png" num="214">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2883,7 +2883,7 @@ During your turn, this creature gets +1/+0 for each card that left your graveyar
 			<name>Invisible Skulker</name>
 			<text>Whenever you surveil, this creature can&apos;t be blocked until end of turn.
 Whenever this creature deals damage to a noncreature permanent or player, draw a card.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/203_Invisible Skulker.png" num="203">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/208_Invisible Skulker.png" num="208">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2901,7 +2901,7 @@ Whenever this creature deals damage to a noncreature permanent or player, draw a
 			<name>Tetrad Dragoncloak</name>
 			<text>Whenever this creature attacks, if you spent four or more mana to cast a noncreature spell or activate a nonmana ability this turn, draw a card.
 {3}{BR}: This creature gets +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/229_Tetrad Dragoncloak.png" num="229">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/228_Tetrad Dragoncloak.png" num="228">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2919,7 +2919,7 @@ Whenever this creature deals damage to a noncreature permanent or player, draw a
 			<name>Gau Yi Ride or Die</name>
 			<text>Whenever this creature attacks with exactly one other creature, put a +1/+1 counter on each of those creatures.
 When this creature dies, put its counters on up to one target creature.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/198_Gau Yi Ride or Die.png" num="198">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/203_Gau Yi Ride or Die.png" num="203">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2937,7 +2937,7 @@ When this creature dies, put its counters on up to one target creature.</text>
 			<name>Citysight Guide</name>
 			<text>Whenever this creature attacks, you may tap X untapped creatures you control. If you do, this creature gets +X/+X until end of turn.
 {3}{G}{W}: Create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot;</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/189_Citysight Guide.png" num="189">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/190_Citysight Guide.png" num="190">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2956,7 +2956,7 @@ When this creature dies, put its counters on up to one target creature.</text>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 As long as you have the city&apos;s blessing, this creature has flying and lifelink.
 Whenever this creature deals damage to a noncreature permanent or player, you may pay 2 life. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/185_Ambitious Phlebotomist.png" num="185">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/185_Ambitious Phlebotomist.png" num="185">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2975,7 +2975,7 @@ Whenever this creature deals damage to a noncreature permanent or player, you ma
 			<text>Affinity for Horrors (This spell costs {1} less to cast for each Horror you control.)
 Trample
 Other Horrors you control have trample.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/193_Derelicts Hexapod.png" num="193">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/195_Derelicts Hexapod.png" num="195">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2994,7 +2994,7 @@ Other Horrors you control have trample.</text>
 			<text>Flying, trample
 When this creature enters, draw a card. You may play an additional land this turn.
 {1}{G}{U}: Put this card from your hand onto the battlefield, then shuffle it into your library.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/194_Dreambreacher.png" num="194">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/197_Dreambreacher.png" num="197">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3011,7 +3011,7 @@ When this creature enters, draw a card. You may play an additional land this tur
 		<card>
 			<name>Commuting Arcanist</name>
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, mill a card. You may play that card this turn. It costs {1} less to cast for each nonmana ability you activated this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/190_Commuting Arcanist.png" num="190">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/192_Commuting Arcanist.png" num="192">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3029,7 +3029,7 @@ When this creature enters, draw a card. You may play an additional land this tur
 			<name>Cha Siu Butcher</name>
 			<text>Lifelink
 Once each turn, whenever one or more cards leave your graveyard, this creature deals that much damage to target player.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/188_Cha Siu Butcher.png" num="188">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/189_Cha Siu Butcher.png" num="189">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3047,7 +3047,7 @@ Once each turn, whenever one or more cards leave your graveyard, this creature d
 			<name>Paper Dragon</name>
 			<text>Flying
 {2}: Put a +1/+1 counter on this creature. This ability costs {1} more to activate for each +1/+1 counter on this creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/244_Paper Dragon.png" num="244">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/244_Paper Dragon.png" num="244">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3063,7 +3063,7 @@ Once each turn, whenever one or more cards leave your graveyard, this creature d
 			<name>Ambulating Apartment</name>
 			<text>Reach
 When this creature dies, create two 1/1 green Citizen creature tokens with &quot;When this creature enters, you gain 1 life.&quot;</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/236_Ambulating Apartment.png" num="236">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/236_Ambulating Apartment.png" num="236">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3078,7 +3078,7 @@ When this creature dies, create two 1/1 green Citizen creature tokens with &quot
 		<card>
 			<name>Frightsteel Amalgam</name>
 			<text>Whenever another Horror you control enters, this creature gets +1/+1 and gains trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/238_Frightsteel Amalgam.png" num="238">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/238_Frightsteel Amalgam.png" num="238">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3095,7 +3095,7 @@ When this creature dies, create two 1/1 green Citizen creature tokens with &quot
 			<text>When this Equipment enters, create a 1/1 black Rogue creature token with &quot;When this creature dies, it deals 1 damage to target opponent.&quot; and attach this Equipment to it.
 Equipped creature gets +1/+1 and has reach.
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/240_Junker&apos;s Crossbow.png" num="240">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/240_Junker&apos;s Crossbow.png" num="240">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3111,7 +3111,7 @@ Equip {1}</text>
 			<text>Whenever equipped creature attacks, put a stun counter on it.
 Equipped creature gets +3/+3 and has menace.
 Equip {2}. This ability costs {2} less to activate if this Equipment entered this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/237_Backalley Juicesuit.png" num="237">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/237_Backalley Juicesuit.png" num="237">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3128,7 +3128,7 @@ Equip {2}. This ability costs {2} less to activate if this Equipment entered thi
 Haste
 During your turn, this Vehicle has first strike.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/249_Rubbersludge Cab.png" num="249">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/246_Rubbersludge Cab.png" num="246">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3144,7 +3144,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<name>Whitesmoke Jar</name>
 			<text>{T}: Exile target card from a graveyard.
 {T}: Target opponent loses 1 life and you gain 1 life. Activate only if there are three or more cards exiled with this artifact.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/251_Whitesmoke Jar.png" num="251">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/249_Whitesmoke Jar.png" num="249">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3160,23 +3160,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color. This ability costs {1} less to activate if you have the city&apos;s blessing.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/257_Skyward Vista.png" num="257">TOTL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Twisting Cityscape</name>
-			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
-{T}: Add {C}.
-{1}, {T}: Add one mana of any color. This ability costs {1} less to activate if you have the city&apos;s blessing.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/265_Twisting Cityscape.png" num="265">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/255_Skyward Vista.png" num="255">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3192,7 +3176,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<text>{T}: Add {C}.
 {1}, Discard this card: Search your library for a basic land card, reveal it and put it into your hand, then shuffle.
 {2}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://viola-mse/sets/TOTL-files/img/253_Cramped Archive.png" num="253">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/251_Cramped Archive.png" num="251">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3207,7 +3191,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<name>Feel Her Angelic Caress</name>
 			<text>Put a +1/+1 counter, a flying counter and a vigilance counter on target creature or on the Horror you besought.
 Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/7_Feel Her Angelic Caress.png" num="7">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/7_Feel Her Angelic Caress.png" num="7">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3223,7 +3207,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 		<card>
 			<name>Otherworld Aegis</name>
 			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/21_Otherworld Aegis.png" num="21">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/21_Otherworld Aegis.png" num="21">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3242,7 +3226,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 {2}{W}: Put a +1/+1 counter on this creature.
 {4}{W}: Put two +1/+1 counters and a vigilance counter on this creature.
 {6}{W}: Put four +1/+1 counters and a flying counter on this creature.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/4_Clearsky Aspirant.png" num="4">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/3_Clearsky Aspirant.png" num="3">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3261,7 +3245,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 			<text>Flash
 If a creature not named Regret of a Long-Gone Girl you control would die, exile it instead.
 When this creature dies, return each creature card exiled with it to the battlefield under its owner&apos;s control.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/25_Regret of a Long-Gone Girl.png" num="25">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/25_Regret of a Long-Gone Girl.png" num="25">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3279,7 +3263,7 @@ When this creature dies, return each creature card exiled with it to the battlef
 			<name>Tiger Point Soothsayer</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {1}, {T}: Choose a creature type. Prevent all damage that would be dealt to target creature by creatures of the chosen type until end of turn.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/33_Tiger Point Soothsayer.png" num="33">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/33_Tiger Point Soothsayer.png" num="33">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3294,26 +3278,29 @@ When this creature dies, return each creature card exiled with it to the battlef
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Casting Call</name>
-			<text>Look at the top seven cards of your library. You may reveal a legendary or Plains card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/3_Casting Call.png" num="3">TOTL</set>
+			<name>Decorated Constable</name>
+			<text>First strike
+Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+Whenever you create a token, this creature gets +1/+1 until end of turn. If you have the city&apos;s blessing, put a +1/+1 counter on this creature instead.</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/5_Decorated Constable.png" num="5">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Creature — Human Detective Soldier</type>
+				<maintype>Creature</maintype>
 				<manacost>W</manacost>
 				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Your Ancestral Mind Recalls All</name>
 			<text>Draw three cards.
 Beseech {7}{U}{U} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/71_Your Ancestral Mind Recalls All.png" num="71">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/71_Your Ancestral Mind Recalls All.png" num="71">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3329,73 +3316,78 @@ Beseech {7}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 		<card>
 			<name>The Fisher Who Caught A Kraken</name>
 			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/46_The Fisher Who Caught A Kraken.png" num="46">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/46_The Fisher Who Caught A Kraken.png" num="46">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Case</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>placeholder 1</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/58_placeholder 1.png" num="58">TOTL</set>
+			<name>Peephole Peekers</name>
+			<text>When this creature enters, surveil 1 then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+You may look at an additional card each time you surveil.</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/58_Peephole Peekers.png" num="58">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature or Noncreature</type>
-				<maintype>Noncreature</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>placeholder 2</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/59_placeholder 2.png" num="59">TOTL</set>
+			<name>Streetside Bumblewing</name>
+			<text>Flying, prowess
+Whenever this creature attacks, look at the top X cards of your library, where X is this creature&apos;s power. You may reveal an instant or sorcery card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/65_Streetside Bumblewing.png" num="65">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature or Noncreature</type>
-				<maintype>Noncreature</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>placeholder 3</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/60_placeholder 3.png" num="60">TOTL</set>
+			<name>Stew</name>
+			<text>Draw a card.
+Surveil 4. (Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/63_Stew.png" num="63">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature or Noncreature</type>
-				<maintype>Noncreature</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Melanchozoa</name>
 			<text>Flying
 When this creature enters, draw a card.
 When this creature leaves the battlefield, shuffle it into its owner&apos;s library.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/54_Melanchozoa.png" num="54">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/54_Melanchozoa.png" num="54">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3410,17 +3402,17 @@ When this creature leaves the battlefield, shuffle it into its owner&apos;s libr
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Revel in Its Cold Embrace</name>
-			<text>Search your library for a Kraken, Leviathan, Octopus, Serpent or Horror card, reveal it, put it into your hand, then shuffle.
+			<name>Your Blood Is A Feast For Crows</name>
+			<text>Destroy up to one target creature or planeswalker.
 Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/98_Revel in Its Cold Embrace.png" num="98">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/108_Your Blood Is A Feast For Crows.png" num="108">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -3429,7 +3421,7 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 		<card>
 			<name>Meeting with the Ambassador</name>
 			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/93_Meeting with the Ambassador.png" num="93">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/94_Meeting with the Ambassador.png" num="94">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3446,7 +3438,7 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 			<name>Walking Singularity</name>
 			<text>This creature enters with a +1/+1 counter on it for each spell named Walking Singularity you cast this game. (Including this one.)
 {1}{B}, Sacrifice this creature: Exile target creature or enchantment with mana value equal or less than this creature&apos;s power.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/108_Walking Singularity.png" num="108">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/107_Walking Singularity.png" num="107">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3463,7 +3455,7 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 		<card>
 			<name>Villainous Endgame</name>
 			<text>Destroy all creatures. For each creature destroyed this way, its controller draws a card and you add {B}.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/107_Villainous Endgame.png" num="107">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/106_Villainous Endgame.png" num="106">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3480,7 +3472,7 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 			<name>Den of Thieves</name>
 			<text>When this enchantment enters and at the beginning of your upkeep, you lose 2 life and create a 1/1 black Rogue creature token with &quot;When this creature dies, target opponent loses 1 life.&quot;
 {1}{B}, Sacrifice this enchantment: Draw a card.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/81_Den of Thieves.png" num="81">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/81_Den of Thieves.png" num="81">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3494,41 +3486,44 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>placeholder 4</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/95_placeholder 4.png" num="95">TOTL</set>
+			<name>Haak Gaai Headhunter</name>
+			<text>When this creature enters, exile up to one target card from a graveyard. As long as you control this creature, you may play a copy of that card. (A copy of a permanent card enters as a token.)</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/89_Haak Gaai Headhunter.png" num="89">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature or Noncreature</type>
-				<maintype>Noncreature</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>placeholder 5</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/136_placeholder 5.png" num="136">TOTL</set>
+			<name>May You Glimpse Our Tomorrow</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw a card, then mill a card. You may play it this turn.
+Beseech {3}{R}{R} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/131_May You Glimpse Our Tomorrow.png" num="131">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature or Noncreature</type>
-				<maintype>Noncreature</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>R</manacost>
 				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>The Director&apos;s Cut</name>
 			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/114_The Director&apos;s Cut.png" num="114">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/114_The Director&apos;s Cut.png" num="114">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3542,10 +3537,10 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Trumpt of the Void</name>
+			<name>Trumpet of the Void</name>
 			<text>Attacking creatures you control get +1/+0.
 Whenever a creature you control with power 4 or greater attacks, mill a card. You may play it until end of turn.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/141_Trumpt of the Void.png" num="141">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/141_Trumpet of the Void.png" num="141">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3564,7 +3559,7 @@ Whenever a creature you control with power 4 or greater attacks, mill a card. Yo
 			<text>Haste
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.
 {1}{R}, Discard a card: Draw a card. Activate only once each turn.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/130_Lavabat Hooligan.png" num="130">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/130_Lavabat Hooligan.png" num="130">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3582,14 +3577,14 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Terre-haute Financier</name>
 			<text>Once each turn, whenever you cast a spell that&apos;s two or more colors, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {3}{R}, {T}: Add {W}{U}{B}{R}{G}.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/139_Terre-haute Financier.png" num="139">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/139_Terre-haute Financier.png" num="139">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>WUBRG</coloridentity>
 				<pt>2/1</pt>
@@ -3599,7 +3594,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 		<card>
 			<name>Oukijo&apos;s Design</name>
 			<text>Gain control of all creatures until end of turn.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/134_Oukijo&apos;s Design.png" num="134">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/135_Oukijo&apos;s Design.png" num="135">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3616,7 +3611,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<name>Its Coil Tightens Inexorably</name>
 			<text>Put X +1/+1 counters on up to one target creature or on the Horror you besought.
 Beseech {X}{G}{G}{G} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/152_Its Coil Tightens Inexorably.png" num="152">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/152_Its Coil Tightens Inexorably.png" num="152">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3632,7 +3627,7 @@ Beseech {X}{G}{G}{G} (You may cast this card from your graveyard as a sorcery fo
 		<card>
 			<name>The Hour of Heroes</name>
 			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/151_The Hour of Heroes.png" num="151">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/151_The Hour of Heroes.png" num="151">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3650,7 +3645,7 @@ Beseech {X}{G}{G}{G} (You may cast this card from your graveyard as a sorcery fo
 			<text>Trample
 Whenever this creature attacks, destroy up to one target noncreature, nonland permanent.
 When this creature dies, create three 2/2 green Bear creature tokens.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/174_Ursa Major.png" num="174">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/174_Ursa Major.png" num="174">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3668,7 +3663,7 @@ When this creature dies, create three 2/2 green Bear creature tokens.</text>
 			<name>Traditionalist Ancestseer</name>
 			<text>Whenever this creature or a basic land you control enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {3}{G}: Target land you control becomes a 3/3 creature that&apos;s still a land with haste and &quot;When this creature leaves the battlefield, return it to the battlefield tapped.&quot; Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/173_Traditionalist Ancestseer.png" num="173">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/173_Traditionalist Ancestseer.png" num="173">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3687,7 +3682,7 @@ When this creature dies, create three 2/2 green Bear creature tokens.</text>
 			<text>Whenever you play a land from your graveyard, create a token that&apos;s a copy of it.
 Whenever you cast a spell from your graveyard, copy it. You may choose new targets for the copy.
 Whenever you activate a nonmana ability of a card in your graveyard, copy that ability. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/155_Mirrored Past.png" num="155">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/155_Mirrored Past.png" num="155">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3705,7 +3700,7 @@ Whenever you activate a nonmana ability of a card in your graveyard, copy that a
 			<text>Trample
 Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.
 {1}{G}, Sacrifice a land: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/163_Rubbersludge Grinder.png" num="163">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/163_Rubbersludge Grinder.png" num="163">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3724,7 +3719,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>As Smith &amp; Nguyen enter, choose another nonland card name. Your opponents can&apos;t cast spells with the chosen name.
 [+1]: Smith &amp; Nguyen gain vigilance until end of turn.
 [-2]: Draw a card.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/225_Smith &amp; Nguyen.png" num="225">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/224_Smith &amp; Nguyen.png" num="224">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3743,7 +3738,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>As long as you cast two or more instant and/or sorcery spells this turn, Laai Ban Jyu &amp; Mystery Girl can&apos;t be blocked.
 [+1]: Surveil 2, then draw a card.
 [-3]: Return target instant or sorcery card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/205_Laai Ban Jyu &amp; Mystery Girl.png" num="205">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/210_Laai Ban Jyu &amp; Mystery Girl.png" num="210">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3762,7 +3757,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Menace
 [+1], Pay 3 life, discard a card or sacrifice a nonland permanent: Target opponent loses 3 life, discards a card and sacrifices a nonland permanent.
 [-2]: You gain 3 life, draw a card and create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/181_Akane &amp; Kurone.png" num="181">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/181_Akane &amp; Kurone.png" num="181">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3781,7 +3776,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Haste
 [+1]: Target creature gains vigilance and trample until end of turn.
 [-2]: Siu Coeng &amp; Daai Paau deal 2 damage to any target.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/222_Siu Coeng &amp; Daai Paau.png" num="222">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/221_Siu Coeng &amp; Daai Paau.png" num="221">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3800,7 +3795,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Whenever Qiao Xian &amp; Qiao Hou attack, draw a card if you gained life this turn.
 [+1]: Put a +1/+1 counter on up to one other target creature.
 [-1]: You gain 2 life.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/218_Qiao Xian &amp; Qiao Hou.png" num="218">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/216_Qiao Xian &amp; Qiao Hou.png" num="216">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3819,7 +3814,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>When Haak Faa &amp; Baak Syut enter, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 [+1]: Attach up to one target Equipment you control to Haak Faa &amp; Baak Syut.
 [-3]: For each Equipment attached to Haak Faa &amp; Baak Syut, create a token that&apos;s a copy of that Equipment.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/199_Haak Faa &amp; Baak Syut.png" num="199">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/205_Haak Faa &amp; Baak Syut.png" num="205">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3838,7 +3833,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Whenever you sacrifice a Food, Siu Bau &amp; Friendly Jiangshi get +2/+2 until end of turn.
 [+1]: Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
 [-2], Sacrifice a Food: You gain 3 life and draw a card.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/221_Siu Bau &amp; Friendly Jiangshi.png" num="221">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/220_Siu Bau &amp; Friendly Jiangshi.png" num="220">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3857,7 +3852,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>When Mildred &amp; Teresa enter, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
 [+1]: Target enchantment you control becomes a 3/3 creature in addition to its other types and gains &quot;When this creature dies, return it to its owner&apos;s hand.&quot; until end of turn.
 [-2]: Create a token that&apos;s a copy of target enchantment you control.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/209_Mildred &amp; Teresa.png" num="209">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/213_Mildred &amp; Teresa.png" num="213">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3876,7 +3871,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>When Hung Sin &amp; Laam Jyut enter, gain control of up to one other target creature until end of turn.
 [+1]: Untap target creature. It gains haste until end of turn.
 [-1]: Tap target creature and put a stun counter on it.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/202_Hung Sin &amp; Laam Jyut.png" num="202">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/207_Hung Sin &amp; Laam Jyut.png" num="207">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3895,7 +3890,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Other Rogues and Employees you control get +1/+1.
 [+1]: Target creature gains haste and lifelink until end of turn.
 [-1]: Create a 1/1 black Rogue creature token with &quot;When this creature dies, target opponent loses 1 life.&quot;</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/192_Dai Tse &amp; Siu Mui.png" num="192">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/194_Dai Tse &amp; Siu Mui.png" num="194">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3915,7 +3910,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 • Counter target spell.
 • Target player draws a card.
 • Target player gains 4 life.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/195_Exorbrother&apos;s Judgement.png" num="195">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/199_Exorbrother&apos;s Judgement.png" num="199">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3931,7 +3926,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 		<card>
 			<name>Villain&apos;s Downfall</name>
 			<text>Destroy target creature or planeswalker with one or more activated abilities.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/232_Villain&apos;s Downfall.png" num="232">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/232_Villain&apos;s Downfall.png" num="232">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3945,35 +3940,31 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Wong Tsin-man</name>
-			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
-Whenever Wong Tsin-man attacks, you may discard a card. If you do, draw a card.
-Whenever you discard a card, if you have the city&apos;s blessing, you may play that card this turn.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/233_Wong Tsin-man.png" num="233">TOTL</set>
+			<name>Their Eons Ought Be Forgotten</name>
+			<text>Each opponent sacrifices a land and discards two cards.
+Beseech {5}{B}{B}{R}{R} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/229_Their Eons Ought Be Forgotten.png" num="229">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Fox Bard</type>
-				<maintype>Creature</maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>2/2</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Hei Foon-nei</name>
-			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
-When Hei Foon-nei enters, create a 1/1 red Fan creature token with haste.
-Fans you control get +1/+1.
-If you have the city&apos;s blessing, Fans you control have menace.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/201_Hei Foon-nei.png" num="201">TOTL</set>
+			<name>Dogged Delinquent</name>
+			<text>Haste
+When this creature enters, reveal the top card of your library until you reveal a nonland card with mana value 3 or less. You may cast that spell without paying its mana cost. If you don&apos;t, put it into your hand. Shuffle the rest onto the bottom of your library.</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/196_Dogged Delinquent.png" num="196">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Bard</type>
+				<type>Creature — Human Student Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>2RG</manacost>
 				<cmc>4</cmc>
@@ -3987,7 +3978,7 @@ If you have the city&apos;s blessing, Fans you control have menace.</text>
 			<name>Amateur Threadseeker</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 Talismans you control have &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/182_Amateur Threadseeker.png" num="182">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/182_Amateur Threadseeker.png" num="182">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4002,69 +3993,77 @@ Talismans you control have &quot;{2}, {T}, Sacrifice this artifact: Draw a card.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>placeholder 6</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/210_placeholder 6.png" num="210">TOTL</set>
+			<name>Fu Luk Hoarder</name>
+			<text>When this creature enters, create two tapped Talisman tokens. (They&apos;re artifacts with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
+Talismans you control have &quot;{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.&quot;</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/201_Fu Luk Hoarder.png" num="201">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>WB</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>placeholder 8</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/212_placeholder 8.png" num="212">TOTL</set>
+			<name>Glowbrew Herbologist</name>
+			<text>{T}, Exile a land card from your graveyard: Add one mana of any color.
+{B}, {T}, Exile an instant or sorcery card from your graveyard: Target opponent loses 2 life.
+{G}, {T}, Exile a creature card from your graveyard: Put a +1/+1 counter on target creature.</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/204_Glowbrew Herbologist.png" num="204">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
 				<manacost>BG</manacost>
 				<cmc>2</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
+				<pt>1/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>placeholder 7</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/211_placeholder 7.png" num="211">TOTL</set>
+			<name>Drifting Wu Lei</name>
+			<text>Flash
+When this creature enters, counter up to one target spell, activated ability, or triggered ability.
+{G}{U}, Discard this card: Counter target activated or triggered ability.</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/198_Drifting Wu Lei.png" num="198">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>GU</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Tsoi Jam Mei Loi</name>
+			<name>Wong Tsin-man</name>
 			<text>Flash
 Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
-When Tsoi Jam Mei Loi enters, exile up to one target instant or sorcery card from your graveyard. You may cast a copy of it. If you have the city&apos;s blessing, you may cast it without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/231_Tsoi Jam Mei Loi.png" num="231">TOTL</set>
+When Wong Tsin-man enters, exile up to one target instant or sorcery card from your graveyard. You may cast a copy of it. If you have the city&apos;s blessing, you may cast it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/233_Wong Tsin-man.png" num="233">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Bard</type>
+				<type>Legendary Creature — Fox Bard</type>
 				<maintype>Creature</maintype>
 				<manacost>1UR</manacost>
 				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4075,7 +4074,7 @@ Whenever Lau Dak-wah attacks, choose one. If you have the city&apos;s blessing, 
 • Create a 1/1 red Fan creature token with haste that&apos;s tapped and attacking.
 • Untap each attacking creature you control.
 • Attacking creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/206_Lau Dak-wah.png" num="206">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/211_Lau Dak-wah.png" num="211">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4093,7 +4092,7 @@ Whenever Lau Dak-wah attacks, choose one. If you have the city&apos;s blessing, 
 			<name>Urban Labyrinth</name>
 			<text>No more than two creatures can attack each combat.
 No more than two creatures can block each combat.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/250_Urban Labyrinth.png" num="250">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/248_Urban Labyrinth.png" num="248">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4105,37 +4104,11 @@ No more than two creatures can block each combat.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>placeholder 9</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/245_placeholder 9.png" num="245">TOTL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>placeholder 19</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/246_placeholder 19.png" num="246">TOTL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact — Equipment</type>
-				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>placeholder 42</name>
-			<text></text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/247_placeholder 42.png" num="247">TOTL</set>
+			<name>Skywing Kite</name>
+			<text>Flying
+If this Vehicle attacking with exactly one other creature causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/247_Skywing Kite.png" num="247">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4143,6 +4116,7 @@ No more than two creatures can block each combat.</text>
 				<maintype>Artifact</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -4150,7 +4124,7 @@ No more than two creatures can block each combat.</text>
 			<name>tapland 1</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Plains and an Island in addition to its other types. Activate only if this land isn&apos;t a Plains or an Island.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/259_tapland 1.png" num="259">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/257_tapland 1.png" num="257">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4165,7 +4139,7 @@ No more than two creatures can block each combat.</text>
 			<name>tapland 2</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes an Island and a Swamp in addition to its other types. Activate only if this land isn&apos;t an Island or a Swamp.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/260_tapland 2.png" num="260">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/258_tapland 2.png" num="258">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4180,7 +4154,7 @@ No more than two creatures can block each combat.</text>
 			<name>tapland 3</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Swamp and a Mountain in addition to its other types. Activate only if this land isn&apos;t a Swamp or a Mountain.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/261_tapland 3.png" num="261">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/259_tapland 3.png" num="259">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4195,7 +4169,7 @@ No more than two creatures can block each combat.</text>
 			<name>tapland 4</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Mountain and a Forest in addition to its other types. Activate only if this land isn&apos;t a Mountain or a Forest.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/262_tapland 4.png" num="262">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/260_tapland 4.png" num="260">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4210,7 +4184,7 @@ No more than two creatures can block each combat.</text>
 			<name>tapland 5</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Forest and a Plains in addition to its other types. Activate only if this land isn&apos;t a Forest or a Plains.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/263_tapland 5.png" num="263">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/261_tapland 5.png" num="261">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4225,7 +4199,7 @@ No more than two creatures can block each combat.</text>
 			<name>Deepstar Passage</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Plains and a Swamp in addition to its other types. Activate only if this land isn&apos;t a Plains or a Swamp.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/255_Deepstar Passage.png" num="255">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/253_Deepstar Passage.png" num="253">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4240,7 +4214,7 @@ No more than two creatures can block each combat.</text>
 			<name>Midnight Nook</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Swamp and a Forest in addition to its other types. Activate only if this land isn&apos;t a Swamp or a Forest.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/256_Midnight Nook.png" num="256">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/254_Midnight Nook.png" num="254">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4255,7 +4229,7 @@ No more than two creatures can block each combat.</text>
 			<name>Twilight Confluence</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Forest and an Island in addition to its other types. Activate only if this land isn&apos;t a Forest or an Island.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/264_Twilight Confluence.png" num="264">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/262_Twilight Confluence.png" num="262">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4270,7 +4244,7 @@ No more than two creatures can block each combat.</text>
 			<name>Sunset Outlook</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes an Island and a Mountain in addition to its other types. Activate only if this land isn&apos;t an Island or a Mountain.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/258_Sunset Outlook.png" num="258">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/256_Sunset Outlook.png" num="256">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4285,7 +4259,7 @@ No more than two creatures can block each combat.</text>
 			<name>Daybreak Platform</name>
 			<text>{T}: Add {C}.
 {T}: This land becomes a Mountain and a Plains in addition to its other types. Activate only if this land isn&apos;t a Mountain or a Plains.</text>
-			<set rarity="rare" picurl="https://viola-mse/sets/TOTL-files/img/254_Daybreak Platform.png" num="254">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/252_Daybreak Platform.png" num="252">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4301,7 +4275,7 @@ No more than two creatures can block each combat.</text>
 			<text>Flash
 Lifelink
 Whenever Qiangliang enters or attacks, up to one other target creature gains hexproof and indestructible until your next turn.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/24_Qiangliang.png" num="24">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/24_Qiangliang.png" num="24">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4321,7 +4295,7 @@ Whenever Qiangliang enters or attacks, up to one other target creature gains hex
 • Copy target instant or sorcery spell. You may choose new targets for the copy.
 • Create a token that&apos;s a copy of target nonland permanent. 
 Beseech {6}{U}{U} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/62_She Hides Between Moments.png" num="62">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/60_She Hides Between Moments.png" num="60">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4340,7 +4314,7 @@ Beseech {6}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 Choose one. If you have the city&apos;s blessing, you may choose both instead.
 • Search your library and/or outside of the game for a Dragon card, reveal it and put it into your hand or graveyard.
 • Return a creature card from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/97_Return of the Ninth Dragon.png" num="97">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/97_Return of the Ninth Dragon.png" num="97">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4358,7 +4332,7 @@ Choose one. If you have the city&apos;s blessing, you may choose both instead.
 			<text>As this creature enters, choose one.
 • Thirteen Orphans — At the beginning of your upkeep, if there are thirteen or more unique names among other permanents you control, you win the game.
 • Great Dragons — At the beginning of your upkeep, if you control four or more Dragons with power 4 or greater, you win the game.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/123_Hellpocket Highroller.png" num="123">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/123_Hellpocket Highroller.png" num="123">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4376,7 +4350,7 @@ Choose one. If you have the city&apos;s blessing, you may choose both instead.
 			<name>Streetlight Psychosis</name>
 			<text>If you would lose unspent mana, it becomes colorless mana that can&apos;t be spent on casting spells from your hand instead.
 {99}: This enchantment becomes a 99/99 Avatar creature with trample, hexproof and indestructible in addition to its other types.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/169_Streetlight Psychosis.png" num="169">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/169_Streetlight Psychosis.png" num="169">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4393,7 +4367,7 @@ Choose one. If you have the city&apos;s blessing, you may choose both instead.
 			<name>Special Agent Ming Yue</name>
 			<text>Flash
 When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/228_Special Agent Ming Yue.png" num="228">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/227_Special Agent Ming Yue.png" num="227">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4408,13 +4382,15 @@ When Ming Yue enters, if you cast her, exile up to one target spell or nonland p
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>placeholder 81</name>
-			<text></text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/214_placeholder 81.png" num="214">TOTL</set>
+			<name>Backalley Sparker</name>
+			<text>Haste, vigilance
+{1}{U}, {T}, Discard a card: Draw two cards.
+{1}{R}, {T}, Discard a card: This creature deals 3 damage to any target.</text>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/187_Backalley Sparker.png" num="187">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
 				<manacost>UR</manacost>
 				<cmc>2</cmc>
@@ -4429,7 +4405,7 @@ When Ming Yue enters, if you cast her, exile up to one target spell or nonland p
 			<text>Haste, deathtouch against Horrors (Any amount of damage this deals to a Horror is enough to destroy it.)
 When Lily An enters, you may pay {R}. If you do, she deals 1 damage to any target.
 {1}{G}: Exile target card from a graveyard. Put a +1/+1 counter on Lily An.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/207_Lily An, Exorcist Extraordinare.png" num="207">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/212_Lily An, Exorcist Extraordinare.png" num="212">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4448,7 +4424,7 @@ When Lily An enters, you may pay {R}. If you do, she deals 1 damage to any targe
 			<text>Flying, lifelink, menace
 When Shadow of the Ninth Dragon enters, mill three cards. You may put a permanent card from among the cards milled this way into your hand.
 {1}{B}{G}: Put this card from your hand or graveyard onto the battlefield, then shuffle it into your library.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/220_Shadow of the Ninth Dragon.png" num="220">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/218_Shadow of the Ninth Dragon.png" num="218">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4466,7 +4442,7 @@ When Shadow of the Ninth Dragon enters, mill three cards. You may put a permanen
 			<name>Hal Sa-yi the Brightedge</name>
 			<text>First strike
 Whenever Hal Sa-yi enters or attacks, reveal the top two cards of your library. Put one into your graveyard. You gain life equal to its mana value. Put the other into your hand. You lose life equal to its mana value.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/200_Hal Sa-yi the Brightedge.png" num="200">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/206_Hal Sa-yi the Brightedge.png" num="206">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4485,7 +4461,7 @@ Whenever Hal Sa-yi enters or attacks, reveal the top two cards of your library. 
 			<text>You may cast spells as though they had flash.
 Whenever you cast your first spell each turn, put a +1/+1 counter on this creature.
 Whenever you cast your second spell each turn, draw a card.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/217_Proudscale Descendant.png" num="217">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/215_Proudscale Descendant.png" num="215">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4503,7 +4479,7 @@ Whenever you cast your second spell each turn, draw a card.</text>
 			<name>Aspects of the Ancestors</name>
 			<text>As an additional cost to cast this spell, exile up to eight nonland permanent cards from your graveyard. 
 This creature has all activated and triggered abilities of all cards exiled with it.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/186_Aspects of the Ancestors.png" num="186">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/186_Aspects of the Ancestors.png" num="186">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4523,7 +4499,7 @@ This creature has all activated and triggered abilities of all cards exiled with
 • Draw a card.
 • Target opponent discards a card.
 • This creature deals 3 damage to any target.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/235_Your Harshest Critic.png" num="235">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/235_Your Harshest Critic.png" num="235">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4538,9 +4514,15 @@ This creature has all activated and triggered abilities of all cards exiled with
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Manifest Shadow</name>
-			<text>Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/208_Manifest Shadow.png" num="208">TOTL</set>
+			<name>Shadowgloom</name>
+			<text>Choose up to three —
+• Target player creates a 4/3 black Horror creature token.
+• This spell deals 3 damage to any target.
+• Target player draws a card.
+• Target player sacrifices a creature.
+• Target player discards a card.
+Shuffle this spell into its owner&apos;s library.</text>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/219_Shadowgloom.png" num="219">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4554,25 +4536,26 @@ This creature has all activated and triggered abilities of all cards exiled with
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>placeholder 83</name>
-			<text></text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/215_placeholder 83.png" num="215">TOTL</set>
+			<name>Tigress of Ng Street</name>
+			<text>First strike, vigilance, menace, reach, lifelink, haste</text>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/231_Tigress of Ng Street.png" num="231">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature or Noncreature</type>
-				<maintype>Noncreature</maintype>
-				<manacost>RGW</manacost>
-				<cmc>3</cmc>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
 				<colors>WRG</colors>
 				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Ambassador Oukijo</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/183_Ambassador Oukijo.png" num="183">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/183_Ambassador Oukijo.png" num="183">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4587,25 +4570,25 @@ This creature has all activated and triggered abilities of all cards exiled with
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>placeholder 69</name>
-			<text></text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/213_placeholder 69.png" num="213">TOTL</set>
+			<name>Collected Casting</name>
+			<text>Look at the top six cards of your library. Reveal up to two cards among them with activated abilities. Put up to two permanent cards with mana value 3 or less from among them onto the battlefield. Put any other cards revealed this way into your hand. Shuffle the rest onto the bottom of your library.</text>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/191_Collected Casting.png" num="191">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature or Noncreature</type>
-				<maintype>Noncreature</maintype>
-				<manacost>GUR</manacost>
-				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GUR</manacost>
+				<cmc>4</cmc>
 				<colors>URG</colors>
 				<coloridentity>URG</coloridentity>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Soulscour</name>
 			<text>Starting with you, each player may choose a nonland permanent. Each player who chose a permanent they control loses life equal to that permanent&apos;s mana value. Each player who chose a permanent they don&apos;t control gains life equal to that permanent&apos;s mana value. Destroy each nonland permanent not chosen this way.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/227_Soulscour.png" num="227">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/226_Soulscour.png" num="226">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4622,11 +4605,11 @@ This creature has all activated and triggered abilities of all cards exiled with
 			<name>Backstreet Girls</name>
 			<text>When this creature enters, if you cast it, create two tokens that are copies of it.
 When this creature dies, reveal cards from the top of your library until you reveal an instant or sorcery card. Put that card into your hand and shuffle the rest onto the bottom of your library.</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/187_Backstreet Girls.png" num="187">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/188_Backstreet Girls.png" num="188">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Citizen</type>
+				<type>Creature — Human Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>1URW</manacost>
 				<cmc>4</cmc>
@@ -4639,7 +4622,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Yesteryear Abyss</name>
 			<text>{B}{G}{U}: Target instant or sorcery card in your graveyard gains beseech {X} until end of turn, where X is that card&apos;s mana value. (You may cast that card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
-			<set rarity="mythic" picurl="https://viola-mse/sets/TOTL-files/img/234_Yesteryear Abyss.png" num="234">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/234_Yesteryear Abyss.png" num="234">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4655,7 +4638,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/266_Plains.png" num="266">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/263_Plains.png" num="263">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4670,7 +4653,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/267_Island.png" num="267">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/264_Island.png" num="264">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4685,7 +4668,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/268_Swamp.png" num="268">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/265_Swamp.png" num="265">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4700,7 +4683,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/269_Mountain.png" num="269">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/266_Mountain.png" num="266">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4715,7 +4698,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/270_Forest.png" num="270">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/267_Forest.png" num="267">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4730,7 +4713,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Blood Homunculus TOTL</name>
 			<text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/3t_Blood Homunculus.png" num="3">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/4t_Blood Homunculus.png" num="4">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4748,7 +4731,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Food TOTL</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/5t_Food.png" num="5">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/6t_Food.png" num="6">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4763,7 +4746,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Talisman TOTL</name>
 			<text>{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/6t_Talisman.png" num="6">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/7t_Talisman.png" num="7">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4778,7 +4761,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Citizen TOTL</name>
 			<text>When this creature enters, you gain 1 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/4t_Citizen.png" num="4">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/5t_Citizen.png" num="5">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4796,7 +4779,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Horror TOTL</name>
 			<text></text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/1t_Horror.png" num="1">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/2t_Horror.png" num="2">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4812,7 +4795,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 		<card>
 			<name>Rogue TOTL</name>
 			<text>When this creature dies, target opponent loses 1 life.</text>
-			<set rarity="common" picurl="https://viola-mse/sets/TOTL-files/img/2t_Rogue.png" num="2">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/3t_Rogue.png" num="3">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4825,6 +4808,21 @@ When this creature dies, reveal cards from the top of your library until you rev
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>The City&apos;s Blessing TOTL</name>
+			<text></text>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/1t_The City&apos;s Blessing.png" num="1">TOTL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
 			<token>1</token>
 		</card>
 	</cards>

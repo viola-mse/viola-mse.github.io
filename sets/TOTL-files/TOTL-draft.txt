@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Talisman",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/239_Incense Automaton.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/240_Incense Automaton.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Zombie",
-			"collector_number": "250",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/250_Wind-up Jiangshi.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/253_Wind-up Jiangshi.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "242",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/242_Mobile Monitor.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/245_Mobile Monitor.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "245",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/245_Ripchain Helm.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/248_Ripchain Helm.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Talisman",
-			"collector_number": "241",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/241_Mark of Good Fortune.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/244_Mark of Good Fortune.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "243",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/243_Neighbourhood Loop Line.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/246_Neighbourhood Loop Line.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Dragon",
-			"collector_number": "244",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/244_Paper Dragon.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/247_Paper Dragon.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/240_Junker's Crossbow.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/241_Junker's Crossbow.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "246",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/246_Rubbersludge Cab.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/249_Rubbersludge Cab.png"
 			}
 		},
 		{
@@ -1775,19 +1775,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "249",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/249_Whitesmoke Jar.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/252_Whitesmoke Jar.png"
 			}
 		},
 		{
-			"name": "Skyward Vista",
+			"name": "Warped Cityscape",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/255_Skyward Vista.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/266_Warped Cityscape.png"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/251_Cramped Archive.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/256_Cramped Archive.png"
 			}
 		},
 		{
@@ -2305,69 +2305,99 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/248_Urban Labyrinth.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/251_Urban Labyrinth.png"
 			}
 		},
 		{
 			"name": "Skywing Kite",
 			"rarity": "rare",
-			"mana_cost": "{2}",
+			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "247",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/247_Skywing Kite.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/250_Skywing Kite.png"
 			}
 		},
 		{
-			"name": "tapland 1",
+			"name": "Greysky Umbrella",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/239_Greysky Umbrella.png"
+			}
+		},
+		{
+			"name": "l0v3m4ch1n3",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Error",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/243_l0v3m4ch1n3.png"
+			}
+		},
+		{
+			"name": "Kungfu Technique Manuals",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Book",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/242_Kungfu Technique Manuals.png"
+			}
+		},
+		{
+			"name": "Brightscreen Halls",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/257_tapland 1.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/254_Brightscreen Halls.png"
 			}
 		},
 		{
-			"name": "tapland 2",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/258_tapland 2.png"
-			}
-		},
-		{
-			"name": "tapland 3",
+			"name": "Gloomy Alley",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/259_tapland 3.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/259_Gloomy Alley.png"
 			}
 		},
 		{
-			"name": "tapland 4",
+			"name": "Cloudheight View",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/255_Cloudheight View.png"
+			}
+		},
+		{
+			"name": "Glownoon Bypass",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/260_tapland 4.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/260_Glownoon Bypass.png"
 			}
 		},
 		{
-			"name": "tapland 5",
+			"name": "Openair Walk",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/261_tapland 5.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/262_Openair Walk.png"
 			}
 		},
 		{
@@ -2375,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/253_Deepstar Passage.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/258_Deepstar Passage.png"
 			}
 		},
 		{
@@ -2385,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/254_Midnight Nook.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/261_Midnight Nook.png"
 			}
 		},
 		{
@@ -2395,9 +2425,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/262_Twilight Confluence.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/265_Twilight Confluence.png"
 			}
 		},
 		{
@@ -2405,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/256_Sunset Outlook.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/264_Sunset Outlook.png"
 			}
 		},
 		{
@@ -2415,9 +2445,19 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/252_Daybreak Platform.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/257_Daybreak Platform.png"
+			}
+		},
+		{
+			"name": "Skyward Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/263_Skyward Vista.png"
 			}
 		},
 		{
@@ -2601,13 +2641,13 @@
 			}
 		},
 		{
-			"name": "Backstreet Girls",
+			"name": "Backstreet Boys",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/188_Backstreet Girls.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/188_Backstreet Boys.png"
 			}
 		},
 		{
@@ -2625,9 +2665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "263",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/263_Plains.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/267_Plains.png"
 			}
 		},
 		{
@@ -2635,9 +2675,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "264",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/264_Island.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/268_Island.png"
 			}
 		},
 		{
@@ -2645,9 +2685,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "265",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/265_Swamp.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/269_Swamp.png"
 			}
 		},
 		{
@@ -2655,9 +2695,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "266",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/266_Mountain.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/270_Mountain.png"
 			}
 		},
 		{
@@ -2665,9 +2705,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "267",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://viola-mse.github.io/sets/TOTL-files/img/267_Forest.png"
+				"en": "https://viola-mse.github.io/sets/TOTL-files/img/271_Forest.png"
 			}
 		},
 		{
@@ -2795,16 +2835,20 @@
 	2 Lau Dak-wah
 	2 Urban Labyrinth
 	2 Skywing Kite
-	2 tapland 1
-	2 tapland 2
-	2 tapland 3
-	2 tapland 4
-	2 tapland 5
+	2 Greysky Umbrella
+	2 l0v3m4ch1n3
+	2 Kungfu Technique Manuals
+	2 Brightscreen Halls
+	2 Gloomy Alley
+	2 Cloudheight View
+	2 Glownoon Bypass
+	2 Openair Walk
 	2 Deepstar Passage
 	2 Midnight Nook
 	2 Twilight Confluence
 	2 Sunset Outlook
 	2 Daybreak Platform
+	2 Skyward Vista
 	1 Qiangliang
 	1 She Hides Between Moments
 	1 Return of the Ninth Dragon
@@ -2823,7 +2867,7 @@
 	1 Ambassador Oukijo
 	1 Collected Casting
 	1 Soulscour
-	1 Backstreet Girls
+	1 Backstreet Boys
 	1 Yesteryear Abyss
 [uncommon(3)]
 	4 Jiangshi Throng
@@ -2923,7 +2967,7 @@
 	4 Backalley Juicesuit
 	4 Rubbersludge Cab
 	4 Whitesmoke Jar
-	4 Skyward Vista
+	4 Warped Cityscape
 	4 Cramped Archive
 [common(6)]
 	8 Shrineguard Lion
@@ -3268,7 +3312,7 @@
 	6 Backalley Juicesuit
 	6 Rubbersludge Cab
 	6 Whitesmoke Jar
-	6 Skyward Vista
+	6 Warped Cityscape
 	6 Cramped Archive
 	2 Feel Her Angelic Caress
 	2 Otherworld Aegis
@@ -3322,16 +3366,20 @@
 	2 Lau Dak-wah
 	2 Urban Labyrinth
 	2 Skywing Kite
-	2 tapland 1
-	2 tapland 2
-	2 tapland 3
-	2 tapland 4
-	2 tapland 5
+	2 Greysky Umbrella
+	2 l0v3m4ch1n3
+	2 Kungfu Technique Manuals
+	2 Brightscreen Halls
+	2 Gloomy Alley
+	2 Cloudheight View
+	2 Glownoon Bypass
+	2 Openair Walk
 	2 Deepstar Passage
 	2 Midnight Nook
 	2 Twilight Confluence
 	2 Sunset Outlook
 	2 Daybreak Platform
+	2 Skyward Vista
 	1 Qiangliang
 	1 She Hides Between Moments
 	1 Return of the Ninth Dragon
@@ -3350,7 +3398,7 @@
 	1 Ambassador Oukijo
 	1 Collected Casting
 	1 Soulscour
-	1 Backstreet Girls
+	1 Backstreet Boys
 	1 Yesteryear Abyss
 [wildcard(1)]
 	6 Shrineguard Lion
@@ -3531,7 +3579,7 @@
 	15 Backalley Juicesuit
 	15 Rubbersludge Cab
 	15 Whitesmoke Jar
-	15 Skyward Vista
+	15 Warped Cityscape
 	15 Cramped Archive
 	7 Feel Her Angelic Caress
 	7 Otherworld Aegis
@@ -3585,16 +3633,20 @@
 	7 Lau Dak-wah
 	7 Urban Labyrinth
 	7 Skywing Kite
-	7 tapland 1
-	7 tapland 2
-	7 tapland 3
-	7 tapland 4
-	7 tapland 5
+	7 Greysky Umbrella
+	7 l0v3m4ch1n3
+	7 Kungfu Technique Manuals
+	7 Brightscreen Halls
+	7 Gloomy Alley
+	7 Cloudheight View
+	7 Glownoon Bypass
+	7 Openair Walk
 	7 Deepstar Passage
 	7 Midnight Nook
 	7 Twilight Confluence
 	7 Sunset Outlook
 	7 Daybreak Platform
+	7 Skyward Vista
 	4 Qiangliang
 	4 She Hides Between Moments
 	4 Return of the Ninth Dragon
@@ -3613,5 +3665,5 @@
 	4 Ambassador Oukijo
 	4 Collected Casting
 	4 Soulscour
-	4 Backstreet Girls
+	4 Backstreet Boys
 	4 Yesteryear Abyss

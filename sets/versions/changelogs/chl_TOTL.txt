@@ -1,4 +1,68 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Warped Cityscape added.
+Greysky Umbrella added.
+l0v3m4ch1n3 added.
+Kungfu Technique Manuals added.
+Brightscreen Halls added.
+Gloomy Alley added.
+Cloudheight View added.
+Glownoon Bypass added.
+Openair Walk added.
+Backstreet Boys added.
+
+tapland 1 removed.
+tapland 2 removed.
+tapland 3 removed.
+tapland 4 removed.
+tapland 5 removed.
+Backstreet Girls removed.
+
+Come Typhoons and Heavy Rains
+special_text: 
+Flash
+When this Case enters, choose one —
+• Tap up to two target creatures.
+• Surveil 1, then draw a card.
+To solve — You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of each combat, tap up to one target creature.
+ => 
+Flash
+When this Case enters, choose one —
+• Tap up to two target creatures.
+• Surveil 1, then draw a card.
+To solve — You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — {3}{U}: Tap target creature and put a stun counter on it. Activate only as a sorcery.
+
+
+Tetrad's Fist
+rules_text: When this creature enters, it fights up to one target creature.
+Whenever you attack with exactly two creatures, if this creature isn't attacking and didn't enter this turn, you may have it become tapped and attacking. => When this creature enters, it fights up to one target creature.
+Whenever you attack with exactly two creatures, if this creature isn't tapped and didn't enter this turn, you may have it become tapped and attacking.
+
+Traditionalist Ancestseer
+rules_text: Whenever this creature or a basic land you control enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{G}: Target land you control becomes a 3/3 creature that's still a land with haste and “When this creature leaves the battlefield, return it to the battlefield tapped.” Activate only as a sorcery. => Whenever you play a basic land card, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{G}: Target land you control becomes a 3/3 creature with “When this creature leaves the battlefield, return it to your hand.” It's still a land. Activate only as a sorcery.
+
+Skywing Kite
+cost: {2} => {3}
+
+Skyward Vista
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. This ability costs {1} less to activate if you have the city's blessing. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+This land enters tapped.
+{T}: Add {C}.
+{T}: Add {C}{C}. Activate this ability only if you have the city's blessing.
+
+Tigress of Ng Street
+rules_text: First strike, vigilance, menace, reach, lifelink, haste => Haste
+Whenever this creature attacks, you may discard a card. If you do, draw a card and choose a kind of counter that this creature doesn't have on it from among first strike, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on this creature.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Decorated Constable added.

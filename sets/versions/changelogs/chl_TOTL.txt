@@ -1,4 +1,740 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Employee added.
+Student added.
+Fan added.
+Bear added.
+
+
+Shrineguard Lion
+
+Lowrise Line Cook
+
+Frostwhip Siu Tse
+
+Salaried Seraph
+
+Fwun Sah Invoker
+
+Slacking Sergeant
+
+Baak Gai Lookout
+
+Yat Street Colleague
+
+Pale Voidjaw
+
+Determined Vigilante
+
+Rooftop Bloodwing
+
+Golden Revolver
+
+Trip to Nowhere
+
+Its Fangs Are Sharp as Knives
+
+Forbidden Exorsister Technique
+rules_text:  => When this Case enters, choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard.
+To solve — Two or more cards left your graveyard this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — If a card would leave your graveyard during your turn, you may put it on the bottom of your library instead.
+special_text: 
+When this Case enters, choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard.
+To solve — Two or more cards left your graveyard this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — If a card would leave your graveyard during your turn, you may put it on the bottom of your library instead.
+ => When this Case enters, choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard.
+To solve — Two or more cards left your graveyard this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — If a card would leave your graveyard during your turn, you may put it on the bottom of your library instead.
+
+Lou Waan Invoker
+
+Laam Gaai Loiterer
+
+Featherflutter Leng Zai
+
+Grizzled Gumshoes
+
+Cephalid Sophomore
+
+Motorized Private Eye
+
+Next Century Anxiety
+
+Moongorger
+
+Ghostfish
+
+Rise Above
+
+Your Thousand Eyes See All
+
+Lucky Tile
+
+Constrain
+
+Altimancy
+
+Come Typhoons and Heavy Rains
+rules_text:  => Flash
+When this Case enters, choose one —
+• Tap up to two target creatures.
+• Surveil 1, then draw a card.
+To solve — You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — {3}{U}: Tap target creature and put a stun counter on it. Activate only as a sorcery.
+special_text: 
+Flash
+When this Case enters, choose one —
+• Tap up to two target creatures.
+• Surveil 1, then draw a card.
+To solve — You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — {3}{U}: Tap target creature and put a stun counter on it. Activate only as a sorcery.
+ => Flash
+When this Case enters, choose one —
+• Tap up to two target creatures.
+• Surveil 1, then draw a card.
+To solve — You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — {3}{U}: Tap target creature and put a stun counter on it. Activate only as a sorcery.
+
+Tsin Shui Invoker
+
+Dark Alley Occultist
+
+Corporate Bloodsucker
+
+Haak Gaai Gourmands
+
+Backalley Darklimb
+
+Ragged Beat Cop
+
+Skyblot Maw
+
+Kaigun Mansion Guides
+
+Blightrazer
+
+Disparage
+
+Glory Be To Your Radiant Scales
+
+Gambler's Last Roll
+rules_text:  => When this Case enters, you lose 2 life and draw two cards.
+To solve — You gained life and lost life this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you draw a card, each opponent loses 1 life and you gain 1 life.
+special_text: 
+When this Case enters, you lose 2 life and draw two cards.
+To solve — You gained life and lost life this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you draw a card, each opponent loses 1 life and you gain 1 life.
+ => When this Case enters, you lose 2 life and draw two cards.
+To solve — You gained life and lost life this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you draw a card, each opponent loses 1 life and you gain 1 life.
+
+Rumourmonging
+
+Botched Job
+
+Ancestseer's Immolation
+
+Sei Street Carver
+
+Naau Gok Invoker
+
+Hung Gaai Hotshot
+
+Hauntroom Consultant
+
+Tuftear Denizen
+
+Brighthorn Itinerant
+
+Garrison Veteran
+
+Gutterclaw
+
+Melting Grimace
+
+Ghost Chit Ignition
+
+Its Thirst is Unquenchable
+
+The Craziest Night Ever
+rules_text:  => When this Case enters, you may discard a card. If you do, draw two cards.
+To solve — You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, mill a card. You may play that card this turn.
+special_text: 
+When this Case enters, you may discard a card. If you do, draw two cards.
+To solve — You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, mill a card. You may play that card this turn.
+ => When this Case enters, you may discard a card. If you do, draw two cards.
+To solve — You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, mill a card. You may play that card this turn.
+
+Tetrad Tactics
+
+Flaresnap
+
+Bloodwhip
+
+Zaai Sing Invoker
+
+Rainy Alley Devil
+
+Gutsy Ghostchaser
+
+Luk Gaai Pair
+
+Octogram Tracer
+
+Work Horse
+
+Rockmaw
+
+Tetrad's Hammer
+
+Precinct Eight Muscle
+
+Steelheight Horror
+
+Your Strength Conquers All
+
+Hirsute Haymaker
+
+Skyscrape
+
+Run the Neon Labyrinth
+
+Raining Frogs and Toads
+rules_text:  => When this Case enters, look at the top five cards of your library. You may reveal a land or creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+To solve — You control four or more creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, put a +1/+1 counter on target creature you control.
+special_text: 
+When this Case enters, look at the top five cards of your library. You may reveal a land or creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+To solve — You control four or more creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, put a +1/+1 counter on target creature you control.
+ => When this Case enters, look at the top five cards of your library. You may reveal a land or creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.
+To solve — You control four or more creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, put a +1/+1 counter on target creature you control.
+
+Incense Automaton
+
+Wind-up Jiangshi
+
+Mobile Monitor
+
+Ripchain Helm
+
+Mark of Good Fortune
+
+Neighbourhood Loop Line
+
+Jiangshi Throng
+
+Loong Uk Bottomfeeder
+
+Ancestral Blessing
+
+Relaxed Rookies
+
+Leuk Street Tagger
+
+Cloudcrawler
+
+Vigilant Veterans
+
+Sophomore Exorsister
+
+Fwun Sha Drycleaner
+
+Late-night Spread
+
+Obviate
+
+Tetrad Council Summit
+rules_text:  => When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+To solve — You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Legendary creatures you control get +1/+1.
+special_text: 
+When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+To solve — You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Legendary creatures you control get +1/+1. 
+ => When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+To solve — You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Legendary creatures you control get +1/+1.
+
+Our Grip Clenches Tightly
+
+Light Before Dawn
+
+Decoy Jiangshi
+
+Yi Street Hatchling
+
+Fangclaw Caller
+
+Yih Wu Fiddler
+
+Tsat Street Commuter
+
+Maan Tsau Beholder
+
+Thirst for Action
+
+Sick Moves
+
+Shell of a Ghost
+
+Curated Display
+
+Stop
+
+The Girl Who Hugged A Cloud
+rules_text:  => When this Case enters, put a flying counter on target creature you control.
+To solve — You control three or more creatures with flying. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you attack with three or more creatures with flying, draw a card.
+special_text: 
+When this Case enters, put a flying counter on target creature you control.
+To solve — You control three or more creatures with flying. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you attack with three or more creatures with flying, draw a card.
+ => When this Case enters, put a flying counter on target creature you control.
+To solve — You control three or more creatures with flying. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you attack with three or more creatures with flying, draw a card.
+
+Their Endless Forms Contort
+
+Feathers Above
+
+Innocuous Jiangshi
+
+Tepid Middle Manager
+
+Serial Offender
+
+Tetrad Recruiter
+
+Ascended Giganform
+
+Gutter Line Cyclops
+
+Obscene Mass
+
+Disvertebrate
+
+Cadavermancy
+
+Drown in Smoke
+
+Spiritual Dispute
+
+Haunted Elevator Shaft
+rules_text:  => When this Case enters, target opponent reveals their hand. You choose a card from it. That player discards that card.
+To solve — You have twenty or less cards in your library. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, you lose 2 life and draw a card.
+special_text: 
+When this Case enters, target opponent reveals their hand. You choose a card from it. That player discards that card.
+To solve — You have twenty or less cards in your library. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, you lose 2 life and draw a card.
+ => When this Case enters, target opponent reveals their hand. You choose a card from it. That player discards that card.
+To solve — You have twenty or less cards in your library. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, you lose 2 life and draw a card.
+
+Her Gaze Pierces All Veils
+
+Smoke From Rubble
+
+Jiangshi Reveler
+
+Paper Pusher Pyromaniac
+
+Mou Sze Dancer
+
+Kau Street Luckmonger
+
+Hi-score Junkie
+
+Two-headed Crawler
+
+Filmsnap Addict
+
+Act on Rumour
+
+Lanternlight Rendezvous
+
+Collapse
+
+Shopping Spree
+
+The Girl Who Literally Blew Up
+rules_text:  => When this Case enters, create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.”
+To solve — You sacrificed a creature this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, this Case deals 1 damage to target opponent.
+special_text: 
+When this Case enters, create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.”
+To solve — You sacrificed a creature this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, this Case deals 1 damage to target opponent.
+ => When this Case enters, create a 1/1 black Rogue creature token with “When this creature dies, each opponent loses 1 life.”
+To solve — You sacrificed a creature this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, this Case deals 1 damage to target opponent.
+
+Your Will Eviscerates All
+
+Fire in the Hole
+
+Curious Jiangshi
+
+Boomcase Trooper
+
+Zaai Sing Curio Hawker
+
+Goldmane Dancer
+cost: {G} => {1}{G}
+rules_text: [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, => [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, add {C}.
+pt:  => 2/2
+
+Ng Street Local
+
+Rumour Eater
+
+Tower Block Goliath
+
+Tetrad's Fist
+
+Zaai Sing Eccentric
+
+Eightwind Nineshield
+
+A Small Gesture
+
+Jade Child of Zhongdu
+rules_text:  => Creature spells you cast cost {1} less to cast.
+To solve — There are six or more creature types among creatures you control. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — You may look at the top card of your library any time. You may cast creature spells from the top of your library.
+special_text: 
+Creature spells you cast cost {1} less to cast.
+To solve — There are six or more creature types among creatures you control. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — You may look at the top card of your library any time. You may cast creature spells from the top of your library.
+ => Creature spells you cast cost {1} less to cast.
+To solve — There are six or more creature types among creatures you control. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — You may look at the top card of your library any time. You may cast creature spells from the top of your library.
+
+Your Hunger Growls Echo
+
+Roots Among People
+
+Curious Pair
+
+Rubberneck Lookout
+
+Joss Twig Tender
+
+Flameblade Elder
+
+Fwun Sah Taan Everyman
+
+Tiger Mother
+
+Sluice Slinker
+
+Ambitious Ancestseer
+
+Skyline Exorcist
+
+Softear Restauranteur
+
+Precinct Eight Captain
+
+Invisible Skulker
+
+Tetrad Dragoncloak
+
+Gau Yi Ride or Die
+
+Citysight Guide
+
+Ambitious Phlebotomist
+
+Derelicts Hexapod
+
+Dreambreacher
+
+Commuting Arcanist
+
+Cha Siu Butcher
+
+Paper Dragon
+
+Ambulating Apartment
+
+Frightsteel Amalgam
+
+Junker's Crossbow
+
+Backalley Juicesuit
+
+Rubbersludge Cab
+
+Whitesmoke Jar
+
+Warped Cityscape
+
+Cramped Archive
+
+Feel Her Angelic Caress
+
+Otherworld Aegis
+rules_text:  => When this Case enters, exile up to one target creature until this Case leaves the battlefield.
+To solve — You control three or more Angels. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — When this Case becomes solved, exile a card it exiled. [i](It no longer returns to the battlefield if this Case leaves.)[/i]
+Whenever an Angel you control attacks, put a +1/+1 counter on target non-Angel creature you control.
+special_text: 
+When this Case enters, exile up to one target creature until this Case leaves the battlefield.
+To solve — You control three or more Angels. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — When this Case becomes solved, exile a card it exiled. [i](It no longer returns to the battlefield if this Case leaves.)[/i]
+Whenever an Angel you control attacks, put a +1/+1 counter on target non-Angel creature you control.
+ => When this Case enters, exile up to one target creature until this Case leaves the battlefield.
+To solve — You control three or more Angels. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — When this Case becomes solved, exile a card it exiled. [i](It no longer returns to the battlefield if this Case leaves.)[/i]
+Whenever an Angel you control attacks, put a +1/+1 counter on target non-Angel creature you control.
+
+Clearsky Aspirant
+
+Regret of a Long-Gone Girl
+
+Tiger Point Soothsayer
+
+Decorated Constable
+
+Your Ancestral Mind Recalls All
+
+The Fisher Who Caught A Kraken
+rules_text:  => When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.
+special_text: 
+When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.
+ => When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.
+
+Peephole Peekers
+
+Streetside Bumblewing
+
+Stew
+
+Melanchozoa
+
+Your Blood Is A Feast For Crows
+
+Meeting with the Ambassador
+rules_text:  => When this Case enters, each player sacrifices two creatures.
+To solve — You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.
+special_text: 
+When this Case enters, each player sacrifices two creatures.
+To solve — You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.
+ => When this Case enters, each player sacrifices two creatures.
+To solve — You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.
+
+Walking Singularity
+
+Villainous Endgame
+
+Den of Thieves
+
+Haak Gaai Headhunter
+
+May You Glimpse Our Tomorrow
+
+The Director's Cut
+rules_text:  => When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control.
+special_text: 
+When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control.
+ => When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control.
+
+Trumpet of the Void
+
+Lavabat Hooligan
+
+Terre-haute Financier
+
+Oukijo's Design
+
+Its Coil Tightens Inexorably
+
+The Hour of Heroes
+rules_text:  => As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.
+special_text: 
+As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.
+ => As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.
+
+Ursa Major
+
+Traditionalist Ancestseer
+
+Mirrored Past
+
+Rubbersludge Grinder
+
+Smith & Nguyen
+
+Laai Ban Jyu & Mystery Girl
+
+Akane & Kurone
+
+Siu Coeng & Daai Paau
+
+Qiao Xian & Qiao Hou
+
+Haak Faa & Baak Syut
+
+Siu Bau & Friendly Jiangshi
+rules_text: Whenever you sacrifice a Food, Siu Bau & Friendly Jiangshi get +2/+2 until end of turn.
+[+1]: Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+[-2], Sacrifice a Food: You gain 3 life and draw a card. => Whenever you sacrifice a Food, Siu Bau & Friendly Jiangshi get +2/+2 until end of turn.
+[+1]: Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+[-2], Sacrifice a Food: You gain 3 life and draw a card.
+
+Mildred & Teresa
+
+Hung Sin & Laam Jyut
+
+Dai Tse & Siu Mui
+
+Exorbrother's Judgement
+
+Villain's Downfall
+
+Their Eons Ought Be Forgotten
+
+Dogged Delinquent
+
+Amateur Threadseeker
+
+Fu Luk Hoarder
+
+Glowbrew Herbologist
+
+Drifting Wu Lei
+
+Wong Tsin-man
+
+Lau Dak-wah
+
+Urban Labyrinth
+
+Skywing Kite
+
+Greysky Umbrella
+
+l0v3m4ch1n3
+
+Kungfu Technique Manuals
+
+Brightscreen Halls
+
+Gloomy Alley
+
+Cloudheight View
+
+Glownoon Bypass
+
+Openair Walk
+
+Deepstar Passage
+
+Midnight Nook
+
+Twilight Confluence
+
+Sunset Outlook
+
+Daybreak Platform
+
+Skyward Vista
+
+Qiangliang
+
+She Hides Between Moments
+
+Return of the Ninth Dragon
+
+Hellpocket Highroller
+
+Streetlight Psychosis
+
+Special Agent Ming Yue
+
+Backalley Sparker
+
+Lily An, Exorcist Extraordinare
+
+Shadow of the Ninth Dragon
+
+Hal Sa-yi the Brightedge
+
+Proudscale Descendant
+
+Aspects of the Ancestors
+
+Your Harshest Critic
+
+Shadowgloom
+
+Tigress of Ng Street
+
+Ambassador Oukijo
+rules_text:  => Ascend; As long as you have the city's blessing, you may activate Oukijo's loyalty abilities an additional time each turn.
+[+1]: Create a 1/1 red Blood Homunculus artifact creature token with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”
+[-3]: Oukijo deals 3 damage to any target. You gain 3 life.
+[-X]: Return target creature card with mana value X or less from your graveyard to the battlefield.
+
+Collected Casting
+
+Soulscour
+
+Backstreet Boys
+
+Yesteryear Abyss
+
+Blood Homunculus
+
+Food
+
+Talisman
+
+Citizen
+
+Horror
+
+Rogue
+
+The City's Blessing
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Warped Cityscape added.

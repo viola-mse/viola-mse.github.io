@@ -1,11 +1,117 @@
 ﻿{
     "name": "Towers of Tin Lau",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
+        {
+            "card_name": "Plains_TOTL",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Plains",
+            "number": 267,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "clivef\u68a8\u5b50 (@ChristonClivef)",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
+            "notes": "!exportname Plains_TOTL"
+        },
+        {
+            "card_name": "Island",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Island",
+            "number": 268,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "\u96fb\u9b3c (@denki09)",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
+            "notes": "!expoertname Island_TOTL"
+        },
+        {
+            "card_name": "Swamp_TOTL",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Swamp",
+            "number": 269,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "fateassnight",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
+            "notes": "!exportname Swamp_TOTL"
+        },
+        {
+            "card_name": "Mountain_TOTL",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Mountain",
+            "number": 270,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "\u4e2d\u5cf6\u307f\u306a\u307f (@nakajimaminami)",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
+            "notes": "!exportname Mountain_TOTL"
+        },
+        {
+            "card_name": "Forest_TOTL",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Forest",
+            "number": 271,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "Hiromu (@mrym_hrm)",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
+            "notes": "!exportname Forest_TOTL"
+        },
         {
             "card_name": "Shrineguard Lion",
             "color": "W",
@@ -22,6 +128,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "IS art&ench payoff"
         },
         {
@@ -40,6 +149,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "infukun",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "SKEL lifelink (low power)\nIS leave grave payoff"
         },
         {
@@ -58,7 +170,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "B.c.N.y. (Han-Yuan, Yu)",
-            "notes": "IS talisman maker"
+            "alias": "",
+            "position": "7",
+            "rotated": false,
+            "notes": "IS talisman maker\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Salaried Seraph",
@@ -76,6 +191,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Zieru",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "SKEL flying (1power)\nIS WB ascendd scaler\nIS ascendd cycle"
         },
         {
@@ -94,6 +212,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "_SWAV_",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "SKEL vigilance\nIS invoker"
         },
         {
@@ -112,7 +233,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6885\u96e8\u8272\u7600\u9752 (@ineedalcohol_)",
-            "notes": "IS dynamiccycle\nIS wide enabler\nIS ascendd enabler\n\n\u201cYou two clowns can at least do this much, right?\u201d"
+            "alias": "",
+            "position": "10",
+            "rotated": false,
+            "notes": "IS dynamiccycle\nIS wide enabler\nIS ascendd enabler\n\n\u201cYou two clowns can at least do this much, right?\u201d\n\n!tokens Employee<1>;"
         },
         {
             "card_name": "Baak Gai Lookout",
@@ -130,7 +254,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u304a\u3088 (@ohyg3)",
-            "notes": "IS ascendd enabler\nIS ascendd payoff"
+            "alias": "",
+            "position": "11",
+            "rotated": false,
+            "notes": "IS ascendd enabler\nIS ascendd payoff\n\n!tokens Citizen<1>;"
         },
         {
             "card_name": "Yat Street Colleague",
@@ -148,6 +275,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "deatiose",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "SKEL vigilance\nIS WU art&ench scaler"
         },
         {
@@ -166,6 +296,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "SKEL flying (2power)\nIS med horror\nIS spirited\nIS wide payoff"
         },
         {
@@ -184,6 +317,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u53cb\u91ce\u308b\u3044 (@kyame)",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "SKEL can also be 6drop\nIS leave grave payoff"
         },
         {
@@ -202,6 +338,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Homutan",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "SKEL can also be 7drop\nSKEL flying (3power)\nIS wide payoff\nIS leave grave enabler\nIS large horror"
         },
         {
@@ -220,6 +359,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "XinYueTongXing art team",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "SKEL combat-related removal\nIS art&ench enabler"
         },
         {
@@ -238,7 +380,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "tuoer_sg",
-            "notes": "SKEL oring\nIS art&ench enabler\nIS wide enabler\n\n\u201cWhere to, siu tse?\u201d\n\u201cAnywhere but here.\u201d"
+            "alias": "",
+            "position": "17",
+            "rotated": false,
+            "notes": "SKEL oring\nIS art&ench enabler\nIS wide enabler\n\n\u201cWhere to, siu tse?\u201d\n\u201cAnywhere but here.\u201d\n\n!tokens Citizen<1>;"
         },
         {
             "card_name": "Its Fangs Are Sharp as Knives",
@@ -256,7 +401,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30c0\u30a8 (daenarys)",
-            "notes": "SKEL combat trick\nSKEL cond. first strike\nIS beseech"
+            "alias": "",
+            "position": "18",
+            "rotated": false,
+            "notes": "SKEL combat trick\nSKEL cond. first strike\nIS beseech\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Forbidden Exorsister Technique",
@@ -266,14 +414,17 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Exile target card from a graveyard.\nTo solve \u2014 Two or more cards left your graveyard this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 If a card would leave your graveyard during your turn, you may put it on the bottom of your library instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Exile target card from a graveyard.\nTo solve \u2014 Two or more cards left your graveyard this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 If a card would leave your graveyard during your turn, you may put it on the bottom of your library instead.\n",
+            "special_text": "When this Case enters, choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Exile target card from a graveyard.\nTo solve \u2014 Two or more cards left your graveyard this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 If a card would leave your graveyard during your turn, you may put it on the bottom of your library instead.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u51ef\u8299\u8bd7",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "SKEL disenchant/removal spell\nIS leave grave enabler\nIS rumour"
         },
         {
@@ -292,6 +443,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "RedEyeHare",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "SKEL cond. flying\nIS activated enabler\nIS activated payoff\nIS ramp payoff\nIS invoker"
         },
         {
@@ -310,6 +464,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3081\u3044\u3077 (@meipu_hm)",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "SKEL flying (1power)\nSKEL vigilance\nIS art&ench payoff"
         },
         {
@@ -328,7 +485,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6a58 \u6b69\u7a7a (@06_XoX_3)",
-            "notes": "SKEL cond. flying (2power)\nIS ramp enabler\nIS activated enabler\nIS talisman maker\n\n\u975a\u4ed4 (leng3 zai2)"
+            "alias": "",
+            "position": "22",
+            "rotated": false,
+            "notes": "SKEL cond. flying (2power)\nIS ramp enabler\nIS activated enabler\nIS talisman maker\n\n\u975a\u4ed4 (leng3 zai2)\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Grizzled Gumshoes",
@@ -346,6 +506,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "tandem (@modiodal100mg)",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "IS dynamic cycle"
         },
         {
@@ -364,6 +527,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30ad\u30ea\u30e1\u30e2\u30ea (@kirimemori)",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "IS UR activated scaler\nIS ramp enabler"
         },
         {
@@ -382,6 +548,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Tihaya79819512",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "SKEL cond. vigilance\nIS UB surveil scaler"
         },
         {
@@ -400,6 +569,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u65e7\u4e2b\u30e9\u30a4 (@enrho_)",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "SKEL can be 6drop\nSKEL flying (3power)\nIS surveil enabler\nIS medium horror\nIS spirited"
         },
         {
@@ -418,6 +590,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb (@syourinUSK)",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "SKEL can be 7drop\nIS art&ench payoff\nIS surveil payoff\nIS large horror"
         },
         {
@@ -436,6 +611,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "owenxc",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "SKEL defender (that can lose it)\nIS ascendd cycle"
         },
         {
@@ -454,6 +632,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "clivef\u68a8\u5b50 (@ChristonClivef)",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -472,7 +653,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "blackbox9158",
-            "notes": "SKEL cantrip\nIS ramp payoff\nIS beseech"
+            "alias": "",
+            "position": "30",
+            "rotated": false,
+            "notes": "SKEL cantrip\nIS ramp payoff\nIS beseech\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Lucky Tile",
@@ -490,6 +674,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3064\u304f\u3057 (@smilekao)",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "SKEL draw spell (two to three)\nIS art&ench enabler"
         },
         {
@@ -508,6 +695,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5728\u671b\u60f3\u6210\u4e3a\u5929\u624d\u5f88\u4e45\u4e86",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "SKEL witness protection"
         },
         {
@@ -526,6 +716,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "DZR96 (@Danzir96)",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "SKEL unsummon or griptide\nSKEL protective instant"
         },
         {
@@ -536,14 +729,17 @@
             "number": 39,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "",
+            "rules_text": "Flash\nWhen this Case enters, choose one \u2014\n\u2022 Tap up to two target creatures.\n\u2022 Surveil 1, then draw a card.\nTo solve \u2014 You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 {3}{U}: Tap target creature and put a stun counter on it. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nFlash\nWhen this Case enters, choose one \u2014\n\u2022 Tap up to two target creatures.\n\u2022 Surveil 1, then draw a card.\nTo solve \u2014 You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 {3}{U}: Tap target creature and put a stun counter on it. Activate only as a sorcery.\n",
+            "special_text": "Flash\nWhen this Case enters, choose one \u2014\n\u2022 Tap up to two target creatures.\n\u2022 Surveil 1, then draw a card.\nTo solve \u2014 You looked at two or more cards while surveiling this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 {3}{U}: Tap target creature and put a stun counter on it. Activate only as a sorcery.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "illumi99999",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "SKEL wildcard\nIS art&ench enabler\nIS surveil enabler\nIS rumour"
         },
         {
@@ -562,7 +758,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
-            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker"
+            "alias": "",
+            "position": "35",
+            "rotated": false,
+            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Dark Alley Occultist",
@@ -580,7 +779,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "DZR96 (@Danzir96)",
-            "notes": "IS talisman maker\nIS ascend enabler"
+            "alias": "",
+            "position": "36",
+            "rotated": false,
+            "notes": "IS talisman maker\nIS ascend enabler\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Corporate Bloodsucker",
@@ -598,6 +800,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30b7\u30b9\u30b9 (@siiisuusuu)",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "SKEL flying (half)\nSKEL lifelink\nIS ascend payoff"
         },
         {
@@ -616,6 +821,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "JUEEAKI",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "SKEL deathtouch\nIS ascend payoff"
         },
         {
@@ -634,6 +842,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Could_OH",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "IS surveil enabler\nIS four mana payoff\nIS BG horror scaler\nIS small horror"
         },
         {
@@ -652,6 +863,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u304a\u3088 (@ohyg3)",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "IS dynamic\nIS four mana payoff\nIS BR scaler"
         },
         {
@@ -670,6 +884,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "SKEL can also be 4drop\nSKEL flying\nIS medium horror\nIS spirited"
         },
         {
@@ -688,6 +905,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Homutan",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "SKEL can also be 5drop\nIS ascend enabler\nIS surveil payoff\n\nMaybe replace with something that gets \"half flying\""
         },
         {
@@ -706,6 +926,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "SKEL can also be 6drop\nSKEL menace\nIS large horror\nIS horror payoff\nIS surveil enabler"
         },
         {
@@ -724,6 +947,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u7425 (@dorkyhuzzz)",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "SKEL small conditional removal"
         },
         {
@@ -742,7 +968,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Jaz Chiang",
-            "notes": "SKEL combat trick\nIS beseech"
+            "alias": "",
+            "position": "45",
+            "rotated": false,
+            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Gambler's Last Roll",
@@ -752,14 +981,17 @@
             "number": 85,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, you lose 2 life and draw two cards.\nTo solve \u2014 You gained life and lost life this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you draw a card, each opponent loses 1 life and you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, you lose 2 life and draw two cards.\nTo solve \u2014 You gained life and lost life this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you draw a card, each opponent loses 1 life and you gain 1 life.\n",
+            "special_text": "When this Case enters, you lose 2 life and draw two cards.\nTo solve \u2014 You gained life and lost life this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you draw a card, each opponent loses 1 life and you gain 1 life.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3064\u304f\u3057 (@smilekao)",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "SKEL card draw (added cost)\nIS rumour"
         },
         {
@@ -778,6 +1010,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u58fa\u4e5f (@tsubonari_8)",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "SKEL coercion +\nIS four mana enabler"
         },
         {
@@ -796,6 +1031,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Homutan",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "SKEL unconditional removal\nIS surveil payoff"
         },
         {
@@ -814,6 +1052,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Z12\u5ff5\u4f5c\u6cfd\u5e7a\u4e8c",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "SKEL slightly overcosted removal\nIS four mana enabler"
         },
         {
@@ -832,6 +1073,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u308b\u308a\u8272 (@Lapisli77)",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "SKEL can be 2drop\nSKEL haste\nIS activated enabler"
         },
         {
@@ -850,6 +1094,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u76ee\u6c11 (@sleep3841)",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "IS invoker"
         },
         {
@@ -868,6 +1115,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6c5f\u5ddd\u3042\u304d\u3089 (@rev_akira)",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "IS dynamic\nIS pair attack payoff\nIS pair attack enabler"
         },
         {
@@ -886,7 +1136,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "xiisalt",
-            "notes": "IS talisman maker"
+            "alias": "",
+            "position": "53",
+            "rotated": false,
+            "notes": "IS talisman maker\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Tuftear Denizen",
@@ -904,6 +1157,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30ad\u30e8 (@unknow78203)",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "SKEL cond. haste\nIS RW leave grave scaler\nIS activated payoff"
         },
         {
@@ -922,6 +1178,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\uc11d\uad6c\ud314 (@98_seok)",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "SKEL can also be 4drop\nSKEL cond. trample\nIS ascendcycle"
         },
         {
@@ -940,6 +1199,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "meltyrice",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "SEKL can also be 5drop\nSKEL trample\nSKEL cond. menace\nIS RG pair attack scaler\nIS pair attack enabler\nIS four mana enabler\nIS activated enabler"
         },
         {
@@ -958,6 +1220,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u53cb\u91ce\u308b\u3044 (@kyame)",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "SKEL reach\nIS medium horror\nIS spirited"
         },
         {
@@ -976,6 +1241,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "SKEL menace\nIS large horror\nIS leave grave payoff\nIS leave grave enabler"
         },
         {
@@ -994,6 +1262,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u304f\u306b\u305f\u308d (@kunitarouart)",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "SKEL direct damage (deals 2)\nIS leave grave enabler"
         },
         {
@@ -1012,7 +1283,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "hisa ban",
-            "notes": "SKEL combat trick\nIS beseech"
+            "alias": "",
+            "position": "60",
+            "rotated": false,
+            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "The Craziest Night Ever",
@@ -1022,14 +1296,17 @@
             "number": 113,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, you may discard a card. If you do, draw two cards.\nTo solve \u2014 You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, mill a card. You may play that card this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, you may discard a card. If you do, draw two cards.\nTo solve \u2014 You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, mill a card. You may play that card this turn.\n",
+            "special_text": "When this Case enters, you may discard a card. If you do, draw two cards.\nTo solve \u2014 You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, mill a card. You may play that card this turn.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "tuoer_sg",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "SKEL rummaging/impulsive draw\nIS case"
         },
         {
@@ -1048,6 +1325,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "SKEL modal Shatter (like abrade or cast into the fire)"
         },
         {
@@ -1066,6 +1346,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Paji (@artpaji)",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "SKEL direct damage (efficient, usually deals 4)\nIS four mana payoff"
         },
         {
@@ -1084,6 +1367,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "SetsuGen",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "SKEL direct damage (five mana, 6 damage)\nIS four mana enabler"
         },
         {
@@ -1102,6 +1388,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "To Be Hero X art team",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "SKEL can also be 2drop\nIS ramp enabler\nIS ramp payoff\nIS invoker"
         },
         {
@@ -1120,6 +1409,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Mekivango",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "SKEL deathtouch\nIS small horror\nIS spirited"
         },
         {
@@ -1138,6 +1430,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6db8\u308c\u4e95\u6238 (@KaReIDo_)",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "SKEL cond. vigilance\nIS horror payoff"
         },
         {
@@ -1156,7 +1451,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u767e\u5ddd\u9752\u6e90 (@SeigenMomokawa)",
-            "notes": "IS wide enabler\nIS pair attack enabler\nIS pair attack payoff"
+            "alias": "",
+            "position": "68",
+            "rotated": false,
+            "notes": "IS wide enabler\nIS pair attack enabler\nIS pair attack payoff\n\n!tokens Citizen<1>;"
         },
         {
             "card_name": "Octogram Tracer",
@@ -1174,7 +1472,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u8f89\u718a\u4e0d\u4f1a\u753b\u753b (@DaylightAllure)",
-            "notes": "IS UG ramp scaler\nIS talisman maker"
+            "alias": "",
+            "position": "69",
+            "rotated": false,
+            "notes": "IS UG ramp scaler\nIS talisman maker\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Work Horse",
@@ -1192,6 +1493,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb (@syourinUSK)",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "SKEL slot can also be 3drop\nSKEL vigilance\nIS ascendcycle\nIS GW wide scaler"
         },
         {
@@ -1210,6 +1514,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "SKEL can also be 5drop\nSKEL trample\nIS medium horror\nIS horror payoff"
         },
         {
@@ -1228,6 +1535,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "anniechromes",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "SKEL ward\nSKEL cond. trample\nIS dynamic\nIS pair attack enabler\nIS pair attack payoff\n\nFT: You don't need brains if you have enough brawn."
         },
         {
@@ -1246,7 +1556,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u304a\u3088 (@ohyg3)",
-            "notes": "IS wide enabler"
+            "alias": "",
+            "position": "73",
+            "rotated": false,
+            "notes": "IS wide enabler\n\n!tokens Employee<1>;"
         },
         {
             "card_name": "Steelheight Horror",
@@ -1264,6 +1577,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Mekivango",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "SKEL slot can also be 6drop\nSKEL reach\nIS large horror\nIS wide payoff"
         },
         {
@@ -1282,7 +1598,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Lem (@lem00001)",
-            "notes": "SKEL fight\nIS beseech"
+            "alias": "",
+            "position": "75",
+            "rotated": false,
+            "notes": "SKEL fight\nIS beseech\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Hirsute Haymaker",
@@ -1300,6 +1619,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Nolan Lu",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "SKEL bite spell"
         },
         {
@@ -1318,6 +1640,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3081\u3044\u3077 (@meipu_hm)",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "SKEL combat trick (power pump)\nSKEL cond. reach"
         },
         {
@@ -1336,7 +1661,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Z4-zero (@xixiY4)",
-            "notes": "SKEL mana acceleration\nIS ramp enabler"
+            "alias": "",
+            "position": "78",
+            "rotated": false,
+            "notes": "SKEL mana acceleration\nIS ramp enabler\n\n!tokens Citizen<1>;"
         },
         {
             "card_name": "Raining Frogs and Toads",
@@ -1346,14 +1674,17 @@
             "number": 159,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, look at the top five cards of your library. You may reveal a land or creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.\nTo solve \u2014 You control four or more creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, put a +1/+1 counter on target creature you control.",
             "flavor_text": "[i]Put a +1/+1 counter on target creature you control.[/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, look at the top five cards of your library. You may reveal a land or creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.\nTo solve \u2014 You control four or more creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, put a +1/+1 counter on target creature you control.\n",
+            "special_text": "When this Case enters, look at the top five cards of your library. You may reveal a land or creature card from among them and put it into your hand. Shuffle the rest onto the bottom of your library.\nTo solve \u2014 You control four or more creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, put a +1/+1 counter on target creature you control.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "tuoer_sg",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "SKEL dig for lands and/or creatures\nIS rumour"
         },
         {
@@ -1372,6 +1703,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "PureHay",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1390,7 +1724,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3082\u3061\u304a (@kogekoge_omochi)",
-            "notes": ""
+            "alias": "",
+            "position": "81",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Mobile Monitor",
@@ -1408,6 +1745,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb (@syourinUSK)",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1426,6 +1766,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "3ok",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "SKEL expensive removal"
         },
         {
@@ -1444,6 +1787,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e59\u9187Ethanol (@realethanol459)",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "SKEL manalith+"
         },
         {
@@ -1462,6 +1808,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u53cb\u91ce\u308b\u3044 (@kyame)",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "SKEL land fixing\n\nIf the metro is the backbone of the city, then the bus network is like the femur."
         },
         {
@@ -1480,7 +1829,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30a2\u30b5\u30cc\u30ce (@asanuno1510)",
-            "notes": "Slot can also be 5W"
+            "alias": "",
+            "position": "86",
+            "rotated": false,
+            "notes": "Slot can also be 5W\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Loong Uk Bottomfeeder",
@@ -1498,6 +1850,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30c0\u30a8 (daenarys)",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "\u7c60\u5c4b (lung4uk1)"
         },
         {
@@ -1516,6 +1871,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "B.c.N.y. (Han-Yuan, Yu)",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "Creature slot"
         },
         {
@@ -1534,6 +1892,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "J3PD (@shdch)",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1552,6 +1913,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "DZR96 (@Danzir96)",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1570,6 +1934,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "131_nngo",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1588,6 +1955,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "J3PD (@shdch)",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1606,6 +1976,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "hajikkoneko",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1624,6 +1997,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "J3PD (@shdch)",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1642,7 +2018,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
-            "notes": "Creature slot"
+            "alias": "",
+            "position": "95",
+            "rotated": false,
+            "notes": "Creature slot\n\n!tokens Employee<1>;"
         },
         {
             "card_name": "Obviate",
@@ -1660,6 +2039,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5343\u591c (@QYSThree)",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1670,14 +2052,17 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.\nTo solve \u2014 You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Legendary creatures you control get +1/+1.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.\nTo solve \u2014 You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Legendary creatures you control get +1/+1. \n",
+            "special_text": "When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.\nTo solve \u2014 You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Legendary creatures you control get +1/+1.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u304a\u3088 (@ohyg3)",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1696,7 +2081,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Paji (@artpaji)",
-            "notes": ""
+            "alias": "",
+            "position": "98",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Light Before Dawn",
@@ -1714,6 +2102,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Frank Sun",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1732,7 +2123,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "JUEEAKI",
-            "notes": ""
+            "alias": "",
+            "position": "100",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Yi Street Hatchling",
@@ -1750,6 +2144,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "orie (@orie_h)",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1768,6 +2165,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "tian yanyan",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1786,6 +2186,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Path to Nowhere Art team",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "\u4e8c\u80e1 (ji6wu2)\n\n\u201cCare to join me for a duet?\u201d"
         },
         {
@@ -1804,6 +2207,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "XinYueTongXing art team",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1822,7 +2228,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5984\u732bSama",
-            "notes": "\u4e07\u722a (maan6 zaau2)"
+            "alias": "",
+            "position": "105",
+            "rotated": false,
+            "notes": "\u4e07\u722a (maan6 zaau2)\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Thirst for Action",
@@ -1840,6 +2249,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "clivef\u68a8\u5b50 (@ChristonClivef)",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1858,6 +2270,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u8b0e\u306e\u4eba (@nznht_7596)",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1876,6 +2291,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u54f2 (@zhesee2003)",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1894,6 +2312,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "wacca (@wacca005)",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1912,6 +2333,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "volcanoyyy",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "SKEL counterspell"
         },
         {
@@ -1922,14 +2346,17 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, put a flying counter on target creature you control.\nTo solve \u2014 You control three or more creatures with flying. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you attack with three or more creatures with flying, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, put a flying counter on target creature you control.\nTo solve \u2014 You control three or more creatures with flying. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you attack with three or more creatures with flying, draw a card.\n",
+            "special_text": "When this Case enters, put a flying counter on target creature you control.\nTo solve \u2014 You control three or more creatures with flying. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you attack with three or more creatures with flying, draw a card.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "jyotadayo",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1948,7 +2375,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30cf\u30c3\u30d4\u30fc (@happy_s_e_t)",
-            "notes": ""
+            "alias": "",
+            "position": "112",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Feathers Above",
@@ -1966,6 +2396,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Frank Sun",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "Creature or Noncreature"
         },
         {
@@ -1984,7 +2417,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "kikivi",
-            "notes": ""
+            "alias": "",
+            "position": "114",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Tepid Middle Manager",
@@ -2002,6 +2438,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Sona (@lnjixn32158862)",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2020,6 +2459,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5728\u671b\u60f3\u6210\u4e3a\u5929\u624d\u5f88\u4e45\u4e86",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2038,6 +2480,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u7709\u7a14 (@aaapair)",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2056,6 +2501,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "tmt (@t0mat0juice)",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2074,6 +2522,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb (@syourinUSK)",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2092,6 +2543,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2110,6 +2564,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u597d\u732b (@hulixiaobai)",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2128,6 +2585,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Sangsoo Jeong (@7200ss)",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2146,6 +2606,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "FAILAN (@gnccj01)",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2164,7 +2627,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "rolo tomassi",
-            "notes": "Card draw (added cost)"
+            "alias": "",
+            "position": "124",
+            "rotated": false,
+            "notes": "Card draw (added cost)\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Haunted Elevator Shaft",
@@ -2174,14 +2640,17 @@
             "number": 90,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, target opponent reveals their hand. You choose a card from it. That player discards that card.\nTo solve \u2014 You have twenty or less cards in your library. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, you lose 2 life and draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, target opponent reveals their hand. You choose a card from it. That player discards that card.\nTo solve \u2014 You have twenty or less cards in your library. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, you lose 2 life and draw a card.\n",
+            "special_text": "When this Case enters, target opponent reveals their hand. You choose a card from it. That player discards that card.\nTo solve \u2014 You have twenty or less cards in your library. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, you lose 2 life and draw a card.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30cf\u30c3\u30d4\u30fc (@happy_s_e_t)",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2200,7 +2669,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30a6\u30df\u4e43 (@uminonew)",
-            "notes": ""
+            "alias": "",
+            "position": "126",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Smoke From Rubble",
@@ -2218,6 +2690,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Frank Sun",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2236,7 +2711,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "m/g (@m_ggggg)",
-            "notes": ""
+            "alias": "",
+            "position": "128",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Paper Pusher Pyromaniac",
@@ -2254,6 +2732,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "kc-rk sl",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2272,6 +2753,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GuiLongChao art team",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "\u821e\u7345 (mou5si1)"
         },
         {
@@ -2290,7 +2774,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GuiLongChao art team",
-            "notes": ""
+            "alias": "",
+            "position": "131",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Hi-score Junkie",
@@ -2308,6 +2795,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Path To Nowhere art team",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2326,6 +2816,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "XinYueTongXing Art Team",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2344,6 +2837,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5984\u732bSama",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "Recrop later"
         },
         {
@@ -2362,6 +2858,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "XinYueTongXing Art Team",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2380,7 +2879,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Tida (@tidapencil)",
-            "notes": ""
+            "alias": "",
+            "position": "136",
+            "rotated": false,
+            "notes": "\n\n!tokens Employee<1>;\n!tokens Fan<1>;"
         },
         {
             "card_name": "Collapse",
@@ -2398,6 +2900,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "tripdancer",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2416,7 +2921,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GuiLongChao Art Team",
-            "notes": ""
+            "alias": "",
+            "position": "138",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<3>;"
         },
         {
             "card_name": "The Girl Who Literally Blew Up",
@@ -2426,14 +2934,17 @@
             "number": 120,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, create a 1/1 black Rogue creature token with \u201cWhen this creature dies, each opponent loses 1 life.\u201d\nTo solve \u2014 You sacrificed a creature this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, this Case deals 1 damage to target opponent.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, create a 1/1 black Rogue creature token with \u201cWhen this creature dies, each opponent loses 1 life.\u201d\nTo solve \u2014 You sacrificed a creature this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, this Case deals 1 damage to target opponent.\n",
+            "special_text": "When this Case enters, create a 1/1 black Rogue creature token with \u201cWhen this creature dies, each opponent loses 1 life.\u201d\nTo solve \u2014 You sacrificed a creature this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep, this Case deals 1 damage to target opponent.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "tuoer_sg",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2452,7 +2963,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e0d\u60f3\u5f53\u753b\u5bb6\u7684Leo",
-            "notes": ""
+            "alias": "",
+            "position": "140",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Fire in the Hole",
@@ -2470,6 +2984,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Frank Sun",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2488,7 +3005,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Path To Nowhere Art Team",
-            "notes": ""
+            "alias": "",
+            "position": "142",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Boomcase Trooper",
@@ -2506,6 +3026,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "XinYueTongXing Art Team",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2524,6 +3047,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u9ad8\u67b6 (@kouka_oekaki)",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2533,15 +3059,18 @@
             "type": "Creature \u2014 Human Performer",
             "number": 148,
             "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "[i]Dynamic[/i] \u2014 Whenever you attack with exactly two creatures or activate your second nonmana ability each turn,",
+            "cost": "{1}{G}",
+            "rules_text": "[i]Dynamic[/i] \u2014 Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, add {C}.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6854\u5e73\u723a (@peikki02)",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2560,6 +3089,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "T5",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2578,6 +3110,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb (@syourinUSK)",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2596,6 +3131,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2614,6 +3152,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u53cb\u91ce\u308b\u3044 (@kyame)",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2632,6 +3173,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "BLACKBOX9158",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "Edit art"
         },
         {
@@ -2650,7 +3194,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u304a\u3088 (@ohyg3)",
-            "notes": ""
+            "alias": "",
+            "position": "151",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "A Small Gesture",
@@ -2668,6 +3215,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "789illust",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2678,14 +3228,17 @@
             "number": 153,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "",
+            "rules_text": "Creature spells you cast cost {1} less to cast.\nTo solve \u2014 There are six or more creature types among creatures you control. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 You may look at the top card of your library any time. You may cast creature spells from the top of your library.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nCreature spells you cast cost {1} less to cast.\nTo solve \u2014 There are six or more creature types among creatures you control. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 You may look at the top card of your library any time. You may cast creature spells from the top of your library.\n",
+            "special_text": "Creature spells you cast cost {1} less to cast.\nTo solve \u2014 There are six or more creature types among creatures you control. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 You may look at the top card of your library any time. You may cast creature spells from the top of your library.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u963f\u8499 (@ameng40418)",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2704,7 +3257,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "gold can",
-            "notes": ""
+            "alias": "",
+            "position": "154",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Roots Among People",
@@ -2722,6 +3278,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Frank Sun",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2740,6 +3299,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "alkaloid (@arreptitii)",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2758,6 +3320,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "yangtuotuo",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2776,7 +3341,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "P99 (@1shtarr)",
-            "notes": ""
+            "alias": "",
+            "position": "158",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Flameblade Elder",
@@ -2794,6 +3362,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "clivef\u68a8\u5b50 (@ChristonClivef)",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "replace this"
         },
         {
@@ -2812,7 +3383,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u304a\u3088 (@ohyg3)",
-            "notes": ""
+            "alias": "",
+            "position": "160",
+            "rotated": false,
+            "notes": "\n\n!tokens Citizen<1>;"
         },
         {
             "card_name": "Tiger Mother",
@@ -2830,7 +3404,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "BLACKBOX9158",
-            "notes": ""
+            "alias": "",
+            "position": "161",
+            "rotated": false,
+            "notes": "\n\n!tokens Citizen<2>;"
         },
         {
             "card_name": "Sluice Slinker",
@@ -2848,7 +3425,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
-            "notes": ""
+            "alias": "",
+            "position": "162",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<2>;"
         },
         {
             "card_name": "Ambitious Ancestseer",
@@ -2866,7 +3446,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "PAPARAYA (@PAPA_RAYA)",
-            "notes": ""
+            "alias": "",
+            "position": "163",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Skyline Exorcist",
@@ -2884,6 +3467,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "xiaofanchuanart",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2902,6 +3488,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3081\u3052 (@megechan)",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2920,7 +3509,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "shishio (@shishio74914872)",
-            "notes": ""
+            "alias": "",
+            "position": "166",
+            "rotated": false,
+            "notes": "\n\n!tokens Citizen<1>;"
         },
         {
             "card_name": "Invisible Skulker",
@@ -2938,6 +3530,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "J3PD (@shdch)",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2956,6 +3551,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Cristina Arenas",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2974,6 +3572,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "\u72d7\u8033 (gau2 ji5)"
         },
         {
@@ -2992,7 +3593,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5e02\u677e\u5c0f\u996d (@shisongxiaofan)",
-            "notes": ""
+            "alias": "",
+            "position": "170",
+            "rotated": false,
+            "notes": "\n\n!tokens Citizen<1>;"
         },
         {
             "card_name": "Ambitious Phlebotomist",
@@ -3010,6 +3614,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u77f3\u7530 (@segu_ishida)",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3028,6 +3635,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "YAZIRI_art",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3046,6 +3656,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Hiromu (@mrym_hrm)",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3064,6 +3677,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GUWEIZ",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "Edit art (cat)"
         },
         {
@@ -3082,6 +3698,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3058\u307f\u306b\u3057\u3058\u307f (@jimini_shijimi)",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3100,6 +3719,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "XinYueTongXing Art Team",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3118,7 +3740,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Nolan Lu",
-            "notes": ""
+            "alias": "",
+            "position": "177",
+            "rotated": false,
+            "notes": "\n\n!tokens Citizen<2>;"
         },
         {
             "card_name": "Frightsteel Amalgam",
@@ -3136,6 +3761,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u53cb\u91ce\u308b\u3044 (@kyame)",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3154,7 +3782,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Path To Nowhere art team",
-            "notes": ""
+            "alias": "",
+            "position": "179",
+            "rotated": false,
+            "notes": "\n\n!tokens Rogue<1>;"
         },
         {
             "card_name": "Backalley Juicesuit",
@@ -3172,6 +3803,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3190,6 +3824,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Pablo Garcia",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3208,6 +3845,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "clivef\u68a8\u5b50 (@ChristonClivef)",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3226,6 +3866,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb (@syourinUSK)",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3244,6 +3887,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u96fb\u9b3c (@denki09)",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3262,7 +3908,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Leonardo Vincent (@levinky_art)",
-            "notes": ""
+            "alias": "",
+            "position": "185",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Otherworld Aegis",
@@ -3272,14 +3921,17 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, exile up to one target creature until this Case leaves the battlefield.\nTo solve \u2014 You control three or more Angels. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 When this Case becomes solved, exile a card it exiled. [i](It no longer returns to the battlefield if this Case leaves.)[/i]\nWhenever an Angel you control attacks, put a +1/+1 counter on target non-Angel creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, exile up to one target creature until this Case leaves the battlefield.\nTo solve \u2014 You control three or more Angels. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 When this Case becomes solved, exile a card it exiled. [i](It no longer returns to the battlefield if this Case leaves.)[/i]\nWhenever an Angel you control attacks, put a +1/+1 counter on target non-Angel creature you control.\n",
+            "special_text": "When this Case enters, exile up to one target creature until this Case leaves the battlefield.\nTo solve \u2014 You control three or more Angels. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 When this Case becomes solved, exile a card it exiled. [i](It no longer returns to the battlefield if this Case leaves.)[/i]\nWhenever an Angel you control attacks, put a +1/+1 counter on target non-Angel creature you control.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "lui_n24",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3298,6 +3950,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u9ad8\u67b6 (@kouka_oekaki)",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3316,6 +3971,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3334,7 +3992,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u56db\u5b57",
-            "notes": ""
+            "alias": "",
+            "position": "189",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Decorated Constable",
@@ -3352,6 +4013,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "XinYueTongXing Art Team",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3370,7 +4034,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Homutan",
-            "notes": ""
+            "alias": "",
+            "position": "191",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "The Fisher Who Caught A Kraken",
@@ -3380,14 +4047,17 @@
             "number": 46,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.\nTo solve \u2014 You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.\nTo solve \u2014 You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.\n",
+            "special_text": "When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.\nTo solve \u2014 You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3058\u307f\u306b\u3057\u3058\u307f (@jimini_shijimi)",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3406,6 +4076,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u9976\u7761 (@nemuiZZZxN)",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3424,6 +4097,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "mitusa (@nonono1900)",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3442,6 +4118,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30a6\u30df\u4e43 (@uminonew)",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3460,6 +4139,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "tuoer_sg",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3478,7 +4160,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "greybookman",
-            "notes": ""
+            "alias": "",
+            "position": "197",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Meeting with the Ambassador",
@@ -3488,14 +4173,17 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, each player sacrifices two creatures.\nTo solve \u2014 You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, each player sacrifices two creatures.\nTo solve \u2014 You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.\n",
+            "special_text": "When this Case enters, each player sacrifices two creatures.\nTo solve \u2014 You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "J3PD (@shdch)",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3514,6 +4202,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3532,6 +4223,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "meltyrice",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3550,7 +4244,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
-            "notes": ""
+            "alias": "",
+            "position": "201",
+            "rotated": false,
+            "notes": "\n\n!tokens Rogue<1>;"
         },
         {
             "card_name": "Haak Gaai Headhunter",
@@ -3568,6 +4265,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u86cb\u5305\u996d_Omuless (@DBF_Omuless)",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3586,7 +4286,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GUWEIZ",
-            "notes": ""
+            "alias": "",
+            "position": "203",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "The Director's Cut",
@@ -3596,14 +4299,17 @@
             "number": 114,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "",
+            "rules_text": "When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.\nTo solve \u2014 You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nWhen this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.\nTo solve \u2014 You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control.\n",
+            "special_text": "When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.\nTo solve \u2014 You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u706b\u5c71 (@volcanoyyy)",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3622,6 +4328,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e0a\u5468 / ShangZhou",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3640,6 +4349,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "101Neg",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3658,7 +4370,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Path To Nowhere art team",
-            "notes": ""
+            "alias": "",
+            "position": "207",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Oukijo's Design",
@@ -3676,6 +4391,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "mira hidume",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3694,7 +4412,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6751\u30ab\u30eb\u30ad (@murakaruki)",
-            "notes": ""
+            "alias": "",
+            "position": "209",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "The Hour of Heroes",
@@ -3704,14 +4425,17 @@
             "number": 151,
             "color_identity": "WUBRG",
             "cost": "{G}",
-            "rules_text": "",
+            "rules_text": "As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.\nTo solve \u2014 You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nAs an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.\nTo solve \u2014 You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.\n",
+            "special_text": "As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.\nTo solve \u2014 You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3058\u307f\u306b\u3057\u3058\u307f (@jimini_shijimi)",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3730,6 +4454,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Toy__e",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3748,7 +4475,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "PAPARAYA (@PAPA_RAYA)",
-            "notes": ""
+            "alias": "",
+            "position": "212",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Mirrored Past",
@@ -3766,6 +4496,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u72fc\u7159\u52d5\u756b (@Wolfsmokestudio)",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3784,6 +4517,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Sethkiel",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3802,6 +4538,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3081\u3044\u3077 (@meipu_hm)",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3820,6 +4559,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Homutan",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "\u8cf4\u54c1\u59a4 (L\u00e0i P\u01d0nY\u00fa) (laai6 ban2jyu4)"
         },
         {
@@ -3838,6 +4580,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u77f3\u539f\u7adc\u4e5f (@curry_and_rice4)",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3856,6 +4601,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "\u5c0f\u69cd (siu2coeng1) & \u5927\u7832 (daai6paau3)"
         },
         {
@@ -3874,6 +4622,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "KIKA55171422",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "\u6a4b\u5148 (Qi\u00e1o Xi\u0101n) & \u6a4b\u540e (Qi\u00e1o H\u00f2u)"
         },
         {
@@ -3892,6 +4643,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "NEKO (@Neko_4cfantasy)",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "\u9ed1\u82b1 (haak1faa1) & \u767d\u96ea (baak6syut3)"
         },
         {
@@ -3902,7 +4656,7 @@
             "number": 220,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "Whenever you sacrifice a Food, Siu Bau & Friendly Jiangshi get +2/+2 until end of turn.\n[+1]: Create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\n[-2], Sacrifice a Food: You gain 3 life and draw a card.",
+            "rules_text": "Whenever you sacrifice a Food, Siu Bau & Friendly Jiangshi get +2/+2 until end of turn.\n[+1]: Create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\n[-2], Sacrifice a Food: You gain 3 life and draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3910,7 +4664,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "user zppp8278",
-            "notes": "\u5c0f\u5305 (siu2baau1)"
+            "alias": "",
+            "position": "221",
+            "rotated": false,
+            "notes": "\u5c0f\u5305 (siu2baau1)\n\n!tokens Food<1>;"
         },
         {
             "card_name": "Mildred & Teresa",
@@ -3928,6 +4685,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\uad6c\ub2c8 (@9guniguni)",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3946,6 +4706,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "kc-rk sl",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "\u7d05\u7dda (hung4sin3) & \u85cd\u6708 (laam4jyut6)"
         },
         {
@@ -3964,7 +4727,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GUWEIZ",
-            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)"
+            "alias": "",
+            "position": "224",
+            "rotated": false,
+            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)\n\n!tokens Rogue<1>;"
         },
         {
             "card_name": "Exorbrother's Judgement",
@@ -3982,6 +4748,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Calamine_Black",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4000,6 +4769,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "M-Alexa",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4018,7 +4790,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Sandara Tang",
-            "notes": ""
+            "alias": "",
+            "position": "227",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Dogged Delinquent",
@@ -4036,6 +4811,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GUWEIZ",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4054,7 +4832,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "chihuchenmiyuheijinxiaotianshi",
-            "notes": ""
+            "alias": "",
+            "position": "229",
+            "rotated": false,
+            "notes": "\n\n!tokens Talisman<1>;"
         },
         {
             "card_name": "Fu Luk Hoarder",
@@ -4072,7 +4853,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5984\u732bSama",
-            "notes": "\u7b26\u7b93 (fu4luk6)"
+            "alias": "",
+            "position": "230",
+            "rotated": false,
+            "notes": "\u7b26\u7b93 (fu4luk6)\n\n!tokens Talisman<2>;"
         },
         {
             "card_name": "Glowbrew Herbologist",
@@ -4090,6 +4874,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Path To Nowhere art team",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4108,6 +4895,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u8336\u4e38\u4e5d (@chamaruk)",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "\u72d0\u72f8 (wu4lei2)"
         },
         {
@@ -4126,6 +4916,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "clivef\u68a8\u5b50 (@ChristonClivef)",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "\u738b\u9756\u96ef (wong4zing6man4)"
         },
         {
@@ -4144,7 +4937,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5343\u57ce (@ChiyotChan)",
-            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)"
+            "alias": "",
+            "position": "234",
+            "rotated": false,
+            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)\n\n!tokens Fan<1>;"
         },
         {
             "card_name": "Urban Labyrinth",
@@ -4162,6 +4958,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6e05\u4e95fen (@fen_fen_fen_fen)",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4180,6 +4979,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Yuumei",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4198,6 +5000,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4eac\u4e00 (@kyouichi_16)",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "edit art"
         },
         {
@@ -4216,6 +5021,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "una (@fluffyblessing)",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4234,6 +5042,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6797\u51ef\u8bfa\u592b",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4252,6 +5063,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "wacca (@wacca005)",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4270,6 +5084,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u7be0\u5bae\u3088\u3046 (@yoh4038)",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4288,6 +5105,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "inika",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4306,6 +5126,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u30a8\u30eb (@erutwd)",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4324,6 +5147,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u3055\u306d\u3052 (@sanegesan)",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4342,6 +5168,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4360,6 +5189,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Z4-zero (@xixiY4)",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4378,6 +5210,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Z4-zero (@xixiY4)",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4396,6 +5231,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4414,6 +5252,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "niy (nenenoa)",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4432,6 +5273,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u6625\u662d (@osamus1s1)",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4450,6 +5294,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Reverse: 1999 Art Team",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4468,7 +5315,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Matcha (@matchach)",
-            "notes": ""
+            "alias": "",
+            "position": "252",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Return of the Ninth Dragon",
@@ -4486,6 +5336,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u767d\u5b87\u5b99 (@albverse)",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4504,6 +5357,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Happy Elements Art Team",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4522,6 +5378,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "dkaism",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4540,6 +5399,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "sieka (piiroinardesco)",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4558,6 +5420,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Path To Nowhere art team",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4576,6 +5441,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u5bfa\u51db\u4e45",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4594,6 +5462,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "lejia chan",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "wu\nur\nrg\ngb\nbw"
         },
         {
@@ -4612,6 +5483,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "blackbox9158",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "Prevent all damage that would be dealt to Hal Sa-yi by sources without first or double strike."
         },
         {
@@ -4630,6 +5504,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u78fa\u57fa\u6c34\u6768\u9178 (@HuangShi_HJSYS)",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4648,6 +5525,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GuiLongChao art team",
+            "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4666,6 +5546,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "Reverse: 1999 art team",
+            "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4684,7 +5567,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GuiLongChao art team",
-            "notes": ""
+            "alias": "",
+            "position": "264",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Tigress of Ng Street",
@@ -4702,6 +5588,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "L\u00e9a Cortinovis",
+            "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4712,7 +5601,7 @@
             "number": 183,
             "color_identity": "WBR",
             "cost": "{2}{R}{W}{B}",
-            "rules_text": "",
+            "rules_text": "Ascend; As long as you have the city's blessing, you may activate Oukijo's loyalty abilities an additional time each turn.\n[+1]: Create a 1/1 red Blood Homunculus artifact creature token with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d\n[-3]: Oukijo deals 3 damage to any target. You gain 3 life.\n[-X]: Return target creature card with mana value X or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Ascend; As long as you have the city's blessing, you may activate Oukijo's loyalty abilities an additional time each turn.\n[+1]: Create a 1/1 red Blood Homunculus artifact creature token with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d\n[-3]: Oukijo deals 3 damage to any target. You gain 3 life.\n[-X]: Return target creature card with mana value X or less from your graveyard to the battlefield.",
@@ -4720,7 +5609,10 @@
             "set": "TOTL",
             "loyalty": "4",
             "artist": "F.K / RAUM (@FK_workid)",
-            "notes": "Popout"
+            "alias": "",
+            "position": "266",
+            "rotated": false,
+            "notes": "Popout\n\n!tokens Blood Homunculus<1>;"
         },
         {
             "card_name": "Collected Casting",
@@ -4738,6 +5630,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u738b\u67d0\u81ea\u6765\u5377",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "Idk maybe change this might be cringe"
         },
         {
@@ -4756,6 +5651,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u767e\u5ddd\u9752\u6e90 (@SeigenMomokawa)",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4774,7 +5672,10 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "daichi59864483",
-            "notes": "edit art"
+            "alias": "",
+            "position": "269",
+            "rotated": false,
+            "notes": ""
         },
         {
             "card_name": "Yesteryear Abyss",
@@ -4792,104 +5693,17 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "GuiLongChao art team",
-            "notes": ""
-        },
-        {
-            "card_name": "Plains",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
-            "number": 267,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOTL",
-            "loyalty": "",
-            "artist": "clivef\u68a8\u5b50 (@ChristonClivef)",
-            "notes": ""
-        },
-        {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Island",
-            "number": 268,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOTL",
-            "loyalty": "",
-            "artist": "\u96fb\u9b3c (@denki09)",
-            "notes": ""
-        },
-        {
-            "card_name": "Swamp",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
-            "number": 269,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOTL",
-            "loyalty": "",
-            "artist": "fateassnight",
-            "notes": ""
-        },
-        {
-            "card_name": "Mountain",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
-            "number": 270,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOTL",
-            "loyalty": "",
-            "artist": "\u4e2d\u5cf6\u307f\u306a\u307f (@nakajimaminami)",
-            "notes": ""
-        },
-        {
-            "card_name": "Forest",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
-            "number": 271,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOTL",
-            "loyalty": "",
-            "artist": "Hiromu (@mrym_hrm)",
-            "notes": ""
+            "alias": "",
+            "position": "270",
+            "rotated": false,
+            "notes": "\n\n!tokens Horror<1>;"
         },
         {
             "card_name": "Blood Homunculus",
             "color": "R",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Blood Homunculus",
-            "number": 4,
+            "number": 6,
             "color_identity": "R",
             "cost": "",
             "rules_text": "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.",
@@ -4900,6 +5714,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "ciloranko",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4907,7 +5724,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Food",
-            "number": 6,
+            "number": 10,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
@@ -4918,6 +5735,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u4e9e\u9580\u5f10\u5f62",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4925,7 +5745,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Talisman",
-            "number": 7,
+            "number": 11,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}. This mana can't be spent to cast spells from your hand.",
@@ -4936,6 +5756,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "fkey123",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4943,7 +5766,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Citizen",
-            "number": 5,
+            "number": 9,
             "color_identity": "G",
             "cost": "",
             "rules_text": "When this creature enters, you gain 1 life.",
@@ -4954,6 +5777,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "tuoer_sg",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4972,6 +5798,9 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "dinsi122",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4979,7 +5808,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Rogue",
-            "number": 3,
+            "number": 5,
             "color_identity": "B",
             "cost": "",
             "rules_text": "When this creature dies, target opponent loses 1 life.",
@@ -4990,6 +5819,93 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u767e\u5ddd\u9752\u6e90 (@SeigenMomokawa)",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Employee",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Employee",
+            "number": 3,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "{T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "\u4e3d\u8d77\u6765\u4e86 (@libuqilai)",
+            "alias": "",
+            "position": "277",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Student",
+            "color": "U",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Student",
+            "number": 4,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "Vigilance",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "Matcha (@matchach)",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Fan",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Fan",
+            "number": 7,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "Haste",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "\u3075\u306b\u30fb\u71219 (@funi_mu9)",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Bear",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Bear",
+            "number": 8,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOTL",
+            "loyalty": "",
+            "artist": "Toy__e",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5008,8 +5924,11 @@
             "set": "TOTL",
             "loyalty": "",
             "artist": "\u96fb\u9b3c (@denki09)",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 6
+    "version": 7
 }

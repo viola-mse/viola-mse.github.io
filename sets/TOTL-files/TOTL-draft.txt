@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"name": "Island",
+			"name": "Island_TOTL",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",

@@ -4641,7 +4641,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Island",
+            "card_name": "Island_TOTL",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Island",
@@ -4659,7 +4659,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "!expoertname Island_TOTL",
+            "notes": "!exportname Island_TOTL",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4797,7 +4797,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "IS talisman maker\n\n!tokens Talisman<1>;",
+            "notes": "IS talisman maker\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4866,7 +4866,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "IS dynamiccycle\nIS wide enabler\nIS ascendd enabler\n\n\u201cYou two clowns can at least do this much, right?\u201d\n\n!tokens Employee<1>;",
+            "notes": "IS dynamiccycle\nIS wide enabler\nIS ascendd enabler\n\n\u201cYou two clowns can at least do this much, right?\u201d\n\n!tokens Employee<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4889,7 +4889,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "IS ascendd enabler\nIS ascendd payoff\n\n!tokens Citizen<1>;",
+            "notes": "IS ascendd enabler\nIS ascendd payoff\n\n!tokens Citizen<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5027,7 +5027,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "SKEL oring\nIS art&ench enabler\nIS wide enabler\n\n\u201cWhere to, siu tse?\u201d\n\u201cAnywhere but here.\u201d\n\n!tokens Citizen<1>;",
+            "notes": "SKEL oring\nIS art&ench enabler\nIS wide enabler\n\n\u201cWhere to, siu tse?\u201d\n\u201cAnywhere but here.\u201d\n\n!tokens Citizen<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5050,7 +5050,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "SKEL combat trick\nSKEL cond. first strike\nIS beseech\n\n!tokens Horror<1>;",
+            "notes": "SKEL combat trick\nSKEL cond. first strike\nIS beseech\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5142,7 +5142,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "SKEL cond. flying (2power)\nIS ramp enabler\nIS activated enabler\nIS talisman maker\n\n\u975a\u4ed4 (leng3 zai2)\n\n!tokens Talisman<1>;",
+            "notes": "SKEL cond. flying (2power)\nIS ramp enabler\nIS activated enabler\nIS talisman maker\n\n\u975a\u4ed4 (leng3 zai2)\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5326,7 +5326,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "SKEL cantrip\nIS ramp payoff\nIS beseech\n\n!tokens Horror<1>;",
+            "notes": "SKEL cantrip\nIS ramp payoff\nIS beseech\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5441,7 +5441,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker\n\n!tokens Horror<1>;",
+            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5464,7 +5464,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "IS talisman maker\nIS ascend enabler\n\n!tokens Talisman<1>;",
+            "notes": "IS talisman maker\nIS ascend enabler\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5671,7 +5671,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>;",
+            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5855,7 +5855,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "IS talisman maker\n\n!tokens Talisman<1>;",
+            "notes": "IS talisman maker\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6016,7 +6016,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>;",
+            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6200,7 +6200,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "IS wide enabler\nIS pair attack enabler\nIS pair attack payoff\n\n!tokens Citizen<1>;",
+            "notes": "IS wide enabler\nIS pair attack enabler\nIS pair attack payoff\n\n!tokens Citizen<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6223,7 +6223,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "IS UG ramp scaler\nIS talisman maker\n\n!tokens Talisman<1>;",
+            "notes": "IS UG ramp scaler\nIS talisman maker\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6315,7 +6315,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "IS wide enabler\n\n!tokens Employee<1>;",
+            "notes": "IS wide enabler\n\n!tokens Employee<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6361,7 +6361,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "SKEL fight\nIS beseech\n\n!tokens Horror<1>;",
+            "notes": "SKEL fight\nIS beseech\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6430,7 +6430,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "SKEL mana acceleration\nIS ramp enabler\n\n!tokens Citizen<1>;",
+            "notes": "SKEL mana acceleration\nIS ramp enabler\n\n!tokens Citizen<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6499,7 +6499,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6614,7 +6614,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "Slot can also be 5W\n\n!tokens Talisman<1>;",
+            "notes": "Slot can also be 5W\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6821,7 +6821,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "Creature slot\n\n!tokens Employee<1>;",
+            "notes": "Creature slot\n\n!tokens Employee<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6890,7 +6890,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6936,7 +6936,7 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7051,7 +7051,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "\u4e07\u722a (maan6 zaau2)\n\n!tokens Horror<1>;",
+            "notes": "\u4e07\u722a (maan6 zaau2)\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7212,7 +7212,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7258,7 +7258,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7488,7 +7488,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "Card draw (added cost)\n\n!tokens Talisman<1>;",
+            "notes": "Card draw (added cost)\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7534,7 +7534,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7580,7 +7580,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7649,7 +7649,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7764,7 +7764,7 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": "\n\n!tokens Employee<1>;\n!tokens Fan<1>;",
+            "notes": "\n\n!tokens Employee<1>\n!tokens Fan<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7810,7 +7810,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<3>;",
+            "notes": "\n\n!tokens Talisman<3>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7856,7 +7856,7 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7902,7 +7902,7 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8109,7 +8109,7 @@
             "alias": "",
             "position": "151",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8178,7 +8178,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8270,7 +8270,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8316,7 +8316,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<1>;",
+            "notes": "\n\n!tokens Citizen<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8339,7 +8339,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<2>;",
+            "notes": "\n\n!tokens Citizen<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8362,7 +8362,7 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<2>;",
+            "notes": "\n\n!tokens Horror<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8385,7 +8385,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8454,7 +8454,7 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<1>;",
+            "notes": "\n\n!tokens Citizen<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8546,7 +8546,7 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<1>;",
+            "notes": "\n\n!tokens Citizen<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8707,7 +8707,7 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<2>;",
+            "notes": "\n\n!tokens Citizen<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8753,7 +8753,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "\n\n!tokens Rogue<1>;",
+            "notes": "\n\n!tokens Rogue<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8891,7 +8891,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8983,7 +8983,7 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9029,7 +9029,7 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9167,7 +9167,7 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9259,7 +9259,7 @@
             "alias": "",
             "position": "201",
             "rotated": false,
-            "notes": "\n\n!tokens Rogue<1>;",
+            "notes": "\n\n!tokens Rogue<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9305,7 +9305,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9397,7 +9397,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9443,7 +9443,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9512,7 +9512,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9719,7 +9719,7 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "\u5c0f\u5305 (siu2baau1)\n\n!tokens Food<1>;",
+            "notes": "\u5c0f\u5305 (siu2baau1)\n\n!tokens Food<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9788,7 +9788,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)\n\n!tokens Rogue<1>;",
+            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)\n\n!tokens Rogue<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9857,7 +9857,7 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9903,7 +9903,7 @@
             "alias": "",
             "position": "229",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;",
+            "notes": "\n\n!tokens Talisman<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9926,7 +9926,7 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": "\u7b26\u7b93 (fu4luk6)\n\n!tokens Talisman<2>;",
+            "notes": "\u7b26\u7b93 (fu4luk6)\n\n!tokens Talisman<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10018,7 +10018,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)\n\n!tokens Fan<1>;",
+            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)\n\n!tokens Fan<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10432,7 +10432,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10708,7 +10708,7 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10754,7 +10754,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "Popout\n\n!tokens Blood Homunculus<1>;",
+            "notes": "Popout\n\n!tokens Blood Homunculus<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10846,7 +10846,7 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;",
+            "notes": "\n\n!tokens Horror<1>",
             "image_type": "png",
             "v_mana": ""
         },

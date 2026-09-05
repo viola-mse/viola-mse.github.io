@@ -1,4 +1,134 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Frostwhip Siu Tse
+
+Slacking Sergeant
+
+Baak Gai Lookout
+
+Trip to Nowhere
+
+Its Fangs Are Sharp as Knives
+
+Featherflutter Leng Zai
+
+Your Thousand Eyes See All
+
+Tsin Shui Invoker
+
+Dark Alley Occultist
+
+Glory Be To Your Radiant Scales
+
+Hauntroom Consultant
+
+Its Thirst is Unquenchable
+
+Luk Gaai Pair
+
+Precinct Eight Muscle
+
+Your Strength Conquers All
+
+Run the Neon Labyrinth
+
+Wind-up Jiangshi
+
+Jiangshi Throng
+
+Late-night Spread
+
+Our Grip Clenches Tightly
+
+Decoy Jiangshi
+
+Maan Tsau Beholder
+
+Their Endless Forms Contort
+
+Innocuous Jiangshi
+
+Spiritual Dispute
+
+Her Gaze Pierces All Veils
+
+Jiangshi Reveler
+
+Kau Street Luckmonger
+
+Lanternlight Rendezvous
+
+Shopping Spree
+
+Your Will Eviscerates All
+
+Curious Jiangshi
+
+Eightwind Nineshield
+
+Your Hunger Growls Echo
+
+Joss Twig Tender
+
+Fwun Sah Taan Everyman
+
+Tiger Mother
+
+Sluice Slinker
+
+Ambitious Ancestseer
+
+Precinct Eight Captain
+
+Citysight Guide
+
+Ambulating Apartment
+
+Junker's Crossbow
+
+Feel Her Angelic Caress
+
+Tiger Point Soothsayer
+
+Your Ancestral Mind Recalls All
+
+Your Blood Is A Feast For Crows
+
+Den of Thieves
+
+May You Glimpse Our Tomorrow
+
+Terre-haute Financier
+
+Its Coil Tightens Inexorably
+
+Traditionalist Ancestseer
+
+Siu Bau & Friendly Jiangshi
+
+Dai Tse & Siu Mui
+
+Their Eons Ought Be Forgotten
+
+Amateur Threadseeker
+
+Fu Luk Hoarder
+
+Lau Dak-wah
+
+She Hides Between Moments
+
+Shadowgloom
+
+Ambassador Oukijo
+
+Yesteryear Abyss
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Employee added.

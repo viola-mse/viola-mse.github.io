@@ -29,7 +29,7 @@
             "notes": "!exportname Plains_TOTL"
         },
         {
-            "card_name": "Island",
+            "card_name": "Island_TOTL",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "!expoertname Island_TOTL"
+            "notes": "!exportname Island_TOTL"
         },
         {
             "card_name": "Swamp_TOTL",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "IS talisman maker\n\n!tokens Talisman<1>;"
+            "notes": "IS talisman maker\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Salaried Seraph",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "IS dynamiccycle\nIS wide enabler\nIS ascendd enabler\n\n\u201cYou two clowns can at least do this much, right?\u201d\n\n!tokens Employee<1>;"
+            "notes": "IS dynamiccycle\nIS wide enabler\nIS ascendd enabler\n\n\u201cYou two clowns can at least do this much, right?\u201d\n\n!tokens Employee<1>"
         },
         {
             "card_name": "Baak Gai Lookout",
@@ -257,7 +257,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "IS ascendd enabler\nIS ascendd payoff\n\n!tokens Citizen<1>;"
+            "notes": "IS ascendd enabler\nIS ascendd payoff\n\n!tokens Citizen<1>"
         },
         {
             "card_name": "Yat Street Colleague",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "SKEL oring\nIS art&ench enabler\nIS wide enabler\n\n\u201cWhere to, siu tse?\u201d\n\u201cAnywhere but here.\u201d\n\n!tokens Citizen<1>;"
+            "notes": "SKEL oring\nIS art&ench enabler\nIS wide enabler\n\n\u201cWhere to, siu tse?\u201d\n\u201cAnywhere but here.\u201d\n\n!tokens Citizen<1>"
         },
         {
             "card_name": "Its Fangs Are Sharp as Knives",
@@ -404,7 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "SKEL combat trick\nSKEL cond. first strike\nIS beseech\n\n!tokens Horror<1>;"
+            "notes": "SKEL combat trick\nSKEL cond. first strike\nIS beseech\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Forbidden Exorsister Technique",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "SKEL cond. flying (2power)\nIS ramp enabler\nIS activated enabler\nIS talisman maker\n\n\u975a\u4ed4 (leng3 zai2)\n\n!tokens Talisman<1>;"
+            "notes": "SKEL cond. flying (2power)\nIS ramp enabler\nIS activated enabler\nIS talisman maker\n\n\u975a\u4ed4 (leng3 zai2)\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Grizzled Gumshoes",
@@ -656,7 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "SKEL cantrip\nIS ramp payoff\nIS beseech\n\n!tokens Horror<1>;"
+            "notes": "SKEL cantrip\nIS ramp payoff\nIS beseech\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Lucky Tile",
@@ -761,7 +761,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker\n\n!tokens Horror<1>;"
+            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Dark Alley Occultist",
@@ -782,7 +782,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "IS talisman maker\nIS ascend enabler\n\n!tokens Talisman<1>;"
+            "notes": "IS talisman maker\nIS ascend enabler\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Corporate Bloodsucker",
@@ -971,7 +971,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>;"
+            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Gambler's Last Roll",
@@ -1139,7 +1139,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "IS talisman maker\n\n!tokens Talisman<1>;"
+            "notes": "IS talisman maker\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Tuftear Denizen",
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>;"
+            "notes": "SKEL combat trick\nIS beseech\n\n!tokens Horror<1>"
         },
         {
             "card_name": "The Craziest Night Ever",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "IS wide enabler\nIS pair attack enabler\nIS pair attack payoff\n\n!tokens Citizen<1>;"
+            "notes": "IS wide enabler\nIS pair attack enabler\nIS pair attack payoff\n\n!tokens Citizen<1>"
         },
         {
             "card_name": "Octogram Tracer",
@@ -1559,7 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "IS wide enabler\n\n!tokens Employee<1>;"
+            "notes": "IS wide enabler\n\n!tokens Employee<1>"
         },
         {
             "card_name": "Steelheight Horror",
@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "SKEL fight\nIS beseech\n\n!tokens Horror<1>;"
+            "notes": "SKEL fight\nIS beseech\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Hirsute Haymaker",
@@ -1664,7 +1664,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "SKEL mana acceleration\nIS ramp enabler\n\n!tokens Citizen<1>;"
+            "notes": "SKEL mana acceleration\nIS ramp enabler\n\n!tokens Citizen<1>"
         },
         {
             "card_name": "Raining Frogs and Toads",
@@ -1727,7 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Mobile Monitor",
@@ -1832,7 +1832,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "Slot can also be 5W\n\n!tokens Talisman<1>;"
+            "notes": "Slot can also be 5W\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Loong Uk Bottomfeeder",
@@ -2021,7 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "Creature slot\n\n!tokens Employee<1>;"
+            "notes": "Creature slot\n\n!tokens Employee<1>"
         },
         {
             "card_name": "Obviate",
@@ -2084,7 +2084,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Light Before Dawn",
@@ -2126,7 +2126,7 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Yi Street Hatchling",
@@ -2231,7 +2231,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "\u4e07\u722a (maan6 zaau2)\n\n!tokens Horror<1>;"
+            "notes": "\u4e07\u722a (maan6 zaau2)\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Thirst for Action",
@@ -2378,7 +2378,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Feathers Above",
@@ -2420,7 +2420,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Tepid Middle Manager",
@@ -2630,7 +2630,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "Card draw (added cost)\n\n!tokens Talisman<1>;"
+            "notes": "Card draw (added cost)\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Haunted Elevator Shaft",
@@ -2672,7 +2672,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Smoke From Rubble",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Paper Pusher Pyromaniac",
@@ -2777,7 +2777,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Hi-score Junkie",
@@ -2882,7 +2882,7 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": "\n\n!tokens Employee<1>;\n!tokens Fan<1>;"
+            "notes": "\n\n!tokens Employee<1>\n!tokens Fan<1>"
         },
         {
             "card_name": "Collapse",
@@ -2924,7 +2924,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<3>;"
+            "notes": "\n\n!tokens Talisman<3>"
         },
         {
             "card_name": "The Girl Who Literally Blew Up",
@@ -2966,7 +2966,7 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Fire in the Hole",
@@ -3008,7 +3008,7 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Boomcase Trooper",
@@ -3197,7 +3197,7 @@
             "alias": "",
             "position": "151",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "A Small Gesture",
@@ -3260,7 +3260,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Roots Among People",
@@ -3344,7 +3344,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Flameblade Elder",
@@ -3386,7 +3386,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<1>;"
+            "notes": "\n\n!tokens Citizen<1>"
         },
         {
             "card_name": "Tiger Mother",
@@ -3407,7 +3407,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<2>;"
+            "notes": "\n\n!tokens Citizen<2>"
         },
         {
             "card_name": "Sluice Slinker",
@@ -3428,7 +3428,7 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<2>;"
+            "notes": "\n\n!tokens Horror<2>"
         },
         {
             "card_name": "Ambitious Ancestseer",
@@ -3449,7 +3449,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Skyline Exorcist",
@@ -3512,7 +3512,7 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<1>;"
+            "notes": "\n\n!tokens Citizen<1>"
         },
         {
             "card_name": "Invisible Skulker",
@@ -3596,7 +3596,7 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<1>;"
+            "notes": "\n\n!tokens Citizen<1>"
         },
         {
             "card_name": "Ambitious Phlebotomist",
@@ -3743,7 +3743,7 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": "\n\n!tokens Citizen<2>;"
+            "notes": "\n\n!tokens Citizen<2>"
         },
         {
             "card_name": "Frightsteel Amalgam",
@@ -3785,7 +3785,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "\n\n!tokens Rogue<1>;"
+            "notes": "\n\n!tokens Rogue<1>"
         },
         {
             "card_name": "Backalley Juicesuit",
@@ -3911,7 +3911,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Otherworld Aegis",
@@ -3995,7 +3995,7 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Decorated Constable",
@@ -4037,7 +4037,7 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "The Fisher Who Caught A Kraken",
@@ -4163,7 +4163,7 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Meeting with the Ambassador",
@@ -4247,7 +4247,7 @@
             "alias": "",
             "position": "201",
             "rotated": false,
-            "notes": "\n\n!tokens Rogue<1>;"
+            "notes": "\n\n!tokens Rogue<1>"
         },
         {
             "card_name": "Haak Gaai Headhunter",
@@ -4289,7 +4289,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "The Director's Cut",
@@ -4373,7 +4373,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Oukijo's Design",
@@ -4415,7 +4415,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "The Hour of Heroes",
@@ -4478,7 +4478,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Mirrored Past",
@@ -4667,7 +4667,7 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "\u5c0f\u5305 (siu2baau1)\n\n!tokens Food<1>;"
+            "notes": "\u5c0f\u5305 (siu2baau1)\n\n!tokens Food<1>"
         },
         {
             "card_name": "Mildred & Teresa",
@@ -4730,7 +4730,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)\n\n!tokens Rogue<1>;"
+            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)\n\n!tokens Rogue<1>"
         },
         {
             "card_name": "Exorbrother's Judgement",
@@ -4793,7 +4793,7 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Dogged Delinquent",
@@ -4835,7 +4835,7 @@
             "alias": "",
             "position": "229",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman<1>;"
+            "notes": "\n\n!tokens Talisman<1>"
         },
         {
             "card_name": "Fu Luk Hoarder",
@@ -4856,7 +4856,7 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": "\u7b26\u7b93 (fu4luk6)\n\n!tokens Talisman<2>;"
+            "notes": "\u7b26\u7b93 (fu4luk6)\n\n!tokens Talisman<2>"
         },
         {
             "card_name": "Glowbrew Herbologist",
@@ -4940,7 +4940,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)\n\n!tokens Fan<1>;"
+            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)\n\n!tokens Fan<1>"
         },
         {
             "card_name": "Urban Labyrinth",
@@ -5318,7 +5318,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Return of the Ninth Dragon",
@@ -5570,7 +5570,7 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Tigress of Ng Street",
@@ -5612,7 +5612,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "Popout\n\n!tokens Blood Homunculus<1>;"
+            "notes": "Popout\n\n!tokens Blood Homunculus<1>"
         },
         {
             "card_name": "Collected Casting",
@@ -5696,7 +5696,7 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": "\n\n!tokens Horror<1>;"
+            "notes": "\n\n!tokens Horror<1>"
         },
         {
             "card_name": "Blood Homunculus",

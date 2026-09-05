@@ -1,4 +1,32 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Octogram Tracer
+
+Blood Homunculus
+
+Food
+
+Talisman
+
+Citizen
+
+Horror
+
+Rogue
+
+Employee
+
+Student
+
+Fan
+
+Bear
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

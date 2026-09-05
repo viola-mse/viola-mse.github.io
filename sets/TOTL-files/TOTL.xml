@@ -4901,6 +4901,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Ambassador Oukijo</reverse-related>
 		</card>
 		<card>
 			<name>Food TOTL</name>
@@ -4916,6 +4917,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<reverse-related>Siu Bau &amp; Friendly Jiangshi</reverse-related>
 		</card>
 		<card>
 			<name>Talisman TOTL</name>
@@ -4931,6 +4933,28 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<reverse-related>Frostwhip Siu Tse</reverse-related>
+			<reverse-related>Featherflutter Leng Zai</reverse-related>
+			<reverse-related>Dark Alley Occultist</reverse-related>
+			<reverse-related>Hauntroom Consultant</reverse-related>
+			<reverse-related>Octogram Tracer</reverse-related>
+			<reverse-related>Wind-up Jiangshi</reverse-related>
+			<reverse-related>Jiangshi Throng</reverse-related>
+			<reverse-related>Decoy Jiangshi</reverse-related>
+			<reverse-related>Innocuous Jiangshi</reverse-related>
+			<reverse-related>Spiritual Dispute</reverse-related>
+			<reverse-related>Jiangshi Reveler</reverse-related>
+			<reverse-related>Kau Street Luckmonger</reverse-related>
+			<reverse-related count="3">Shopping Spree</reverse-related>
+			<reverse-related>Curious Jiangshi</reverse-related>
+			<reverse-related>Eightwind Nineshield</reverse-related>
+			<reverse-related>Joss Twig Tender</reverse-related>
+			<reverse-related>Ambitious Ancestseer</reverse-related>
+			<reverse-related>Tiger Point Soothsayer</reverse-related>
+			<reverse-related>Terre-haute Financier</reverse-related>
+			<reverse-related>Traditionalist Ancestseer</reverse-related>
+			<reverse-related>Amateur Threadseeker</reverse-related>
+			<reverse-related count="2">Fu Luk Hoarder</reverse-related>
 		</card>
 		<card>
 			<name>Citizen TOTL</name>
@@ -4949,6 +4973,15 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Baak Gai Lookout</reverse-related>
+			<reverse-related>Trip to Nowhere</reverse-related>
+			<reverse-related>Luk Gaai Pair</reverse-related>
+			<reverse-related>Run the Neon Labyrinth</reverse-related>
+			<reverse-related>Fwun Sah Taan Everyman</reverse-related>
+			<reverse-related count="2">Tiger Mother</reverse-related>
+			<reverse-related>Precinct Eight Captain</reverse-related>
+			<reverse-related>Citysight Guide</reverse-related>
+			<reverse-related count="2">Ambulating Apartment</reverse-related>
 		</card>
 		<card>
 			<name>Horror TOTL</name>
@@ -4965,6 +4998,28 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Its Fangs Are Sharp as Knives</reverse-related>
+			<reverse-related>Your Thousand Eyes See All</reverse-related>
+			<reverse-related>Tsin Shui Invoker</reverse-related>
+			<reverse-related>Glory Be To Your Radiant Scales</reverse-related>
+			<reverse-related>Its Thirst is Unquenchable</reverse-related>
+			<reverse-related>Your Strength Conquers All</reverse-related>
+			<reverse-related>Our Grip Clenches Tightly</reverse-related>
+			<reverse-related>Maan Tsau Beholder</reverse-related>
+			<reverse-related>Their Endless Forms Contort</reverse-related>
+			<reverse-related>Her Gaze Pierces All Veils</reverse-related>
+			<reverse-related>Your Will Eviscerates All</reverse-related>
+			<reverse-related>Your Hunger Growls Echo</reverse-related>
+			<reverse-related count="2">Sluice Slinker</reverse-related>
+			<reverse-related>Feel Her Angelic Caress</reverse-related>
+			<reverse-related>Your Ancestral Mind Recalls All</reverse-related>
+			<reverse-related>Your Blood Is A Feast For Crows</reverse-related>
+			<reverse-related>May You Glimpse Our Tomorrow</reverse-related>
+			<reverse-related>Its Coil Tightens Inexorably</reverse-related>
+			<reverse-related>Their Eons Ought Be Forgotten</reverse-related>
+			<reverse-related>She Hides Between Moments</reverse-related>
+			<reverse-related>Shadowgloom</reverse-related>
+			<reverse-related>Yesteryear Abyss</reverse-related>
 		</card>
 		<card>
 			<name>Rogue TOTL</name>
@@ -4983,6 +5038,12 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Tetrad Tactics</reverse-related>
+			<reverse-related>Tetrad Recruiter</reverse-related>
+			<reverse-related>The Girl Who Literally Blew Up</reverse-related>
+			<reverse-related>Junker&apos;s Crossbow</reverse-related>
+			<reverse-related>Den of Thieves</reverse-related>
+			<reverse-related>Dai Tse &amp; Siu Mui</reverse-related>
 		</card>
 		<card>
 			<name>Employee TOTL</name>
@@ -5001,6 +5062,10 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Slacking Sergeant</reverse-related>
+			<reverse-related>Precinct Eight Muscle</reverse-related>
+			<reverse-related>Late-night Spread</reverse-related>
+			<reverse-related>Lanternlight Rendezvous</reverse-related>
 		</card>
 		<card>
 			<name>Student TOTL</name>
@@ -5019,6 +5084,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Ancestral Blessing</reverse-related>
 		</card>
 		<card>
 			<name>Fan TOTL</name>
@@ -5036,6 +5102,8 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Lanternlight Rendezvous</reverse-related>
+			<reverse-related>Lau Dak-wah</reverse-related>
 		</card>
 		<card>
 			<name>Bear TOTL</name>
@@ -5054,6 +5122,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Ursa Major</reverse-related>
 		</card>
 		<card>
 			<name>The City&apos;s Blessing TOTL</name>

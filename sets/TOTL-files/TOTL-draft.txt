@@ -1565,7 +1565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Horse Scientist",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://viola-mse.github.io/sets/TOTL-files/img/156.png"
 			}
@@ -1653,7 +1653,7 @@
 		{
 			"name": "Softear Restauranteur",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Cat Citizen",
 			"collector_number": "225",
 			"image_uris": {
@@ -1703,7 +1703,7 @@
 		{
 			"name": "Citysight Guide",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Elf Employee",
 			"collector_number": "190",
 			"image_uris": {
@@ -1721,11 +1721,11 @@
 			}
 		},
 		{
-			"name": "Derelicts Hexapod",
+			"name": "Coalworks Crusher",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{G}",
-			"type": "Creature — Insect Horror",
-			"collector_number": "195",
+			"type": "Creature — Serpent Horror",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://viola-mse.github.io/sets/TOTL-files/img/172.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://viola-mse.github.io/sets/TOTL-files/img/174.png"
 			}
@@ -1753,7 +1753,7 @@
 		{
 			"name": "Cha Siu Butcher",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "Creature — Azra Employee",
 			"collector_number": "189",
 			"image_uris": {
@@ -2245,7 +2245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Rogue Advisor",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://viola-mse.github.io/sets/TOTL-files/img/224.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://viola-mse.github.io/sets/TOTL-files/img/267.png"
 			}
@@ -2996,7 +2996,7 @@
 	4 Gau Yi Ride or Die
 	4 Citysight Guide
 	4 Ambitious Phlebotomist
-	4 Derelicts Hexapod
+	4 Coalworks Crusher
 	4 Dreambreacher
 	4 Commuting Arcanist
 	4 Cha Siu Butcher
@@ -3341,7 +3341,7 @@
 	6 Gau Yi Ride or Die
 	6 Citysight Guide
 	6 Ambitious Phlebotomist
-	6 Derelicts Hexapod
+	6 Coalworks Crusher
 	6 Dreambreacher
 	6 Commuting Arcanist
 	6 Cha Siu Butcher
@@ -3608,7 +3608,7 @@
 	15 Gau Yi Ride or Die
 	15 Citysight Guide
 	15 Ambitious Phlebotomist
-	15 Derelicts Hexapod
+	15 Coalworks Crusher
 	15 Dreambreacher
 	15 Commuting Arcanist
 	15 Cha Siu Butcher

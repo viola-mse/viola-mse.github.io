@@ -1,4 +1,209 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Coalworks Crusher added.
+
+Derelicts Hexapod removed.
+
+Altimancy
+
+Dark Alley Occultist
+
+Melting Grimace
+
+Octogram Tracer
+
+Steelheight Horror
+
+Run the Neon Labyrinth
+
+Ancestral Blessing
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+{1}{U}, Discard this card: Create a 1/1 blue Student creature token with vigilance.
+You may cast this spell from your graveyard. If you do, it enters with a finality counter on it. => Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+{1}{U}, Discard this card: Create a 1/1 blue Student creature token with vigilance.
+You may cast this spell from your graveyard. If you do, it enters with a finality counter on it. [i](If a permanent with a finality counter on it would be put into a graveyard, exile it instead.)[/i]
+
+Relaxed Rookies
+
+Cloudcrawler
+
+Light Before Dawn
+
+Maan Tsau Beholder
+rules_text: This spell costs {1} less to cast for each card you looked at while surveiling this turn.
+When this creature dies, create a 4/3 colorless Horror creature token. => This spell costs {1} less to cast for each card you looked at while surveiling 
+this turn.
+When this creature dies, create a 4/3 colorless Horror creature token.
+
+Gutter Line Cyclops
+
+Disvertebrate
+
+Drown in Smoke
+
+Spiritual Dispute
+
+Mou Sze Dancer
+
+Two-headed Crawler
+
+Collapse
+rules_text: Choose one —
+• Destroy target artifact.
+• This spell deals 2 damage to each creature. => Choose one —
+• Destroy target artifact.
+• Collapse deals 2 damage to each creature.
+
+Fire in the Hole
+
+Boomcase Trooper
+rules_text: Vigilance, reach
+{2}{R}: If this creature doesn't have decayed, it gets +5/+0 and gains trample, haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Vigilance, reach
+{2}{R}: If this creature doesn't have decayed, it gets +5/+0 and gains trample, haste and decayed until end of turn. Activate only as a sorcery. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Zaai Sing Curio Hawker
+
+Goldmane Dancer
+rules_text: [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, add {C}. => [i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, add {C}{C}. This mana can't be spent to cast spells from your hand. Until end of turn, you don't lose this mana as steps and phases end.
+
+Ng Street Local
+
+Tetrad's Fist
+rules_text: When this creature enters, it fights up to one target creature.
+Whenever you attack with exactly two creatures, if this creature isn't tapped and didn't enter this turn, you may have it become tapped and attacking. => When this creature enters, it fights up to one target creature.
+Whenever you attack with exactly two creatures, if this creature is untapped and didn't enter this turn, you may have it become tapped and attacking. If it has vigilance, untap it.
+
+Eightwind Nineshield
+
+Fwun Sah Taan Everyman
+rules_text: When this creature enters, you gain 1 life.
+When this creature enters, create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” => When this creature enters, create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.”
+{T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+Tiger Mother
+rules_text: When this creature enters, create two 1/1 green Citizen creature tokens with “When this creature enters, you gain 1 life.”
+At the beginning of your combat, you may pay 1 life. If you do, put a +1/+1 counter on another target creature. => When this creature enters, create two 1/1 green Citizen creature tokens with “When this creature enters, you gain 1 life.”
+Whenever you attack, you may pay 1 life. If you do, put a +1/+1 counter on another target creature.
+
+Sluice Slinker
+
+Ambitious Ancestseer
+
+Skyline Exorcist
+
+Softear Restauranteur
+cost: {R}{W} => {1}{R}{W}
+rules_text: Whenever this creature enters or attacks, put up to one target card from your graveyard onto the bottom of your library.
+During your turn, this creature gets +1/+0 for each card that left your graveyard this turn. => Whenever this creature enters or attacks, put up to one target card from your graveyard onto the bottom of your library.
+Once each turn, whenever one or more cards leave your graveyard, this creature gets +2/+0 until end of turn.
+
+Precinct Eight Captain
+
+Tetrad Dragoncloak
+
+Gau Yi Ride or Die
+
+Citysight Guide
+cost: {1}{G}{W} => {2}{G}{W}
+pt: 2/2 => 3/3
+
+Cha Siu Butcher
+cost: {1}{R}{W} => {R}{W}
+rules_text: Lifelink
+Once each turn, whenever one or more cards leave your graveyard, this creature deals that much damage to target player. => Lifelink
+Once each turn, whenever one or more cards leave your graveyard, this creature deals 1 damage to target player.
+pt: 2/3 => 2/2
+
+Paper Dragon
+
+Ambulating Apartment
+
+Frightsteel Amalgam
+
+Backalley Juicesuit
+rules_text: Whenever equipped creature attacks, put a stun counter on it.
+Equipped creature gets +3/+3 and has menace.
+Equip {2}. This ability costs {2} less to activate if this Equipment entered this turn. => As this Equipment enters, you may activate its equip ability without paying its cost.
+Whenever equipped creature attacks, put a stun counter on it.
+Equipped creature gets +3/+3 and has menace.
+Equip {2}
+
+Whitesmoke Jar
+rules_text: {T}: Exile target card from a graveyard.
+{T}: Target opponent loses 1 life and you gain 1 life. Activate only if there are three or more cards exiled with this artifact. => {T}: Exile target card from a graveyard.
+{T}: Target opponent loses 1 life and you gain 1 life. Activate only if there are four or more cards exiled with this artifact.
+
+Meeting with the Ambassador
+rules_text: When this Case enters, each player sacrifices two creatures.
+To solve — You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life. => When this Case enters, each player sacrifices two creatures.
+To solve — You control a planeswalker. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.
+special_text: When this Case enters, each player sacrifices two creatures.
+To solve — You control one or more planeswalkers. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life. => When this Case enters, each player sacrifices two creatures.
+To solve — You control a planeswalker. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.
+
+Trumpet of the Void
+rules_text: Attacking creatures you control get +1/+0.
+Whenever a creature you control with power 4 or greater attacks, mill a card. You may play it until end of turn. => Other attacking creatures you control get +1/+0.
+Whenever a creature you control with power 4 or greater attacks, mill a card. You may play it until end of turn.
+
+Terre-haute Financier
+rules_text: Once each turn, whenever you cast a spell that's two or more colors, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{R}, {T}: Add {W}{U}{B}{R}{G}. => Once each turn, whenever you cast a multicolored spell, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{R}, {T}: Add {W}{U}{B}{R}{G}.
+
+Oukijo's Design
+
+Ursa Major
+
+Traditionalist Ancestseer
+rules_text: Whenever you play a basic land card, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{G}: Target land you control becomes a 3/3 creature with “When this creature leaves the battlefield, return it to your hand.” It's still a land. Activate only as a sorcery. => Whenever you play a basic land, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{G}: Target land you control becomes a 3/3 creature with “When this creature leaves the battlefield, return it to your hand.” It's still a land. Activate only as a sorcery.
+
+Dogged Delinquent
+pt: 3/3 => 3/2
+
+Urban Labyrinth
+
+Greysky Umbrella
+rules_text: Flash
+When this Equipment enters, you may attach it to target creature you control. When you do, you may counter target spell or ability that targets equipped creature.
+Equipped creature has ward {2}
+Equip {3} => Flash
+As this Equipment enters, you may activate its equip ability without paying its cost.
+Equipped creature has hexproof.
+Equip {3}
+
+l0v3m4ch1n3
+rules_text: {X}, Sacrifice an artifact with mana value X: Create X tokens that are copies of this creature.
+{X}, Sacrifice this creature: Gain control of target artifact with mana value X until end of turn. => {X}, Sacrifice a non-Error artifact with mana value X: Create X tokens that are copies of this creature. They can't block this turn.
+
+Blood Homunculus
+
+Food
+
+Talisman
+
+Citizen
+
+Horror
+
+Rogue
+
+Employee
+
+Fan
+pt:  => 1/1
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

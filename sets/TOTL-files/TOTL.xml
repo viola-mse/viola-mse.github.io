@@ -5,7 +5,7 @@
 			<name>TOTL</name>
 			<longname>Towers of Tin Lau</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-09-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1596,7 +1596,7 @@ When this creature dies, search your library for a card named Jiangshi Throng, r
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has flying.
 {1}{U}, Discard this card: Create a 1/1 blue Student creature token with vigilance.
-You may cast this spell from your graveyard. If you do, it enters with a finality counter on it.</text>
+You may cast this spell from your graveyard. If you do, it enters with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard, exile it instead.)</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/88.png" num="1">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1906,7 +1906,8 @@ This creature enters tapped with three stun counters on it unless you have the c
 		</card>
 		<card>
 			<name>Maan Tsau Beholder</name>
-			<text>This spell costs {1} less to cast for each card you looked at while surveiling this turn.
+			<text>This spell costs {1} less to cast for each card you looked at while surveiling 
+this turn.
 When this creature dies, create a 4/3 colorless Horror creature token.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/105.png" num="53">TOTL</set>
 			<prop>
@@ -2483,7 +2484,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 			<name>Collapse</name>
 			<text>Choose one —
 • Destroy target artifact.
-• This spell deals 2 damage to each creature.</text>
+• Collapse deals 2 damage to each creature.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/137.png" num="112">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2591,7 +2592,7 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 		<card>
 			<name>Boomcase Trooper</name>
 			<text>Vigilance, reach
-{2}{R}: If this creature doesn&apos;t have decayed, it gets +5/+0 and gains trample, haste and decayed until end of turn. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+{2}{R}: If this creature doesn&apos;t have decayed, it gets +5/+0 and gains trample, haste and decayed until end of turn. Activate only as a sorcery. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/143.png" num="145">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2625,7 +2626,7 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 		</card>
 		<card>
 			<name>Goldmane Dancer</name>
-			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, add {C}.</text>
+			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, add {C}{C}. This mana can&apos;t be spent to cast spells from your hand. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/145.png" num="148">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2697,7 +2698,7 @@ When this creature enters, destroy up to one target artifact or enchantment.</te
 		<card>
 			<name>Tetrad&apos;s Fist</name>
 			<text>When this creature enters, it fights up to one target creature.
-Whenever you attack with exactly two creatures, if this creature isn&apos;t tapped and didn&apos;t enter this turn, you may have it become tapped and attacking.</text>
+Whenever you attack with exactly two creatures, if this creature is untapped and didn&apos;t enter this turn, you may have it become tapped and attacking. If it has vigilance, untap it.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/149.png" num="170">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2823,7 +2824,7 @@ Beseech {3}{G}{G} (You may cast this card from your graveyard as a sorcery for i
 			<name>Curious Pair</name>
 			<text>Vigilance
 When this creature enters, search your library for an artifact or enchantment card, reveal it and shuffle. Put that card onto the battlefield if its mana value is 2 or less. Otherwise, put it into your hand.</text>
-			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/156.png" num="193">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/156.png" num="194">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2894,8 +2895,8 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 		</card>
 		<card>
 			<name>Fwun Sah Taan Everyman</name>
-			<text>When this creature enters, you gain 1 life.
-When this creature enters, create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot;</text>
+			<text>When this creature enters, create a 1/1 green Citizen creature token with &quot;When this creature enters, you gain 1 life.&quot;
+{T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/160.png" num="202">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2914,7 +2915,7 @@ When this creature enters, create a 1/1 green Citizen creature token with &quot;
 		<card>
 			<name>Tiger Mother</name>
 			<text>When this creature enters, create two 1/1 green Citizen creature tokens with &quot;When this creature enters, you gain 1 life.&quot;
-At the beginning of your combat, you may pay 1 life. If you do, put a +1/+1 counter on another target creature.</text>
+Whenever you attack, you may pay 1 life. If you do, put a +1/+1 counter on another target creature.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/161.png" num="230">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2989,15 +2990,15 @@ Talismans you control have &quot;{1}, {T}: Add {G}{U}.&quot;</text>
 		<card>
 			<name>Softear Restauranteur</name>
 			<text>Whenever this creature enters or attacks, put up to one target card from your graveyard onto the bottom of your library.
-During your turn, this creature gets +1/+0 for each card that left your graveyard this turn.</text>
+Once each turn, whenever one or more cards leave your graveyard, this creature gets +2/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/165.png" num="225">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Cat Citizen</type>
 				<maintype>Creature</maintype>
-				<manacost>RW</manacost>
-				<cmc>2</cmc>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>2/3</pt>
@@ -3086,11 +3087,11 @@ When this creature dies, put its counters on up to one target creature.</text>
 				<side>front</side>
 				<type>Creature — Elf Employee</type>
 				<maintype>Creature</maintype>
-				<manacost>1GW</manacost>
-				<cmc>3</cmc>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">Citizen</related>
@@ -3115,15 +3116,15 @@ Whenever this creature deals damage to a noncreature permanent or player, you ma
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Derelicts Hexapod</name>
+			<name>Coalworks Crusher</name>
 			<text>Affinity for Horrors (This spell costs {1} less to cast for each Horror you control.)
 Trample
 Other Horrors you control have trample.</text>
-			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/172.png" num="195">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/172.png" num="191">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Insect Horror</type>
+				<type>Creature — Serpent Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>4BG</manacost>
 				<cmc>6</cmc>
@@ -3155,7 +3156,7 @@ When this creature enters, draw a card. You may play an additional land this tur
 		<card>
 			<name>Commuting Arcanist</name>
 			<text>Dynamic — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, mill a card. You may play that card this turn. It costs {1} less to cast for each nonmana ability you activated this turn.</text>
-			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/174.png" num="192">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/174.png" num="193">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3172,18 +3173,18 @@ When this creature enters, draw a card. You may play an additional land this tur
 		<card>
 			<name>Cha Siu Butcher</name>
 			<text>Lifelink
-Once each turn, whenever one or more cards leave your graveyard, this creature deals that much damage to target player.</text>
+Once each turn, whenever one or more cards leave your graveyard, this creature deals 1 damage to target player.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/175.png" num="189">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Azra Employee</type>
 				<maintype>Creature</maintype>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3254,9 +3255,10 @@ Equip {1}</text>
 		</card>
 		<card>
 			<name>Backalley Juicesuit</name>
-			<text>Whenever equipped creature attacks, put a stun counter on it.
+			<text>As this Equipment enters, you may activate its equip ability without paying its cost.
+Whenever equipped creature attacks, put a stun counter on it.
 Equipped creature gets +3/+3 and has menace.
-Equip {2}. This ability costs {2} less to activate if this Equipment entered this turn.</text>
+Equip {2}</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/180.png" num="237">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3289,7 +3291,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Whitesmoke Jar</name>
 			<text>{T}: Exile target card from a graveyard.
-{T}: Target opponent loses 1 life and you gain 1 life. Activate only if there are three or more cards exiled with this artifact.</text>
+{T}: Target opponent loses 1 life and you gain 1 life. Activate only if there are four or more cards exiled with this artifact.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/182.png" num="252">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3575,7 +3577,7 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 		<card>
 			<name>Meeting with the Ambassador</name>
 			<text>When this Case enters, each player sacrifices two creatures.
-To solve — You control one or more planeswalkers. (If unsolved, solve at the beginning of your end step.)
+To solve — You control a planeswalker. (If unsolved, solve at the beginning of your end step.)
 Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/198.png" num="94">TOTL</set>
 			<prop>
@@ -3698,7 +3700,7 @@ Solved — At the beginning of your upkeep you may sacrifice an artifact. If you
 		</card>
 		<card>
 			<name>Trumpet of the Void</name>
-			<text>Attacking creatures you control get +1/+0.
+			<text>Other attacking creatures you control get +1/+0.
 Whenever a creature you control with power 4 or greater attacks, mill a card. You may play it until end of turn.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/205.png" num="141">TOTL</set>
 			<prop>
@@ -3735,7 +3737,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 		</card>
 		<card>
 			<name>Terre-haute Financier</name>
-			<text>Once each turn, whenever you cast a spell that&apos;s two or more colors, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
+			<text>Once each turn, whenever you cast a multicolored spell, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {3}{R}, {T}: Add {W}{U}{B}{R}{G}.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/207.png" num="139">TOTL</set>
 			<prop>
@@ -3825,7 +3827,7 @@ When this creature dies, create three 2/2 green Bear creature tokens.</text>
 		</card>
 		<card>
 			<name>Traditionalist Ancestseer</name>
-			<text>Whenever you play a basic land card, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
+			<text>Whenever you play a basic land, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
 {3}{G}: Target land you control becomes a 3/3 creature with &quot;When this creature leaves the battlefield, return it to your hand.&quot; It&apos;s still a land. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/212.png" num="173">TOTL</set>
 			<prop>
@@ -4056,7 +4058,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 			<text>Other Rogues and Employees you control get +1/+1.
 [+1]: Target creature gains haste and lifelink until end of turn.
 [-1]: Create a 1/1 black Rogue creature token with &quot;When this creature dies, target opponent loses 1 life.&quot;</text>
-			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/224.png" num="194">TOTL</set>
+			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/224.png" num="195">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4138,7 +4140,7 @@ When this creature enters, reveal the top card of your library until you reveal 
 				<cmc>4</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4294,8 +4296,8 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Greysky Umbrella</name>
 			<text>Flash
-When this Equipment enters, you may attach it to target creature you control. When you do, you may counter target spell or ability that targets equipped creature.
-Equipped creature has ward {2}
+As this Equipment enters, you may activate its equip ability without paying its cost.
+Equipped creature has hexproof.
 Equip {3}</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/237.png" num="239">TOTL</set>
 			<prop>
@@ -4310,8 +4312,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>l0v3m4ch1n3</name>
-			<text>{X}, Sacrifice an artifact with mana value X: Create X tokens that are copies of this creature.
-{X}, Sacrifice this creature: Gain control of target artifact with mana value X until end of turn.</text>
+			<text>{X}, Sacrifice a non-Error artifact with mana value X: Create X tokens that are copies of this creature. They can&apos;t block this turn.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/238.png" num="243">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -4820,7 +4821,7 @@ Whenever this creature attacks, you may discard a card. If you do, draw a card a
 		<card>
 			<name>Collected Casting</name>
 			<text>Look at the top six cards of your library. Reveal up to two cards among them with activated abilities. Put up to two permanent cards with mana value 3 or less from among them onto the battlefield. Put any other cards revealed this way into your hand. Shuffle the rest onto the bottom of your library.</text>
-			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/267.png" num="191">TOTL</set>
+			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/267.png" num="192">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5099,6 +5100,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 				<cmc>0</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>

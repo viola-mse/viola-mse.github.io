@@ -1574,7 +1574,7 @@
     },
     {
         "card_name": "Curious Pair",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1686,7 +1686,7 @@
     },
     {
         "card_name": "Dai Tse & Siu Mui",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1781,8 +1781,8 @@
         "position": "171"
     },
     {
-        "card_name": "Derelicts Hexapod",
-        "number": 195,
+        "card_name": "Coalworks Crusher",
+        "number": 191,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1798,7 +1798,7 @@
     },
     {
         "card_name": "Commuting Arcanist",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1922,7 +1922,7 @@
     },
     {
         "card_name": "Collected Casting",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,

@@ -1,4 +1,388 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Fwun Sah Drycleaner added.
+Treasure added.
+
+Fwun Sha Drycleaner removed.
+Bear removed.
+
+Frostwhip Siu Tse
+
+Salaried Seraph
+
+Fwun Sah Invoker
+rules_text: Vigilance
+{7}{W}: You gain 8 life. => Vigilance
+{7}{W}: This creature and up to one other target creature each get +3/+3 until 
+end of turn.
+
+Slacking Sergeant
+
+Baak Gai Lookout
+
+Trip to Nowhere
+
+Its Fangs Are Sharp as Knives
+rules_text: Put a +1/+1 counter and a first strike counter on target creature or on the Horror you besought.
+Beseech {4}{W}{W} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Put a +1/+1 counter on target creature or on the Horror you besought. It gains first strike until end of turn.
+Beseech {4}{W}{W} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Featherflutter Leng Zai
+
+Ghostfish
+
+Rise Above
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+This spell costs {1} less to cast if you have the city's blessing.
+Counter target spell. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+This spell costs {1} less to cast if you have the city's blessing or control ten or more permanents.
+Counter target spell.
+
+Your Thousand Eyes See All
+
+Tsin Shui Invoker
+
+Dark Alley Occultist
+
+Corporate Bloodsucker
+
+Haak Gaai Gourmands
+
+Glory Be To Your Radiant Scales
+
+Hauntroom Consultant
+
+Brighthorn Itinerant
+
+Ghost Chit Ignition
+rules_text: As an additional cost to cast this spell, you may exile a card from your graveyard.
+This spell deals 2 damage to target creature. If you paid the additional cost, it deals 3 damage instead. => As an additional cost to cast this spell, you may exile three cards from your graveyard.
+This spell deals 2 damage to any nonplayer target. If you paid the additional cost, it deals 3 damage instead.
+
+Its Thirst is Unquenchable
+
+Tetrad Tactics
+
+Luk Gaai Pair
+
+Octogram Tracer
+
+Work Horse
+
+Precinct Eight Muscle
+
+Your Strength Conquers All
+
+Skyscrape
+
+Run the Neon Labyrinth
+
+Wind-up Jiangshi
+
+Jiangshi Throng
+
+Ancestral Blessing
+
+Leuk Street Tagger
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+When this creature enters, put a +1/+1 on another target creature you control. If you have the city's blessing, put a +1/+1 counter on each other creature you control instead. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+When this creature enters, put a +1/+1 on target creature you control. If you have the city's blessing, also put a +1/+1 counter on each other creature you control.
+
+Late-night Spread
+
+Obviate
+
+Our Grip Clenches Tightly
+
+Decoy Jiangshi
+
+Tsat Street Commuter
+
+Maan Tsau Beholder
+
+Curated Display
+rules_text: When this artifact enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{3}{U}, {T}, Sacrifice this artifact: Draw two cards. Activate only if you control an enchantment. => When this artifact enters, surveil 1. If you control an enchantment, surveil 2 instead. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{3}{U}, {T}, Sacrifice this artifact: Draw two cards. This ability costs {1} less to activate if you control an enchantment.
+
+Stop
+rules_text: Counter target spell, activated ability or triggered ability. Draw a card unless a spell that was cast from its owner's hand was countered this way. => Counter target spell, activated ability or triggered ability from a nonland source. Draw a card unless a spell that was cast from its owner's hand was countered this way.
+
+Their Endless Forms Contort
+
+Innocuous Jiangshi
+
+Tetrad Recruiter
+
+Ascended Giganform
+
+Cadavermancy
+
+Spiritual Dispute
+
+Her Gaze Pierces All Veils
+
+Jiangshi Reveler
+pt: 3/3 => 3/2
+
+Kau Street Luckmonger
+
+Hi-score Junkie
+
+Filmsnap Addict
+rules_text: When this creature enters, return up to one target instant or sorcery card from your graveyard to your hand. => When this creature enters, return target instant or sorcery card from your graveyard or exiled card with beseech you own to your hand.
+
+Lanternlight Rendezvous
+
+Shopping Spree
+
+The Girl Who Literally Blew Up
+
+Your Will Eviscerates All
+
+Curious Jiangshi
+
+Ng Street Local
+
+Eightwind Nineshield
+
+Your Hunger Growls Echo
+
+Curious Pair
+pt: 3/4 => 3/3
+
+Joss Twig Tender
+
+Fwun Sah Taan Everyman
+
+Tiger Mother
+
+Sluice Slinker
+
+Ambitious Ancestseer
+
+Precinct Eight Captain
+
+Citysight Guide
+
+Ambitious Phlebotomist
+
+Ambulating Apartment
+
+Junker's Crossbow
+rules_text: When this Equipment enters, create a 1/1 black Rogue creature token with “When this creature dies, it deals 1 damage to target opponent.” and attach this Equipment to it.
+Equipped creature gets +1/+1 and has reach.
+Equip {1} => When this Equipment enters, create a 1/1 black Rogue creature token with “When this creature dies, target opponent loses 1 life.” and attach this Equipment to it.
+Equipped creature gets +1/+1 and has reach.
+Equip {1}
+
+Feel Her Angelic Caress
+
+Tiger Point Soothsayer
+rules_text: When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{1}, {T}: Choose a creature type. Prevent all damage that would be dealt to target creature by creatures of the chosen type until end of turn. => When this creature enters, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{2}, {T}: Choose a color. Another target creature gains hexproof from that color until end of turn and can't be blocked by creatures of that color this turn.
+
+Decorated Constable
+
+Your Ancestral Mind Recalls All
+
+The Fisher Who Caught A Kraken
+rules_text: When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast. => When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — There are eight or more permanent cards in your graveyard. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend 5 or more mana to cast a creature spell, draw a card.
+special_text: When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — You drew four or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast. => When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
+To solve — There are eight or more permanent cards in your graveyard. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend 5 or more mana to cast a creature spell, draw a card.
+
+Stew
+
+Melanchozoa
+rules_text: Flying
+When this creature enters, draw a card.
+When this creature leaves the battlefield, shuffle it into its owner's library. => Flying
+When this creature enters, draw a card.
+If this creature would the battlefield, shuffle it into its owner's library instead.
+
+Your Blood Is A Feast For Crows
+
+Meeting with the Ambassador
+rules_text: When this Case enters, each player sacrifices two creatures.
+To solve — You control a planeswalker. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life. => When this Case enters, if you cast it, each player sacrifices two creatures.
+To solve — You control a planeswalker. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.
+special_text: When this Case enters, each player sacrifices two creatures.
+To solve — You control a planeswalker. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life. => When this Case enters, if you cast it, each player sacrifices two creatures.
+To solve — You control a planeswalker. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.
+
+Den of Thieves
+
+Haak Gaai Headhunter
+rules_text: When this creature enters, exile up to one target card from a graveyard. As long as you control this creature, you may play a copy of that card. [i](A copy of a permanent card enters as a token.)[/i] => When this creature enters, exile up to one target card from a graveyard. As long as that card is a creature card you own and you control this creature, you may play a copy of that card. [i](A copy of a permanent card enters as a token.)[/i]
+
+May You Glimpse Our Tomorrow
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw a card, then mill a card. You may play it this turn.
+Beseech {3}{R}{R} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Mill a card. You may play it this turn.
+Beseech—{3}{R}{R}, Discard a card. [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+The Director's Cut
+cost: {3}{R} => {2}{R}
+rules_text: When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control. => {4}{R}: Exile target creature card from your graveyard. Create a token that's a copy of it, except it's an artifact in addition to its other types. It gains haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, you may activate one of this Case's nonmana abilities without paying the cost.
+special_text: When this Case enters, create a token that's a copy of target creature card in your graveyard, except it's an artifact and it loses all other card types.
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don't, you may discard a card. If you do, create a token that's a copy of target artifact you control. => {4}{R}: Exile target creature card from your graveyard. Create a token that's a copy of it, except it's an artifact in addition to its other types. It gains haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+To solve — You control four or more tokens with different names. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, you may activate one of this Case's nonmana abilities without paying the cost.
+
+Lavabat Hooligan
+cost: {1}{R} => {2}{R}
+pt: 2/2 => 3/3
+
+Terre-haute Financier
+
+Its Coil Tightens Inexorably
+
+Ursa Major
+
+Traditionalist Ancestseer
+rules_text: Whenever you play a basic land, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{G}: Target land you control becomes a 3/3 creature with “When this creature leaves the battlefield, return it to your hand.” It's still a land. Activate only as a sorcery. => Whenever you play a basic land, create a tapped Talisman token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{3}{G}: Target land you control becomes a 3/3 creature with “If this creature would leave the battlefield, return it to your hand instead.” It's
+still a land. Activate only as a sorcery.
+
+Akane & Kurone
+rules_text: Menace
+[+1], Pay 3 life, discard a card or sacrifice a nonland permanent: Target opponent loses 3 life, discards a card and sacrifices a nonland permanent.
+[-2]: You gain 3 life, draw a card and create a tapped Treasure token. => Menace
+[+1]: You may pay 3 life, discard a card or sacrifice a nonland permanent. If you do, target opponent loses 3 life, discards a card, and sacrifices a nonland permanent.
+[-2]: You gain 3 life, draw a card and create a tapped Treasure token.
+pt: 4/4 => 4/3
+
+Siu Bau & Friendly Jiangshi
+
+Mildred & Teresa
+rules_text: When Mildred & Teresa enter, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+[+1]: Target enchantment you control becomes a 3/3 creature in addition to its other types and gains “When this creature dies, return it to its owner's hand.” until end of turn.
+[-2]: Create a token that's a copy of target enchantment you control. => When Mildred & Teresa enter, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+[+1]: Target enchantment you control becomes a 3/3 creature in addition to its other types and gains “If this creature would leave the battlefield, return it to its owner's hand instead.” until end of turn.
+[-2]: Create a token that's a copy of target enchantment you control.
+
+Dai Tse & Siu Mui
+
+Their Eons Ought Be Forgotten
+
+Dogged Delinquent
+rules_text: Haste
+When this creature enters, reveal the top card of your library until you reveal a nonland card with mana value 3 or less. You may cast that spell without paying its mana cost. If you don't, put it into your hand. Shuffle the rest onto the bottom of your library. => Haste
+When this creature enters, reveal the top card of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost if it has mana value 3 or less. If you don't, put it into your hand. Shuffle the rest onto the bottom of your library.
+
+Amateur Threadseeker
+
+Fu Luk Hoarder
+
+Glowbrew Herbologist
+rules_text: {T}, Exile a land card from your graveyard: Add one mana of any color.
+{B}, {T}, Exile an instant or sorcery card from your graveyard: Target opponent loses 2 life.
+{G}, {T}, Exile a creature card from your graveyard: Put a +1/+1 counter on target creature. => {T}, Exile a land card from your graveyard: Add one mana of any color.
+{B}, {T}, Exile an instant or sorcery card from your graveyard: Target player loses 2 life.
+{G}, {T}, Exile a creature card from your graveyard: Put a +1/+1 counter on target creature.
+
+Drifting Wu Lei
+cost: {2}{G}{U} => {G}{G}{U}{U}
+rules_text: Flash
+When this creature enters, counter up to one target spell, activated ability, or triggered ability.
+{G}{U}, Discard this card: Counter target activated or triggered ability. => Flash
+When this creature enters, counter up to one target spell, activated ability, or triggered ability from a nonland source.
+{G}{U}, Discard this card: Counter target activated or triggered ability from a nonland source.
+
+Wong Tsin-man
+
+Lau Dak-wah
+
+Greysky Umbrella
+
+Skyward Vista
+
+She Hides Between Moments
+
+Return of the Ninth Dragon
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Choose one. If you have the city's blessing, you may choose both instead.
+• Search your library and/or outside of the game for a Dragon card, reveal it and put it into your hand or graveyard.
+• Return a creature card from your graveyard to the battlefield. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+Choose one. If you have the city's blessing or control ten or more permanents, you may choose both instead.
+• Search your library and/or outside of the game for a Dragon card, reveal it and put it into your hand or graveyard.
+• Return a creature card from your graveyard to the battlefield.
+
+Backalley Sparker
+cost: {U}{R} => {9}{U}{R}
+rules_text: Haste, vigilance
+{1}{U}, {T}, Discard a card: Draw two cards.
+{1}{R}, {T}, Discard a card: This creature deals 3 damage to any target. => Vigilance, haste
+{1}{U}, {T}, Discard a card: Draw two cards.
+{1}{R}, {T}, Discard a card: This creature deals 3 damage to any target.
+
+Your Harshest Critic
+rules_text: Whenever you cast a spell, if it doesn't share a name with a card in your graveyard, choose one that hasn't been chosen this turn —
+• Draw a card.
+• Target opponent discards a card.
+• This creature deals 3 damage to any target. => Whenever a player casts a spell from a graveyard or casts a spell with the same name as a card in their graveyard, that player chooses one —
+• Exile a creature you control.
+• Exile a card from your hand.
+• You lose 3 life.
+
+Shadowgloom
+rules_text: Choose up to three —
+• Target player creates a 4/3 black Horror creature token.
+• This spell deals 3 damage to any target.
+• Target player draws a card.
+• Target player sacrifices a creature.
+• Target player discards a card.
+Shuffle this spell into its owner's library. => Choose two —
+• Each opponent sacrifices a creature. Create a 4/3 black Horror creature token.
+• Each opponent loses 3 life. You gain 3 life.
+• Each opponent discards a card. You draw a card. 
+Shuffle Shadowgloom into its owner's library.
+
+Ambassador Oukijo
+
+Yesteryear Abyss
+
+Blood Homunculus
+
+Food
+
+Talisman
+
+Citizen
+
+Horror
+
+Rogue
+
+Employee
+
+Student
+
+Fan
+
+The City's Blessing
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Coalworks Crusher added.

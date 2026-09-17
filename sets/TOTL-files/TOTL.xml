@@ -5,7 +5,7 @@
 			<name>TOTL</name>
 			<longname>Towers of Tin Lau</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-12</releasedate>
+			<releasedate>2026-09-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -137,7 +137,7 @@ Whenever one or more cards leave your graveyard, you gain 2 life and another tar
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Salaried Seraph</name>
@@ -157,12 +157,14 @@ Whenever this creature attacks, if you have the city&apos;s blessing, put a +1/+
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Fwun Sah Invoker</name>
 			<text>Vigilance
-{7}{W}: You gain 8 life.</text>
-			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/9.png" num="10">TOTL</set>
+{7}{W}: This creature and up to one other target creature each get +3/+3 until 
+end of turn.</text>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/9.png" num="11">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -193,7 +195,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Employee</related>
+			<related count="1">Employee TOTL</related>
 		</card>
 		<card>
 			<name>Baak Gai Lookout</name>
@@ -212,7 +214,8 @@ When this creature dies, create a 1/1 green Citizen creature token with &quot;Wh
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Citizen</related>
+			<related count="1">Citizen TOTL</related>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Yat Street Colleague</name>
@@ -323,11 +326,11 @@ Equip {2}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Citizen</related>
+			<related count="1">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Its Fangs Are Sharp as Knives</name>
-			<text>Put a +1/+1 counter and a first strike counter on target creature or on the Horror you besought.
+			<text>Put a +1/+1 counter on target creature or on the Horror you besought. It gains first strike until end of turn.
 Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
 			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/18.png" num="13">TOTL</set>
 			<prop>
@@ -341,7 +344,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Forbidden Exorsister Technique</name>
@@ -416,7 +419,7 @@ When this creature enters, if you control an artifact and an enchantment, draw a
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Grizzled Gumshoes</name>
@@ -526,11 +529,12 @@ As long as you have the city&apos;s blessing, this creature can attack as though
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Rise Above</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
-This spell costs {1} less to cast if you have the city&apos;s blessing.
+This spell costs {1} less to cast if you have the city&apos;s blessing or control ten or more permanents.
 Counter target spell.</text>
 			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/29.png" num="59">TOTL</set>
 			<prop>
@@ -544,6 +548,7 @@ Counter target spell.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Your Thousand Eyes See All</name>
@@ -561,7 +566,7 @@ Beseech {4}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Lucky Tile</name>
@@ -655,7 +660,7 @@ Solved — {3}{U}: Tap target creature and put a stun counter on it. Activate on
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Dark Alley Occultist</name>
@@ -674,7 +679,7 @@ Solved — {3}{U}: Tap target creature and put a stun counter on it. Activate on
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Corporate Bloodsucker</name>
@@ -694,6 +699,7 @@ As long as you have the city&apos;s blessing, this creature has flying.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Haak Gaai Gourmands</name>
@@ -713,6 +719,7 @@ Whenever this creature deals damage to a noncreature permanent or player, if you
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Backalley Darklimb</name>
@@ -838,7 +845,7 @@ Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Gambler&apos;s Last Roll</name>
@@ -980,7 +987,7 @@ Destroy target creature.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Tuftear Denizen</name>
@@ -1017,6 +1024,7 @@ As long as you have the city&apos;s blessing, this creature gets +2/+2 and has t
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Garrison Veteran</name>
@@ -1077,8 +1085,8 @@ Whenever this creature attacks, you may exile a card from your graveyard. If you
 		</card>
 		<card>
 			<name>Ghost Chit Ignition</name>
-			<text>As an additional cost to cast this spell, you may exile a card from your graveyard.
-This spell deals 2 damage to target creature. If you paid the additional cost, it deals 3 damage instead.</text>
+			<text>As an additional cost to cast this spell, you may exile three cards from your graveyard.
+This spell deals 2 damage to any nonplayer target. If you paid the additional cost, it deals 3 damage instead.</text>
 			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/59.png" num="119">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1108,7 +1116,7 @@ Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>The Craziest Night Ever</name>
@@ -1145,6 +1153,7 @@ Solved — At the beginning of your upkeep, mill a card. You may play that card 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Rogue TOTL</related>
 		</card>
 		<card>
 			<name>Flaresnap</name>
@@ -1252,7 +1261,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Citizen</related>
+			<related count="1">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Octogram Tracer</name>
@@ -1271,7 +1280,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Work Horse</name>
@@ -1291,6 +1300,7 @@ When this creature enters and at the beginning of your upkeep, if you have the c
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Rockmaw</name>
@@ -1345,7 +1355,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Employee</related>
+			<related count="1">Employee TOTL</related>
 		</card>
 		<card>
 			<name>Steelheight Horror</name>
@@ -1382,7 +1392,7 @@ Beseech {4}{G}{G} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Hirsute Haymaker</name>
@@ -1418,6 +1428,7 @@ Target creature gets +2/+2 and gains reach until end of turn. If you have the ci
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Run the Neon Labyrinth</name>
@@ -1435,7 +1446,7 @@ Create a 1/1 green Citizen creature token with &quot;When this creature enters, 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Citizen</related>
+			<related count="1">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Raining Frogs and Toads</name>
@@ -1486,7 +1497,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Mobile Monitor</name>
@@ -1571,7 +1582,7 @@ When this creature dies, search your library for a card named Jiangshi Throng, r
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Loong Uk Bottomfeeder</name>
@@ -1609,6 +1620,7 @@ You may cast this spell from your graveyard. If you do, it enters with a finalit
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Student TOTL</related>
 		</card>
 		<card>
 			<name>Relaxed Rookies</name>
@@ -1630,7 +1642,7 @@ You may cast this spell from your graveyard. If you do, it enters with a finalit
 		<card>
 			<name>Leuk Street Tagger</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
-When this creature enters, put a +1/+1 on another target creature you control. If you have the city&apos;s blessing, put a +1/+1 counter on each other creature you control instead.</text>
+When this creature enters, put a +1/+1 on target creature you control. If you have the city&apos;s blessing, also put a +1/+1 counter on each other creature you control.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/90.png" num="16">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1644,6 +1656,7 @@ When this creature enters, put a +1/+1 on another target creature you control. I
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Cloudcrawler</name>
@@ -1702,10 +1715,10 @@ This creature has hexproof if it hasn&apos;t dealt damage yet.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fwun Sha Drycleaner</name>
+			<name>Fwun Sah Drycleaner</name>
 			<text>Whenever this creature enters or attacks, you may exile up to one target card from a graveyard. If it&apos;s a card you own, you may put it on the bottom of your library.
 Whenever a card leaves your graveyard during your turn, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/94.png" num="11">TOTL</set>
+			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/94.png" num="10">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1735,7 +1748,7 @@ Whenever a card leaves your graveyard during your turn, you gain 1 life.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Employee</related>
+			<related count="1">Employee TOTL</related>
 		</card>
 		<card>
 			<name>Obviate</name>
@@ -1753,6 +1766,7 @@ Exile target creature if it has mana value 2 or less or if you have the city&apo
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Tetrad Council Summit</name>
@@ -1790,7 +1804,7 @@ Beseech {3}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Light Before Dawn</name>
@@ -1827,7 +1841,7 @@ When this creature dies, draw a card.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Yi Street Hatchling</name>
@@ -1903,6 +1917,7 @@ This creature enters tapped with three stun counters on it unless you have the c
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Maan Tsau Beholder</name>
@@ -1922,7 +1937,7 @@ When this creature dies, create a 4/3 colorless Horror creature token.</text>
 				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Thirst for Action</name>
@@ -1979,8 +1994,8 @@ You may have this creature enter as a copy of a creature card in your graveyard.
 		</card>
 		<card>
 			<name>Curated Display</name>
-			<text>When this artifact enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
-{3}{U}, {T}, Sacrifice this artifact: Draw two cards. Activate only if you control an enchantment.</text>
+			<text>When this artifact enters, surveil 1. If you control an enchantment, surveil 2 instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{3}{U}, {T}, Sacrifice this artifact: Draw two cards. This ability costs {1} less to activate if you control an enchantment.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/109.png" num="41">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1996,7 +2011,7 @@ You may have this creature enter as a copy of a creature card in your graveyard.
 		</card>
 		<card>
 			<name>Stop</name>
-			<text>Counter target spell, activated ability or triggered ability. Draw a card unless a spell that was cast from its owner&apos;s hand was countered this way.</text>
+			<text>Counter target spell, activated ability or triggered ability from a nonland source. Draw a card unless a spell that was cast from its owner&apos;s hand was countered this way.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/110.png" num="64">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2046,7 +2061,7 @@ Beseech {3}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Feathers Above</name>
@@ -2083,7 +2098,7 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Tepid Middle Manager</name>
@@ -2138,6 +2153,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Rogue TOTL</related>
 		</card>
 		<card>
 			<name>Ascended Giganform</name>
@@ -2157,6 +2173,7 @@ This creature enters with a finality counter on it if it entered from your grave
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Gutter Line Cyclops</name>
@@ -2228,6 +2245,7 @@ Return target creature card from your graveyard to the battlefield if it has man
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Drown in Smoke</name>
@@ -2261,7 +2279,7 @@ Draw two cards and create a tapped Talisman token. (It&apos;s an artifact with &
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Haunted Elevator Shaft</name>
@@ -2297,7 +2315,7 @@ Beseech {3}{B}{B} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Smoke From Rubble</name>
@@ -2331,10 +2349,10 @@ At the beginning of your upkeep, tap this creature unless you pay {C}.</text>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Paper Pusher Pyromaniac</name>
@@ -2389,7 +2407,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Hi-score Junkie</name>
@@ -2408,6 +2426,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Two-headed Crawler</name>
@@ -2429,7 +2448,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 		</card>
 		<card>
 			<name>Filmsnap Addict</name>
-			<text>When this creature enters, return up to one target instant or sorcery card from your graveyard to your hand.</text>
+			<text>When this creature enters, return target instant or sorcery card from your graveyard or exiled card with beseech you own to your hand.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/134.png" num="115">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2477,8 +2496,8 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Employee</related>
-			<related count="1">Fan</related>
+			<related count="1">Employee TOTL</related>
+			<related count="1">Fan TOTL</related>
 		</card>
 		<card>
 			<name>Collapse</name>
@@ -2514,7 +2533,7 @@ Talismans you control gain &quot;{T}: Add {C}.&quot; until end of turn.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="3">Talisman</related>
+			<related count="3">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>The Girl Who Literally Blew Up</name>
@@ -2533,6 +2552,7 @@ Solved — At the beginning of your upkeep, this Case deals 1 damage to target o
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Rogue TOTL</related>
 		</card>
 		<card>
 			<name>Your Will Eviscerates All</name>
@@ -2550,7 +2570,7 @@ Beseech {4}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Fire in the Hole</name>
@@ -2587,7 +2607,7 @@ When this creature dies, put a +1/+1 counter on target creature you control.</te
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Boomcase Trooper</name>
@@ -2658,6 +2678,7 @@ When this creature enters, search your library for a basic land card. If you hav
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Rumour Eater</name>
@@ -2747,7 +2768,7 @@ Create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>A Small Gesture</name>
@@ -2801,7 +2822,7 @@ Beseech {3}{G}{G} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Roots Among People</name>
@@ -2834,7 +2855,7 @@ When this creature enters, search your library for an artifact or enchantment ca
 				<cmc>4</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2873,7 +2894,7 @@ During your turn, this creature gets +1/+0 for each card you looked at while sur
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Flameblade Elder</name>
@@ -2910,7 +2931,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Citizen</related>
+			<related count="1">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Tiger Mother</name>
@@ -2929,7 +2950,7 @@ Whenever you attack, you may pay 1 life. If you do, put a +1/+1 counter on anoth
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Citizen</related>
+			<related count="2">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Sluice Slinker</name>
@@ -2948,7 +2969,7 @@ Whenever you attack, you may pay 1 life. If you do, put a +1/+1 counter on anoth
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Horror</related>
+			<related count="2">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Ambitious Ancestseer</name>
@@ -2967,7 +2988,7 @@ Talismans you control have &quot;{1}, {T}: Add {G}{U}.&quot;</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Skyline Exorcist</name>
@@ -3021,7 +3042,7 @@ Once each turn, whenever one or more cards leave your graveyard, this creature g
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Citizen</related>
+			<related count="1">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Invisible Skulker</name>
@@ -3094,7 +3115,7 @@ When this creature dies, put its counters on up to one target creature.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Citizen</related>
+			<related count="1">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Ambitious Phlebotomist</name>
@@ -3114,6 +3135,7 @@ Whenever this creature deals damage to a noncreature permanent or player, you ma
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Coalworks Crusher</name>
@@ -3219,7 +3241,7 @@ When this creature dies, create two 1/1 green Citizen creature tokens with &quot
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Citizen</related>
+			<related count="2">Citizen TOTL</related>
 		</card>
 		<card>
 			<name>Frightsteel Amalgam</name>
@@ -3238,7 +3260,7 @@ When this creature dies, create two 1/1 green Citizen creature tokens with &quot
 		</card>
 		<card>
 			<name>Junker&apos;s Crossbow</name>
-			<text>When this Equipment enters, create a 1/1 black Rogue creature token with &quot;When this creature dies, it deals 1 damage to target opponent.&quot; and attach this Equipment to it.
+			<text>When this Equipment enters, create a 1/1 black Rogue creature token with &quot;When this creature dies, target opponent loses 1 life.&quot; and attach this Equipment to it.
 Equipped creature gets +1/+1 and has reach.
 Equip {1}</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/179.png" num="241">TOTL</set>
@@ -3251,7 +3273,7 @@ Equip {1}</text>
 				<cmc>3</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Rogue</related>
+			<related count="1">Rogue TOTL</related>
 		</card>
 		<card>
 			<name>Backalley Juicesuit</name>
@@ -3350,7 +3372,7 @@ Beseech {4}{W}{W} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Otherworld Aegis</name>
@@ -3413,7 +3435,7 @@ When this creature dies, return each creature card exiled with it to the battlef
 		<card>
 			<name>Tiger Point Soothsayer</name>
 			<text>When this creature enters, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
-{1}, {T}: Choose a creature type. Prevent all damage that would be dealt to target creature by creatures of the chosen type until end of turn.</text>
+{2}, {T}: Choose a color. Another target creature gains hexproof from that color until end of turn and can&apos;t be blocked by creatures of that color this turn.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/189.png" num="33">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3427,7 +3449,7 @@ When this creature dies, return each creature card exiled with it to the battlef
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Decorated Constable</name>
@@ -3447,6 +3469,7 @@ Whenever you create a token, this creature gets +1/+1 until end of turn. If you 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Your Ancestral Mind Recalls All</name>
@@ -3464,13 +3487,13 @@ Beseech {7}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>The Fisher Who Caught A Kraken</name>
 			<text>When this Case enters, search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
-To solve — You drew four or more cards this turn. (If unsolved, solve at the beginning of your end step.)
-Solved — Creature spells you cast with mana value 5 or greater you cast cost {2} less to cast.</text>
+To solve — There are eight or more permanent cards in your graveyard. (If unsolved, solve at the beginning of your end step.)
+Solved — Whenever you spend 5 or more mana to cast a creature spell, draw a card.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/192.png" num="46">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3541,7 +3564,7 @@ Surveil 4. (Look at the top four cards of your library, then put any number of t
 			<name>Melanchozoa</name>
 			<text>Flying
 When this creature enters, draw a card.
-When this creature leaves the battlefield, shuffle it into its owner&apos;s library.</text>
+If this creature would the battlefield, shuffle it into its owner&apos;s library instead.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/196.png" num="54">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3572,11 +3595,11 @@ Beseech {5}{B}{B}{B} (You may cast this card from your graveyard as a sorcery fo
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Meeting with the Ambassador</name>
-			<text>When this Case enters, each player sacrifices two creatures.
+			<text>When this Case enters, if you cast it, each player sacrifices two creatures.
 To solve — You control a planeswalker. (If unsolved, solve at the beginning of your end step.)
 Solved — Once each turn, whenever you activate a nonmana ability, target opponent loses 2 life and you gain 2 life.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/198.png" num="94">TOTL</set>
@@ -3642,11 +3665,11 @@ Solved — Once each turn, whenever you activate a nonmana ability, target oppon
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Rogue</related>
+			<related count="1">Rogue TOTL</related>
 		</card>
 		<card>
 			<name>Haak Gaai Headhunter</name>
-			<text>When this creature enters, exile up to one target card from a graveyard. As long as you control this creature, you may play a copy of that card. (A copy of a permanent card enters as a token.)</text>
+			<text>When this creature enters, exile up to one target card from a graveyard. As long as that card is a creature card you own and you control this creature, you may play a copy of that card. (A copy of a permanent card enters as a token.)</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/202.png" num="89">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3663,9 +3686,8 @@ Solved — Once each turn, whenever you activate a nonmana ability, target oppon
 		</card>
 		<card>
 			<name>May You Glimpse Our Tomorrow</name>
-			<text>As an additional cost to cast this spell, discard a card.
-Draw a card, then mill a card. You may play it this turn.
-Beseech {3}{R}{R} (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
+			<text>Mill a card. You may play it this turn.
+Beseech—{3}{R}{R}, Discard a card. (You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has &quot;Create a 4/3 colorless Horror creature token.&quot; and &quot;Exile this spell.&quot;)</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/203.png" num="131">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3678,21 +3700,21 @@ Beseech {3}{R}{R} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>The Director&apos;s Cut</name>
-			<text>When this Case enters, create a token that&apos;s a copy of target creature card in your graveyard, except it&apos;s an artifact and it loses all other card types.
+			<text>{4}{R}: Exile target creature card from your graveyard. Create a token that&apos;s a copy of it, except it&apos;s an artifact in addition to its other types. It gains haste and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 To solve — You control four or more tokens with different names. (If unsolved, solve at the beginning of your end step.)
-Solved — At the beginning of your upkeep you may sacrifice an artifact. If you do, draw two cards. If you don&apos;t, you may discard a card. If you do, create a token that&apos;s a copy of target artifact you control.</text>
+Solved — At the beginning of your upkeep, you may activate one of this Case&apos;s nonmana abilities without paying the cost.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/204.png" num="114">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Case</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -3727,11 +3749,11 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<side>front</side>
 				<type>Creature — Human Warrior</type>
 				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3752,7 +3774,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Oukijo&apos;s Design</name>
@@ -3786,7 +3808,7 @@ Beseech {X}{G}{G}{G} (You may cast this card from your graveyard as a sorcery fo
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>The Hour of Heroes</name>
@@ -3824,11 +3846,13 @@ When this creature dies, create three 2/2 green Bear creature tokens.</text>
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="3">Bear TOTL</related>
 		</card>
 		<card>
 			<name>Traditionalist Ancestseer</name>
 			<text>Whenever you play a basic land, create a tapped Talisman token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
-{3}{G}: Target land you control becomes a 3/3 creature with &quot;When this creature leaves the battlefield, return it to your hand.&quot; It&apos;s still a land. Activate only as a sorcery.</text>
+{3}{G}: Target land you control becomes a 3/3 creature with &quot;If this creature would leave the battlefield, return it to your hand instead.&quot; It&apos;s
+still a land. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/212.png" num="173">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3842,7 +3866,7 @@ When this creature dies, create three 2/2 green Bear creature tokens.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Mirrored Past</name>
@@ -3922,7 +3946,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 		<card>
 			<name>Akane &amp; Kurone</name>
 			<text>Menace
-[+1], Pay 3 life, discard a card or sacrifice a nonland permanent: Target opponent loses 3 life, discards a card and sacrifices a nonland permanent.
+[+1]: You may pay 3 life, discard a card or sacrifice a nonland permanent. If you do, target opponent loses 3 life, discards a card, and sacrifices a nonland permanent.
 [-2]: You gain 3 life, draw a card and create a tapped Treasure token.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/217.png" num="181">TOTL</set>
 			<prop>
@@ -3934,9 +3958,10 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<cmc>4</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>4/4</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Treasure TOTL</related>
 		</card>
 		<card>
 			<name>Siu Coeng &amp; Daai Paau</name>
@@ -4013,12 +4038,12 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Food</related>
+			<related count="1">Food TOTL</related>
 		</card>
 		<card>
 			<name>Mildred &amp; Teresa</name>
 			<text>When Mildred &amp; Teresa enter, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
-[+1]: Target enchantment you control becomes a 3/3 creature in addition to its other types and gains &quot;When this creature dies, return it to its owner&apos;s hand.&quot; until end of turn.
+[+1]: Target enchantment you control becomes a 3/3 creature in addition to its other types and gains &quot;If this creature would leave the battlefield, return it to its owner&apos;s hand instead.&quot; until end of turn.
 [-2]: Create a token that&apos;s a copy of target enchantment you control.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/222.png" num="213">TOTL</set>
 			<prop>
@@ -4071,7 +4096,7 @@ Dynamic — Whenever you attack with exactly two creatures or activate your seco
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Rogue</related>
+			<related count="1">Rogue TOTL</related>
 		</card>
 		<card>
 			<name>Exorbrother&apos;s Judgement</name>
@@ -4124,12 +4149,12 @@ Beseech {5}{B}{B}{R}{R} (You may cast this card from your graveyard as a sorcery
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Dogged Delinquent</name>
 			<text>Haste
-When this creature enters, reveal the top card of your library until you reveal a nonland card with mana value 3 or less. You may cast that spell without paying its mana cost. If you don&apos;t, put it into your hand. Shuffle the rest onto the bottom of your library.</text>
+When this creature enters, reveal the top card of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost if it has mana value 3 or less. If you don&apos;t, put it into your hand. Shuffle the rest onto the bottom of your library.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/228.png" num="196">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -4161,7 +4186,7 @@ Talismans you control have &quot;{2}, {T}, Sacrifice this artifact: Draw a card.
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Talisman</related>
+			<related count="1">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Fu Luk Hoarder</name>
@@ -4180,12 +4205,12 @@ Talismans you control have &quot;{T}: Target creature you control gets +1/+1 unt
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Talisman</related>
+			<related count="2">Talisman TOTL</related>
 		</card>
 		<card>
 			<name>Glowbrew Herbologist</name>
 			<text>{T}, Exile a land card from your graveyard: Add one mana of any color.
-{B}, {T}, Exile an instant or sorcery card from your graveyard: Target opponent loses 2 life.
+{B}, {T}, Exile an instant or sorcery card from your graveyard: Target player loses 2 life.
 {G}, {T}, Exile a creature card from your graveyard: Put a +1/+1 counter on target creature.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/231.png" num="204">TOTL</set>
 			<prop>
@@ -4204,15 +4229,15 @@ Talismans you control have &quot;{T}: Target creature you control gets +1/+1 unt
 		<card>
 			<name>Drifting Wu Lei</name>
 			<text>Flash
-When this creature enters, counter up to one target spell, activated ability, or triggered ability.
-{G}{U}, Discard this card: Counter target activated or triggered ability.</text>
+When this creature enters, counter up to one target spell, activated ability, or triggered ability from a nonland source.
+{G}{U}, Discard this card: Counter target activated or triggered ability from a nonland source.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/232.png" num="198">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Fox</type>
 				<maintype>Creature</maintype>
-				<manacost>2GU</manacost>
+				<manacost>GGUU</manacost>
 				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
@@ -4238,6 +4263,7 @@ When Wong Tsin-man enters, exile up to one target instant or sorcery card from y
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Lau Dak-wah</name>
@@ -4259,7 +4285,8 @@ Whenever Lau Dak-wah attacks, choose one. If you have the city&apos;s blessing, 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Fan</related>
+			<related count="1">Fan TOTL</related>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Urban Labyrinth</name>
@@ -4511,6 +4538,7 @@ This land enters tapped.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Qiangliang</name>
@@ -4549,12 +4577,12 @@ Beseech {6}{U}{U} (You may cast this card from your graveyard as a sorcery for i
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Return of the Ninth Dragon</name>
 			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
-Choose one. If you have the city&apos;s blessing, you may choose both instead.
+Choose one. If you have the city&apos;s blessing or control ten or more permanents, you may choose both instead.
 • Search your library and/or outside of the game for a Dragon card, reveal it and put it into your hand or graveyard.
 • Return a creature card from your graveyard to the battlefield.</text>
 			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/253.png" num="97">TOTL</set>
@@ -4569,6 +4597,7 @@ Choose one. If you have the city&apos;s blessing, you may choose both instead.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Hellpocket Highroller</name>
@@ -4626,7 +4655,7 @@ When Ming Yue enters, if you cast her, exile up to one target spell or nonland p
 		</card>
 		<card>
 			<name>Backalley Sparker</name>
-			<text>Haste, vigilance
+			<text>Vigilance, haste
 {1}{U}, {T}, Discard a card: Draw two cards.
 {1}{R}, {T}, Discard a card: This creature deals 3 damage to any target.</text>
 			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/257.png" num="187">TOTL</set>
@@ -4635,8 +4664,8 @@ When Ming Yue enters, if you cast her, exile up to one target spell or nonland p
 				<side>front</side>
 				<type>Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
+				<manacost>9UR</manacost>
+				<cmc>11</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 				<pt>2/2</pt>
@@ -4738,10 +4767,10 @@ This creature has all activated and triggered abilities of all cards exiled with
 		</card>
 		<card>
 			<name>Your Harshest Critic</name>
-			<text>Whenever you cast a spell, if it doesn&apos;t share a name with a card in your graveyard, choose one that hasn&apos;t been chosen this turn —
-• Draw a card.
-• Target opponent discards a card.
-• This creature deals 3 damage to any target.</text>
+			<text>Whenever a player casts a spell from a graveyard or casts a spell with the same name as a card in their graveyard, that player chooses one —
+• Exile a creature you control.
+• Exile a card from your hand.
+• You lose 3 life.</text>
 			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/263.png" num="235">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -4758,13 +4787,11 @@ This creature has all activated and triggered abilities of all cards exiled with
 		</card>
 		<card>
 			<name>Shadowgloom</name>
-			<text>Choose up to three —
-• Target player creates a 4/3 black Horror creature token.
-• This spell deals 3 damage to any target.
-• Target player draws a card.
-• Target player sacrifices a creature.
-• Target player discards a card.
-Shuffle this spell into its owner&apos;s library.</text>
+			<text>Choose two —
+• Each opponent sacrifices a creature. Create a 4/3 black Horror creature token.
+• Each opponent loses 3 life. You gain 3 life.
+• Each opponent discards a card. You draw a card. 
+Shuffle Shadowgloom into its owner&apos;s library.</text>
 			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/264.png" num="219">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -4777,7 +4804,7 @@ Shuffle this spell into its owner&apos;s library.</text>
 				<coloridentity>BRG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Tigress of Ng Street</name>
@@ -4816,7 +4843,8 @@ Whenever this creature attacks, you may discard a card. If you do, draw a card a
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Blood Homunculus</related>
+			<related count="1">Blood Homunculus TOTL</related>
+			<related count="1">The City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Collected Casting</name>
@@ -4883,7 +4911,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 				<coloridentity>UBG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Horror</related>
+			<related count="1">Horror TOTL</related>
 		</card>
 		<card>
 			<name>Blood Homunculus TOTL</name>
@@ -4902,12 +4930,11 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Ambassador Oukijo</reverse-related>
 		</card>
 		<card>
 			<name>Food TOTL</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/272.png" num="10">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/272.png" num="9">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4918,12 +4945,11 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse-related>Siu Bau &amp; Friendly Jiangshi</reverse-related>
 		</card>
 		<card>
 			<name>Talisman TOTL</name>
 			<text>{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.</text>
-			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/273.png" num="11">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/273.png" num="10">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4934,33 +4960,11 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse-related>Frostwhip Siu Tse</reverse-related>
-			<reverse-related>Featherflutter Leng Zai</reverse-related>
-			<reverse-related>Dark Alley Occultist</reverse-related>
-			<reverse-related>Hauntroom Consultant</reverse-related>
-			<reverse-related>Octogram Tracer</reverse-related>
-			<reverse-related>Wind-up Jiangshi</reverse-related>
-			<reverse-related>Jiangshi Throng</reverse-related>
-			<reverse-related>Decoy Jiangshi</reverse-related>
-			<reverse-related>Innocuous Jiangshi</reverse-related>
-			<reverse-related>Spiritual Dispute</reverse-related>
-			<reverse-related>Jiangshi Reveler</reverse-related>
-			<reverse-related>Kau Street Luckmonger</reverse-related>
-			<reverse-related count="3">Shopping Spree</reverse-related>
-			<reverse-related>Curious Jiangshi</reverse-related>
-			<reverse-related>Eightwind Nineshield</reverse-related>
-			<reverse-related>Joss Twig Tender</reverse-related>
-			<reverse-related>Ambitious Ancestseer</reverse-related>
-			<reverse-related>Tiger Point Soothsayer</reverse-related>
-			<reverse-related>Terre-haute Financier</reverse-related>
-			<reverse-related>Traditionalist Ancestseer</reverse-related>
-			<reverse-related>Amateur Threadseeker</reverse-related>
-			<reverse-related count="2">Fu Luk Hoarder</reverse-related>
 		</card>
 		<card>
 			<name>Citizen TOTL</name>
 			<text>When this creature enters, you gain 1 life.</text>
-			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/274.png" num="9">TOTL</set>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/274.png" num="8">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4974,15 +4978,6 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Baak Gai Lookout</reverse-related>
-			<reverse-related>Trip to Nowhere</reverse-related>
-			<reverse-related>Luk Gaai Pair</reverse-related>
-			<reverse-related>Run the Neon Labyrinth</reverse-related>
-			<reverse-related>Fwun Sah Taan Everyman</reverse-related>
-			<reverse-related count="2">Tiger Mother</reverse-related>
-			<reverse-related>Precinct Eight Captain</reverse-related>
-			<reverse-related>Citysight Guide</reverse-related>
-			<reverse-related count="2">Ambulating Apartment</reverse-related>
 		</card>
 		<card>
 			<name>Horror TOTL</name>
@@ -4999,28 +4994,6 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Its Fangs Are Sharp as Knives</reverse-related>
-			<reverse-related>Your Thousand Eyes See All</reverse-related>
-			<reverse-related>Tsin Shui Invoker</reverse-related>
-			<reverse-related>Glory Be To Your Radiant Scales</reverse-related>
-			<reverse-related>Its Thirst is Unquenchable</reverse-related>
-			<reverse-related>Your Strength Conquers All</reverse-related>
-			<reverse-related>Our Grip Clenches Tightly</reverse-related>
-			<reverse-related>Maan Tsau Beholder</reverse-related>
-			<reverse-related>Their Endless Forms Contort</reverse-related>
-			<reverse-related>Her Gaze Pierces All Veils</reverse-related>
-			<reverse-related>Your Will Eviscerates All</reverse-related>
-			<reverse-related>Your Hunger Growls Echo</reverse-related>
-			<reverse-related count="2">Sluice Slinker</reverse-related>
-			<reverse-related>Feel Her Angelic Caress</reverse-related>
-			<reverse-related>Your Ancestral Mind Recalls All</reverse-related>
-			<reverse-related>Your Blood Is A Feast For Crows</reverse-related>
-			<reverse-related>May You Glimpse Our Tomorrow</reverse-related>
-			<reverse-related>Its Coil Tightens Inexorably</reverse-related>
-			<reverse-related>Their Eons Ought Be Forgotten</reverse-related>
-			<reverse-related>She Hides Between Moments</reverse-related>
-			<reverse-related>Shadowgloom</reverse-related>
-			<reverse-related>Yesteryear Abyss</reverse-related>
 		</card>
 		<card>
 			<name>Rogue TOTL</name>
@@ -5039,12 +5012,6 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Tetrad Tactics</reverse-related>
-			<reverse-related>Tetrad Recruiter</reverse-related>
-			<reverse-related>The Girl Who Literally Blew Up</reverse-related>
-			<reverse-related>Junker&apos;s Crossbow</reverse-related>
-			<reverse-related>Den of Thieves</reverse-related>
-			<reverse-related>Dai Tse &amp; Siu Mui</reverse-related>
 		</card>
 		<card>
 			<name>Employee TOTL</name>
@@ -5063,10 +5030,6 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Slacking Sergeant</reverse-related>
-			<reverse-related>Precinct Eight Muscle</reverse-related>
-			<reverse-related>Late-night Spread</reverse-related>
-			<reverse-related>Lanternlight Rendezvous</reverse-related>
 		</card>
 		<card>
 			<name>Student TOTL</name>
@@ -5085,7 +5048,6 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Ancestral Blessing</reverse-related>
 		</card>
 		<card>
 			<name>Fan TOTL</name>
@@ -5104,27 +5066,21 @@ When this creature dies, reveal cards from the top of your library until you rev
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Lanternlight Rendezvous</reverse-related>
-			<reverse-related>Lau Dak-wah</reverse-related>
 		</card>
 		<card>
-			<name>Bear TOTL</name>
-			<text></text>
-			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/280.png" num="8">TOTL</set>
+			<name>Treasure TOTL</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/280.png" num="11">TOTL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Creature — Bear</type>
-				<maintype>Creature</maintype>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>2/2</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse-related>Ursa Major</reverse-related>
 		</card>
 		<card>
 			<name>The City&apos;s Blessing TOTL</name>

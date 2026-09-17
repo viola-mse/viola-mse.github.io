@@ -360,8 +360,8 @@
         "position": "142"
     },
     {
-        "card_name": "Fwun Sha Drycleaner",
-        "number": 11,
+        "card_name": "Fwun Sah Drycleaner",
+        "number": 10,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -1001,7 +1001,7 @@
     },
     {
         "card_name": "Fwun Sah Invoker",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "TOTL",
         "rotated": false,
@@ -2326,7 +2326,7 @@
     },
     {
         "card_name": "Food",
-        "number": 10,
+        "number": 9,
         "shape": "token",
         "set": "TOTL",
         "rotated": false,
@@ -2334,11 +2334,19 @@
     },
     {
         "card_name": "Talisman",
-        "number": 11,
+        "number": 10,
         "shape": "token",
         "set": "TOTL",
         "rotated": false,
         "position": "273"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 11,
+        "shape": "token",
+        "set": "TOTL",
+        "rotated": false,
+        "position": "280"
     },
     {
         "card_name": "Employee",
@@ -2381,16 +2389,8 @@
         "position": "279"
     },
     {
-        "card_name": "Bear",
-        "number": 8,
-        "shape": "token",
-        "set": "TOTL",
-        "rotated": false,
-        "position": "280"
-    },
-    {
         "card_name": "Citizen",
-        "number": 9,
+        "number": 8,
         "shape": "token",
         "set": "TOTL",
         "rotated": false,

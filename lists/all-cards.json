@@ -4820,7 +4820,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "SKEL flying (1power)\nIS WB ascendd scaler\nIS ascendd cycle\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "SKEL flying (1power)\nIS WB ascendd scaler\nIS ascendd cycle\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4843,7 +4843,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "SKEL vigilance\nIS invoker",
+            "notes": "SKEL vigilance\nIS invoker\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4889,7 +4889,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "IS ascendd enabler\nIS ascendd payoff\n\n!tokens Citizen TOTL<1>\n!tokens The City's Blessing TOTL<1>",
+            "notes": "IS ascendd enabler\nIS ascendd payoff\n\n!tokens Citizen TOTL<1>\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5085,7 +5085,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 4/4 Dragon Illusion with flying until end of turn instead.\n{7}{U}: Draw two cards.",
+            "rules_text": "Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 3/3 Dragon Illusion with flying until end of turn instead.\n{7}{U}: Draw two cards.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5096,7 +5096,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "SKEL cond. flying\nIS activated enabler\nIS activated payoff\nIS ramp payoff\nIS invoker",
+            "notes": "SKEL cond. flying\nIS activated enabler\nIS activated payoff\nIS ramp payoff\nIS invoker\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5280,7 +5280,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "SKEL defender (that can lose it)\nIS ascendd cycle\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "SKEL defender (that can lose it)\nIS ascendd cycle\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5303,7 +5303,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5441,7 +5441,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker\n\n!tokens Horror TOTL<1>",
+            "notes": "SKEL can also be mc2\nSKEL menace\nIS invoker\n\n!tokens Horror TOTL<1>\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5487,7 +5487,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "SKEL flying (half)\nSKEL lifelink\nIS ascend payoff\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "SKEL flying (half)\nSKEL lifelink\nIS ascend payoff\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5510,7 +5510,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "SKEL deathtouch\nIS ascend payoff\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "SKEL deathtouch\nIS ascend payoff\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5809,7 +5809,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "IS invoker",
+            "notes": "IS invoker\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5901,7 +5901,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "SKEL can also be 4drop\nSKEL cond. trample\nIS ascendcycle\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "SKEL can also be 4drop\nSKEL cond. trample\nIS ascendcycle\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6131,7 +6131,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "SKEL can also be 2drop\nIS ramp enabler\nIS ramp payoff\nIS invoker",
+            "notes": "SKEL can also be 2drop\nIS ramp enabler\nIS ramp payoff\nIS invoker\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6246,7 +6246,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "SKEL slot can also be 3drop\nSKEL vigilance\nIS ascendcycle\nIS GW wide scaler\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "SKEL slot can also be 3drop\nSKEL vigilance\nIS ascendcycle\nIS GW wide scaler\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6407,7 +6407,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "SKEL combat trick (power pump)\nSKEL cond. reach\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "SKEL combat trick (power pump)\nSKEL cond. reach\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6430,7 +6430,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "SKEL mana acceleration\nIS ramp enabler\n\n!tokens Citizen TOTL<1>",
+            "notes": "SKEL mana acceleration\nIS ramp enabler\n\n!tokens Citizen TOTL<1>\n\n!tag ramp",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6706,7 +6706,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6844,7 +6844,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>\n\n!tag removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6856,10 +6856,10 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.\nTo solve \u2013 You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Legendary creatures you control get +1/+1.",
+            "rules_text": "When this Case enters, if you cast it, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.\nTo solve \u2013 You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Legendary creatures you control get +1/+1.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.\nTo solve \u2013 You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Legendary creatures you control get +1/+1.",
+            "special_text": "When this Case enters, if you cast it, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.\nTo solve \u2013 You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Legendary creatures you control get +1/+1.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
@@ -6867,7 +6867,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag tutor",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6890,7 +6890,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "\n\n!tokens Horror TOTL<1>",
+            "notes": "\n\n!tokens Horror TOTL<1>\n\n!tag counterspell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7028,7 +7028,7 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7074,7 +7074,7 @@
             "alias": "",
             "position": "106",
             "rotated": false,
-            "notes": "",
+            "notes": "\n!tag draw",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7166,7 +7166,7 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": "SKEL counterspell",
+            "notes": "SKEL counterspell\n\n!tag counterspell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7350,7 +7350,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7442,7 +7442,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7465,7 +7465,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag sweeper",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7534,7 +7534,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "\n\n!tokens Horror TOTL<1>",
+            "notes": "\n\n!tokens Horror TOTL<1>\n\n!tag discard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7672,7 +7672,7 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7810,7 +7810,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": "\n\n!tokens Talisman TOTL<3>",
+            "notes": "\n\n!tokens Talisman TOTL<3>\n\n!tag mana-cheating",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7994,7 +7994,7 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8569,7 +8569,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8674,7 +8674,7 @@
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Flying\n{2}: Put a +1/+1 counter on this creature. This ability costs {1} more to activate for each +1/+1 counter on this creature. Activate only as a sorcery.",
-            "flavor_text": "[i]Its is said that the longer the dragon, the greater the fortune it can bring.[/i]",
+            "flavor_text": "[i]It is said that the longer the dragon, the greater the fortune it can bring.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -9006,7 +9006,7 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9029,7 +9029,7 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": "\n\n!tokens Horror TOTL<1>",
+            "notes": "\n\n!tokens Horror TOTL<1>\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9121,7 +9121,7 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag cantrip",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9133,8 +9133,8 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\nWhen this creature enters, draw a card.\nIf this creature would the battlefield, shuffle it into its owner's library instead.",
-            "flavor_text": "[i]\u201cHorrors feed on fear. These feed on sadness.\u201d[/i]",
+            "rules_text": "Flying\nWhen this creature enters, draw a card.\nIf this creature would leave the battlefield, shuffle it into its owner's library instead.",
+            "flavor_text": "[i]\u201cPeople feed on food. Horrors feed on fear. These feed on sadness.\u201d[/i]",
             "pt": "0/2",
             "special_text": "",
             "shape": "normal",
@@ -9236,7 +9236,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9374,7 +9374,7 @@
             "alias": "",
             "position": "206",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag aggro-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9455,10 +9455,10 @@
             "number": 151,
             "color_identity": "WUBRG",
             "cost": "{G}",
-            "rules_text": "As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.\nTo solve \u2013 You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.",
+            "rules_text": "As an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters with that many additional +1/+1 counters on it.\nTo solve \u2013 You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.\nTo solve \u2013 You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.",
+            "special_text": "As an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters with that many additional +1/+1 counters on it.\nTo solve \u2013 You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2013 Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.",
             "shape": "saga",
             "set": "TOTL",
             "loyalty": "",
@@ -9466,7 +9466,7 @@
             "alias": "",
             "position": "210",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9489,7 +9489,7 @@
             "alias": "",
             "position": "211",
             "rotated": false,
-            "notes": "\n\n!tokens Bear TOTL<3>",
+            "notes": "\n\n!tokens Bear TOTL<3>\n\n!tag topend-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9581,7 +9581,7 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag sideboard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9788,7 +9788,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)\n\n!tokens Rogue TOTL<1>",
+            "notes": "\u5927\u59d0 (daai6ze2) & \u5c0f\u59b9 (siu2mui2)\n\n!tokens Rogue TOTL<1>\n\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9961,9 +9961,9 @@
             "number": 198,
             "color_identity": "UG",
             "cost": "{G}{G}{U}{U}",
-            "rules_text": "Flash\nWhen this creature enters, counter up to one target spell, activated ability, or triggered ability from a nonland source.\n{G}{U}, Discard this card: Counter target activated or triggered ability from a nonland source.",
+            "rules_text": "Flash\nWhen this creature enters, counter up to one target spell that wasn't cast from its owner's hand.\n{G}{U}, Discard this card: Counter target activated or triggered ability from a nonland source.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "TOTL",
@@ -9995,7 +9995,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": "\u738b\u9756\u96ef (wong4zing6man4)\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\u738b\u9756\u96ef (wong4zing6man4)\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10018,7 +10018,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)\n\n!tokens Fan TOTL<1>\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\u5289\u5fb7\u83ef (lau4 dak1waa4)\n\n!tokens Fan TOTL<1>\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10156,7 +10156,7 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag fixing-land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10386,7 +10386,7 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10455,7 +10455,7 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": "\n\n!tokens The City's Blessing TOTL<1>",
+            "notes": "\n\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10491,7 +10491,7 @@
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "If you would lose unspent mana, it becomes colorless mana that can't be spent on casting spells from your hand instead.\n{99}: This enchantment becomes a 99/99 Avatar creature with trample, hexproof and indestructible in addition to its other types.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cSo bright. It's suffocating.\u201d Complained Ming Yue. Lily smiled. \u201cJust like a big warm hug.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -10513,7 +10513,7 @@
             "number": 227,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "Flash\nWhen Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.",
+            "rules_text": "Flash\nWhen Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. As long as you control Ming Yue, that card's owner may play that it. When they do, put a +1/+1 counter on Ming Yue.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -10524,7 +10524,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "",
+            "notes": "\n\n!tag interactive-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10593,7 +10593,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": "wu\nur\nrg\ngb\nbw",
+            "notes": "\n\n!tag cheatout-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10616,7 +10616,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "Prevent all damage that would be dealt to Hal Sa-yi by sources without first or double strike.",
+            "notes": "\n\n!tag value-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10754,7 +10754,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "Popout\n\n!tokens Blood Homunculus TOTL<1>\n!tokens The City's Blessing TOTL<1>",
+            "notes": "Popout\n\n!tokens Blood Homunculus TOTL<1>\n!tokens City's Blessing TOTL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10846,7 +10846,7 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": "\n\n!tokens Horror TOTL<1>",
+            "notes": "\n\n!tokens Horror TOTL<1>\n\n!tag card-engine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11081,7 +11081,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "The City's Blessing",
+            "card_name": "City's Blessing",
             "color": "",
             "rarity": "common",
             "type": "",

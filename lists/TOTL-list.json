@@ -2309,7 +2309,7 @@
     },
     "a->token",
     {
-        "card_name": "The City's Blessing",
+        "card_name": "City's Blessing",
         "number": 1,
         "shape": "token",
         "set": "TOTL",

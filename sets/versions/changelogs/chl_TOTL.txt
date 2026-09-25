@@ -1,4 +1,155 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+City's Blessing added.
+
+The City's Blessing removed.
+
+Salaried Seraph
+
+Fwun Sah Invoker
+
+Baak Gai Lookout
+
+Lou Waan Invoker
+rules_text: Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 4/4 Dragon Illusion with flying until end of turn instead.
+{7}{U}: Draw two cards. => Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 3/3 Dragon Illusion with flying until end of turn instead.
+{7}{U}: Draw two cards.
+
+Ghostfish
+
+Rise Above
+
+Tsin Shui Invoker
+
+Corporate Bloodsucker
+
+Haak Gaai Gourmands
+
+Naau Gok Invoker
+
+Brighthorn Itinerant
+
+Zaai Sing Invoker
+
+Work Horse
+
+Skyscrape
+
+Run the Neon Labyrinth
+
+Leuk Street Tagger
+
+Obviate
+
+Tetrad Council Summit
+rules_text: When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+To solve — You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Legendary creatures you control get +1/+1. => When this Case enters, if you cast it, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+To solve — You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Legendary creatures you control get +1/+1.
+special_text: When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+To solve — You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Legendary creatures you control get +1/+1. => When this Case enters, if you cast it, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+To solve — You control four or more legendary creatures. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Legendary creatures you control get +1/+1.
+
+Our Grip Clenches Tightly
+
+Tsat Street Commuter
+
+Thirst for Action
+
+Stop
+
+Ascended Giganform
+
+Cadavermancy
+
+Drown in Smoke
+
+Her Gaze Pierces All Veils
+
+Hi-score Junkie
+
+Shopping Spree
+
+Ng Street Local
+
+Ambitious Phlebotomist
+
+Paper Dragon
+
+Decorated Constable
+
+Your Ancestral Mind Recalls All
+
+Stew
+
+Melanchozoa
+rules_text: Flying
+When this creature enters, draw a card.
+If this creature would the battlefield, shuffle it into its owner's library instead. => Flying
+When this creature enters, draw a card.
+If this creature would leave the battlefield, shuffle it into its owner's library instead.
+
+Villainous Endgame
+
+Lavabat Hooligan
+
+The Hour of Heroes
+rules_text: As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it. => As an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters with that many additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.
+special_text: As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it. => As an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters with that many additional +1/+1 counters on it.
+To solve — You control five or more creatures of different colors. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.
+
+Ursa Major
+
+Smith & Nguyen
+
+Dai Tse & Siu Mui
+
+Drifting Wu Lei
+rules_text: Flash
+When this creature enters, counter up to one target spell, activated ability, or triggered ability from a nonland source.
+{G}{U}, Discard this card: Counter target activated or triggered ability from a nonland source. => Flash
+When this creature enters, counter up to one target spell that wasn't cast from its owner's hand.
+{G}{U}, Discard this card: Counter target activated or triggered ability from a nonland source.
+pt: 3/3 => 2/2
+
+Wong Tsin-man
+
+Lau Dak-wah
+
+Brightscreen Halls
+
+Skyward Vista
+
+Return of the Ninth Dragon
+
+Streetlight Psychosis
+
+Special Agent Ming Yue
+rules_text: Flash
+When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast. => Flash
+When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. As long as you control Ming Yue, that card's owner may play that it. When they do, put a +1/+1 counter on Ming Yue.
+
+Shadow of the Ninth Dragon
+
+Hal Sa-yi the Brightedge
+
+Ambassador Oukijo
+
+Yesteryear Abyss
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Fwun Sah Drycleaner added.

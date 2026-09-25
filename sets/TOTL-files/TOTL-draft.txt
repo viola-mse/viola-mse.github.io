@@ -2811,7 +2811,7 @@
 			}
 		},
 		{
-			"name": "The City's Blessing",
+			"name": "City's Blessing",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",

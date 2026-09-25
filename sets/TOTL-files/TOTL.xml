@@ -5,7 +5,7 @@
 			<name>TOTL</name>
 			<longname>Towers of Tin Lau</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-17</releasedate>
+			<releasedate>2026-09-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -157,7 +157,7 @@ Whenever this creature attacks, if you have the city&apos;s blessing, put a +1/+
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Fwun Sah Invoker</name>
@@ -215,7 +215,7 @@ When this creature dies, create a 1/1 green Citizen creature token with &quot;Wh
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">Citizen TOTL</related>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Yat Street Colleague</name>
@@ -368,7 +368,7 @@ Solved — If a card would leave your graveyard during your turn, you may put it
 		</card>
 		<card>
 			<name>Lou Waan Invoker</name>
-			<text>Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 4/4 Dragon Illusion with flying until end of turn instead.
+			<text>Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 3/3 Dragon Illusion with flying until end of turn instead.
 {7}{U}: Draw two cards.</text>
 			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/20.png" num="51">TOTL</set>
 			<prop>
@@ -529,7 +529,7 @@ As long as you have the city&apos;s blessing, this creature can attack as though
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Rise Above</name>
@@ -548,7 +548,7 @@ Counter target spell.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Your Thousand Eyes See All</name>
@@ -699,7 +699,7 @@ As long as you have the city&apos;s blessing, this creature has flying.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Haak Gaai Gourmands</name>
@@ -719,7 +719,7 @@ Whenever this creature deals damage to a noncreature permanent or player, if you
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Backalley Darklimb</name>
@@ -1024,7 +1024,7 @@ As long as you have the city&apos;s blessing, this creature gets +2/+2 and has t
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Garrison Veteran</name>
@@ -1300,7 +1300,7 @@ When this creature enters and at the beginning of your upkeep, if you have the c
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Rockmaw</name>
@@ -1428,7 +1428,7 @@ Target creature gets +2/+2 and gains reach until end of turn. If you have the ci
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Run the Neon Labyrinth</name>
@@ -1656,7 +1656,7 @@ When this creature enters, put a +1/+1 on target creature you control. If you ha
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Cloudcrawler</name>
@@ -1766,11 +1766,11 @@ Exile target creature if it has mana value 2 or less or if you have the city&apo
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Tetrad Council Summit</name>
-			<text>When this Case enters, if it was cast, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+			<text>When this Case enters, if you cast it, you may search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
 To solve — You control four or more legendary creatures. (If unsolved, solve at the beginning of your end step.)
 Solved — Legendary creatures you control get +1/+1.</text>
 			<set rarity="uncommon" picurl="https://viola-mse.github.io/sets/TOTL-files/img/97.png" num="32">TOTL</set>
@@ -1917,7 +1917,7 @@ This creature enters tapped with three stun counters on it unless you have the c
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Maan Tsau Beholder</name>
@@ -2173,7 +2173,7 @@ This creature enters with a finality counter on it if it entered from your grave
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Gutter Line Cyclops</name>
@@ -2245,7 +2245,7 @@ Return target creature card from your graveyard to the battlefield if it has man
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Drown in Smoke</name>
@@ -2426,7 +2426,7 @@ Whenever you cast a spell, if its mana value is greater than this creature&apos;
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Two-headed Crawler</name>
@@ -2678,7 +2678,7 @@ When this creature enters, search your library for a basic land card. If you hav
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Rumour Eater</name>
@@ -3135,7 +3135,7 @@ Whenever this creature deals damage to a noncreature permanent or player, you ma
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Coalworks Crusher</name>
@@ -3469,7 +3469,7 @@ Whenever you create a token, this creature gets +1/+1 until end of turn. If you 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Your Ancestral Mind Recalls All</name>
@@ -3564,7 +3564,7 @@ Surveil 4. (Look at the top four cards of your library, then put any number of t
 			<name>Melanchozoa</name>
 			<text>Flying
 When this creature enters, draw a card.
-If this creature would the battlefield, shuffle it into its owner&apos;s library instead.</text>
+If this creature would leave the battlefield, shuffle it into its owner&apos;s library instead.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/196.png" num="54">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3812,7 +3812,7 @@ Beseech {X}{G}{G}{G} (You may cast this card from your graveyard as a sorcery fo
 		</card>
 		<card>
 			<name>The Hour of Heroes</name>
-			<text>As an additional cost to cast creature spells, you may pay {X}. Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it.
+			<text>As an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters with that many additional +1/+1 counters on it.
 To solve — You control five or more creatures of different colors. (If unsolved, solve at the beginning of your end step.)
 Solved — Whenever you spend at least {W}{U}{B}{R}{G} to cast a creature spell, it enters with an additional shield, vigilance, menace, haste and trample counter on it.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/210.png" num="151">TOTL</set>
@@ -4229,7 +4229,7 @@ Talismans you control have &quot;{T}: Target creature you control gets +1/+1 unt
 		<card>
 			<name>Drifting Wu Lei</name>
 			<text>Flash
-When this creature enters, counter up to one target spell, activated ability, or triggered ability from a nonland source.
+When this creature enters, counter up to one target spell that wasn&apos;t cast from its owner&apos;s hand.
 {G}{U}, Discard this card: Counter target activated or triggered ability from a nonland source.</text>
 			<set rarity="rare" picurl="https://viola-mse.github.io/sets/TOTL-files/img/232.png" num="198">TOTL</set>
 			<prop>
@@ -4241,7 +4241,7 @@ When this creature enters, counter up to one target spell, activated ability, or
 				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4263,7 +4263,7 @@ When Wong Tsin-man enters, exile up to one target instant or sorcery card from y
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Lau Dak-wah</name>
@@ -4286,7 +4286,7 @@ Whenever Lau Dak-wah attacks, choose one. If you have the city&apos;s blessing, 
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">Fan TOTL</related>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Urban Labyrinth</name>
@@ -4538,7 +4538,7 @@ This land enters tapped.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Qiangliang</name>
@@ -4597,7 +4597,7 @@ Choose one. If you have the city&apos;s blessing or control ten or more permanen
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Hellpocket Highroller</name>
@@ -4638,7 +4638,7 @@ Choose one. If you have the city&apos;s blessing or control ten or more permanen
 		<card>
 			<name>Special Agent Ming Yue</name>
 			<text>Flash
-When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.</text>
+When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. As long as you control Ming Yue, that card&apos;s owner may play that it. When they do, put a +1/+1 counter on Ming Yue.</text>
 			<set rarity="mythic" picurl="https://viola-mse.github.io/sets/TOTL-files/img/256.png" num="227">TOTL</set>
 			<prop>
 				<layout>normal</layout>
@@ -4844,7 +4844,7 @@ Whenever this creature attacks, you may discard a card. If you do, draw a card a
 			</prop>
 			<tablerow>1</tablerow>
 			<related count="1">Blood Homunculus TOTL</related>
-			<related count="1">The City&apos;s Blessing TOTL</related>
+			<related count="1">City&apos;s Blessing TOTL</related>
 		</card>
 		<card>
 			<name>Collected Casting</name>
@@ -5083,7 +5083,7 @@ When this creature dies, reveal cards from the top of your library until you rev
 			<token>1</token>
 		</card>
 		<card>
-			<name>The City&apos;s Blessing TOTL</name>
+			<name>City&apos;s Blessing TOTL</name>
 			<text></text>
 			<set rarity="common" picurl="https://viola-mse.github.io/sets/TOTL-files/img/281.png" num="1">TOTL</set>
 			<prop>

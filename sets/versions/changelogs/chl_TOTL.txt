@@ -1,4 +1,148 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Quizzical Equines added.
+Kurone & Akane added.
+Big Fat Jiji, Chaos Agent added.
+Bear added.
+
+Curious Pair removed.
+Akane & Kurone removed.
+Backalley Sparker removed.
+
+Frostwhip Siu Tse
+
+Fwun Sah Invoker
+
+Baak Gai Lookout
+rules_text: Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+When this creature dies, create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” Then if you have the city's blessing, put two +1/+1 counters on that creature. => Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+When this creature dies, create a 1/1 green Citizen creature token with “Whenever this creature attacks, you gain 1 life.” Then if you have the city's blessing, put two +1/+1 counters on that creature.
+
+Trip to Nowhere
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+{1}{W}, Sacrifice this enchantment: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” It can't block this turn. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+{1}{W}, Sacrifice this enchantment: Create a 1/1 green Citizen creature token with “Whenever this creature attacks, you gain 1 life.” It can't block this turn.
+
+Lou Waan Invoker
+rules_text: Whenever you activate a nonmana ability, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, this creature becomes a 3/3 Dragon Illusion with flying until end of turn instead.
+{7}{U}: Draw two cards. => Whenever you activate your first nonmana ability each turn, this creature gets +1/+1 until end of turn. Whenever you activate your second nonmana ability each turn, this creature becomes a 3/3 Dragon Illusion with flying until end of turn.
+{7}{U}: Draw two cards.
+
+Tsin Shui Invoker
+
+Naau Gok Invoker
+
+The Craziest Night Ever
+rules_text: When this Case enters, you may discard a card. If you do, draw two cards.
+To solve — You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, mill a card. You may play that card this turn. => When this Case enters, you may discard a card. If you do, draw two cards.
+To solve — You discarded three or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, mill a card. You may play that card this turn.
+special_text: When this Case enters, you may discard a card. If you do, draw two cards.
+To solve — You discarded two or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, mill a card. You may play that card this turn. => When this Case enters, you may discard a card. If you do, draw two cards.
+To solve — You discarded three or more cards this turn. [i](If unsolved, solve at the beginning of your end step.)[/i]
+Solved — At the beginning of your upkeep, mill a card. You may play that card this turn.
+
+Zaai Sing Invoker
+
+Gutsy Ghostchaser
+rules_text: When this creature enters, you gain 1 life.
+As long as you control a Horror, this creature gets +1/+1 and has vigilance. => Whenever this creature attacks, you gain 1 life.
+As long as you control a Horror, this creature gets +1/+1 and has vigilance.
+
+Luk Gaai Pair
+rules_text: When this creature enters, you gain 1 life and create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.”
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature and up to one other target creature each get +1/+1 until end of turn. => When this creature enters, create a 1/1 green Citizen creature token with “Whenever this creature attacks, you gain 1 life.”
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, this creature and up to one other target creature each get +1/+1 until end of turn.
+
+Run the Neon Labyrinth
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” => Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Create a 1/1 green Citizen creature token with “Whenever this creature attacks, you gain 1 life.”
+
+Ancestral Blessing
+
+Fwun Sah Taan Everyman
+rules_text: When this creature enters, create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.”
+{T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery. => When this creature enters, create a 1/1 green Citizen creature token with “Whenever this creature attacks, you gain 1 life.”
+{T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+Tiger Mother
+rules_text: When this creature enters, create two 1/1 green Citizen creature tokens with “When this creature enters, you gain 1 life.”
+Whenever you attack, you may pay 1 life. If you do, put a +1/+1 counter on another target creature. => When this creature enters, create two 1/1 green Citizen creature tokens with “Whenever this creature attacks, you gain 1 life.”
+Whenever you attack, you may pay 1 life. If you do, put a +1/+1 counter on another target creature.
+
+Precinct Eight Captain
+rules_text: Whenever this creature enters or attacks, if you control an artifact and an enchantment, create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” and put a +1/+1 counter on that token. => Whenever this creature enters or attacks, if you control an artifact and an enchantment, create a 1/1 green Citizen creature token with “Whenever this creature attacks, you gain 1 life.” and put a +1/+1 counter on that token.
+
+Citysight Guide
+rules_text: Whenever this creature attacks, you may tap X untapped creatures you control. If you do, this creature gets +X/+X until end of turn.
+{3}{G}{W}: Create a 1/1 green Citizen creature token with “When this creature enters, you gain 1 life.” => Whenever this creature attacks, you may tap X untapped creatures you control. If you do, this creature gets +X/+X until end of turn.
+{3}{G}{W}: Create a 1/1 green Citizen creature token with “Whenever this creature attacks, you gain 1 life.”
+
+Ambulating Apartment
+rules_text: Reach
+When this creature dies, create two 1/1 green Citizen creature tokens with “When this creature enters, you gain 1 life.” => Reach
+When this creature dies, create two 1/1 green Citizen creature tokens with “Whenever this creature attacks, you gain 1 life.”
+
+Tiger Point Soothsayer
+cost: {W} => {2}{W}
+pt: 1/1 => 2/2
+
+Your Ancestral Mind Recalls All
+rules_text: Draw three cards.
+Beseech {7}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i] => Draw three cards.
+Beseech {6}{U}{U} [i](You may cast this card from your graveyard as a sorcery for its beseech cost. If you do, it has “Create a 4/3 colorless Horror creature token.” and “Exile this spell.”)[/i]
+
+Rubbersludge Grinder
+rules_text: Trample
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.
+{1}{G}, Sacrifice a land: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Trample
+[i]Dynamic[/i] — Whenever you attack with exactly two creatures or activate your second nonmana ability each turn, put a +1/+1 counter on this creature.
+{2}{G}: Untap up to one target creature you don't control. That creature blocks this turn if able.
+
+Kungfu Technique Manuals
+cost: {4} => {2}
+rules_text: Whenever you activate a nonmana ability of a creature you control, put a page counter on this artifact.
+{X}, {T}, Remove X page counters from this artifact:
+1 — Target creature first strike until end of turn.
+2 — Put a +1/+1 counter on target creature.
+3 — You gain 5 life.
+4 — Draw a card.
+5 — Put target creature card from your graveyard onto the battlefield. => {2}, {T}: Teach target creature you control your choice of vigilance, flying, menace, first strike or trample. [i](To teach a keyword, put a keyword counter of that kind on it. If it already has that keyword, put a +1/+1 counter on it instead.)[/i]
+
+Special Agent Ming Yue
+rules_text: Flash
+When Ming Yue enters, if you cast her, exile up to one target spell or nonland permanent. As long as you control Ming Yue, that card's owner may play that it. When they do, put a +1/+1 counter on Ming Yue. => Flash
+When Ming Yue enters, if you cast her, you may exile target spell or nonland permanent. If you do, she can't block this turn. As long as you control Ming Yue, that card's owner may play it. When they do, put a +1/+1 counter on Ming Yue.
+
+Lily An, Exorcist Extraordinare
+rules_text: Haste, deathtouch against Horrors [i](Any amount of damage this deals to a Horror is enough to destroy it.)[/i]
+When Lily An enters, you may pay {R}. If you do, she deals 1 damage to any target.
+{1}{G}: Exile target card from a graveyard. Put a +1/+1 counter on Lily An. => First strike and deathtouch against Horrors [i](Lily An deals combat damage before Horrors without first strike. Any amount of damage she deals to a Horror is enough to destroy it.)[/i]
+When Lily An enters, you may pay {R}. If you do, she deals 1 damage to any target.
+{1}{G}: Exile target card from a graveyard. Put a +1/+1 counter on Lily An.
+
+Your Harshest Critic
+
+Shadowgloom
+rules_text: Choose two —
+• Each opponent sacrifices a creature. Create a 4/3 black Horror creature token.
+• Each opponent loses 3 life. You gain 3 life.
+• Each opponent discards a card. You draw a card. 
+Shuffle Shadowgloom into its owner's library. => Choose two —
+• Each opponent sacrifices a creature. Create a 4/3 colorless Horror creature token.
+• Each opponent loses 3 life. You gain 3 life.
+• Each opponent discards a card. You draw a card. 
+Shuffle Shadowgloom into its owner's library.
+
+Citizen
+rules_text: When this creature enters, you gain 1 life. => Whenever this creature attacks, you gain 1 life.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 City's Blessing added.
